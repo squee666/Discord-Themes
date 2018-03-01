@@ -800,7 +800,7 @@ textarea{background:transparent !important;}
 
 .header-toolbar button.active{background-color:transparent;}
 
-.theme-dark .themed-popout{background-color:#19191b !important;border:2px solid #131315 !important;}
+.theme-dark .themed-popout{background-color:#19191b !important;background-color: #19191b !important;margin-top: 2.5px;border-bottom: 2px solid var(--main-color) !important;border-right: 2px solid var(--main-color) !important;border-left: 2px solid var(--main-color) !important;border-top-right-radius: 0px !important;border-top-left-radius: 0px !important;border-top: none !important;}
 
 .theme-dark .themed-popout .header{background-color:#131315 !important;}
 
