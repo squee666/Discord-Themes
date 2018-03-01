@@ -4796,3 +4796,5 @@ input, textarea {color: white;}
 .avatarHint-2ohlkz {border-radius: 0% !important}
 
 .buttonInvertedPurple-15OGid {background-color: var(--main-color);color: #ffffff;}
+
+.guilds-wrapper .guilds .guild .guild-inner { text-transform: capitalize;}
