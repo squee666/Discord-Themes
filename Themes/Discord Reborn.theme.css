@@ -1,32 +1,25 @@
-//META{"name":"Discord_Reborn","description":"A nice sleek transparent theme.","author":"Omniscient","version":"0.0"}*//
+//META{"name":"Discord_Reborn","description":"A nice sleek transparent theme.","author":"Omniscient/Izy","version":"0.0"}*//
 
 /* IMPORT CSS FROM GITHUB */
 @import url("https://rawgit.com/squee666/Discord-Themes/master/css/Discord%20Reborn.css");
 /*
 ===== IMPORTANT =====
 CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
-===== CUSTOMIZABLE COLORS =====
+IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
+===== CUSTOMIZABLE COLORS / IMAGES =====
 */
 :root { 
 	--main-color: #007dbd;
 	--hover-color: #03679b;
+	--BG: url("https://imgur.com/RG03PyX.png") !important;
  }
  /*
-===== CUSTOMIZABLE IMAGES =====
-IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
-RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MATCH. (YOUR CHOICE)
---------------------------------------------------------------------------------------------------------------------------------------------
-/*Change the url in .app to change the background behind chat */
-
-.app, .callout-backdrop, .userPopout-11hFKo::before,.topSectionStreaming-3rIBIm, .topSectionPlaying-3jAH9b,.topSectionSpotify-3744IX, .topSectionNormal-2LlRG1 { background-image: url("https://imgur.com/RG03PyX.png") !important; background-size: cover !important;background-position:center!important }
- /*
----------------------------------------------------------------------------------------------------------------------------------------------
 ===== CREDITS =====
 URI
 BEARDDESIGN
 ZERTHOX
 THESE PEOPLE HAVE HELPED CREATE THIS THEME IN ONE WAY OR THE OTHER.
 ===== TROUBLESHOOTING =====
-IF YOU NEED ANY HELP GO TO HTTPS://BETTERDOCS.NET
+IF YOU NEED ANY HELP GO TO THE HELP GO TO DISCORD.ME/mrrobotserver
 ---------------------------------------------------------------------------------------------------------------------------------------------
 */
