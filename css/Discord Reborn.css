@@ -321,7 +321,16 @@ span.spinner{margin-top: 2px;}
 
 .container-3lnMWU{background: rgba(0, 0, 0, 0.5) !important;}
 
-.theme-dark .themed-popout{background-color: rgba(0, 0, 0, 0.6) !important;border-color: rgba(0, 0, 0, 0.39) !important;}
+.theme-dark .themed-popout{background-color: rgba(0, 0, 0, 0.6) !important;border-color: rgba(0, 0, 0, 0.39);}
+
+.theme-dark .themed-popout {
+    margin-top: 2.5px;
+    border-bottom: 2px solid var(--main-color) !important;
+    border-right: 2px solid var(--main-color) !important;
+    border-left: 2px solid var(--main-color) !important;
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-top: none !important;}
 
 .theme-dark .messages-popout-wrap .messages-popout .message-group, .messages-popout .channel-separator{border-color: rgba(0, 0, 0, 0.39) !important;background-color: rgba(0, 0, 0, 0.5) !important;}
 
