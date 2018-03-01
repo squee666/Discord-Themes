@@ -4798,3 +4798,12 @@ input, textarea {color: white;}
 .buttonInvertedPurple-15OGid {background-color: var(--main-color);color: #ffffff;}
 
 .guilds-wrapper .guilds .guild .guild-inner { text-transform: capitalize;}
+
+.popout.popout-bottom {margin-top: 9px;}
+
+.search-popout {
+    border-bottom: 2px solid var(--main-color) !important;
+    border-right: 2px solid var(--main-color) !important;
+    border-left: 2px solid var(--main-color) !important;
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;}
