@@ -11,6 +11,7 @@ IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
 :root { 
 	--main-color: #007dbd;
 	--hover-color: #03679b;
+	--RB: rgba(0, 0, 0, 0.7) !important;
 	--BG: url("https://imgur.com/RG03PyX.png") !important;
  }
  /*
