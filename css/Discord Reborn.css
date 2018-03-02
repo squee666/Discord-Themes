@@ -57,7 +57,7 @@
 .app .guilds 
 .guild:first-child, 
 .theme-dark 
-.channel-members::after {background: rgba(0, 0, 0, 0.7) !important;}
+.channel-members::after {background: var(--RB) !important;}
 
 .theme-dark .guilds-wrapper{margin-top: 48px !important;height: calc(100% - 119px) !important;}
 
