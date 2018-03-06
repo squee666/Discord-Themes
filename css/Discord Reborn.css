@@ -138,8 +138,6 @@ span.spinner{margin-top: 2px;}
 
 .chat .welcome-message p{color:#dadada;}
 
-.theme-dark .message-group .comment .markup .mention{background:rgba(0, 0, 0, 0.6) !important;}
-
 .theme-dark .message-group .embed{background-color: rgba(0, 0, 0, 0.66) !important;border-color: rgba(0, 0, 0, 0.66) !important;}
 
 .theme-dark .reaction {background: rgba(0,0,0,0.4) !important;}
