@@ -5027,5 +5027,11 @@ top:80px;left:115px;width:150px;display:flex!important;}
 #friends .friends-table .friends-table-body > div{display:flex !important;align-content: center;flex-flow:row wrap !important;justify-content:center !important;}
 
 .friends-table-body.scroller .friends-row {width: 200px;}
+.friends-table-body.scroller > div {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: row wrap;
+}
 
 /* end */
