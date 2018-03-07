@@ -7,10 +7,12 @@
 	/*--version-content: "1.0";*/
  }
 
-.app, .callout-backdrop, 
+.app, .app-XZYfmp ,.callout-backdrop, 
  { background-image: var(--BG) !important; 
 	background-size: cover !important;
 	background-position:center!important;}
+
+
  
 [class|="userPopout"]::before {
     background-image: var(--BG) !important;
