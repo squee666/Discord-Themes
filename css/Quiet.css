@@ -5035,3 +5035,26 @@ top:80px;left:115px;width:150px;display:flex!important;}
 }
 
 /* end */
+
+/* coontext menu animations */
+
+[class|="contextMenu"] [class|="item"] {
+    position: relative !important;
+}
+
+[class|="contextMenu"] [class|="item"]::after {
+    content: '';
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: scale(0);
+    transition: all linear .4s;
+    height: 2px;
+    background-color: var(--hover-color);
+}
+
+[class|="contextMenu"] [class|="item"]:hover::after {
+    transform: scaleX(1)
+}
+/* end */
