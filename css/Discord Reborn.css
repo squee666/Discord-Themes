@@ -509,7 +509,7 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .guilds-wrapper .guilds .friends-online:hover{background: var(--main-color) !important;}
 
-.typeWindows-15E0Ys {height: 19px !important;margin-top: 0px !important;}
+.typeWindows-15E0Ys {height: 19px ;margin-top: 0px;}
 
 .app .guilds .guild:first-child {padding-bottom: 1.5px !important;}
 
