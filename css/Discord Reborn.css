@@ -40,7 +40,7 @@ div[class*="topSection"]::before {
 .clipboardInputInner-oj8y-S,
 .theme-dark #friends,
 .activity-3NviKQ,
-.newsLink-SC025S:hover,.newsLink-SC025S
+.newsLink-SC025S:hover, .newsLink-SC025S, .news-XQhS0
 .theme-dark .popout.popout-bottom:not(.no-arrow)[style*="z-index: 1000; overflow: hidden; visibility: visible;"]{
     background:transparent !important;
 }
@@ -1035,3 +1035,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .theme-dark .emptyState-1HDDkN {background-color: rgba(0, 0, 0, 0.3) !important;border-color: trransparent !important;box-shadow: 0px 1px 7px 2px #121111 !important;}
 
 .guilds .friends-online {color: #ffffff !important;}
+
+.article-2abys7 {background-color: rgba(0, 0, 0, 0.7);}
+
+.carousel-3dWxBM {background-color: rgba(0, 0, 0, 0.7);}
