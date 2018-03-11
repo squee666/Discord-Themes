@@ -7,7 +7,7 @@
 	/*--version-content: "1.0";*/
  }
 
-.app, .callout-backdrop,  .appMount-14L89u
+.callout-backdrop,  .appMount-14L89u
  { background-image: var(--BG) !important; 
 	background-size: cover !important;
 	background-position:center!important;}
@@ -45,6 +45,7 @@ div[class*="topSection"]::before {
 }
 
 .theme-dark .channels-wrap, 
+.typeWindows-15E0Ys,
 .theme-dark .activityFeed-HeiGwL , 
 #friends  .headerBar-cxbhPD , 
 .theme-dark .lfg-3xoFkI,
@@ -508,7 +509,9 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .guilds-wrapper .guilds .friends-online:hover{background: var(--main-color) !important;}
 
-.typeWindows-15E0Ys{margin-top: 1px;background-color: rgba(0, 0, 0, 0.38) !important;}
+.typeWindows-15E0Ys {height: 19px !important;margin-top: 0px !important;}
+
+.app .guilds .guild:first-child {padding-bottom: 1.5px !important;}
 
 .userPopout-11hFKo .headerStreaming-lmgoma {border-top-left-radius: 10px !important;border-top-right-radius: 10px !important;}
 
