@@ -5197,3 +5197,9 @@ display: none}
    
    .popout.popout-top-left { margin-top:-22.5px;}
 */end*/
+
+.headerButtonColor-2ZJMqn {
+	background: var(--main-color);}
+
+.theme-dark .lookFilled-luDKDo.hoverBrand-31w0Ap.hasHover-FPgGm-:hover, .theme-light .lookFilled-luDKDo.hoverBrand-31w0Ap.hasHover-FPgGm-:hover {
+	background-color: var(--hover-color);}
