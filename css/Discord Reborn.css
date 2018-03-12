@@ -442,7 +442,7 @@ span.spinner{margin-top: 2px;}
 
 .autocomplete-1TnWNR .selectorSelected-2M0IGv:hover {opacity: 0.7 !important;}
 
-.autocomplete-1TnWNR {background-color:rgba(0,0,0,0.7);} 
+.autocomplete-1TnWNR {background-color:rgba(0,0,0,0.7) !important;} 
 
 .autocomplete-1TnWNR .selectorSelected-2M0IGv:hover {background-color: var(--hover-color) !important;}
 
