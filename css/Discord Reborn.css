@@ -8,21 +8,21 @@
  }
 
 .callout-backdrop,  .appMount-14L89u
- { background-image: var(--BG) !important; 
+ { background-image: var(--BG) ; 
 	background-size: cover !important;
 	background-position:center!important;}
 
 
  
 [class|="userPopout"]::before {
-    background-image: var(--BG) !important;
+    background-image: var(--BG) ;
     background-size: cover !important;
     background-position: center!important
 }
 
 div[class*="topSection"],
 div[class*="topSection"]::before {
-    background-image: var(--BG) !important;
+    background-image: var(--BG) ;
     background-size: cover !important;
     background-position: center!important
 }
@@ -1048,3 +1048,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .carousel-3dWxBM {background-color: rgba(0, 0, 0, 0.7);}
 
 .theme-dark .gamePreview-4pQzIA {background-color: rgba(0, 0, 0, 0.7); }
+
+.lookInverted-2lPGe7.colorGreen-22At8E:hover { background-color: var(--hover-color);}
+
+.lookInverted-2lPGe7.colorGreen-22At8E {background-color: var(--main-color);color: #ffffff;}
