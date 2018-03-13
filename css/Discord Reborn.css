@@ -452,7 +452,7 @@ span.spinner{margin-top: 2px;}
 
 .autocomplete-1TnWNR .contentTitle-sL6DrN {color: #fff;}
 
-.autocomplete-1TnWNR .selectorSelected-2M0IGv {background-color:rgba(0,0,0,0) !important;}
+.autocomplete-1TnWNR .selectorSelected-2M0IGv {background-color: var(--hover-color) !important; opacity: 0.7 !important;}
 
 .userPopout-11hFKo .body-3ljq11 .bodyTitleText-hSiL7d{color: #A7A7A7}
 
