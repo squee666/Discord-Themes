@@ -4540,7 +4540,7 @@ display: none !important;}
 
 .tab-bar.TOP {padding-left: 20px !important;}
 
-.topSectionPlaying-3jAH9b{background-color: #121213 !important;background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg) !important;box-shadow: inset 230px -130px 230px 10px #121213;}
+.topSectionPlaying-3jAH9b{background-color: #121213 ;background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg);box-shadow: inset 230px -130px 230px 10px #121213;}
 
 .headerTop-1QGMLs {background: var(--main-color) !important; background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg) !important;background-size: 10em !important;}
 
@@ -4634,8 +4634,6 @@ input, textarea {color: white;}
 
 .item-rK1j5B:hover{background-color: #171719 !important;color: #fff;}
 
-.wordmark-2L03Wr::before{content: "Get more themes & plugins at https://betterdocs.net";color: #5a5a5a;font-size: 12px;font-weight: 600;position: fixed;right: 10%;top: 5px;}
-
 .winButton-U7zAqI{top: -1px;}
 
 .embedPill-3sYS1X[style*="background-color: rgb(114, 137, 218);"]{background-color: var(--main-color) !important;}
@@ -4658,7 +4656,7 @@ input, textarea {color: white;}
 
 .topSectionSpotify-3744IX  .lookOutlined-1c5nhl.colorWhite-1IbOTe {border-color:#1db954 !important;}
 
-.topSectionPlaying-3jAH9b, .topSectionNormal-2LlRG1{background-color: #121213 !important;background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg) !important;box-shadow: inset 230px -130px 230px 10px #121213;}
+.topSectionPlaying-3jAH9b, .topSectionNormal-2LlRG1{background-color: #121213 ;background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg) ;box-shadow: inset 230px -130px 230px 10px #121213;}
 
 .headerFill-TTyrtz{background-color: transparent;}
 
