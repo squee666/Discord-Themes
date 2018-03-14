@@ -778,15 +778,9 @@ div.message-group {background-color: rgba(0,0,0,0.5)!important;}
 
 .tab-bar.tabBar-2z50ux .tabBarItem-1Lg555 {color: hsla(0,0%, 100%, 0.8)!important;padding: 1px 10px 0 !important;}
 
-.topSectionPlaying-3jAH9b {background: rgba(0, 0, 0, 0.65) !important;}
-
-.headerPlaying-2Q7mBy {background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg)!important;background-size: 10em !important;border-top-left-radius: 11px !important;border-top-right-radius: 11px !important;}
-
 .theme-dark .header-1qeJfQ {background-color:transparent !important;border-bottom-color:transparent !important;}
 
 .activity-AFBUEw {background-color: transparent !important;}
-
-.headerTop-27AvhA {background: none !important;background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg) !important;background-size: 10em !important;}
 
 /* New Hover for Spoilers */
 .message-group .comment .markup.spoiler:hover {color: #aaaaaa!important;transition:color 0.3s !important;text-align:center !important;}
