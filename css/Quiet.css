@@ -5201,3 +5201,7 @@ display: none}
 
 .theme-dark .lookFilled-luDKDo.hoverBrand-31w0Ap.hasHover-FPgGm-:hover, .theme-light .lookFilled-luDKDo.hoverBrand-31w0Ap.hasHover-FPgGm-:hover {
 	background-color: var(--hover-color);}
+
+.durationBarGrabber-1cFmrd, .durationBarProgress-3sJ7Pt, .durationBarProgress-3sJ7Pt:after, .durationBarProgress-3sJ7Pt:before {background-color: var(--main-color);}
+
+.controlIcon-35ekfs {color: var(--main-color);}
