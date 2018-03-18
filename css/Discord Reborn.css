@@ -1056,3 +1056,9 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .theme-dark.contextMenu-uoJTbz { background: rgba(0, 0, 0, 0.75);}
 
 .theme-dark .item-1XYaYf {color: hsla(0, 0%, 100%, 0.8);}
+
+.welcomeMessage-1U7Ntv {box-shadow: inset 50px 20px 300px 20px rgba(18, 18, 19, 0.9);border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;}
+
+.app .welcomeMessage-1U7Ntv h1 {color: var(--main-color);}
+
+.welcomeMessage-1U7Ntv p {color: #efefef;}
