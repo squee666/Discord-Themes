@@ -1062,3 +1062,12 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .app .welcomeMessage-1U7Ntv h1 {color: var(--main-color);}
 
 .welcomeMessage-1U7Ntv p {color: #efefef;}
+
+.channel-members {
+	--bulk: 300px;
+	height: calc(100% + var(--bulk));
+	padding-bottom: calc(20px + var(--bulk));
+}
+.channel-members::-webkit-scrollbar-track-piece {
+	margin-bottom: var(--bulk);
+}
