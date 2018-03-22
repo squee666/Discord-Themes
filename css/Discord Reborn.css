@@ -1033,7 +1033,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .listeningActionsUserPopout-3XkvCE .buttonTooltip-WWGeKB .lookOutlined-1c5nhl.colorWhite-1IbOTe{border: 2px solid #1db954 !important; opacity: 1 !important;border-radius: 50px !important;}
 
-.theme-dark .emptyState-1HDDkN {background-color: rgba(0, 0, 0, 0.3) !important;border-color: trransparent !important;box-shadow: 0px 1px 7px 2px #121111 !important;}
+.theme-dark .emptyState-1HDDkN {background-color: rgba(0, 0, 0, 0.3) !important;border-color: transparent !important;box-shadow: 0px 1px 7px 2px #121111 !important;}
 
 .guilds .friends-online {color: #ffffff !important;}
 
@@ -1063,11 +1063,8 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .welcomeMessage-1U7Ntv p {color: #efefef;}
 
-.channel-members {
-	--bulk: 300px;
-	height: calc(100% + var(--bulk));
-	padding-bottom: calc(20px + var(--bulk));
-}
-.channel-members::-webkit-scrollbar-track-piece {
-	margin-bottom: var(--bulk);
-}
+.channel-members {--bulk: 300px;height: calc(100% + var(--bulk));padding-bottom: calc(20px + var(--bulk));}
+
+.channel-members::-webkit-scrollbar-track-piece {margin-bottom: var(--bulk);}
+
+.news-XQhS0- {background-color: transparent;}
