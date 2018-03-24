@@ -1,0 +1,19 @@
+//META{"name":"Quiet","description":"Dark and Quiet. Easy on the eyes.","author":"Omniscient","version":"0.0"}*//
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://rawgit.com/squee666/Discord-Themes/master/css/Quiet_2.css");
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CUSTOMIZABLE COLORS =====
+*/
+:root { 
+ --main-color: #8d2036;
+ --hover-color: #6f182a;
+ }
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO HTTPS://BETTERDOCS.NET
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/ 
