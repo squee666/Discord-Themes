@@ -94,9 +94,9 @@ div[class*="topSection"]::before {
 
 .theme-dark .private-channels .search-bar input{background: transparent !important;}
 
-.theme-dark #friends .friends-table .friends-table-body::after{content: "";background: rgba(0, 0, 0, 0.2);border-top: 2px solid rgba(0, 0, 0, 0.25);}
+.theme-dark #friends .friends-table .friends-table-body::after{display: none !important;}
 
-.theme-dark .container-iksrDt{height: 71px;background: rgba(0, 0, 0, 0.2);border-right: 0px solid transparent !important;width: calc(100% - 20px) !important;margin-left: 0px;border-top: 2px solid rgba(0, 0, 0, 0.3) !important;}
+.theme-dark .container-iksrDt{height: 71px;background: transparent;width: calc(100% - 20px) !important;margin-left: 0px;border:none !important;}
 
 .theme-dark .chat>.content .messages .message-group .markup, .theme-dark .chat>.title-wrap>.topic{color: #dad9d9;text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important;font-weight: 500;}
 
@@ -648,9 +648,9 @@ div.message-group {background-color: rgba(0,0,0,0.5)!important;}
 
 .theme-dark .theme-light .ui-calendar-picker .react-datepicker, .theme-light .ui-calendar-picker .react-datepicker { background-color: transparent !important;}
 
-.theme-dark .chat form{background-color: rgba(0, 0, 0, 0.2);}
+.theme-dark .chat form{background-color: transparent;}
 
-.theme-dark .inner-3if5cm{border-left: 0px solid transparent;border-right: 0px solid transparent;border-top: 2px solid rgba(0, 0, 0, 0.3) !important;}
+.theme-dark .inner-3if5cm{border: none !important;}
 
 .theme-dark .activityFeed-HeiGwL::after {background: rgba(0, 0, 0, 0.2)!important;border-top: 2px solid rgba(0,0,0,0.3) !important;}
 
@@ -997,7 +997,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .topSectionSpotify-3744IX {box-shadow: inset 200px -60px 200px 5px rgba(18, 18, 19, 0.9);}
 
-.theme-dark .chat form {border-right: 2px solid rgba(0, 0, 0, 0.4);}
+.theme-dark .chat form {border-right:none;}
 
 .topSectionNormal-2LlRG1, .topSectionStreaming-3rIBIm {box-shadow: inset 200px -60px 200px 5px rgba(18, 18, 19, 0.9) !important;}
 
