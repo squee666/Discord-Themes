@@ -1783,7 +1783,7 @@ form.modal-content.form.need-help-modal::after{content:"";background:#fff;positi
 
 .need-help-modal .footer{background-color:transparent;color:transparent;border-top:0px #e9e7e7 solid;padding-top:0px;padding-left:0px;width:100%;position:relative;}
 
-.need-help-modal .footer::after{content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0Need help? Visit https://betterdocs.net";background-color:#19191b;width:100%;height:34px;position:absolute;bottom:0;left:0;line-height:32px;border-radius:0 0 5px 5px;border-top:2px solid #161618;color:#fff;}
+.need-help-modal .footer::after{content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0Need help? Visit the Discord Linked Above";background-color:#19191b;width:100%;height:34px;position:absolute;bottom:0;left:0;line-height:32px;border-radius:0 0 5px 5px;border-top:2px solid #161618;color:#fff;}
 
 .need-help-modal .form-inner.loading .spinner{display:none!important;}
 
@@ -2927,7 +2927,7 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .avatar-small .status{width: 100%;height: 100%;border-width: 2px !important;right: -2px;bottom: -2px;}
 
-.container-iksrDt{height: 71px;background: #19191b;border-top: 2px solid #212121;width: calc(100% - 18px) !important;position: relative;z-index: 10;color: #fff;border-radius: 0px !important;margin-bottom: -1px;}
+.container-iksrDt{height: 71px;background: #19191b;border-top: 2px solid #212121;position: relative;z-index: 10;color: #fff;border-radius: 0px !important;margin-bottom: -1px;}
 
 [class*="flexChild-"] > [class*="container-"] > [class*="header"]:not(.header-toolbar){border-bottom: 2px solid var(--main-color);height: 48px;}
 .private-channels .channel.selected a, .private-channels .channel:hover a{background-color: #121213;}
@@ -5205,3 +5205,17 @@ display: none}
 .durationBarGrabber-1cFmrd, .durationBarProgress-3sJ7Pt, .durationBarProgress-3sJ7Pt:after, .durationBarProgress-3sJ7Pt:before {background-color: var(--main-color);}
 
 .controlIcon-35ekfs {color: var(--main-color);}
+
+.theme-dark .activityFeed--1mYMS {background-color: #19191b;}
+
+.headerButtonColor-2ZJMqn {background: var(--main-color);}
+
+.theme-dark .lookFilled-luDKDo.hoverGreen-1Uak9k.hasHover-FPgGm-:hover, .theme-light .lookFilled-luDKDo.hoverGreen-1Uak9k.hasHover-FPgGm-:hover {background-color: var(--hover-color);}
+
+.theme-dark.contextMenu-uoJTbz {background: #19191b;}
+
+.theme-dark .body-3ljq11, .theme-dark .footer-2wFs91 {background-color: #19191b;}
+
+.theme-dark .headerNormal-3Vn9nT {background-color: #19191b;}
+
+.theme-dark .quickMessage-OCo-Q0 {background-color: #1a1a1a;}
