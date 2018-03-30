@@ -2930,7 +2930,7 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .avatar-small .status{width: 100%;height: 100%;border-width: 2px !important;right: -2px;bottom: -2px;}
 
-.container-iksrDt{height: 71px;background: var(--QT);border-top: 2px solid #212121;position: relative;z-index: 10;color: #fff;border-radius: 0px !important;margin-bottom: -1px;}
+.container-iksrDt{height: 71px;background: var(--QT);position: relative;z-index: 10;color: #fff;border-radius: 0px !important;margin-bottom: -1px;}
 
 [class*="flexChild-"] > [class*="container-"] > [class*="header"]:not(.header-toolbar){border-bottom: 2px solid var(--main-color);height: 48px;}
 .private-channels .channel.selected a, .private-channels .channel:hover a{background-color: var(--QTD);}
@@ -4314,15 +4314,15 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {background-color: var(--hover-color)!important;}
 
 /* Chat Text Area (input) */
-.theme-dark .chat form{background-color:var(--QT);box-shadow:0 0px 0 transparent;border-right: 2px solid #212121;}
+.theme-dark .chat form{background-color:var(--QT);box-shadow:0 0px 0 transparent;}
 
 .theme-light .chat form{background-color:#fff;box-shadow:0 0px 0 transparent;}
 
 .chat form{margin:0 0px -23px !important;}
 
-.theme-dark .inner-3if5cm{background-color:transparent;border-left:2px solid #212121;border-top:2px solid #212121;border-radius:0px !important;margin-bottom:-18px;padding-top:14px;}
+.theme-dark .inner-3if5cm{background-color:transparent;border-radius:0px !important;margin-bottom:-18px;padding-top:14px;}
 
-.theme-light .inner-3if5cm{background-color:transparent;border-left:2px solid #f6f6f7;border-right:2px solid #f6f6f7;border-top:2px solid #f6f6f7;border-radius:0px !important;margin-bottom:-18px;padding-top:14px;}
+.theme-light .inner-3if5cm{background-color:transparent;border-top:2px solid #f6f6f7;border-radius:0px !important;margin-bottom:-18px;padding-top:14px;}
 
 .emojiButton-38mF6t{top:26px;}
 
