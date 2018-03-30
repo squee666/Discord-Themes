@@ -4747,8 +4747,6 @@ input, textarea {color: white;}
 
 .dim-40B2HH span:active {color: #000000 !important;}
 
-.videoHeight-iWOJGF.minimum-Eac95h {height: 265px !important;margin-top: 48px !important;}
-
 .private-channel-call .private-channel-call-video { margin-top: 48px !important;}
 
 .attachment-1Vom9D {width: auto !important;}
@@ -5230,3 +5228,9 @@ display: none}
 .info-1FosLO {background-color: var(--QT);}
 
 .news-1rVQJL {background-color: var(--QT);}
+
+.video-2vmmgZ {background-color: transparent;}
+
+.private-channel-call {margin-top: 48px !important;}
+
+.theme-dark .video-3lOWa6.noChat-1N5t6T .videoTop-epANMH, .theme-dark .video-3lOWa6.normal-3QpMz4 .videoTop-epANMH {background-image: none;}
