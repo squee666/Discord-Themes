@@ -1074,3 +1074,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .theme-dark .incomingCallInner-1LQbjf {background: rgba(0, 0, 0, 0.75);}
 
 .premiumPaymentModal-w4sE7z .lookOutlined-1c5nhl.colorWhite-1IbOTe {border-color: var(--main-color) !important;border-radius: 3px !important;}
+
+.theme-dark .member-2FrNV0.popout-open .content-3JzEqq, .theme-dark .member-2FrNV0.popout-open:hover .content-3JzEqq {background-color: rgba(0, 0, 0, 0.3);}
+
+.theme-dark .member-2FrNV0:hover .content-3JzEqq {background-color: rgba(0, 0, 0, 0.4);}
