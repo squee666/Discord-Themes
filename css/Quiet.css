@@ -5244,3 +5244,9 @@ display: none}
 .lookOutlined-1c5nhl .contents-4L4hQM { color: white !important;}
 
 .message-group .message-text.april-fools { animation: hue-rotate 1.5s linear infinite;}
+
+.theme-dark .lookFilled-luDKDo.colorPrimary-2KuK5O { background-color: var(--main-color);}
+
+.ace-monokai {background-color: #111111;}
+
+.ace-monokai .ace_gutter {background: #161616;}
