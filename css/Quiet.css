@@ -5250,3 +5250,5 @@ display: none}
 .ace-monokai {background-color: #111111;}
 
 .ace-monokai .ace_gutter {background: #161616;}
+
+.theme-dark .input-3_iTLI { background-color: transparent; color: #f6f6f7; border: 2px solid rgba(197, 197, 197, 0.31);}
