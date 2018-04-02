@@ -1079,6 +1079,6 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .member-2FrNV0:hover .content-3JzEqq {background-color: rgba(0, 0, 0, 0.4);}
 
-.theme-dark .input-3_iTLI { background-color: transparent; color: #f6f6f7; border: 2px solid rgba(197, 197, 197, 0.31);}
+.theme-dark .input-3_iTLI { background-color: transparent; color: #f6f6f7; border: 2px solid rgba(197, 197, 197, 0.30);}
 
-[class*="scroller-"].channel-members:hover { background: rgba(0, 0, 0, 0.6) !important;}
+[class*="scroller-"].channel-members:hover { background: rgba(0, 0, 0, 0.7) !important;}
