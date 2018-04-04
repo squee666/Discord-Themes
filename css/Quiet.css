@@ -4751,8 +4751,6 @@ input, textarea {color: white;}
 
 .dim-40B2HH span:active {color: #000000 !important;}
 
-.private-channel-call .private-channel-call-video { margin-top: 48px !important;}
-
 .attachment-1Vom9D {width: auto !important;}
 
 .noticePremium-2x9Tv2 { display:none !important}
@@ -5268,3 +5266,7 @@ display: none}
 .message-group { margin-left: 0px; margin-right: 0px;} 
 
 .emojiPicker-3g68GS .categories-jw8z2h .item-lsWB-j.selected-1LQfcZ { border-bottom-color: var(--main-color);}
+
+.wrapper-1hQOWh { margin: 0;}
+
+.private-channel-call .private-channel-call-actions {padding: 0;}
