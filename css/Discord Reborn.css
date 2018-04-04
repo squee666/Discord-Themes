@@ -538,8 +538,6 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .theme-dark .private-channel-call.minimum .private-channel-call-actions .center {background-color: transparent !important; border-color: transparent !important;}
 
-.private-channel-call {margin-top: 0px !important;}
-
 .container-3lnMWU {background:none!important;box-shadow:none!important;}
 
 .guilds-wrapper .guilds .guild.audio .guild-inner:after,.guilds-wrapper .guilds .guild.video .guild-inner:after {background-color:rgba(0,0,0,0.5);!important}
@@ -1084,3 +1082,5 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 [class*="scroller-"].channel-members:hover { background: rgba(0, 0, 0, 0.7) !important;}
 
 .memberInner-3XUq9K {text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important;}
+
+.private-channel-call .private-channel-call-actions .center {border: none;background: transparent !important;}
