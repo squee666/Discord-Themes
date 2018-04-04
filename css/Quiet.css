@@ -4362,7 +4362,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .accountDetails-15i-_e .username{font-size: 120%; font-family: "Satisfy";font-weight: 700;line-height: 25px;color: var(--main-color) !important;}
 
-.accountDetails-15i-_e .discriminator {margin-top: 0px;opacity: .6;}
+.accountDetails-15i-_e .discriminator { opacity: 1;font-weight: 700; color: var(--main-color);}
 
 #friends .tab-bar .tab-bar-item.selected .badge{background-color: #f04747 !important;}
 
@@ -5272,3 +5272,9 @@ display: none}
 .private-channel-call .private-channel-call-actions {padding: 0;}
 
 .private-channel-call { margin-bottom: -48px;}
+
+.theme-dark .tiles-3jKTg9 {background-color: transparent;}
+
+.lookFilled-luDKDo.colorRed-3HTNPV:hover { var(--hover-color);}
+	
+.lookFilled-luDKDo.colorRed-3HTNPV { var(--main-color);}
