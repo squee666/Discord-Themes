@@ -169,7 +169,7 @@ div.avatar-large{border-radius:5px;}
 
 .edit-message .channel-textarea-emoji {width: 40px;top: 2px;display: block;}
 
-.content-3JzEqq:hover{background:linear-gradient(to right, var(--QTD) 85%, var(--QT)) !important;margin-left:14px;border-top-left-radius:3px;border-bottom-left-radius:3px;transition: .3s all ease-in-out;}
+.content-3JzEqq:hover{background:linear-gradient(to right, var(--QTD) 85%, var(--QT));margin-left:14px;border-top-left-radius:3px;border-bottom-left-radius:3px;transition: .3s all ease-in-out;}
 
 .content-3JzEqq:hover>.avatar-small{margin-left:-14px;}
 
@@ -217,7 +217,7 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .flex-vertical.channels-wrap{width:230px;}
 
-.theme-dark .content-3JzEqq.popout-open,.theme-dark .content-3JzEqq:hover{background:linear-gradient(to right, var(--QTD) 85%, var(--QT)) !important;}
+.theme-dark .content-3JzEqq.popout-open,.theme-dark .content-3JzEqq:hover{background:linear-gradient(to right, var(--QTD) 85%, var(--QT));}
 
 .user-popout .avatar-wrapper .avatar-popout{border:2px solid #141417;background-color:var(--hover-color);}
 
@@ -4049,7 +4049,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .members-1bid1J:hover .membersGroup-3_dP5E{transform:scale(1);width: 190px !important;}
 
-.chat.flex-vertical.flex-spacer>.content.flex-spacer.flex-horizontal>.flex-spacer.flex-vertical{margin-right:-145px !important;z-index:1}
+.chat.flex-vertical.flex-spacer>.content.flex-spacer.flex-horizontal>.flex-spacer.flex-vertical{margin-right:-142px !important;z-index:1}
 
 .chat.flex-vertical.flex-spacer>.content.flex-spacer.flex-horizontal>.flex-spacer.flex-vertical:only-child {margin-right:0px !important;z-index:1}
 	
@@ -5271,10 +5271,10 @@ display: none}
 	
 .lookFilled-luDKDo.colorRed-3HTNPV { var(--main-color);}
 
-@media screen and (max-width: 970px) { .member-2FrNV0 { margin: 1px 0 1px 18px;}}
+@media screen and (max-width: 970px) { .member-2FrNV0 { margin: 1px 0 1px 18px;{padding-left: 0px !important;}}
 
-.memberInner-3XUq9K {width: 145px;}
-
-.content-3JzEqq {padding-left: 22px;}
+.memberInner-3XUq9K {width: 145px;}	
 
 .theme-dark .member-2FrNV0:hover .content-3JzEqq { background-color: transparent;}
+
+.memberOffline-lvMbAs, .memberOnline-1xn3V8 {padding-left: 20px;}
