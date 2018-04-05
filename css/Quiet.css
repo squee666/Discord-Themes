@@ -2550,13 +2550,9 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .ui-card[style*="padding: 10px; border-color: rgb(240, 71, 71); background-color: rgb(240, 71, 71);"] {border-color: #f04747 !important;background-color: #f04747 !important;border: 2px solid #f04747 !important;}
 
-#friends .friends-table .friends-table-body::after{content: "";background: var(--QT);width: 1400px;height: 70px;bottom: 0px;position: absolute;border-top: 2px solid #212121;}
-
 .account .avatar-small{margin-left: 13px;}
 
 .popout.popout-top:not(.no-arrow){z-index: 8;}
-
-#friends .friends-table .friends-table-body{height: calc(100% - 92px);}
 
 .quiet{height: 70px;}
 
@@ -4897,8 +4893,6 @@ display:none !important;}
 #friends .friends-header .tab-bar{width:100%;position:absolute;top:70px;display:flex;justify-content:center;z-index:2;}
 
 #friends .friends-header .header-toolbar{position:absolute;right:20px;}
-
-#friends .friends-table .friends-table-body{padding:0;margin:40px 0 0;}
 
 #friends .friends-header .tab-bar .tab-bar-separator,#friends .friends-table .friends-table-header .friends-column-separator{display:none;}
 
