@@ -5273,8 +5273,8 @@ display: none}
 
 @media screen and (max-width: 970px) { .member-2FrNV0 { margin: 1px 0 1px 18px;}}
 
-@media screen and (max-width: 970px) { .member-2FrNV0:hover { margin: 1px 0 1px 8px;}}
-
 .memberInner-3XUq9K {width: 145px;}
 
 .content-3JzEqq {padding-left: 22px;}
+
+.theme-dark .member-2FrNV0:hover .content-3JzEqq { background-color: transparent;}
