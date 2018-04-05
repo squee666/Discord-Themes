@@ -4584,7 +4584,7 @@ display: none !important;}
 
 input, textarea {color: white;}
 
-.badge { line-height: 10px;}
+.badge { line-height: 10px;padding: 3px 5px;background-color: var(--main-color);}
 
 .height24-2pMcnc {line-height: 25px !important;;}
 
