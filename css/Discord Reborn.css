@@ -1084,3 +1084,5 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .memberInner-3XUq9K {text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important;}
 
 .private-channel-call .private-channel-call-actions .center {border: none;background: transparent !important;}
+
+.theme-dark .members-1bid1J { background-color: var(--RB);}
