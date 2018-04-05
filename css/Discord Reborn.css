@@ -1075,7 +1075,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .member-2FrNV0.popout-open .content-3JzEqq, .theme-dark .member-2FrNV0.popout-open:hover .content-3JzEqq {background-color: rgba(0, 0, 0, 0.3);}
 
-.theme-dark .member-2FrNV0:hover .content-3JzEqq {background-color: rgba(0, 0, 0, 0.4);}
+.theme-dark .member-2FrNV0:hover .content-3JzEqq {background-color: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .input-3_iTLI { background-color: transparent; color: #f6f6f7; border: 2px solid rgba(197, 197, 197, 0.30);}
 
@@ -1086,3 +1086,4 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .private-channel-call .private-channel-call-actions .center {border: none;background: transparent !important;}
 
 .theme-dark .members-1bid1J { background-color: var(--RB) !important;}
+
