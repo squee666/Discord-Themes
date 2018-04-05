@@ -93,7 +93,7 @@ padding:15px 20px 15px 18px !important;}
 
 .membersGroup-3_dP5E{color:var(--main-color) !important;background-image:linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--main-color), transparent);background-size:100% 3px;/* This get flipped. */
 background-position:0 0, 0 100%;/* The last argument gets flipped. */
-background-repeat:no-repeat;padding-top: 6px;padding-bottom: 6px;margin-top: 4px;font-weight: 700;;text-align:center;border-radius:3px;margin-left:15px;}
+background-repeat:no-repeat;padding-top: 6px;padding-bottom: 6px;margin-top: 4px;font-weight: 700;;text-align:center;border-radius:3px;}
 
 .membersGroup-3_dP5E:first-of-type{margin-top:0px !important;}
 
@@ -169,7 +169,7 @@ div.avatar-large{border-radius:5px;}
 
 .edit-message .channel-textarea-emoji {width: 40px;top: 2px;display: block;}
 
-.content-3JzEqq:hover{background:linear-gradient(to right, var(--QTD) 85%, var(--QT)) !important;margin-left:14px;border-top-left-radius:3px;border-bottom-left-radius:3px;}
+.content-3JzEqq:hover{background:linear-gradient(to right, var(--QTD) 85%, var(--QT)) !important;margin-left:14px;border-top-left-radius:3px;border-bottom-left-radius:3px;transition: .3s all ease-in-out;}
 
 .content-3JzEqq:hover>.avatar-small{margin-left:-14px;}
 
@@ -5280,3 +5280,7 @@ display: none}
 @media screen and (max-width: 970px) { .member-2FrNV0 { margin: 1px 0 1px 18px;}}
 
 @media screen and (max-width: 970px) { .member-2FrNV0:hover { margin: 1px 0 1px 8px;}}
+
+.memberInner-3XUq9K {width: 145px;}
+
+.content-3JzEqq {padding-left: 22px;}
