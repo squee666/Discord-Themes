@@ -6,9 +6,10 @@
     --version-content: "8.0";
     --theme-name: "Quiet";
     --theme-letter: "Q";
-  --QT: #19191b ;
- --QTD: #121213 ;
-
+    --QT: #19191b ;
+    --QTD: #121213 ;
+    --br: 50%;
+}
 }
 
 /* Version Displayed */
@@ -126,10 +127,6 @@ background-repeat:no-repeat;padding-top: 0px;padding-bottom: 6px;margin-top: 4px
 .theme-dark .chat .title-wrap .topic{padding-bottom:6px;}
 
 .theme-dark .messages-wrapper .messages .message-group h2 strong{font-size:15px;}
-
-div.avatar-large{border-radius:5px;}
-
-.avatar-small{border-radius:3px;}
 
 .guilds-wrapper .guild-separator:after{display:none;}
 
@@ -2322,8 +2319,6 @@ div.control-group .shortcut-recorder input[type=text] {line-height: 41px;}
 
 #settings-roles .roles li.sorting:after {border: 2px solid var(--hover-color);content: " ";}
 
-.avatar-small .status{border-radius: 3px;}
-
 .members-1bid1J,.membersGroup-3_dP5E{border-radius: 0px;}
 
 .status-typing{border-radius: 7px !important;}
@@ -3871,8 +3866,6 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .theme-light .mention{transition: .2s all linear;}
 
-.container-iksrDt .avatar-small{border-radius: 0px;}
-
 .theme-light .mention:hover{color: #fff !important;background: var(--main-color) !important;}
 
 .theme-light .mention{transition: .2s all linear;}
@@ -3918,8 +3911,6 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 .theme-light .channel-notices .channel-notice.quickswitcher-notice {background: #fff url(/assets/8fdb69b7684b8e1ecb3fdde909daca41.svg) no-repeat center 35px;}
 
 .theme-light .channel-notices .channel-notice .message {color: #000;}
-
-.container-iksrDt .avatar-small{border-radius: 0px;}
 
 .theme-light .channel-notices .channel-notice .close{opacity: .5;filter: invert();}
 
@@ -4553,8 +4544,6 @@ display: none !important;}
 
 .statusProfile-29OBzn {bottom: 0px;right: 0px;}
 
-.image-EVRGPw, .status-3jUEha {border-radius: 0% !important;}
-
 .marginTop20-3UscxH {margin-top: 22px !important;}
 
 .headerText-1r7YO4 {padding-left: 20px !important;}
@@ -4934,7 +4923,7 @@ display:none !important;}
 
 #friends .friends-table .friends-row:hover{box-shadow:1px 1px 2px rgba(0, 0, 0, 0.5);border-radius:5px;margin:15px;padding:0;opacity:1!important;}
 
-#friends .friends-table .friends-row .avatar-small{border-radius:5px;box-shadow:1px 1px 2px rgba(0, 0, 0, 0.3);}
+#friends .friends-table .friends-row .avatar-small{box-shadow:1px 1px 2px rgba(0, 0, 0, 0.3);}
 
 #friends .friends-table .friends-row + .friends-row{border-top:none!important;}
 
@@ -5280,3 +5269,18 @@ display: none}
 .theme-dark .member-2FrNV0:hover .content-3JzEqq { background-color: transparent;}
 
 .memberOffline-lvMbAs, .memberOnline-1xn3V8 {padding-left: 20px;}
+
+.message-group .edit-message .edit-operation { padding-top: 22px;}
+
+
+/* all the round shit test */
+[class*="avatar-"],.status,[class*="avatarStatus"],.image-EVRGPw{border-radius:var(--br) !important;}
+.guilds [class*="avatar-"]{border-radius:var(--br) !important;}
+.mask-2vyqAW{border-radius:var(--br) !important;}
+.card-3cnrFh{border-radius:var(--br)important;}
+.guild div.avatar-large { border-radius: var(--br) !important;}
+#user-profile-modal .guilds .guild .avatar-large:empty { border-radius: var(--br)!important;}
+ui-call-avatar.video, .ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radius:var(--br) important;}  
+.status-3jUEha {border-radius: var(--br) !important;}
+.badge {border-radius:  var(--br) !important;}
+.guilds-wrapper .guilds .guild .guild-inner { border-radius:var(--br)!important;}
