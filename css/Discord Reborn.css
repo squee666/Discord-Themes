@@ -1085,4 +1085,4 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .private-channel-call .private-channel-call-actions .center {border: none;background: transparent !important;}
 
-.theme-dark .members-1bid1J { background-color: var(--RB);}
+.theme-dark .members-1bid1J { background-color: var(--RB) !important;margin-left: 4px}
