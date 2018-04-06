@@ -5290,3 +5290,6 @@ ui-call-avatar.video, .ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-rad
 #app-mount .guilds-wrapper .guilds .guild .guild-inner:first-of-type:hover {  transform: scale(1.1); background-color: rgba(0,0,0,0.4)!important; transition: all 200ms ease-in-out;}
 
 .content-3JzEqq{transition: .3s all ease-in-out;}
+
+.spinner-pulsing-ellipsis .spinner-item { border-radius: var(--br);}
+
