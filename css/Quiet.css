@@ -96,7 +96,7 @@ padding:15px 20px 15px 18px !important;}
 background-position:0 0, 0 100%;/* The last argument gets flipped. */
 background-repeat:no-repeat;padding-top: 0px;padding-bottom: 6px;margin-top: 4px;font-weight: 700;;text-align:center;border-radius:3px;}
 
-.membersGroup-3_dP5E { height: 26px !important;}
+.membersGroup-3_dP5E { height: 26px !important;text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important;}
 
 .membersGroup-3_dP5E:first-of-type{margin-top:0px !important;}
 
