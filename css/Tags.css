@@ -324,3 +324,5 @@
 .chat .avatar-large[style*="131903461771051009"] ~ .comment .message h2 {
     transform: translateX(30px);
 }
+
+.message-group:not(.compact) .avatar-large[style*="120777056505036800"] ~ .comment .message h2 span.username-wrapper::after, .channel-members .member .avatar-small[style*="120777056505036800"] ~ .member-inner .member-username .member-username-inner::after { content: "gamer"; background: #B74151; color: #fff;  border-radius: 3px; border: 1px solid transparent;  margin-left: 6px;font-size: 10px;  font-weight: 600; padding: 1px 4px;text-transform: uppercase;vertical-align: bottom; line-height: 16px; -webkit-flex-shrink: 0; flex-shrink: 0;text-shadow: 0px 1px 3px #000;}
