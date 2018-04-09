@@ -5297,3 +5297,29 @@ ui-call-avatar.video, .ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-rad
 
 .guilds-wrapper .guilds .guild.audio .guild-inner:after, .guilds-wrapper .guilds .guild.video .guild-inner:after {background-position: 40%; background-size: 17px; border-radius: var(--br); height: 18px; right: 2px; top: 2px; width: 18px;}
 
+.guilds-wrapper .guilds .guild.audio .guild-inner:after, .guilds-wrapper .guilds .guild.video .guild-inner:after {background-position: 40%; background-size: 17px; border-radius: var(--br); height: 18px; right: 2px; top: 2px; width: 18px;}
+
+.ui-standard-sidebar-view .btn-close {border-radius: var(--br);}
+
+.sizeDefault-rZbSBU { border-radius: var(--br)/20px;}
+
+.sizeDefault-rZbSBU:after, .sizeMini-1Xu3Pz { border-radius: var(--br); height: 18px;}
+
+.sizeDefault-rZbSBU:after {margin: 3px;width: 18px;}
+
+.size-yI1KRe:after {background-color: var(--main-color);}
+
+.theme-dark [class*="switch"][class*="valueUnchecked"] {background: var(--hover-color) !important;}
+    
+.size-yI1KRe:active:after {  background-color: var(--main-color);}
+
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch { border-radius: var(--br)/20px;}
+
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch:before { background: var(--main-color); border-radius: var(--br);}
+
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch { background: var(--hover-color);}
+
+.theme-dark .accountBtnInner-3zsU2z {  transform: scale(1);}
+
+.theme-dark .accountBtnInner-3zsU2z:hover {  transform: scale(1.2);}
+
