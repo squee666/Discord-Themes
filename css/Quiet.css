@@ -4520,7 +4520,7 @@ display: none !important;}
 
 .newsBorderMarginTop-2PFKAf {margin-top: 10px; !important;}
 
-.theme-dark .quickMessage-OCo-Q0 { border-color: var(--main-color) !important;border-radius: 50px !important}
+.theme-dark .quickMessage-OCo-Q0 { border-color: var(--main-color) !important;border-radius: var(--br)/120px !important}
 
 .chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after, #friends [class*='flex-'] [class*='flex-']:last-of-type:after, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after {height: 12px !important;}
 
@@ -5230,9 +5230,9 @@ display: none}
 
 .theme-dark .lookFilled-luDKDo.colorPrimary-2KuK5O { background-color: var(--main-color);}
 
-.ace-monokai {background-color: #111111;}
+.ace-monokai {background-color: #111111 !important;}
 
-.ace-monokai .ace_gutter {background: #161616;}
+.ace-monokai .ace_gutter {background: #161616 !important;}
 
 .wrapper-31dmVW {margin: 30px 0;}
 
