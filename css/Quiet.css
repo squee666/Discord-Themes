@@ -1223,7 +1223,7 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .keyboard-shortcuts-modal .keyboard-shortcut-list .keybind-group .bind-arrow.up,.keyboard-shortcuts-modal .keyboard-shortcut-list .keybind-group .bind-arrow{-webkit-filter:invert() grayscale(100%);}
 
-.ddr-arrows-drXX10{-webkit-filter:invert() hue-rotate(208deg);}
+.ddr-arrows-drXX10 {filter:invert() hue-rotate(208deg) !important;}
 
 .webhooks .webhooks-header{border-bottom:2px solid var(--main-color);}
 
