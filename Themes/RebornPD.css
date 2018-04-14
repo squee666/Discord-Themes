@@ -1,0 +1,21 @@
+//META{"name":"RebornPaid","description":"Dark and Quiet. Easy on the eyes.","author":"Omniscient","version":"0.0"}*//
+
+
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/discord-reborn.css");
+/*
+===== IMPORTANT =====
+CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
+===== CUSTOMIZABLE COLORS / IMAGES =====
+*/
+:root { 
+--main-color: #007dbd;
+ 
+--hover-color: #03679b;}
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO HTTPS://BETTERDOCS.NET
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/ 
