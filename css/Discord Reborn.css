@@ -1085,3 +1085,9 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .members-1bid1J { background-color: var(--RB) !important;}
 
+.theme-dark .calendarPicker-16Q6sl .react-datepicker__day--disabled, .theme-dark .calendarPicker-16Q6sl .react-datepicker__day--outside-month { background-color: rgba(0, 0, 0, 0.5) !important;}
+
+
+.theme-dark .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled:hover {background-color: rgba(255, 255, 255, 0.08) !important;}
+
+.option-1MvVr1.selected-_bTXUG, .searchQuery-3o17HL .searchFor-1hJO2M {  background-color: rgba(0, 0, 0, 0.35) !important;}
