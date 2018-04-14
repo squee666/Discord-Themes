@@ -1215,7 +1215,7 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .keybind-shortcut span{border:1px solid var(--main-color) !important;box-shadow:inset 0 -4px 0 var(--main-color) !important;color:#cbcbcb !important;}
 
-.modalTitle-ZwhlL4 .modal-title{color:#dedede;}
+.modalTitle-ZwhlL4 {color:#dedede;}
 
 .modalSubtitle-1kCaSD,.keyboardShortcutList-3VNIxQ .keybindGroup-BB3G2K .keybindDescription-NKubnb{color:#c1c1c1;}
 
