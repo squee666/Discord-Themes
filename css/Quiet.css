@@ -1223,7 +1223,7 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .keyboard-shortcuts-modal .keyboard-shortcut-list .keybind-group .bind-arrow.up,.keyboard-shortcuts-modal .keyboard-shortcut-list .keybind-group .bind-arrow{-webkit-filter:invert() grayscale(100%);}
 
-.ddr-arrows-drXX10 {filter:invert() hue-rotate(208deg) !important;}
+.ddrArrows-drXX10 .arrow-2EELBO {filter:invert() hue-rotate(208deg) !important;}
 
 .webhooks .webhooks-header{border-bottom:2px solid var(--main-color);}
 
@@ -1587,7 +1587,7 @@ button.bd-customicon-settings{display:none;}
 
 .option-1MvVr1 .answer-9L5NhD{color:#e8e8e8;}
 
-.option-1MvVr1.selected-_bTXUG,.searchQuery-3o17HL .searchFor-1hJO2M{background-color:#101010;}
+.option-1MvVr1.selected-_bTXUG,.searchQuery-3o17HL .searchFor-1hJO2M{background-color:#101010 !important;}
 
 .option-1MvVr1.selected-_bTXUG: after{background:none;}
 
@@ -2107,7 +2107,7 @@ to{background:var(--QT)}
 
 .popout.popout-bottom:not(.no-arrow) .popout-menu{width:210px;height:45px;background:transparent;border-radius:5px;margin:0 5px!important;box-shadow:none;display:inline-flex;}
 
-.popout.popout-bottom:not(.no-arrow){height:45px !important;}
+.popout.popout-bottom:not(.no-arrow){height:0px !important;}
 
 .popout.popout-bottom:not(.no-arrow) .popout-menu .popout-menu-item{height:50px;flex:1;justify-content:center;align-content:center;padding:0;background:none!important;opacity:0;animation:server-settings ease-in 1;animation-duration:.4s;animation-fill-mode:forwards;}
 
