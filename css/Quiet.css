@@ -870,7 +870,7 @@ textarea{background:transparent !important;}
 
 #user-profile-modal .guilds .guild:hover{background:linear-gradient(to right, var(--QTD) 90%, #141415);color:#dcdcdc;width:300px;}
 
-.activity-1PAe08{color:#d4d4d4;}
+.activity-1PAe08{color:#d4d4d4 !important;}
 
 .private-channels .search-result.selected,.private-channels .search-result:hover{background:linear-gradient(to right, var(--QTD) 85%, var(--QT));}
 
@@ -5321,3 +5321,6 @@ ui-call-avatar.video, .ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-rad
 
 .theme-dark .accountBtnInner-3zsU2z:hover {  transform: scale(1.2);}
 
+.usernameOnline-jN8ojx {line-height: 22px;}
+
+.activity-1PAe08 {margin-top: -2px;}
