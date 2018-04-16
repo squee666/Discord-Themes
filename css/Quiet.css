@@ -994,7 +994,7 @@ div.control-group .shortcut-recorder input[type=text]{border:2px solid var(--mai
 
 .guilds-wrapper .guilds .guild .guild-inner a{background-size:cover;}
 
-.guilds-wrapper .guilds{padding: 48px 0px 70px 14px !important;}
+.guilds-wrapper .guilds{48px 0px 20px 14px !important;}
 
 .guilds-wrapper .guilds .friends-online{margin:10px -4px;}
 
@@ -5429,9 +5429,6 @@ background-image: none;
 .guilds-wrapper .guilds-add:hover .guilds-add-inner::after{
     content:"Add/Create Server";font-size: 18px;
     display: initial !important;}
-.guilds-wrapper .guilds {
-    padding: 0px 0px 150px 14px !important;
-}
 
 .emojiPicker-3g68GS  {background-color: var(--QTD); border-radius: 0px;}
 
