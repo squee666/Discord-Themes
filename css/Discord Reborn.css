@@ -84,8 +84,6 @@ div[class*="topSection"]::before {
 
 .guilds .friends-icon:hover{background-color: transparent !important;}
 
-.guilds-wrapper .guilds{padding: 2px 0px 200px 14px !important;}
-
 .theme-dark .guilds-wrapper::after{content: "";width: 76px;height: 74px;bottom: 0px;margin-bottom: -204px;}
 
 .theme-dark .guilds-wrapper::before{content: "";background: rgba(0, 0, 0, 0.75);width: 76px;height: 74px;bottom: 0px;position: fixed;}
@@ -493,8 +491,6 @@ span.spinner{margin-top: 2px;}
 @media screen and (max-width: 970px) {}
     
 .theme-dark .guilds-wrapper::before{display: none !important;}
-
-.scroller.guilds, .theme-dark .guilds-wrapper{height: auto !important;}
 
 .theme-dark .guilds-wrapper:hover ~ .chat form,  .theme-dark .flex-vertical.channels-wrap:hover ~ .chat form{border-left: 0px solid #212121 !important;}
 
