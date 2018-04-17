@@ -1089,3 +1089,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .option-1MvVr1.selected-_bTXUG, .searchQuery-3o17HL .searchFor-1hJO2M {  background-color: rgba(0, 0, 0, 0.35) !important;}
 
 .emojiPicker-3g68GS .category-3rCtoh {    background-color: transparent!important;}
+
+.scroller.guilds, .theme-dark .guilds-wrapper{height: auto !important;}
+
+.guilds-wrapper .guilds{padding: 0 0 160px 14px !important;}
