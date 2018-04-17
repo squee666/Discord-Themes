@@ -5435,3 +5435,11 @@ background-image: none;
 .emojiPicker-3g68GS .category-3rCtoh { background-color: var(--QTD) !important;}
 
 .emojiPicker-3g68GS .category-3rCtoh {  font-size: 11px; text-align-last: center;background-color: var(--QTD) !important; height: auto;}
+
+.statusOnline-1Mp2_H .small-TEeAkX .statusTypingSpinnerItem-3QkulT { background-color: #43b581;}
+
+.statusDnd-35xAXU .small-TEeAkX .statusTypingSpinnerItem-3QkulT { background-color: #f04747;}
+
+.statusIdle-2AQdvu .small-TEeAkX .statusTypingSpinnerItem-3QkulT {background-color: #faa61a;}
+
+.statusStreaming-1bZ3Hq .small-TEeAkX .statusTypingSpinnerItem-3QkulT {background-color: #593695;}
