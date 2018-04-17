@@ -5436,12 +5436,16 @@ background-image: none;
 
 .emojiPicker-3g68GS .category-3rCtoh {  font-size: 11px; text-align-last: center;background-color: var(--QTD) !important; height: auto;}
 
-.statusOnline-1Mp2_H .small-TEeAkX .statusTypingSpinnerItem-3QkulT { background-color: #43b581;}
+.statusOnline-1Mp2_H .statusTypingSpinnerItem-3QkulT { background-color: #43b581;}
 
-.statusDnd-35xAXU .small-TEeAkX .statusTypingSpinnerItem-3QkulT { background-color: #f04747;}
+.statusDnd-35xAXU .statusTypingSpinnerItem-3QkulT { background-color: #f04747;}
 
-.statusIdle-2AQdvu .small-TEeAkX .statusTypingSpinnerItem-3QkulT {background-color: #faa61a;}
+.statusIdle-2AQdvu .statusTypingSpinnerItem-3QkulT {background-color: #faa61a;}
 
-.statusStreaming-1bZ3Hq .small-TEeAkX .statusTypingSpinnerItem-3QkulT {background-color: #593695;}
+.statusStreaming-1bZ3Hq .statusTypingSpinnerItem-3QkulT {background-color: #593695;}
 
 .guilds-wrapper .guilds {   padding: 10px 0 10px 15px;}
+
+.spinner-2szMS3   {margin-left: 2px;}
+
+.pulsingEllipsisItem-1oPdBE {opacity:1 !important;}
