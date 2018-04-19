@@ -5454,18 +5454,19 @@ background-image: none;
 
 .themeClear-1NqU69.valueUnchecked-XR6AOk.sizeDefault-rZbSBU { box-shadow: none !important}
 
-.popout-2RRwAO 
-    left: 76px !important;
+.popout-2RRwAO {
+    border-radius: 0px !important;
+	border-top:none !important;}
+
+.menu-3BZuDT{ border-radius: 0px;}
+
+.popout-2RRwAO .menu-3BZuDT {
     margin-top: 0px !important;
     top: 63.5px !important;
-    height: 342px !important;
-    width: 214px!important;
-    transform: translateY(-120%) translateY(115%)!important;
+    width: 210px!important;
     border-bottom: 2px solid var(--main-color) !important;
     border-right: 2px solid var(--main-color) !important;
     border-left: 2px solid var(--main-color) !important;
     border-top-right-radius: 0px !important;
     border-top-left-radius: 0px !important;
-    border-top:none !important
-
-.menu-3BZuDT{ border-radius: 0px}
+    border-top: none !important;}
