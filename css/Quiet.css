@@ -4778,7 +4778,9 @@ input, textarea {color: white;}
     border-right: 2px solid var(--main-color) !important;
     border-left: 2px solid var(--main-color) !important;
     border-top-right-radius: 0px !important;
-    border-top-left-radius: 0px !important;}
+    border-top-left-radius: 0px !important;
+    margin-top: -5px;
+    border-top: none;}
 
 /* fixed friends and mentions glow and typing indicator */
 
@@ -5273,7 +5275,7 @@ ui-call-avatar.video, .ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-rad
 
 #app-mount .guilds-wrapper .guilds .guild .guild-inner:first-of-type {transform: scale(1);transition: all 200ms ease;}
     
-#app-mount .guilds-wrapper .guilds .guild .guild-inner:first-of-type:hover {  transform: scale(1.1); background-color: rgba(0,0,0,0.4)!important; transition: all 200ms ease-in-out;}
+#app-mount .guilds-wrapper .guilds .guild .guild-inner:first-of-type:hover {  transform: scale(1.1); transition: all 200ms ease-in-out;}
 
 .content-3JzEqq{transition: .3s all ease-in-out;}
 
@@ -5444,8 +5446,26 @@ background-image: none;
 
 .statusStreaming-1bZ3Hq .statusTypingSpinnerItem-3QkulT {background-color: #593695;}
 
-.guilds-wrapper .guilds {   padding: 10px 0 10px 15px;}
+.guilds-wrapper .guilds {   padding: 50px 0 10px 15px;}
 
 .spinner-2szMS3   {margin-left: 2px;}
 
 .pulsingEllipsisItem-1oPdBE {opacity:1 !important;}
+
+.themeClear-1NqU69.valueUnchecked-XR6AOk.sizeDefault-rZbSBU { box-shadow: none !important}
+
+.popout-2RRwAO 
+    left: 76px !important;
+    margin-top: 0px !important;
+    top: 63.5px !important;
+    height: 342px !important;
+    width: 214px!important;
+    transform: translateY(-120%) translateY(115%)!important;
+    border-bottom: 2px solid var(--main-color) !important;
+    border-right: 2px solid var(--main-color) !important;
+    border-left: 2px solid var(--main-color) !important;
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-top:none !important
+
+.menu-3BZuDT{ border-radius: 0px}
