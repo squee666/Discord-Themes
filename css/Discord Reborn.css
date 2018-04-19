@@ -27,6 +27,12 @@ div[class*="topSection"]::before {
     background-position: center!important
 }
 
+:root { 
+	--RB: rgba(0, 0, 0, 0.7) 
+	--BG: url("https://i.imgur.com/8Y5x9iq.jpg");
+	--BR: 50% ;}
+
+
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to https://discord.gg/E73Pvc4 to show love and support! <3"!important;}
 
 .theme-dark .container-RYiLUQ, 
