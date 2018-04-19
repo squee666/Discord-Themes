@@ -4779,7 +4779,7 @@ input, textarea {color: white;}
     border-left: 2px solid var(--main-color) !important;
     border-top-right-radius: 0px !important;
     border-top-left-radius: 0px !important;
-    margin-top: -5px;
+    margin-top: 11px;
     border-top: none;}
 
 /* fixed friends and mentions glow and typing indicator */
@@ -5458,8 +5458,6 @@ background-image: none;
     border-radius: 0px !important;
 	border-top:none !important;}
 
-.menu-3BZuDT{ border-radius: 0px;}
-
 .popout-2RRwAO .menu-3BZuDT {
     margin-top: 0px !important;
     top: 63.5px !important;
@@ -5499,3 +5497,9 @@ background-image: none;
 .theme-dark .messagesPopoutWrap-1VBR-j .hasMore-17LQIb button {  background: var(--QT); border: transparent;}
 
 .hasMore-17LQIb button { color: var(--main-color);}
+
+.emojiPicker-3g68GS .category-3rCtoh {line-height: 12px;}
+
+.emojiPicker-3g68GS {  max-width: 300px;}
+
+.popoutBottom-U6AdMj { margin-top: -2px;}
