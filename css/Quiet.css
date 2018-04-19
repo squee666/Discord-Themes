@@ -532,7 +532,7 @@ textarea{background:transparent !important;}
 
 .tab-bar.TOP .tab-bar-item.selected{border-bottom:2px solid var(--main-color);color:var(--main-color);}
 
-.tab-bar.TOP {border-bottom: 1px solid var(--hover-color);}
+.tab-bar.TOP {border-bottom: 1px solid var(--hover-color) !important;}
 
 .settings-connections-wrapper .user-settings-modal-connections .user-settings-modal-accounts-list .user-settings-modal-accounts-list-description .user-settings-modal-accounts-list-description-inner{color:#8a8a8a;}
 
@@ -5489,3 +5489,13 @@ background-image: none;
 .theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group .actionButtons-LKmOj2 .jumpButton-1CVJpO {  background-color: var(--main-color);}
 
 .theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group .actionButtons-LKmOj2 .jumpButton-1CVJpO:hover { color: #fff; background-color: var(--hover-color);}
+
+.messagesPopoutWrap-1VBR-j { border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;}
+
+.theme-dark .headerTabBarWrapper-3uOJ6x .tab-bar.TOP .tab-bar-item.selected { border-bottom-color: var(--main-color);}
+
+.tab-bar.TOP .tab-bar-item:hover { border-bottom: 2px solid var(--hover-color);}
+
+.theme-dark .messagesPopoutWrap-1VBR-j .hasMore-17LQIb button {  background: var(--QT); border: transparent;}
+
+.hasMore-17LQIb button { color: var(--main-color);}
