@@ -1093,3 +1093,6 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .scroller.guilds, .theme-dark .guilds-wrapper{height: auto !important;}
 
 .guilds-wrapper .guilds{padding: 0 0 160px 14px !important;}
+
+
+.theme-dark .searchPopout-38pRYh {  box-shadow: 0 2px 10px 0 rgba(0,0,0,.2) !important; margin-top: 11px !important;}
