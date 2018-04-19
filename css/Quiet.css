@@ -5470,3 +5470,22 @@ background-image: none;
     border-top-right-radius: 0px !important;
     border-top-left-radius: 0px !important;
     border-top: none !important;}
+
+
+.theme-dark .messagesPopoutWrap-1VBR-j {
+    background-color: var(--QT);
+    border: 2px solid var(--main-color);
+    border-top: none !important;
+    box-shadow: none !important;}
+
+.theme-dark .messagesPopoutWrap-1VBR-j .header-y_zptc {  background-color: transparent !important;}
+
+.theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group {   background-color: var(--QTD) !important; border-color: transparent !important;}
+
+.messagesPopoutWrap-1VBR-j {  margin-top: 14px !important; border-radius: 0px !important;}
+
+.theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group:hover .actionButtons-LKmOj2 { background-color: transparent;  box-shadow: none;}
+
+.theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group .actionButtons-LKmOj2 .jumpButton-1CVJpO {  background-color: var(--main-color);}
+
+.theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group .actionButtons-LKmOj2 .jumpButton-1CVJpO:hover { color: #fff; background-color: var(--hover-color);}
