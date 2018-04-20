@@ -5480,7 +5480,7 @@ background-image: none;
 
 .theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group {   background-color: var(--QTD) !important; border-color: transparent !important;}
 
-.messagesPopoutWrap-1VBR-j {  margin-top: 14px !important; border-radius: 0px !important;}
+.messagesPopoutWrap-1VBR-j {  margin-top: 2px !important; border-radius: 0px !important;}
 
 .theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group:hover .actionButtons-LKmOj2 { background-color: transparent;  box-shadow: none;}
 
@@ -5488,7 +5488,7 @@ background-image: none;
 
 .theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group .actionButtons-LKmOj2 .jumpButton-1CVJpO:hover { color: #fff; background-color: var(--hover-color);}
 
-.messagesPopoutWrap-1VBR-j { border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;}
+.messagesPopoutWrap-1VBR-j { border-bottom-left-radius: 5px !important; border-bottom-right-radius: 5px !important;}
 
 .theme-dark .headerTabBarWrapper-3uOJ6x .tab-bar.TOP .tab-bar-item.selected { border-bottom-color: var(--main-color);}
 
