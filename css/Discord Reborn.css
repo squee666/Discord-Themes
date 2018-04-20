@@ -608,7 +608,7 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .theme-dark .search-results-wrap .search-result .hit {background-color:rgba(0,0,0,0.25)!important;}
 
-div.message-group {background-color: rgba(0,0,0,0.5)!important;}
+.theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group{background-color: rgba(0,0,0,0.5)!important;}
 
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {background-color: #1b1c1f!important;}
 
