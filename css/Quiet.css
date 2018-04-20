@@ -5505,3 +5505,5 @@ background-image: none;
 .popoutBottom-U6AdMj { margin-top: -2px;}
 
 .popout-2RRwAO .alt-2vq4VR.menu-3BZuDT { border: none !important;width: 240px!important;}
+
+.theme-dark .lookFilled-luDKDo.colorPrimary-2KuK5O:active, .theme-dark .lookFilled-luDKDo.colorPrimary-2KuK5O:hover {background-color: var(--hover-color);}
