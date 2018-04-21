@@ -5507,3 +5507,9 @@ background-image: none;
 .popout-2RRwAO .alt-2vq4VR.menu-3BZuDT { border: none !important;width: 240px!important;}
 
 .theme-dark .lookFilled-luDKDo.colorPrimary-2KuK5O:active, .theme-dark .lookFilled-luDKDo.colorPrimary-2KuK5O:hover {background-color: var(--hover-color);}
+
+.theme-dark .bar-2cFRGz { background: var(--hover-color);}
+
+.theme-dark .bubble-17BwqU {background-color: var(--hover-color);}
+
+.grabber-1TZCZi { background-color: var(--hover-color);border: 1px solid var(--main-color);}
