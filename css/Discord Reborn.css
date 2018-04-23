@@ -1107,3 +1107,5 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .theme-dark .messagesPopoutWrap-1VBR-j { background-color: rgba(0, 0, 0, 0.6) !important;}
 
 .theme-dark .messagesPopoutWrap-1VBR-j .messagesPopout-MzE43I .message-group:hover { border-color: transparent;}
+
+div.message-group { background-color: transparent !important;}
