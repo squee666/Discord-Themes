@@ -5513,3 +5513,7 @@ background-image: none;
 .theme-dark .bubble-17BwqU {background-color: var(--hover-color);}
 
 .grabber-1TZCZi { background-color: var(--hover-color);border: 1px solid var(--main-color);}
+
+.theme-dark .popoutList-2NT_IY {background: var(--QT);}
+
+.selectableItem-3PW5_y.selected-3MAwPR { background: var(--main-color) !important;}
