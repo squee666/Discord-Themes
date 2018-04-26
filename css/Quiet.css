@@ -5517,3 +5517,7 @@ background-image: none;
 .theme-dark .popoutList-2NT_IY {background: var(--QT);}
 
 .selectableItem-3PW5_y.selected-3MAwPR { background: var(--main-color) !important;}
+
+.valueUnchecked-XR6AOk.sizeDefault-rZbSBU:active:after { width: 18px;left: 9px;}
+
+.valueChecked-3Bzkbm.sizeDefault-rZbSBU:active:after { width: 18px;}
