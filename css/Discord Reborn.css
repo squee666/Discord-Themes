@@ -7,14 +7,15 @@
 	/*--version-content: "1.0";*/
  }
 
-.callout-backdrop,  .appMount-14L89u
+.callout-backdrop,  .appMount-3VJmYg
  { background-image: var(--BG) ; 
 	background-size: cover !important;
 	background-position:center!important;}
 
 
  
-[class|="userPopout"]::before {
+div[class*="userPopout"],
+div[class*="userPopout"]::before {
     background-image: var(--BG) ;
     background-size: cover !important;
     background-position: center!important
