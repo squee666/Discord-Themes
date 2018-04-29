@@ -19,14 +19,15 @@ div[class*="userPopout"]::before {
     background-image: var(--BG) ;
     background-size: cover !important;
     background-position: center!important;
-    box-shadow: inset 200px -60px 200px 5px rgba(18, 18, 19, 0.9) ;
+    
 }
 
 div[class*="topSection"],
 div[class*="topSection"]::before {
     background-image: var(--BG) ;
     background-size: cover !important;
-    background-position: center!important
+    background-position: center!important;
+	    box-shadow: inset 200px -60px 200px 5px rgba(18, 18, 19, 0.9) ;
 }
 
 :root { 
