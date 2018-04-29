@@ -4510,7 +4510,7 @@ display: none !important;}
 
 .theme-dark .partyBottomBorder-EvU-Qp {background-color: var(--mc) !important;}
 
-.theme-dark .sectionLine-3fsQAf {background-color: var(--mc) !important;}
+.theme-dark .sectionLine-JjseS9 {background-color: var(--mc) !important;}
 
 .partyBottomPadding-1yML13 {padding-bottom: 8px; !important;}
 
@@ -4542,7 +4542,7 @@ display: none !important;}
 
 .activity-AFBUEw {background-color: var(--mc) !important;}
 
-.role-3rahR_ { border: 2px solid;}
+.role-2irmRk { border: 2px solid;}
 
 .statusProfile-29OBzn {bottom: 0px;right: 0px;}
 
@@ -5187,8 +5187,7 @@ display: none}
 .theme-dark .alt-3btY0e .helper-2c73HK {display:none;}
 */end*/
 
-.headerButtonColor-G7_f-V {
-	background: var(--mc);}
+.headerButtonColor-G7_f-V {background: var(--mc) !important;}
 
 .theme-dark .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover, .theme-light .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover  {
 	background-color: var(--hc) !important;}
@@ -5211,7 +5210,7 @@ display: none}
 
 .theme-dark .quickMessage-OCo-Q0 {background-color: var(--QT);;}
 
-.theme-dark .gamePreview-4pQzIA {background-color: var(--QT);}
+.theme-dark .gamePreview-9weYR2 {background-color: var(--QT);}
 
 .theme-dark .body-1SVoBw {background-color: transparent;}
 
@@ -5760,5 +5759,3 @@ background-image: none;
 .news-2GDtLJ {  background-color: var(--QT);}
 
 .theme-dark .header-1RC2Wb:hover { background-color: var(--QTD);}
-
-.tooltip {  max-width: 90%;}
