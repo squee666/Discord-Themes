@@ -31,6 +31,8 @@ div[class*="topSection"]::before {
 }
 
 :root { 
+	--mc: #007dbd;
+	--hc: #03679b;
 	--RB: rgba(0, 0, 0, 0.7) 
 	--BG: url("https://i.imgur.com/8Y5x9iq.jpg");
 	--BR: 50% ;}
