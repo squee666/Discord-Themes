@@ -4520,7 +4520,7 @@ display: none !important;}
 
 .chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after, #friends [class*='flex-'] [class*='flex-']:last-of-type:after, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after {height: 12px !important;}
 
-.tabBarContainer-3RVZc- {padding-left: 0px !important;}
+.tabBarContainer-1s1u-z {padding-left: 0px !important;}
 
 .buttonBrandInverted-VFL7Yc {background-color: var(--mc) !important;color: #fff !important;}
 
@@ -4624,13 +4624,15 @@ input, textarea {color: white;}
 
 .winButton-U7zAqI{top: -1px;}
 
-.embedPill-3sYS1X[style*="background-color: rgb(114, 137, 218);"]{background-color: var(--mc) !important;}
+.embedPill-1Zntps[style*="background-color: rgb(114, 137, 218);"]{background-color: var(--mc) !important;}
 
 .theme-dark .body-3ND3kc{background-color: var(--QTD);}
 
 .topSectionPlaying-1J5E4n{background: var(--hc);}
 
-.theme-dark .embedInner-t4ag7g {background-color: var(--QT);border-color: var(--QT);box-shadow: 1px 1px 8px 0px #0c0c0c;}
+.theme-dark .embedInner-1-fpTo {background-color: var(--QT);border-color: var(--QT);box-shadow: 0px 1px 8px 1px var(--hc);border-radius: 8px;}
+
+.embedPill-1Zntps {display: none;}
 
 .headerSpotify-1fSJPO {border-top-left-radius: 11px !important;border-top-right-radius: 11px !important;}
 
@@ -4648,7 +4650,7 @@ input, textarea {color: white;}
 
 .headerFill-adLl4x{background-color: transparent;}
 
-.tabBarContainer-3RVZc-{border-top: 0px solid transparent;}
+.tabBarContainer-1s1u-z{border-top: 0px solid transparent;}
 
 .theme-dark .attachPopout-gjwHsr{background-color: var(--QT);border-radius: 0px;border-left: 2px solid #212121;border-right: 2px solid #212121;border-top: 2px solid #212121;margin-bottom: -1px;}
 
@@ -4752,7 +4754,7 @@ input, textarea {color: white;}
     border: 2px solid #212121;
 }
 
-.theme-dark .connectedAccount-3mKaTA, .theme-dark .userInfoSection-2WJxMm+.userInfoSection-2WJxMm {border-color: var(--hc)!important;}
+.theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {border-color: var(--hc)!important;}
 
 .lookFilled-1Gx00P.colorGreen-29iAKY { background-color: var(--mc) !important;}
 
@@ -4769,7 +4771,7 @@ input, textarea {color: white;}
 
 .embedTitleLink-1IGDvg {margin-bottom: 2px;}
 
-.embedInner-t4ag7g {padding: 3px 1px 3px 5px;}
+.embedInner-1-fpTo {padding: 3px 1px 3px 5px;}
 
 .marginTop4-2rEBfJ {margin-top: 0px;}
 
