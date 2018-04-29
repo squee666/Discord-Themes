@@ -18,7 +18,8 @@ div[class*="userPopout"],
 div[class*="userPopout"]::before {
     background-image: var(--BG) ;
     background-size: cover !important;
-    background-position: center!important
+    background-position: center!important;
+    box-shadow: inset 200px -60px 200px 5px rgba(18, 18, 19, 0.9) ;
 }
 
 div[class*="topSection"],
@@ -994,11 +995,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .clipboardInputInner-oj8y-S button {border-left: none !important;}
 
-.topSectionSpotify-3744IX {box-shadow: inset 200px -60px 200px 5px rgba(18, 18, 19, 0.9);}
-
 .theme-dark .chat form {border-right:none;}
-
-.topSectionNormal-2LlRG1, .topSectionStreaming-3rIBIm {box-shadow: inset 200px -60px 200px 5px rgba(18, 18, 19, 0.9) !important;}
 
 .theme-light code{background-color: rgba(0, 0, 0, 0.2)!important;background-image: linear-gradient(rgba(0, 0, 0, 0.4) 50%, transparent 50%)!important;}
 
@@ -1125,27 +1122,18 @@ div.message-group { background-color: var(--RB) !important;}
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
     background: transparent;}
 
-.appMount-3VJmYg { background-image: var(--BG) ; 
-	background-size: cover !important;
-background-position:center!important;}
-
 
 .theme-dark .members-1998pB {
     background-color: var(--RB);}
 
 
-.container-PNkimc {
-    background-color: transparent;}
+.container-PNkimc {  background-color: transparent;}
 
 
-.channels-Ie2l6A {
-    -ms-flex-negative: 0;
-    background-color: var(--RB);}
+.channels-Ie2l6A {    background-color: var(--RB);}
 
 
-.channels-Ie2l6A {
-    -ms-flex-negative: 0;
-    background-color: var(--RB);}
+.channels-Ie2l6A {    background-color: var(--RB);}
 
 
 .theme-dark .title-3qD0b- {
@@ -1240,17 +1228,6 @@ bottom: -10px;}
 
 .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
     background-color: rgba(0, 0, 0, 0.3);}
-
-
-.headerFill-adLl4x {
-    background-color: rgba(0, 0, 0, 0.4);}
-
-.header-QKLPzZ {
-    background: rgba(0, 0, 0, 0.4);}
-
-
-.tabBarContainer-1s1u-z {
-    background: rgba(0, 0, 0, 0.4);}
 
 
 .status-2s6iDp {
@@ -1415,16 +1392,14 @@ box-shadow: none;}
 .theme-dark .quickMessage-1yeL4E {
     background-color: var(--RB);
     border-color: var(--main-color);
-    color: hsla(0,0%,100%,.7);
-}
+    color: hsla(0,0%,100%,.7);}
 
 
 .activity-11LB_k {
-    background-color: transparent;
+	background-color: transparent;}
 
 .headerPlaying-j0WQBV {
-    background: var(--RB);
-}
+    background: var(--RB);}
 
 .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
     border-color: transparent;
@@ -1432,7 +1407,6 @@ border: 2px solid #593695 !important;}
 
 
 .headerStreaming-2FjmGz {
-    background: var(--RB);
-}
+    background: var(--RB);}
 
 
