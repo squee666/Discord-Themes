@@ -4415,13 +4415,13 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .theme-dark .reaction.reaction-me, .theme-light .reaction.reaction-me {background: rgba(0,0,0,0.4)!important;}
 
-.ui-standard-sidebar-view .sidebar-region .sidebar {padding: 5px 10px 0px 10px !important;width: 200px !important;}
+.ui-standard-sidebar-view .sidebar-region .sidebar {padding: 25px 10px 10px 25px !important;width: 200px !important;}
 
 .side-8zPYf6  .item-PXvHYJ {border-radius: 3px !important;margin-bottom: 1px !important;padding-bottom: 3px !important;padding-top: 3px !important;margin-top: 1px !important;}
 
 .header-2RyJ0Y {text-align: center !important;margin-bottom: 3px !important;}
 
-#bd-settings-sidebar .ui-tab-bar-header {font-weight: 700 !important;font-size: 14px !important;border-bottom: 2px solid var(--mc) !important;padding: 3px 0px !important;text-align: center !important;margin-bottom: 3px !important;}
+#bd-settings-sidebar .ui-tab-bar-header {font-weight: 700 !important;font-size: 14px !important;border-bottom: 2px solid var(--mc) !important;padding: 3px 0px !important;text-align: center !important;margin-bottom: 3px !important;color: var(--mc);}
 
 #bd-settings-sidebar .ui-tab-bar-separator {
 display: none !important;}
@@ -5655,7 +5655,7 @@ background-image: none;
 
 .marginTop4-2BNfKC { margin-top: 0px;}
 
-.marginTop8-1DLZ1n { margin-top: 2px;}
+.marginTop8-1DLZ1n { margin-top: 8px;}
 
 .theme-dark .activity-1IYsbk { color: rgba(255, 255, 255, 0.75);}
 
@@ -5744,11 +5744,9 @@ background-image: none;
 
 .barInner-3NDaY_ {background-color: hsla(0, 0%, 0%, 0.4);}
 
-.topSectionSpotify-1lI0-P {  background: var(--QT);background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg);
-    box-shadow: inset 230px -130px 230px 10px var(--QTD);}
+.topSectionSpotify-1lI0-P {  background: var(--QT);background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg);  box-shadow: inset 230px -130px 230px 10px var(--QTD);}
 
-.lookInverted-2D7oAl.colorGreen-29iAKY { background-color: var(--mc);
-    color: white;}
+.lookInverted-2D7oAl.colorGreen-29iAKY { background-color: var(--mc); color: white;}
 
 .lookInverted-2D7oAl.colorGreen-29iAKY:hover { background-color: var(--hc);}
 
@@ -5759,3 +5757,9 @@ background-image: none;
 .news-2GDtLJ {  background-color: var(--QT);}
 
 .theme-dark .header-1RC2Wb:hover { background-color: var(--QTD);}
+
+.side-8zPYf6 .separator-gCa7yv {display: none;}
+
+.title-3qD0b- .status, .titleCall-_b9o8P .status { margin-left: 0px;}
+
+.headerPlaying-j0WQBV .lookOutlined-3sRXeN.colorWhite-rEQuAQ {border: 2px solid var(--mc) !important;}
