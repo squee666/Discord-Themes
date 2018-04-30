@@ -4801,8 +4801,7 @@ input, textarea {color: white;}
 /* fixed friends and mentions glow and typing indicator */
 
 .message-group .mentioned .message-text {
-    -webkit-animation: mentionpulse 2s infinite !important;
-    animation: mentionpulse 2s infinite !important;
+  box-shadow: 1px 0px 10px 0px var(--mc);
 }
 .message-group .mentioned .message-text:after {
 display:none !important;}
@@ -5744,9 +5743,11 @@ background-image: none;
 
 .barInner-3NDaY_ {background-color: hsla(0, 0%, 0%, 0.4);}
 
-.topSectionSpotify-1lI0-P {  background: var(--QT);background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg); box-shadow: inset 230px -130px 230px 10px var(--QTD);}
+.topSectionSpotify-1lI0-P {  background: var(--QT);background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg);
+    box-shadow: inset 230px -130px 230px 10px var(--QTD);}
 
-.lookInverted-2D7oAl.colorGreen-29iAKY { background-color: var(--mc);  color: white;}
+.lookInverted-2D7oAl.colorGreen-29iAKY { background-color: var(--mc);
+    color: white;}
 
 .lookInverted-2D7oAl.colorGreen-29iAKY:hover { background-color: var(--hc);}
 
@@ -5762,6 +5763,7 @@ background-image: none;
 
 .title-3qD0b- .status, .titleCall-_b9o8P .status { margin-left: 0px;}
 
-.headerPlaying-j0WQBV .lookOutlined-3sRXeN.colorWhite-rEQuAQ {border: 2px solid var(--mc) !important;}
+.headerPlaying-j0WQBV .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+border: 2px solid var(--mc) !important;}
 
 .theme-dark .input-cIJ7To.focused-1mmYsC { border-color: var(--hc);}
