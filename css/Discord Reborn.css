@@ -482,11 +482,11 @@ span.spinner{margin-top: 2px;}
 
 .userPopout-11hFKo .body-3ljq11 .roles .member-roles {max-height: 230px;overflow-y: auto}
 
-.theme-dark .footer-1PYmcw{background: transparent !important}
+.theme-dark .footer-2yfCgX {background: transparent !important}
 
 .theme-dark .input-2YozMi{border-color: var(--mc);border-width: 2px;}
 
-.theme-dark .footer-1PYmcw{background: transparent !important}
+.theme-dark .footer-2yfCgX {background: transparent !important}
 
 .theme-dark .input-2YozMi{border-color: var(--mc);border-width: 2px;}
 
@@ -980,7 +980,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .itemGroup-oViAgA{border-color: transparent;border: 0px solid transparent;}
 
-.theme-dark .message-25xg43 {background-color: rgba(0, 0, 0, 0.3);box-shadow: 0px 1px 7px 2px #020202;}
+.theme-dark .message-2qRu38 {background-color: rgba(0, 0, 0, 0.3);box-shadow: 0px 1px 7px 2px #020202;}
 
 #friends .friends-table{margin-top: 0px;}
 
@@ -1222,3 +1222,5 @@ div.message-group { background-color: var(--RB) !important;}
 .article-FleDq5 { background-color: var(--RB);}
 
 .content-OzHfo4   {text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important}
+
+.theme-dark .inner-zqa7da { background-color: var(--RB);}
