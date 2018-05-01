@@ -1220,3 +1220,5 @@ div.message-group { background-color: var(--RB) !important;}
 .article-FleDq5 { background-color: var(--RB);}
 
 .content-OzHfo4   {text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important}
+
+.theme-dark .message-group .edit-message .edit-operation { color: white;text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important;}
