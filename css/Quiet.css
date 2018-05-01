@@ -12,8 +12,8 @@
     --QTD: #121213;
     --mc: #8d2036;
     --hc: #6f182a;
-    --main-color: var(--mc);
-    --hover-color: var(--hc);
+    --mc: var(--mc);
+    --hc: var(--hc);
     --br: 50%;
 }
 }
@@ -2926,7 +2926,7 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 [class*="scrollerThemed"] [class*="scroller"]::-webkit-scrollbar-thumb{background-color: var(--mc) !important;}
 
-.wrapper-2ldvyE{color: #fff;background-color: var(--QT);border: 2px solid var(--mc);opacity: 0.8;}
+.wrapper-2NJDcI{color: #fff;background-color: var(--QT);border: 2px solid var(--mc);opacity: 0.8;}
 
 [class*="itemDefaultSelected"]{background-color: var(--mc);}
 
@@ -5771,8 +5771,8 @@ border: 2px solid var(--mc) !important;}
 /* Make Channel Categories Match Role Categories */
 
 .channels-Ie2l6A .scroller-2FKFPG>[class*=container-]>[class*=container]:first-of-type>[class*=wrapper]>[class*=name], .channels-Ie2l6A .scroller-2FKFPG>[class*=container-]>div:first-of-type>[class*=container]>[class*=wrapper]>[class*=name] {
-    color: var(--main-color) !important;
-    background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--main-color), transparent);
+    color: var(--mc) !important;
+    background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--mc), transparent);
     background-size: 100% 3px;
     text-shadow: 0.5px 0.5px 2px black !important;
     background-position: 0 0, 0 100%;
