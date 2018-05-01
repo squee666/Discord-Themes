@@ -1,5 +1,13 @@
 .message-group:not(.compact) .avatar-large[style*="ID"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="ID"] ~ .member-inner .member-username .member-username-inner::after{content:"TAG";background:color;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
 
+.message-group:not(.compact) .avatar-large[style*="183359032126472195"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="183359032126472195"] ~ .member-inner .member-username .member-username-inner::after{content:"Legend";background:#00BFFF;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+
+.message-group:not(.compact) .avatar-large[style*="118580050458181632"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="118580050458181632"] ~ .member-inner .member-username .member-username-inner::after{content:"말보다는 행동이지";background:#1a1a1a;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+
+.message-group:not(.compact) .avatar-large[style*="412315574178283520"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="412315574178283520"] ~ .member-inner .member-username .member-username-inner::after{content:"Owner";background:#ff0000;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+
+.message-group:not(.compact) .avatar-large[style*="244429806215757825"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="244429806215757825"] ~ .member-inner .member-username .member-username-inner::after{content:"OWNER";background:#DF0101;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+
 .message-group:not(.compact) .avatar-large[style*="271578593417625600"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="271578593417625600"] ~ .member-inner .member-username .member-username-inner::after{content:"DEVELOPER";background:#3e82e6;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
 
 .message-group:not(.compact) .avatar-large[style*="264594101570109441"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="264594101570109441"] ~ .member-inner .member-username .member-username-inner::after{content:"GV2 Star";background:#C75913;color:#000;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
@@ -260,8 +268,6 @@
 
 .message-group:not(.compact) .avatar-large[style*="211895683123249153"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="211895683123249153"] ~ .member-inner .member-username .member-username-inner::after{content:"Forge";background:#3e82e5;color:#fff;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: rgba(0, 0, 0, 0.4) 1px 1px 1px;}
 
-.message-group:not(.compact) .avatar-large[style*="73929251660763136"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="73929251660763136"] ~ .member-inner .member-username .member-username-inner::after { content: "The OG Mew"; color: var(--main-color); background: black;    border-style: solid;    border-width: 2px;border-image: url(https://cdn.discordapp.com/attachments/226489209488277504/385314151343325185/tumblr_oa80vpI46H1uruo10o1_5001.gif) 10% repeat; margin-left: 5px;font-size: 10px; font-weight: 800;padding: 2px 4px; padding-right: 25px; text-transform: uppercase; vertical-align: bottom; line-height: 16px; -webkit-flex-shrink:0; flex-shrink:0; text-shadow: 4px 1px 3px #000; -webkit-filter: hue-rotate(360deg) invert(); animation: hue-rotate 1.5s linear infinite; } .message-group:not(.compact) .avatar-large[style*="73929251660763136"] ~ .comment .message h2 span.username-wrapper::before, .channel-members .member .avatar-small[style*="73929251660763136"] ~ .member-inner .member-username .member-username-inner::before { z-index: 100;position: relative; top: -5px; left: 127px; margin-left: -20px;    padding: 1px 4px;    border-radius: 3px; background: #9300ff; color: white;   content: "💚"; vertical-align: bottom; text-transform: uppercase; font-weight: 600; font-size: 8px; line-height: 7px; flex-shrink: 0; -webkit-flex-shrink: 0; text-shadow: rgba(0,0,0,0.4) 1px 1px 1px; }
-
 .message-group:not(.compact) .avatar-large[style*="104717799926034432"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="104717799926034432"] ~ .member-inner .member-username .member-username-inner::after{content:"Twilight Princess";background:#672382;color:#fff;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
 
 .message-group:not(.compact) .avatar-large[style*="92738910362292224"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="92738910362292224"] ~ .member-inner .member-username .member-username-inner::after{content:"Capy Coder";background:#d88d56;color:#fff;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
@@ -298,22 +304,36 @@
 
 @keyframes hue-rotate{from{-webkit-filter:hue-rotate();}to{-webkit-filter:hue-rotate(360deg);}}
 
+.message-group:not(.compact) .avatar-large[style*="236006926406778881"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="236006926406778881"] ~ .member-inner .member-username .member-username-inner::after{content:"🏳️‍🌈";background:transparent;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+
+
 /* Kya */
 
-.message-group:not(.compact) .avatar-large[style*="310719627292573697"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="310719627292573697"] ~ .member-inner .member-username .member-username-inner::after {
-    content:"XXX";
-    color:#000;
-    border-radius:0px;
-    margin-left:6px;
-    font-size:16px;
-    font-weight:998;
-    padding:4px 1px;
-    text-transform:uppercase;
-    vertical-align:bottom;
-    line-height:16px;
-    -webkit-flex-shrink:0;
-    flex-shrink:0;
-    text-shadow: 0px 1px 2px #000;
+.message-group:not(.compact) .avatar-large[style*="310719627292573697"] ~ .comment .message h2 span.username-wrapper::before{
+    content: ".";
+    background-image: url(https://discordapp.com/assets/0aae6033ad41cdda515a62cf72075afa.svg);
+    background-size: 25px;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 0px;
+    left: -3px;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    line-height: 16px !important;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    position: relative;
+    margin-left: 0px;
+}
+.message-group .avatar-large[style*="310719627292573697"]{
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.message-group:not(.compact) .avatar-large[style*="310719627292573697"] ~ .comment .message h2 .timestamp {
+    margin-left: 4px;
+}
+.chat .avatar-large[style*="131903461771051009"] ~ .comment .message h2 {
+    transform: translateX(30px);
 }
 
 /*cube_guy's Triforce Tag*/
@@ -344,6 +364,3 @@
 .chat .avatar-large[style*="131903461771051009"] ~ .comment .message h2 {
     transform: translateX(30px);
 }
-
-
-.message-group:not(.compact) .avatar-large[style*="120777056505036800"] ~ .comment .message h2 span.username-wrapper::after, .channel-members .member .avatar-small[style*="120777056505036800"] ~ .member-inner .member-username .member-username-inner::after { content: "gamer"; background: #B74151; color: #fff;  border-radius: 3px; border: 1px solid transparent;  margin-left: 6px;font-size: 10px;  font-weight: 600; padding: 1px 4px;text-transform: uppercase;vertical-align: bottom; line-height: 16px; -webkit-flex-shrink: 0; flex-shrink: 0;text-shadow: 0px 1px 3px #000;}
