@@ -12,8 +12,8 @@
     --QTD: #121213;
     --mc: #8d2036;
     --hc: #6f182a;
-    --mc: var(--mc);
-    --hc: var(--hc);
+    --main-color: var(--mc);
+    --hover-color: var(--hc);
     --br: 50%;
 }
 }
