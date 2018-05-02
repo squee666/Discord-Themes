@@ -5779,3 +5779,7 @@ background-image: none;
 #friends .friends-table .friends-row:hover .friends-column-actions {  padding-right: 30px;}
 
 .theme-dark .inviteRow-2poi6Q:hover {background-color: var(--hc);}
+
+#pluginNotice {  color: #fff;margin-left: 40% !important;text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important;}
+
+.notice {z-index: 3004 !important;}
