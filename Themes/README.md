@@ -1,24 +1,13 @@
 #ATTENTION: YOU ARE ALLOWED TO MODIFY THESE THEMES BUT PLEASE DO NOT RELEASE A THEME IF IT IS A SIMPLE RECOLOR OF MY THEME OR JUST A SIMPLE BACKGROUND CHANGE BE CREATIVE!
 
-#Discord Reborn Transparency
+#Discord Reborn/Quiet Customizations
 ```css
-/*Member List*/
-.channel-members {
-    background: rgba(0, 0, 0, 0.9)!important;
-} 
-/*Messages (Middle Area)*/
-.content .flex-spacer {
-    background: rgba(0, 0, 0, 0.85)!important;
-}
-/*Channel List*/
-.channels-wrap {
-    background: rgba(0, 0, 0, 0.75)!important;
-}
-/*Server List*/
-.guilds {
-    background-color: rgba(0, 0, 0, 0.6) !important;
-}
-/* Title Bar (bar on top of messages) */
-.title-wrap {
-    background: rgba(0, 0, 0, 0.88) !important;
+:root { 
+--mc:#cc1444 !important;                                    /*Main Colour*/     
+--hc: #770425 !important;                                   /*Hover Colour*/       
+--BG: url("https://i.imgur.com/4r6qSQd.jpg") !important;    /*Wallpaper*/   
+--RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/   
+--br: 50% !important;                                       /*RoundNess of Icons*/    
+--QT: #19191b ;                                             /*Quiet Theme Colour*/    
+--QTD: #121213;                                             /*Quiet Off Parts Colour*/    
 }
