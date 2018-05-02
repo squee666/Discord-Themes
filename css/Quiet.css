@@ -12,8 +12,8 @@
     --QTD: #121213;
     --mc: #8d2036;
     --hc: #6f182a;
-    --main-color: var(--mc);
-    --hover-color: var(--hc);
+    --mc: var(--mc);
+    --hc: var(--hc);
     --br: 50%;
 }
 }
@@ -25,11 +25,11 @@
 
 .version:after{content:var(--version-content);display:block;font-size:14px;font-weight:700;color:#43B581;}
 
-.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to https://discord.gg/E73Pvc4 to show love and support! <3"!important;}
+.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to https://discord.gg/Q8U53Nd to show love and support! <3"!important;}
 
 .need-help-modal .header h1::after{content:var(--theme-name)" v" var(--version-content);color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:200%;left: 0px;margin-left: -45px;top: 16px;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
 
-#bd-settingspane-container .content-column.default .ui-form-title.h2::after{content: "Hi, I have a server where I post customizable options for the theme and \A you can give me feedback, also with tons of bots. Join the server at \A\A https://discord.gg/E73Pvc4 \A\A It's also easier to report bugs and has a higher chance of getting them \A fixed faster.";}
+#bd-settingspane-container .content-column.default .ui-form-title.h2::after{content: "Hi, I have a server where I post customizable options for the theme and \A you can give me feedback, also with tons of bots. Join the server at \A\A https://discord.gg/Q8U53Nd \A\A It's also easier to report bugs and has a higher chance of getting them \A fixed faster.";}
 
 .themedescription{display:block;width:100%;margin-right:5px;}
 
@@ -5743,11 +5743,9 @@ background-image: none;
 
 .barInner-3NDaY_ {background-color: hsla(0, 0%, 0%, 0.4);}
 
-.topSectionSpotify-1lI0-P {  background: var(--QT);background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg);
-    box-shadow: inset 230px -130px 230px 10px var(--QTD);}
+.topSectionSpotify-1lI0-P {  background: var(--QT);background-image: url(https://cdn.rawgit.com/0mniscient/BetterDocs-Jekyll/ab1f4ca8/img/bg.svg); box-shadow: inset 230px -130px 230px 10px var(--QTD);}
 
-.lookInverted-2D7oAl.colorGreen-29iAKY { background-color: var(--mc);
-    color: white;}
+.lookInverted-2D7oAl.colorGreen-29iAKY { background-color: var(--mc);color: white;}
 
 .lookInverted-2D7oAl.colorGreen-29iAKY:hover { background-color: var(--hc);}
 
@@ -5763,30 +5761,21 @@ background-image: none;
 
 .title-3qD0b- .status, .titleCall-_b9o8P .status { margin-left: 0px;}
 
-.headerPlaying-j0WQBV .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
-border: 2px solid var(--mc) !important;}
+.headerPlaying-j0WQBV .lookOutlined-3sRXeN.colorWhite-rEQuAQ {border: 2px solid var(--mc) !important;}
 
 .theme-dark .input-cIJ7To.focused-1mmYsC { border-color: var(--hc);}
 
 /* Make Channel Categories Match Role Categories */
 
 .channels-Ie2l6A .scroller-2FKFPG>[class*=container-]>[class*=container]:first-of-type>[class*=wrapper]>[class*=name], .channels-Ie2l6A .scroller-2FKFPG>[class*=container-]>div:first-of-type>[class*=container]>[class*=wrapper]>[class*=name] {
-    color: var(--mc) !important;
-    background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--mc), transparent);
-    background-size: 100% 3px;
-    text-shadow: 0.5px 0.5px 2px black !important;
-    background-position: 0 0, 0 100%;
-    background-repeat: no-repeat;
-    padding-top: 19px;
-    padding-bottom: 2px;
-    margin-top: -25px;
-    font-weight: 600;
-    text-align: center;
-    border-radius: 3px;
-    width: 175px !important;
-    margin-left: 0px !important;
-    opacity: 1 !important;
-    pointer-events: none;
-}
+    color: var(--mc) !important;   background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--mc), transparent);
+    background-size: 100% 3px;  text-shadow: 0.5px 0.5px 2px black !important;
+    background-position: 0 0, 0 100%;  background-repeat: no-repeat;  padding-top: 19px;
+    padding-bottom: 2px;  margin-top: -25px;  font-weight: 600; text-align: center;
+    border-radius: 3px;  width: 175px !important;  margin-left: 0px !important; opacity: 1 !important;pointer-events: none;}
 
 .theme-dark .embedPill-1Zntps { display:none}
+
+#friends .friends-table .friends-row:hover .friends-column-actions {  padding-right: 30px;}
+
+.theme-dark .inviteRow-2poi6Q:hover {background-color: var(--hc);}
