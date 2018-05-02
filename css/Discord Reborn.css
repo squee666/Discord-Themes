@@ -506,7 +506,7 @@ span.spinner{margin-top: 2px;}
 
 .container-2OU7Cz {background: transparent!important;}
 
-.theme-dark .title-qAcLxz {background: rgba(0,0,0,0)!important;}
+.theme-dark .title-3qD0b- {background: rgba(0,0,0,0)!important;}
 
 .private-channels {background-color: rgba(0,0,0,0) !important;}
 
@@ -894,7 +894,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .typing-3eiiL_ {background-color: transparent;}
 
-.theme-dark [class*="modal-"] [class*="inner-"] [class*="modal-"] {background-color: var(--RB);}
+.theme-dark [class*="modal-"] [class*="inner-"] [class*="modal-"] {background-color: rgba(0, 0, 0, 0.7);}
 
 .separator-1hpa3S { -webkit-box-sizing: border-box !important;border-bottom: none !important;}
 
@@ -926,7 +926,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .searchBar-YMJBu9 {background-color: rgba(0, 0, 0, 0.2) !important;}
 
-.video-3lOWa6 {background-color: transparent !important;}
+.video-1FfuMD  {background-color: transparent !important;}
 
 .theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {background-color: transparent !important;}
 
@@ -988,7 +988,6 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark #friends .friends-table .friends-row:hover{background: rgba(0, 0, 0, 0.5);}
 
-
 .wrapper-VSYYTS .instantInviteModal-5L33Qh .clipboardInputInner-dxVheg input {color: var(--mc) !important;}
 
 .wrapper-VSYYTS .instantInviteModal-5L33Qh .copy-2xFKb_ {background-color: var(--mc) !important;}
@@ -1023,7 +1022,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark #autocomplete-popout .row.selected {background: rgba(18, 18, 18, 0.6) !important;}
 
-.theme-dark .attachment-1Vom9D {background-color: rgba(0, 0, 0, 0.3) !important;}
+.theme-dark .attachment-33OFj0 {background-color: rgba(0, 0, 0, 0.3) !important;}
 
 .header-3budic { border-top-left-radius: 11px !important; border-top-right-radius: 11px !important;}
 
@@ -1087,7 +1086,6 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month { background-color: rgba(0, 0, 0, 0.5) !important;}
 
-
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {background-color: rgba(255, 255, 255, 0.08) !important;}
 
 .option-96V44q.selected-rZcOL-, .searchQuery-3o17HL .searchFor-1hJO2M {  background-color: rgba(0, 0, 0, 0.35) !important;}
@@ -1109,7 +1107,6 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 div.message-group { background-color: var(--RB) !important;}
 
 .theme-dark .popoutList-2NT_IY {  background: rgba(0, 0, 0, 0.7) !important;}
-
 
 .container-2lgZY8 {  background-color: transparent;}
 
@@ -1222,3 +1219,7 @@ div.message-group { background-color: var(--RB) !important;}
 .content-OzHfo4   {text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important}
 
 .theme-dark .message-group .edit-message .edit-operation { color: white;text-shadow: 0.5px 0.5px 2px rgb(0, 0, 0) !important;}
+
+.theme-dark .chat .has-more button { background: var(--RB) !important;border: none !important;color: var(--mc) !important;}
+
+.search-bar { background: transparent !important;}
