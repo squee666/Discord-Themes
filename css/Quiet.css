@@ -5796,3 +5796,6 @@ background-image: none;
 #bpm-sb-help { color: white !important;}
 #bpm-sb-options {color: white !important;}
 #bpm-sb-flagtab { color: white !important;}
+
+.message-group .mentioned .message-text:hover {animation: mentionpulse 2s infinite;}
+
