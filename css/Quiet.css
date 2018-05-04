@@ -25,7 +25,7 @@
 
 .version:after{content:var(--version-content);display:block;font-size:14px;font-weight:700;color:#43B581;}
 
-.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to https://discord.gg/Q8U53Nd to show love and support! <3"!important;}
+.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A  - Bring back mention(s) notifications bar\A - Square Avatars\A - Show/Hide Blocked messages\A \A Go to https://discord.gg/Q8U53Nd to show love and support! <3"!important;}
 
 .need-help-modal .header h1::after{content:var(--theme-name)" v" var(--version-content);color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:200%;left: 0px;margin-left: -45px;top: 16px;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
 
@@ -1522,7 +1522,6 @@ button.bd-customicon-settings{display:none;}
 
 .new-messages-indicator.bottom .icon.icon-unread-arrow,.new-messages-indicator .icon.icon-unread-arrow{margin-right:-19px;}
 
-.new-messages-indicator.new-messages-indicator-mention{display: none;}
 
 .mention{color:var(--mc);}
 
@@ -2644,8 +2643,6 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 .channel-notices .channel-notice.quickswitcher-notice{background: var(--QTD) url(/assets/8fdb69b7684b8e1ecb3fdde909daca41.svg) no-repeat center 35px;padding: 100px 20px 20px;}
 
 .new-messages-indicator.new-messages-indicator-channel.new-messages-indicator-mention{top: -10px;}
-
-.new-messages-indicator.new-messages-indicator-channel.new-messages-indicator-mention.bottom{display: none !important;}
 
 .content{background-color: var(--QT) !important;}
 
@@ -3943,7 +3940,6 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 [class*="nsfw-"] [class*="buttonPrimaryOutlinedDefault"]:hover::after{opacity: 1;}
 
-.unread-3nyKcq, .unreadBottom-2LxhSR, .unread-mentions-indicator-bottom, .unread-mentions-indicator-top {display: none;}
 
 #friends .friends-table .friends-row .friends-column-actions .friends-action:hover:nth-child(1){background-color: rgb(73, 152, 76) !important;}
 
@@ -4971,7 +4967,7 @@ top:80px;left:115px;width:150px;display:flex!important;}
 
 #friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn,#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:hover{border:0;color:transparent !important;}
 
-#friends .friends-table .friends-row .friends-column-actions{right:50px;opacity:0;transition:opacity 500ms;visibility:visible;}
+#friends .friends-table .friends-row .friends-column-actions{right:90px;opacity:0;transition:opacity 500ms;visibility:visible;}
 
 #friends .friends-table .friends-row:hover .friends-column-actions{opacity:1;}
 
@@ -5799,3 +5795,12 @@ background-image: none;
 
 .message-group .mentioned .message-text:hover {animation: mentionpulse 2s infinite;}
 
+.mention-1f5kbO { background-color: var(--mc);}
+
+.mention-1f5kbO:hover { background-color: var(--hc);}
+
+.unread-mentions-indicator-top { top: 48px;}
+
+.bd-toast { background: var(--mc);}
+
+.toast {background: var(--mc);}
