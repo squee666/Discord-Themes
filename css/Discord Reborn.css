@@ -37,8 +37,6 @@ div[class*="topSection"]::before {
 	--BR: 50% ;}
 
 
-.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to https://discord.gg/E73Pvc4 to show love and support! <3"!important;}
-
 .theme-dark .container-RYiLUQ, 
 .theme-dark .layer,
 .theme-dark .layers,
@@ -1230,3 +1228,5 @@ div.message-group { background-color: var(--RB) !important;}
 .titleWrapper-1l0xT9 {background: var(--RB) !important;}
 
 .title-3qD0b-, .titleCall-_b9o8P {background: transparent !important;}
+
+.info-P9dFwH {  background-color: transparent;}
