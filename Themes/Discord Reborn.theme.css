@@ -9,10 +9,11 @@ IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
 ===== CUSTOMIZABLE COLORS / IMAGES =====
 */
 :root { 
-	--mc: #007dbd;
-	--hc: #03679b;
-	--RB: rgba(0, 0, 0, 0.7) !important;
-	--BG: url("https://imgur.com/RG03PyX.png") !important;
+--mc: #cc1444 !important;                                   /*Main Colour*/     
+--hc: #770425 !important;                                   /*Hover Colour*/       
+--BG: url("https://i.imgur.com/d3lnerI.jpg") !important;    /*Wallpaper*/   
+--RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/   
+--br: 50% !important;                                       /*RoundNess of Icons*/    
  }
  /*
 ===== CREDITS =====
