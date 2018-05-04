@@ -4967,7 +4967,7 @@ top:80px;left:115px;width:150px;display:flex!important;}
 
 #friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn,#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:hover{border:0;color:transparent !important;}
 
-#friends .friends-table .friends-row .friends-column-actions{right:90px;opacity:0;transition:opacity 500ms;visibility:visible;}
+#friends .friends-table .friends-row .friends-column-actions{right:50px;opacity:0;transition:opacity 500ms;visibility:visible;}
 
 #friends .friends-table .friends-row:hover .friends-column-actions{opacity:1;}
 
@@ -5795,6 +5795,7 @@ background-image: none;
 
 .message-group .mentioned .message-text:hover {animation: mentionpulse 2s infinite;}
 
+
 .mention-1f5kbO { background-color: var(--mc);}
 
 .mention-1f5kbO:hover { background-color: var(--hc);}
@@ -5804,3 +5805,5 @@ background-image: none;
 .bd-toast { background: var(--mc);}
 
 .toast {background: var(--mc);}
+
+.unread-1xRYoj {display: none;}
