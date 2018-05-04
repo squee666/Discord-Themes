@@ -8,9 +8,11 @@ IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS T
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ===== CUSTOMIZABLE COLORS =====
 */
-:root { 
- --mc: #8d2036;
- --hc: #6f182a;
+--mc: #cc1444 !important;                                   /*Main Colour*/     
+--hc: #770425 !important;                                   /*Hover Colour*/       
+--br: 50% !important;                                       /*RoundNess of Icons*/    
+--QT: #19191b ;                                             /*Quiet Theme Colour*/    
+--QTD: #121213;  
  }
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
