@@ -5,7 +5,7 @@
 :root { 
 --mc: #cc1444 !important;                                   /*Main Colour*/     
 --hc: #770425 !important;                                   /*Hover Colour*/       
---BG: url("https://i.imgur.com/4r6qSQd.jpg") !important;    /*Wallpaper*/   
+--BG: url("https://i.imgur.com/d3lnerI.jpg") !important;    /*Wallpaper*/  
 --RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/   
 --br: 50% !important;                                       /*RoundNess of Icons*/    
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
