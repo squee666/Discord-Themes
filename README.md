@@ -1,3 +1,25 @@
+
+#Discord Reborn/Quiet Customizations
+
+Friends List Grid (has to be the very top/first line to work in your custom css)
+You only need 1 of these to work each one is for different users if one doesnt work use the other
+```css
+@import url('https://rawgit.com/EllexideCodes/Discord-Themes/master/addons/friendGrid.css');
+@import url('https://rawgit.com/EllexideCodes/Discord-Themes/master/addons/friendGrid-two.css');
+}
+
+```css
+:root { 
+--mc: #cc1444 !important;                                   /*Main Colour*/     
+--hc: #770425 !important;                                   /*Hover Colour*/       
+--BG: url("https://i.imgur.com/d3lnerI.jpg") !important;    /*Wallpaper*/  
+--RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/   
+--br: 50% !important;                                       /*RoundNess of Icons*/    
+--QT: #19191b ;                                             /*Quiet Theme Colour*/    
+--QTD: #121213;                                             /*Quiet Off Parts Colour*/    
+}
+```
+
 ## Quality Themes
 * ***All **Themes** go into %AppData%\BetterDiscord\themes***
 * ***All **Plugins** go into %AppData%\BetterDiscord\plugins***
