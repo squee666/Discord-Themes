@@ -8,12 +8,12 @@ IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS T
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ===== CUSTOMIZABLE COLORS =====
 */
+:root{
 --mc: #cc1444 !important;                                   /*Main Colour*/     
 --hc: #770425 !important;                                   /*Hover Colour*/       
 --br: 50% !important;                                       /*RoundNess of Icons*/    
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
---QTD: #121213;  
- }
+--QTD: #121213;                                             /*Quiet Off Parts Colour*/   
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO https://discord.gg/Q8U53Nd
