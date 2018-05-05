@@ -8,7 +8,6 @@ You only need 1 of these to work each one is for different users if one doesnt w
 @import url('https://rawgit.com/EllexideCodes/Discord-Themes/master/addons/friendGrid-two.css');
 }
 
-```css
 :root { 
 --mc: #cc1444 !important;                                   /*Main Colour*/     
 --hc: #770425 !important;                                   /*Hover Colour*/       
