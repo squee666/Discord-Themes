@@ -910,7 +910,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .add-game-popout {background-color: rgba(20, 20, 20, 0.9) !important;}
 
-.theme-dark .accountBtnInner-3zsU2z {background-color: transparent !important;border: none;}
+.theme-dark .accountBtnInner-sj5jLs {background-color: transparent !important;border: none;}
 
 .theme-dark .themed-popout .footer {background-color: transparent !important;}
 
@@ -1165,7 +1165,7 @@ div.message-group { background-color: var(--RB) !important;}
 
 .theme-dark .item-1Yvehc:hover { background: rgba(41, 41, 41, 0.2) !important;}
 
-.textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO { background: var(--RB) !important;}
+.textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaForm-18s4EO { background: var(--RB) !important;}
 
 .container-1UB9sr { background: none;border-bottom: none;}
 
@@ -1229,4 +1229,16 @@ div.message-group { background-color: var(--RB) !important;}
 
 .title-3qD0b-, .titleCall-_b9o8P {background: transparent !important;}
 
-.info-P9dFwH {  background-color: transparent;}
+.info-P9dFwH {  background-color: transparent !important;}
+
+.applicationDockRightColumn-3XKsA7 {background-color: rgba(0, 0, 0, 0.5);}
+
+.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar { background-color: rgba(0,0,0,0.7) !important;}
+
+.bda-dark .emoji-picker, .bda-dark .emojiPicker-3m1S-j { background-color: rgba(0,0,0,0.7) !important;}
+
+.bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6 {background-color: transparent !important;}
+
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece, .bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar, .bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track, .bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track-piece {background-color: transparent !important;border:none !important}
+
+
