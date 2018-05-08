@@ -3742,7 +3742,8 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .theme-dark .markup .hljs[class~="js" i]::before,.theme-dark .markup .hljs[class~="javascript" i]::before{content: " Javascript";background: #165eab;}
 
-.theme-dark .markup .hljs[class~="css" i]::before{content: " Cascading Style Sheet";}
+.theme-dark .markup .hljs[class~="css" i]::before{content: " Cascading Style Sheet";background: var(--mc);
+}
 
 .theme-dark .markup .hljs[class~="bash" i]::before{content: " Bash";background: #ab1663;}
 
