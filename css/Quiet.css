@@ -12,8 +12,8 @@
     --QTD: #121213;
     --mc: #8d2036;
     --hc: #6f182a;
-    --mc: var(--mc);
-    --hc: var(--hc);
+    --main-color: var(--mc);
+    --hover-color: var(--hc);
     --br: 50%;
 }
 }
@@ -100,9 +100,7 @@ padding:15px 20px 15px 18px !important;}
 
 .membersGroup-v9BXpm{color:var(--mc) !important;background-image:linear-gradient(90deg,transparent,transparent),linear-gradient(90deg,transparent,var(--mc),transparent);background-size:100% 3px;/* This get flipped. */
 background-position:0 0,0 100%;/* The last argument gets flipped. */
-background-repeat:no-repeat;padding-top: 0px;padding-bottom: 6px;margin-top: 4px;font-weight: 700;;text-align:center;border-radius:3px;}
-
-.membersGroup-v9BXpm { height: 26px !important;text-shadow: 0.5px 0.5px 2px rgb(0,0,0) !important;}
+background-repeat:no-repeat;padding-top: 0px;padding-bottom: 6px;margin-top: 4px;font-weight: 700;;text-align:center;border-radius:3px;height: 26px !important;text-shadow: 0.5px 0.5px 2px rgb(0,0,0) !important;white-space: normal;line-height: 10px;}
 
 .membersGroup-v9BXpm:first-of-type{margin-top:0px !important;}
 
@@ -1260,15 +1258,15 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .membersGroup-v9BXpm .status-streaming,.private-channels .avatar-small .status-streaming,.account .avatar-small .status-streaming{border:2px solid #643da7 !important;}
 
-.status.status-typing.status-online{width:26px!important;right:-11px!important;height:8px !important;background:#43b581 !important;border:2px solid var(--QT) !important;margin:22px 0px 0px 14px;transition:.3s all ease-in-out;}
+.status.status-typing.status-online{width:26px!important;height:8px !important;margin:22px 0px 0px 14px;transition:.3s all ease-in-out;}
 
-.status.status-typing.status-idle{width:26px!important;right:-11px!important;height:8px !important;background:#faa61a !important;border:2px solid var(--QT) !important;margin:22px 0px 0px 14px;transition:.3s all ease-in-out;}
+.status.status-typing.status-idle{width:26px!important;height:8px !important;margin:22px 0px 0px 14px;transition:.3s all ease-in-out;}
 
-.status.status-typing.status-dnd{width:26px!important;right:-11px!important;height:8px !important;background:#f04747 !important;border:2px solid var(--QT) !important;margin:22px 0px 0px 14px;transition:.3s all linear;}
+.status.status-typing.status-dnd{width:26px!important;height:8px !important;margin:22px 0px 0px 14px;transition:.3s all linear;}
 
-.status.status-typing.status-invisible{width:26px!important;right:-11px!important;height:8px !important;background:#747f8d !important;border:2px solid var(--QT) !important;margin:22px 0px 0px 14px;transition:.3s all linear;}
+.status.status-typing.status-invisible{width:26px!important;height:8px !important;margin:22px 0px 0px 14px;transition:.3s all linear;}
 
-.status.status-typing.status-offline{width:26px!important;right:-11px!important;height:8px !important;background:#282829 !important;border:2px solid var(--QT) !important;margin:22px 0px 0px 14px;transition:.3s all linear;}
+.status.status-typing.status-offline{width:26px!important;height:8px !important;margin:22px 0px 0px 14px;transition:.3s all linear;}
 
 .user-popout .avatar-wrapper .avatar-popout .status.status-online{width:100%;height:100%;-webkit-border-radius:20px;border-radius:75px;position:absolute;border:4px solid #43b581;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;bottom:0px;right:0px;z-index:2;-webkit-box-shadow:inset 0 0 0 0 rgba(255,255,255,.3);box-shadow:inset 0 0 0 0 rgba(255,255,255,.3);background:transparent;}
 
@@ -1713,23 +1711,23 @@ button.bd-customicon-settings{display:none;}
 
 .user-popout .avatar-wrapper .avatar-popout .status,.avatar-popout,#user-profile-modal .avatar-wrapper .avatar-profile{border-radius:5px;}
 
-.status-online{background-color:transparent;border:4px solid #43b581 !important;}
+.status-online{background-color:transparent;border:3px solid #43b581 !important;}
 
 .friends-column.friends-column-status > .status-online{background-color:#43b581;border:0px solid transparent !important;}
 
-.status-idle{background-color:transparent;border:4px solid #faa61a !important;}
+.status-idle{background-color:transparent;border:3px solid #faa61a !important;}
 
 .friends-column.friends-column-status > .status-idle{background-color:#faa61a;border:0px solid transparent !important;}
 
-.status-dnd{background-color:transparent;border:4px solid #f04747 !important;}
+.status-dnd{background-color:transparent;border:3px solid #f04747 !important;}
 
 .friends-column.friends-column-status > .status-dnd{background-color:#f04747;border:0px solid transparent !important;}
 
-.status-offline{background-color:transparent;border:4px solid #282829 !important;}
+.status-offline{background-color:transparent;border:3px solid #282829 !important;}
 
 .friends-column.friends-column-status > .status-offline{background-color:#282829;border:0px solid transparent !important;}
 
-.status-invisible{background-color:transparent;border:4px solid #747f8d !important;}
+.status-invisible{background-color:transparent;border:3px solid #747f8d !important;}
 
 .friends-column.friends-column-status > .status-invisible{background-color:#747f8d;border:0px solid transparent !important;}
 
@@ -3707,7 +3705,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 .theme-dark .markup .hljs[class~="http" i]::before,
 .theme-dark .markup .hljs[class~="json" i]::before,
 .theme-dark .markup .hljs[class~="xml" i]::before,
-.theme-dark .markup .hljs[class~="less" i]::before{width: 100%;height: 16px;position: relative;display: -webkit-box;margin-top: 0px;color: #fff;border-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom: 5px solid var(--QT);line-height: 15px !important;}
+.theme-dark .markup .hljs[class~="less" i]::before{width: 100%;height: 16px;position: relative;display: -webkit-box;margin-top: 0px;color: #fff;border-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom: 5px solid var(--QT);line-height: 14px !important;}
 
 .theme-dark .markup .hljs[class~="java" i],
 .theme-dark .markup .hljs[class~="sql" i],
@@ -4579,7 +4577,13 @@ display: none !important;}
 
 .menu-Sp6bN1{background: #2f3136 !important;}
 
+.popout-3sVMXz { box-shadow: none;}
+
+.theme-dark .menu-Sp6bN1 { box-shadow: none;}
+
 .item-1GzJrl:hover {background-color: #222427 !important;}
+
+.theme-dark .item-1GzJrl { background: var(--QT);}
 
 .separator-2zcjq8 {border-bottom: none !important;}
 
@@ -4611,7 +4615,7 @@ input,textarea {color: white;}
 
 .theme-dark .itemSubMenu-3ZgIw-:hover{background: #151517 url(https://canary.discordapp.com/assets/e4afe52f6863408a35654a6e5fd69ba9.svg) no-repeat 155px 50%;}
 
-.menu-Sp6bN1{background: var(--QT) !important;box-shadow: 0px 1px 7px 2px #121111;}
+.menu-Sp6bN1{background: transparent !important;box-shadow: 0px 1px 7px 2px #121111;}
 
 .menu-Sp6bN1.status-online{background-color: #43b581;border: 0px solid transparent !important;}
 
@@ -4817,33 +4821,17 @@ display:none !important;}
   70% { box-shadow: 0 0 5px 5px rgba(0,0,0,0); }
   to { box-shadow: 0 0 0 0 rgba(0,0,0,0); } }
   
-.theme-dark .message-group .comment .markup .mention {
-    background: transparent !important;}
+.theme-dark .message-group .comment .markup .mention { background: transparent !important;}
     
- #app-mount .status.status-typing {
-    width: 100% !important;
-    height: 100% !important;
-    background: transparent !important;
-    margin: 0;
-
-}
+ #app-mount .status.status-typing { width: 100% !important; height: 100% !important;background: rgba(0,0,0,0.5) !important; margin: 0;}
 
 
-#app-mount span.spinner {
-    width: 100% !important;
-    height: 100% !important;
-}
+#app-mount span.spinner { width: 100% !important;height: 100% !important;}
 
-#app-mount span.spinner > .spinner-inner {
-    top: 0 !important;
-}
+#app-mount span.spinner > .spinner-inner {top: 0 !important;}
 
 
-#app-mount .status.status-typing .spinner-item {
-    height: 3px;
-    width: 3px;
-    border-radius: 0px;
-}
+#app-mount .status.status-typing .spinner-item { height: 3px;width: 3px;border-radius: 0px;}
 
 .membersGroup-v9BXpm .status-online,#app-mount .private-channels .avatar-small .status-online,#app-mount .guilds-wrapper + div [class*='channels-'] .avatar-small .status-online,#app-mount .account .avatar-small .status-online {
     border: solid #43b581 2px !important;
@@ -5709,3 +5697,14 @@ background-image: none;
 .theme-dark .verticalDockItem-2NxP5J:hover { background-color: var(--QTD); border-radius: 0px;}
 
 .avatar-uploader-hint { background: rgba(0,0,0,0.6);}
+
+.channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {
+    background:var(--QT) url(/assets/bf625d2….svg) no-repeat center 20px;}
+
+.message-group .avatar-large { margin-right: 10px;margin-left: 5px;}
+
+.status-streaming {background-color: transparent; border: 3px solid #593695 !important;}
+
+.dismiss-SCAH9H {right: auto;}
+
+.popoutBottom-1YbShG {  overflow: visible !important;}
