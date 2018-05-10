@@ -777,7 +777,7 @@ textarea{background:transparent !important;}
 
 .theme-dark #friends .friends-header{border-bottom:1px #141416 solid !important;}
 
-.message-group .avatar-large{margin-top:0px;}
+.message-group .avatar-large{margin-top:2px;}
 
 .spinner-wandering-cubes .spinner-item{background-color:var(--mc);border-radius:var(--br);}
 
