@@ -3421,7 +3421,7 @@ form .bf-toolbar{position:absolute !important;transform:translate(0px,-60px) !im
 
 .bf-toolbar div:not(.bf-arrow):hover{background: var(--hc) !important;}
 
-.avatar-large .status{width: 100%;height: 100%;border-radius: 8px;border-width: 3px !important;right: -3px !important;top: -3px !important;}
+.avatar-large .status{width: 100%;height: 100%;border-radius: 8px;border-width: 2px !important;right: -2px !important;top: -2px !important;}
 
 .theme-dark .guild-role::before{content: "" !important;}
 
@@ -5708,3 +5708,5 @@ background-image: none;
 .dismiss-SCAH9H {right: auto;}
 
 .popoutBottom-1YbShG {  overflow: visible !important;}
+
+.quote-msg .message-group .avatar-large { margin-right:20px;}
