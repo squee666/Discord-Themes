@@ -1244,3 +1244,5 @@ div.message-group { background-color: var(--RB) !important;}
 .private-channel-call .private-channel-call-actions { margin-top: -80px;}
 
 .avatarMargin-19rzTM {margin-bottom: 90px;}
+
+.textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO {background:transparent !important;}
