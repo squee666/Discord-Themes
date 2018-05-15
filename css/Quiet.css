@@ -5714,3 +5714,7 @@ span.spinner {margin-top: 0px;}
 #app-mount .status.status-typing .spinner-item {border-radius: var(--br);}
 
 .iconCollapsed-3hFp_8{color: var(--mc);}
+
+.theme-dark .wrapperAudio-1jDe0Q { background-color: var(--QTD);border-color: transparent;}
+
+.audioMetadata-3zOuGv .metadataIcon-2FyCKU, .audioMetadata-3zOuGv .metadataIcon-2FyCKU:hover {color: var(--mc);}
