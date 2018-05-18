@@ -5718,3 +5718,7 @@ span.spinner {margin-top: 0px;}
 .theme-dark .wrapperAudio-1jDe0Q { background-color: var(--QTD);border-color: transparent;}
 
 .audioMetadata-3zOuGv .metadataIcon-2FyCKU, .audioMetadata-3zOuGv .metadataIcon-2FyCKU:hover {color: var(--mc);}
+
+.theme-dark .noChannel-Z1DQK7 {background: var(--QT);}
+
+.theme-dark .messagesPopoutWrap-1MQ1bW { margin-top: 11px !important;}
