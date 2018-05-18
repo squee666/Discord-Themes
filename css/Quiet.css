@@ -5722,3 +5722,5 @@ span.spinner {margin-top: 0px;}
 .theme-dark .noChannel-Z1DQK7 {background: var(--QT);}
 
 .theme-dark .messagesPopoutWrap-1MQ1bW { margin-top: 11px !important;}
+
+.friends-column.friends-column-status > .status-streaming {background-color: #593695;border:0px solid transparent !important;}
