@@ -5,16 +5,17 @@
 
 
 :root {
-    --version-content: "8.0";
+    --version-content: "8.1";
     --theme-name: "Quiet";
     --theme-letter: "Q";
     --QT: #19191b ;
     --QTD: #121213;
     --mc: #8d2036;
     --hc: #6f182a;
-    --main-color: var(--mc);
-    --hover-color: var(--hc);
+    --main-color: var(--mc) !important;
+    --hover-color: var(--hc) !important;
     --br: 50%;
+    --quaternary-color:var(--QTD) !important;
 }
 }
 
@@ -5723,4 +5724,8 @@ span.spinner {margin-top: 0px;}
 
 .theme-dark .messagesPopoutWrap-1MQ1bW { margin-top: 11px !important;}
 
-.friends-column.friends-column-status > .status-streaming {background-color: #593695;border:0px solid transparent !important;}
+.friends-column.friends-column-status > .status-streaming {
+background-color: #593695;
+border:0px solid transparent !important;}
+
+.chat .avatar-large:after {margin-top: 70% !important;margin-left: 75% !important;}
