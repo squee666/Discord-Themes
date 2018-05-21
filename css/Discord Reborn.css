@@ -34,8 +34,9 @@ div[class*="topSection"]::before {
 	--hc: #03679b;
 	--RB: rgba(0,0,0,0.7); 
 	--BG: url("https://i.imgur.com/d3lnerI.jpg");
-	--BR: 50% ;}
-
+	--BR: 50%;
+        --quaternary-color:var(--RB) !important;
+}
 
 .theme-dark .container-RYiLUQ,
 .theme-dark .layer,
