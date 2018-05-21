@@ -5729,3 +5729,5 @@ background-color: #593695;
 border:0px solid transparent !important;}
 
 .chat .avatar-large:after {margin-top: 70% !important;margin-left: 75% !important;}
+
+.emoji {object-fit: inherit;}
