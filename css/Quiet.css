@@ -5730,6 +5730,6 @@ border:0px solid transparent !important;}
 
 .chat .avatar-large:after {margin-top: 70% !important;margin-left: 75% !important;}
 
-.emoji {object-fit: inherit;}
+.emoji.jumboable { height: auto; width: 40px;max-height: 60px;}
 
 .message-group .comment { margin-right: 0px;}
