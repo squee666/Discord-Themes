@@ -5738,3 +5738,13 @@ span.spinner {margin-top: 0px;}
 .ace_scrollbar-v {bottom: 0px !important;}
 
 .ui-standard-sidebar-view .content-column.default {max-width: 90%;}
+
+.dockItem-2kQDqg {padding-top: 15px;width: 90px;}
+
+.dock-10JPBX {margin-top: 10px;border: 1px solid var(--mc);}
+
+.theme-dark .dockItem-2kQDqg:hover {background-color: var(--QTD);}
+
+.splashArt-1anaP9 {filter: none;opacity: .25;}
+
+.paginationItem-3-MBTL { background: var(--QT);}
