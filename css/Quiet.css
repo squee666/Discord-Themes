@@ -3066,8 +3066,6 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .theme-dark [class*="selectorSelected-"]{background-color:#141414;}
 
-.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .ui-form-title.h2::after{display:block;position:relative;background:var(--mc);padding:10px 15px;white-space:pre;margin-bottom:-10px;margin-top:15px;border-radius:2px;box-shadow:0 2px 10px rgba(0,0,0,.2);font-weight:600;color:#fff;text-transform:initial;text-align:center;}
-
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{display:block;position:relative;background:#43B581;padding:10px 15px;white-space:pre;margin-bottom:10px;border-radius:2px;box-shadow:0 2px 10px rgba(0,0,0,.2);font-weight:600;margin-top:2px;color:#fff;text-transform:initial;}
 
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .ui-form-title.h2+.bd-pfbtn{top:60px;position:absolute;left:340px;background:var(--mc);}
@@ -3076,7 +3074,6 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default{position:relative;}
 
-.content-region #bd-customcss-attach-controls::after{width:100%;padding:10px;content:"To change the default colors just copy and paste the code below\A and replace the hex codes with your own. (those are my colors)\A \A:root{\A --mc:#e91e63 !important;\A --hc:#b81147 !important;\A}\A\A To add custom options to the theme,copy the following code from\A my server and place the options you want in the box above.\A\A Don't forget to save/update when you're done!\A";background:#43B581;margin-top:10px;display:block;border-radius:2px;font-family:Consolas,Liberation Mono,Menlo,Courier,monospace;white-space:pre;color:#fff;margin-bottom:0px;width:auto;}
 
 /*settings icons*/
 .user-settings-modal .tab-bar.SIDE .tab-bar-item::before {
@@ -4166,15 +4163,13 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 #editor-detached {margin-top:0px!important;}
    
-#editor-detached h2:after {padding-right: 0px; width:530px;content: "Hi,I have a server where I post customizable options for the \A theme and you can give me feedback,also with tons of bots. \A Join the server at \A\A discord.me/mrrobotserver \A\A It's also easier to report bugs and has a higher chance of \A getting them fixed faster."!important;}
-
 #editor-detached h3 {color: #f1f1f1 !important; margin-top: 10px;}
 
 #bd-customcss-detach-container {padding-top:46px; background-color: #1a1a1a; padding-bottom: 4px;text-shadow:rgba(0,0,0,0.4) 1px 1px 1px;}
 
 #bd-customcss-detach-editor .CodeMirror.cm-s-material.CodeMirror-simplescroll{border-radius:0px!important;}
 /* editor page styles */
-#app-mount .ui-standard-sidebar-view .content-column[style]{padding: 60px 40px 0px !important;max-width:740px;min-width:460px;}
+#app-mount .ui-standard-sidebar-view .content-column[style]{padding: 60px 40px 0px !important;max-width:740px;min-width:460px;max-width: 100%;}
 
 #app-mount .titleWrapper-3Vi_wz{border-bottom: solid 2px var(--mc);background-color: var(--QT);margin-top: -2px;}
 
@@ -5743,3 +5738,7 @@ span.spinner {margin-top: 0px;}
 .theme-dark .textArea-2Spzkt {text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3);}
 
 .container-2lgZY8 { background-color: var(--QT);}
+
+.ui-standard-sidebar-view .sidebar-region { flex: 1 0 0px;}
+
+.ace_scrollbar-v {bottom: 0px !important;}
