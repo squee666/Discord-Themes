@@ -5143,7 +5143,7 @@ ui-call-avatar.video,.ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radi
 
 .guilds-wrapper .guilds .guild.audio .guild-inner:after,.guilds-wrapper .guilds .guild.video .guild-inner:after {background-position: 40%; background-size: 17px; border-radius: var(--br); height: 18px; right: 2px; top: 2px; width: 18px;}
 
-.ui-standard-sidebar-view .btn-close {border-radius: var(--br);margin-top: 60px;}
+.ui-standard-sidebar-view .btn-close {border-radius: var(--br);margin-top: 60px !important;}
 
 .sizeDefault-2YlOZr { border-radius: var(--br)/20px;}
 
