@@ -1257,3 +1257,8 @@ div.message-group { background-color: var(--RB) !important;}
 
 #bd-customcss-detach-container .CodeMirror, #bd-customcss-detach-container .cm-s-material .CodeMirror-gutters, .content-region .CodeMirror, .content-region .cm-s-material .CodeMirror-gutters, #bd-customcss-detach-container #bd-customcss-attach-controls, .content-region #bd-customcss-attach-controls {background: var(--RB);}
 
+.dock-10JPBX {background: rgba(0, 0, 0, 0.5);}
+
+.theme-dark .dockItem-2kQDqg:hover {background-color: var(--RBT);}
+
+.paginationItem-3-MBTL { background: var(--RB);}
