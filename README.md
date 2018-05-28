@@ -13,6 +13,7 @@ You only need 1 of these to work each one is for different users if one doesnt w
 --hc: #770425 !important;                                   /*Hover Colour*/       
 --BG: url("https://i.imgur.com/d3lnerI.jpg") !important;    /*Wallpaper*/  
 --RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/   
+--RBT: rgba(0,0,0,0.70) !important;                         /*Reborn Transparency For Popouts*/   
 --br: 50% !important;                                       /*RoundNess of Icons*/    
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
 --QTD: #121213;                                             /*Quiet Off Parts Colour*/    
