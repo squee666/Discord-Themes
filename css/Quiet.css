@@ -5749,4 +5749,10 @@ span.spinner {margin-top: 0px;}
 
 .paginationItem-3-MBTL { background: var(--QT);}
 
-.carousel-JbsNzL { background-color:var(--QT);}
+.carousel-JbsNzL { background-color: var(--QT);}
+
+.placeholderAvatar-uzH8f6,.placeholderUsername-236yYU {background: var(--mc);}
+
+.memberGroupsPlaceholder-3mwPub {height: 18px;width: 70%;margin-left: 30px;background: var(--mc);}
+
+.theme-dark .description-11DmNu,.theme-dark .descriptionDiscriminator-3vUOCc{color:white};
