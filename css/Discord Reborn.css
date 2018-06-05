@@ -74,7 +74,6 @@ div[class*="topSection"]::before {
 .theme-dark .content .flex-spacer,
 .theme-dark .friends-table,
 .theme-dark .friends-header,
-.headerSpotify-zpWxgT,
 .channels-3g2vYe,#app-mount 
 .titleWrapper-3Vi_wz,
 .theme-dark .activityFeed--1mYMS,
@@ -82,6 +81,8 @@ div[class*="topSection"]::before {
 .guild:first-child,
 .theme-dark 
 .channel-members::after {background: var(--RB) !important;}
+
+.headerSpotify-zpWxgT {background: var(--RBT) !important;}
 
 .theme-dark .guilds-wrapper{margin-top: 48px !important;height: calc(100% - 119px) !important;}
 
@@ -1264,3 +1265,5 @@ div.message-group { background-color: var(--RB) !important;}
 .paginationItem-3-MBTL { background: var(--RB);}
 
 .carousel-JbsNzL { background-color: rgba(0, 0, 0, 0.6);}
+
+.headerTop-3C2Zn0, .headerPlaying-j0WQBV,.headerStreaming-2FjmGz {box-shadow:none !important;}
