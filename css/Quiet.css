@@ -990,7 +990,7 @@ div.control-group .shortcut-recorder input[type=text]{border:2px solid var(--mc)
 
 .guilds-wrapper{width:76px;}
 
-.guilds-wrapper .guilds .guild,.guilds-wrapper .guilds .guild .guild-inner a,.guilds-wrapper .guilds .friends-icon{width:45px;height:45px;}
+.guilds-wrapper .guilds .guild,.guilds-wrapper .guilds .guild .guild-inner a,.guilds-wrapper .guilds .friends-icon,.guilds-wrapper .guilds .guild-icon{width:45px;height:45px;}
 
 .guilds-wrapper .guilds .guild .guild-inner a,.guilds-wrapper .guilds .guild-icon{background-size:cover;}
 
