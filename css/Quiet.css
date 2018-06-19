@@ -990,7 +990,7 @@ div.control-group .shortcut-recorder input[type=text]{border:2px solid var(--mc)
 
 .guilds-wrapper{width:76px;}
 
-.guilds-wrapper .guilds .guild,.guilds-wrapper .guilds .guild .guild-inner a,.guilds-wrapper .guilds .friends-icon,.guilds-wrapper .guilds .guild-icon{width:45px;height:45px;}
+.guilds-wrapper .guilds .guild,.guilds-wrapper .guilds .guild .guild-inner a,.guilds-wrapper .guilds .friends-icon{width:45px;height:45px;}
 
 .guilds-wrapper .guilds .guild .guild-inner a,.guilds-wrapper .guilds .guild-icon{background-size:cover;}
 
@@ -5756,3 +5756,7 @@ span.spinner {margin-top: 0px;}
 .theme-dark .description-11DmNu,.theme-dark .descriptionDiscriminator-3vUOCc,.theme-dark .descriptionUsername-J_75O8{color:white;}
 
 .theme-brand .content-Qb0rXO {color: white;}
+
+.theme-dark .modal-3HD5ck {box-shadow: none;background-color: var(--QT);margin-top: 11px;border-top: none !important; border-top-left-radius: 0;border-top-right-radius: 0;border: 2px solid var(--mc);}
+
+.bda-slist .bda-header {overflow:visible !important;border-bottom: none !important;padding-bottom: 0;}
