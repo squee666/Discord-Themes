@@ -1269,3 +1269,7 @@ div.message-group { background-color: var(--RB) !important;}
 .theme-dark .modal-3HD5ck {background-color: rgba(0, 0, 0, 0.7);}
 
 .alt-3btY0e .item-1GzJrl .online-2S838R,.alt-3btY0e .item-1GzJrl .idle-3DEnRT,.alt-3btY0e .item-1GzJrl .dnd-1_xrcq,.alt-3btY0e .item-1GzJrl .invisible-1kp8Z0{background: rgba(0, 0, 0, 0.6);}
+
+.theme-dark .wrapper-29NfPK {background-color: var(--RB);margin-top: 48px;}
+
+.wrapper-29NfPK.minimum-2d6zH6 .info-2fyCMj, .wrapper-29NfPK.normal-2GSW0u .info-2fyCMj {padding-top: 0px;}
