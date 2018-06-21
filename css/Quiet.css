@@ -4440,7 +4440,7 @@ display: none !important;}
 
 .coverImageNotActionable-1ax1oN {-webkit-filter: none !important;}
 
-.splashArt-va7TI- {-webkit-mask: radial-gradient(80% 100% at top right,hsla(0,0%,100%,0.60) 0,hsla(0,0%,100%,0.02) 100%);filter: none !important;}
+.splashArt-3yFzRe {-webkit-mask: radial-gradient(80% 100% at top right,hsla(0,0%,100%,0.60) 0,hsla(0,0%,100%,0.02) 100%);filter: none !important; width: 100%;}
 
 /* Replace Light/Dark Mode Text - MasicoreLord */
 /* -Light Mode- */
@@ -5295,7 +5295,7 @@ background-image: none;
 .idle-3DEnRT .typingSpinnerItem-35chrT {background-color: #faa61a;}
 .streaming-2_dnHeT .typingSpinnerItem-35chrT {background-color: #593695;}
 
-.spinner-2enMB9 { background:rgba(0,0,0,0.5); margin-left: 1px;}
+.spinner-2enMB9 {margin-left: 1px;background:rgba(0,0,0,0.5);}
 
 .guilds-wrapper .guilds {   padding: 50px 0 10px 15px;}
 
@@ -5445,7 +5445,7 @@ background-image: none;
 
 .small-5Os1Bb .statusTyping-2ed9jJ {  right: -1px;}
 
-.theme-dark .activityFeed-28jde9 {   background-color: var(--QT) !important;}
+.theme-dark .activityFeed-28jde9 {   background-color: var(--QT) !important;border-left: 2px solid var(--mc);}
 
 .channelTextArea-rNsIhG {  margin: 10px 0 12px;}
 
@@ -5785,5 +5785,7 @@ span.spinner {margin-top: 0px;}
 #friends .friends-table .friends-row .friends-column-status .online-2S838R{background:#43b581;border: none !important;}
 #friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq{background:#f04747;border: none !important;}
 #friends .friends-table .friends-row .friends-column-status .idle-3DEnRT{background:#faa61a;border: none !important;}
-#friends .friends-table .friends-row .friends-column-status .offline-3qoTek{background:#747f80;border: none !important;}
+#friends .friends-table .friends-row .friends-column-status .offline-3qoTek{background:#747f8;border: none !important;}
 #friends .friends-table .friends-row .friends-column-status .streaming-2_dnHeT{background:#593695;border: none !important;}
+
+.guilds-wrapper .guilds .home-icon { margin-left: 40%;color: var(--hc);padding: 0px;}
