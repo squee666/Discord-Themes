@@ -5779,7 +5779,7 @@ span.spinner {margin-top: 0px;}
 
 .autocompleteRowVertical-q1K4ky .avatarStatus-3jMZl_{height: 100%; width: 100%;}
 
-.paginationItem-3-MBTL:after { background: linear-gradient(270deg,transparent 0,rgb(0,0,0));}
+.paginationItem-3-MBTL:after { background: linear-gradient(270deg,transparent 0,var(--QT));}
 
 .paginationItem-3-MBTL:before {background: var(--mc);}	
 
