@@ -1241,7 +1241,7 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .message-group .renamer-tag,.members-1998pB .renamer-tag{padding: 1px 5px 1px 4px;text-shadow: 0px 1px 3px #000;}
 
-.membersGroup-v9BXpm .status,.private-channels .avatar-small .status,.account .avatar-small .status{width:100%;height:100%;background:transparent;top:-2px;left:-2px;box-shadow:0 0 1px #000 inset;transition:.3s all linear;}
+.membersGroup-v9BXpm .status,.private-channels .avatar-small .status,.account .avatar-small .status{width:100% !important;height:100% !important;background:transparent;top:-2px;left:-2px;box-shadow:0 0 1px #000 inset;transition:.3s all linear;}
 
 .membersGroup-v9BXpm .status-online,.private-channels .avatar-small .status-online,.account .avatar-small .status-online{border:2px solid #43b581 !important;}
 
@@ -5295,14 +5295,9 @@ background-image: none;
 .idle-3DEnRT .typingSpinnerItem-35chrT {background-color: #faa61a;}
 .streaming-2_dnHeT .typingSpinnerItem-35chrT {background-color: #593695;}
 
-.online-2S838R .spinner-2enMB9 { background:rgba(0,0,0,0.5);}
-.dnd-1_xrcq .spinner-2enMB9 { background:rgba(0,0,0,0.5);}
-.idle-3DEnRT .spinner-2enMB9 { background:rgba(0,0,0,0.5);}
-.streaming-2_dnHeT .spinner-2enMB9 { background:rgba(0,0,0,0.5);}
+.spinner-2enMB9 { background:rgba(0,0,0,0.5); margin-left: 1px;}
 
 .guilds-wrapper .guilds {   padding: 50px 0 10px 15px;}
-
-.spinner-2szMS3   {margin-left: 2px;}
 
 .pulsingEllipsisItem-1oPdBE {opacity:1 !important;}
 
@@ -5688,7 +5683,7 @@ background-image: none;
 
 .channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW { background:var(--QT) url(/assets/bf625d2….svg) no-repeat center 20px;}
 
-.message-group .avatar-large { margin-right: 10px;margin-left: 5px;}
+.message-group .avatar-large { margin-right: 20px;margin-left: 5px;}
 
 .status-streaming {background-color: transparent; border: 3px solid #593695 !important;}
 
@@ -5790,6 +5785,5 @@ span.spinner {margin-top: 0px;}
 #friends .friends-table .friends-row .friends-column-status .online-2S838R{background:#43b581;border: none !important;}
 #friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq{background:#f04747;border: none !important;}
 #friends .friends-table .friends-row .friends-column-status .idle-3DEnRT{background:#faa61a;border: none !important;}
-#friends .friends-table .friends-row .friends-column-status .offline-3qoTek{background:#747f8;border: none !important;}
+#friends .friends-table .friends-row .friends-column-status .offline-3qoTek{background:#747f80;border: none !important;}
 #friends .friends-table .friends-row .friends-column-status .streaming-2_dnHeT{background:#593695;border: none !important;}
-
