@@ -903,7 +903,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .theme-dark .embedPill-3sYS1X {opacity: 0.5 !important;}
 
-.theme-dark .embedInner-1-fpTo {background-color: transparent !important;}
+.theme-dark .embedInner-1-fpTo {background-color: rgba(0, 0, 0, 0.4) !important; }
 
 .emojiPicker-3g68GS {background-color: rgba(0,0,0,0.7) !important;border: none !important;}
 
@@ -946,8 +946,6 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 .react-datepicker .react-datepicker__day-name {color: hsla(240,6%,97%,.6)!important;}
 
 .react-datepicker__week .react-datepicker__day {border: 0.5px solid rgba(255,255,255,0.2) !important;}
-
-.theme-dark .embedInner-1-fpTo {background-color: transparent !important;}
 
 .menu-3BZuDT {background: rgba(0,0,0,0.75) !important;}
 
@@ -1271,4 +1269,3 @@ div.message-group { background-color: var(--RB) !important;}
 .theme-dark .modal-3HD5ck {background-color: rgba(0, 0, 0, 0.7);}
 
 .alt-3btY0e .item-1GzJrl .online-2S838R,.alt-3btY0e .item-1GzJrl .idle-3DEnRT,.alt-3btY0e .item-1GzJrl .dnd-1_xrcq,.alt-3btY0e .item-1GzJrl .invisible-1kp8Z0{background: rgba(0, 0, 0, 0.6);}
-
