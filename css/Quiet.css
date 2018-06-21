@@ -5770,9 +5770,11 @@ span.spinner {margin-top: 0px;}
 .title-3qD0b- .status-oxiHuE { bottom: 0px;right: 0px;}
 .title-3qD0b- .online-2S838R{background:#43b581;border: none !important;}
 .title-3qD0b- .idle-3DEnRT{background:#faa61a;border: none !important;}
+.title-3qD0b- .offline-3qoTek{background:#747f8;border: none !important;}
+.title-3qD0b- .streaming-2_dnHeT{background:#593695;border: none !important;}
 
 .statusProfile-3ynqtt.online-2S838R,.statusProfile-3ynqtt.idle-3DEnRT,.statusProfile-3ynqtt.dnd-1_xrcq{box-shadow: none;}
 
-.container-2Thooq .status-2kJpnA { pointer-events: none;}
+.container-2Thooq .status-2kJpnA { pointer-events: none; }
 
 .autocompleteRowVertical-q1K4ky .avatarStatus-3jMZl_{height: 100%; width: 100%;}
