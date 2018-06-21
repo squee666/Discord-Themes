@@ -5775,6 +5775,21 @@ span.spinner {margin-top: 0px;}
 
 .statusProfile-3ynqtt.online-2S838R,.statusProfile-3ynqtt.idle-3DEnRT,.statusProfile-3ynqtt.dnd-1_xrcq{box-shadow: none;}
 
-.container-2Thooq .status-2kJpnA { pointer-events: none;}
+.container-2Thooq .status-2kJpnA { pointer-events: none; }
 
 .autocompleteRowVertical-q1K4ky .avatarStatus-3jMZl_{height: 100%; width: 100%;}
+
+.paginationItem-3-MBTL:after { background: linear-gradient(270deg,transparent 0,rgb(0,0,0));}
+
+.paginationItem-3-MBTL:before {background: var(--mc);}	
+
+.activityFeed-28jde9 .large-3ChYtB {height: 40px !important;width: 40px !important;}
+
+#friends .friends-table .friends-row .friends-column-status .status {bottom: 0px !important; right: 0px !important; border: none !important;}
+
+#friends .friends-table .friends-row .friends-column-status .online-2S838R{background:#43b581;border: none !important;}
+#friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq{background:#f04747;border: none !important;}
+#friends .friends-table .friends-row .friends-column-status .idle-3DEnRT{background:#faa61a;border: none !important;}
+#friends .friends-table .friends-row .friends-column-status .offline-3qoTek{background:#747f8;border: none !important;}
+#friends .friends-table .friends-row .friends-column-status .streaming-2_dnHeT{background:#593695;border: none !important;}
+
