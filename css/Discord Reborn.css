@@ -1277,3 +1277,5 @@ div.message-group { background-color: var(--RB) !important;}
 .paginationItem-3-MBTL:after { background: linear-gradient(270deg,transparent 0,rgb(0,0,0));}
 
 .theme-dark .contentWrapper-3WC1ID {background: rgba(0,0,0,0.6);}
+
+.theme-dark .everyonePopout-nEbJY3 {background-color: rgba(0, 0, 0, 0.8);}
