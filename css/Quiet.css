@@ -5802,3 +5802,5 @@ span.spinner {margin-top: 0px;}
 
 .theme-dark .everyonePopout-nEbJY3 {-webkit-box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);background-color: var(--QT);box-shadow: none;border: 2px solid var(--hc);}
 
+.message-group .edit-message .edit-container-outer .avatar-large {display:none;}
+.message-group .edit-message .margin-top-8{margin-top: 30px !important;}
