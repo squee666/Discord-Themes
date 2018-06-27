@@ -2136,8 +2136,6 @@ div.control-group .shortcut-recorder input[type=text] {line-height: 41px;}
 
 .emoji-picker .header { border-bottom: 2px solid var(--mc);}
 
-.message-group .avatar-large[style*="172218388880293888"]:hover,.members-1998pB,.membersGroup-v9BXpm[style*="172218388880293888"]:hover {cursor: url("https://betterdocs.net/classic/assets/penis.cur"),auto !important;}
-
 .quote-msg {box-shadow: 0px 0px 6px -2px #000;}
 
 .citar-btn {order: 5;top: 1px !important;background-color: var(--QTD) !important;padding: 5px 5px 0px 5px !important;}
@@ -2452,11 +2450,6 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .theme-dark .channel-textarea-inner{border-left: 2px solid #212121 !important;border-right: 2px solid #212121 !important;}
 
-.message-group .avatar-large[style*="172218388880293888"] {background-image:url(https://i.imgur.com/KUFVy78.png) !important;}
-
-.message-group:hover .avatar-large[style*="172218388880293888"]{background-image:url(https://i.imgur.com/tLfxGiD.gif) !important;}
-
-*[style*="172218388880293888"] {background-image:url(https://i.imgur.com/tLfxGiD.gif) !important;}
 
 .app .guilds .guild.active:first-child{background: #131313;}
 
@@ -2842,7 +2835,7 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 [class*="nameDefault-"]{color: #a5a5a5;}
 
-.theme-dark [class*="modal-"] [class*="inner-"] [class*="modal-"]{background-color: #0f0f10;box-shadow: 0px 0px;border: 1px solid var(--hc);}
+.theme-dark [class*="modal-"] [class*="inner-"] [class*="modal-"]{background-color: #0f0f10;box-shadow: 0px 0px;border: 1px solid var(--hc) !important;}
 
 .theme-dark [class*="footer-"]{box-shadow: 0px 0px;border-top: 2px solid var(--hc);}
 
@@ -4546,7 +4539,7 @@ input,textarea {color: white;}
 	
 .theme-dark .wrapper-VSYYTS,.theme-dark .form-deprecated .form-header,.theme-dark .form.deprecated .form-header,.theme-dark .form-deprecated .form-inner,.theme-dark .form.deprecated .form-inner,.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions{background: transparent !important;}
 
-.theme-dark .form.deprecated .form-inner,.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions{border-top: 2px solid var(--mc);}
+.theme-dark .form.deprecated .form-inner,.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions{top: 2px solid var(--mc);}
 
 .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-header header{color: #ffffff;}
 
@@ -5196,7 +5189,7 @@ background-image: none;
 	border-top:none !important;}
 
 .popout-3sVMXz .menu-Sp6bN1{
-    margin-top: 0px !important;
+    margin-top: 1px !important;
     top: 63.5px !important;
     width: 210px!important;
     border-bottom: 2px solid var(--mc) !important;
@@ -5417,7 +5410,7 @@ background-image: none;
 
 .member-3W1lQa {  margin: 1px 0 1px 24px;}
 
-.popoutBottom-1YbShG{ margin-top: -2px;}
+.popoutBottom-1YbShG{ margin-top: -3px;}
 
 .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j { background-color: var(--QT); border: 2px solid var(--mc);}
 
@@ -5690,6 +5683,12 @@ span.spinner {margin-top: 0px;}
 
 .message-group .edit-message .edit-container-outer .avatar-large {display:none;}
 .message-group .edit-message .margin-top-8{margin-top: 30px !important;}
+
+.backdrop-1wrmKB {opacity: 0.3 !important;}
+
+.root-SR8cQa .status-oxiHuE {height:100% !important;width:100% !important;}
+
+.theme-dark .container-1rPqdX {background: var(--QT)!important;border: 2px solid var(--mc);}
 
 .avatar-large:not(.wrapper-2F3Zv8)[style*="avatars/107511169366888448"]:hover::before {display: inline-block !important;    content: "His Code Works" !important;background: url(https://i.imgur.com/sZJzzNW.gif);  -webkit-filter: hue-rotate(360deg) invert();animation: hue-rotate 1.5s linear infinite;border: 2px solid var(--mc);color: var(--mc);font-size:14px;font-weight: 700;  padding: 4px 4px;left: calc(100% - 22px);bottom: -30px;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;}
 
