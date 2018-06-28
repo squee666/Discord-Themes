@@ -809,7 +809,7 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .inner-ptMwR- .rtc-connection-status .ping {box-shadow: 0.5px 0.5px 2px black!important;}
 
-.message-group .avatar-large {none !important;}
+.message-group .avatar-large {box-shadow:none !important;}
 
 [class*="avatar-"],.image-EVRGPw {box-shadow: 0.5px 0.5px 2px black !important;}
 
