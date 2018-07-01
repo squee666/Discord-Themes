@@ -5704,7 +5704,7 @@ span.spinner {margin-top: 0px;}
 
 #bda-qem-twitch-container .scroller-wrap, #bda-qem-favourite-container .scroller-wrap {height: 100%;border: 2px solid var(--mc) !important;border-bottom: none !important;border-top: none !important;}
 
-.assetsLargeMaskUserPopout-12EBBc {;mask: none;}
+.assetsLargeMaskUserPopout-12EBBc {-webkit-mask: none !important;}
 
 .theme-dark .attachPopout-1n-ZKM {background-color: var(--QTD); border: 2px solid var(--mc);}
 
