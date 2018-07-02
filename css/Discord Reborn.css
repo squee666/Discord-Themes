@@ -1234,7 +1234,7 @@ div.message-group { background-color: var(--RB) !important;}
 
 .applicationDockRightColumn-3XKsA7 {background-color: rgba(0,0,0,0.5);}
 
-.bda-dark .emoji-picker .header .search-bar,.bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar { background-color: rgba(0,0,0,0.7) !important;}
+.bda-dark .emoji-picker .header .search-bar { background-color: rgba(0,0,0,0.7) !important;}
 
 .bda-dark .emoji-picker,.bda-dark .emojiPicker-3m1S-j { background-color: rgba(0,0,0,0.7) !important;}
 
@@ -1281,3 +1281,7 @@ div.message-group { background-color: var(--RB) !important;}
 .theme-dark .everyonePopout-nEbJY3 {background-color: rgba(0, 0, 0, 0.8);}
 
 .theme-dark .attachPopout-1n-ZKM {background-color:rgba(0, 0, 0, 0.6);}
+
+.theme-dark .container-1rPqdX {background: rgba(0, 0, 0, 0.6) !important;}
+
+.headerXbox-3G-4PF { background: var(--RBT);}
