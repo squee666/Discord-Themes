@@ -5588,7 +5588,7 @@ span.spinner {margin-top: 0px;}
 
 .friends-column.friends-column-status > .status-streaming {background-color: #593695;border:0px solid transparent !important;}
 
-.chat .avatar-large:after {margin-top: 35% !important;margin-left: 94% !important;}
+.chat .avatar-large:after {margin-top: 35% !important;margin-left: 95% !important;}
 
 .emoji.jumboable { height: auto; width: 40px;max-height: 60px;}
 
@@ -5714,7 +5714,7 @@ span.spinner {margin-top: 0px;}
 
 .coverImage-3cjWkd {-webkit-mask: linear-gradient(90deg,rgba(0, 0, 0, 0.1),hsla(0,0%, 100%, 0.8) 60%);}
 
-.assetsSmallImage-3_3Bzj {position: relative;}
+.assetsSmallImage-3_3Bzj {background: rgba(0, 0, 0, 0.3);}
 
 .headerXbox-3G-4PF { background: var(--QT);}
 
@@ -5722,4 +5722,4 @@ span.spinner {margin-top: 0px;}
 
 .avatar-large:not(.wrapper-2F3Zv8)[style*="avatars/107511169366888448"]:hover::before {display: inline-block !important;    content: "His Code Works" !important;background: url(https://i.imgur.com/sZJzzNW.gif);  -webkit-filter: hue-rotate(360deg) invert();animation: hue-rotate 1.5s linear infinite;border: 2px solid var(--mc);color: var(--mc);font-size:14px;font-weight: 700;  padding: 4px 4px;left: calc(100% - 22px);bottom: -30px;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;}
 
-
+.assetsLargeMaskActivityFeed-3eznI9, .assetsLargeMaskProfile-1Qkfen { mask: none !important;-webkit-mask: none !important;}
