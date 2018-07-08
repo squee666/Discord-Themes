@@ -5429,7 +5429,7 @@ background-image: none;
 
 .container-3nXdBP hr {  border: 1px solid var(--hc);}
 
-.container-3nXdBP {  border: 2px solid var(--hc); border-radius: 5px;}
+.container-3nXdBP {  border: 2px solid var(--hc); border-radius: 5px;background-color: rgba(0, 0, 0, 0.75) !important;}
 
 .inner-btChU7 .rtc-connection-status-connected { color: var(--mc);font-weight: 700;}
 
@@ -5733,3 +5733,7 @@ span.spinner {margin-top: 0px;}
 .home-icon { background-color: var(--hc); -webkit-mask: url(https://ellexidecodes.github.io/Discord-Themes/assets/home.svg);-webkit-mask-size: 100%;-webkit-mask-repeat: no-repeat;-webkit-mask-position: center;}
 
 .guilds .home-icon defs,.guilds .home-icon g {display: none;}
+
+.tiles-2aXG_k {border-radius: 3px;height: auto;position: relative;border: 1px solid var(--mc);background: transparent;padding: 1px;}
+
+.popoutTopRight-3BzFIE section:after, .popoutTop-3uu9vG section:after {border-top-color: var(--hc);}
