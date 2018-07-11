@@ -5735,6 +5735,6 @@ span.spinner {margin-top: 0px;}
 
 .theme-dark .search:not(.focused):not(.open) .search-bar{width:32px ;cursor:pointer !important}
 
-.search-bar:hover .icon-search-bar-eye-glass{opacity:0.9 !important;}
+.search-bar .icon-search-bar-eye-glass:hover{opacity:0.9 !important;}
 
 .search-bar-icon .icon { z-index: -2;}
