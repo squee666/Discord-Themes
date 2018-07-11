@@ -1494,7 +1494,7 @@ button.bd-customicon-settings{display:none;}
 
 .searchPopout-1vUlP3{background-color:#141416;border: none;}
 
-.theme-dark .search .search-bar{background-color:var(--QT);border:2px solid var(--mc);padding:0px 0px 28px 0px;border-bottom:2px solid var(--mc) !important;}
+.theme-dark .search .search-bar{background-color:var(--QT);border:2px solid var(--mc);border-radius:15px !important;padding:0px 0px 28px 0px;border-bottom:2px solid var(--mc) !important;}
 
 .search.popout-open > .search-bar{border-bottom:2px solid var(--mc) !important;}
 
@@ -5302,7 +5302,7 @@ background-image: none;
 
 .small-5Os1Bb .statusTyping-2ed9jJ {  right: -1px;}
 
-.theme-dark .activityFeed-28jde9 {   background-color: var(--QT) !important;border-left: 2px solid var(--mc);}
+.theme-dark .activityFeed-28jde9 { background-color: var(--QT) !important;border-left: 2px solid var(--mc);padding-top: 36px;}
 
 .channelTextArea-rNsIhG {  margin: 10px 0 12px;}
 
@@ -5700,8 +5700,6 @@ span.spinner {margin-top: 0px;}
 
 .avatar-large:not(.wrapper-2F3Zv8)[style*="avatars/107511169366888448"]:hover::before {display: inline-block !important;    content: "His Code Works" !important;background: url(https://i.imgur.com/sZJzzNW.gif);  -webkit-filter: hue-rotate(360deg) invert();animation: hue-rotate 1.5s linear infinite;border: 2px solid var(--mc);color: var(--mc);font-size:14px;font-weight: 700;  padding: 4px 4px;left: calc(100% - 22px);bottom: -30px;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;}
 
-
-
 .assetsLargeMaskActivityFeed-3eznI9, .assetsLargeMaskProfile-1Qkfen { mask: none !important;-webkit-mask: none !important;}
 
 .theme-dark .header-2B7Ri8, .theme-dark .content-2KAjC9 {background-color: var(--QT);}
@@ -5732,3 +5730,11 @@ span.spinner {margin-top: 0px;}
 .theme-dark .popoutList-T9CKZQ {background: var(--QT);border: 1px solid var(--mc);}
 
 .selectableItem-1MP3MQ.selected-31soGA {background: var(--hc) !important;}
+
+.search .search-bar:hover,.search.focused .search-bar{width: 144px !important;}
+
+.theme-dark .search:not(.focused):not(.open) .search-bar{width:32px ;cursor:pointer !important}
+
+.search-bar:hover .icon-search-bar-eye-glass{opacity:0.9 !important;}
+
+
