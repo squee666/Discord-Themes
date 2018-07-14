@@ -5729,7 +5729,7 @@ span.spinner {margin-top: 0px;}
 
 .selectableItem-1MP3MQ.selected-31soGA {background: var(--hc) !important;}
 
-.search .search-bar:hover,.search.focused .search-bar,.search.open .search-bar{width: 144px !important;}
+.search .search-bar:hover,.search.focused .search-bar,.search.open .search-bar{width: 200px !important;}
 
 .theme-dark .search:not(.focused):not(.open) .search-bar{width:32px;}
 
