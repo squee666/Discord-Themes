@@ -5617,12 +5617,12 @@ span.spinner {margin-top: 0px;}
 
 .title-3qD0b- .status-streaming{background:#593695;border: none !important;}
 
-.title-3qD0b- .dnd-1_xrcq{background:#f04747;border: none !important;}
-.title-3qD0b- .status-oxiHuE { bottom: 0px;right: 0px;}
-.title-3qD0b- .online-2S838R{background:#43b581;border: none !important;}
-.title-3qD0b- .idle-3DEnRT{background:#faa61a;border: none !important;}
-.title-3qD0b- .offline-3qoTek{background:#747f8;border: none !important;}
-.title-3qD0b- .streaming-2_dnHeT{background:#593695;border: none !important;}
+.title-3qD0b- .dnd-1_xrcq,.titleCall-_b9o8P .dnd-1_xrcq{background:#f04747;border: none !important;}
+.title-3qD0b- .status-oxiHuE,.titleCall-_b9o8P .status-oxiHuE{ bottom: 0px;right: 0px;}
+.title-3qD0b- .online-2S838R,.titleCall-_b9o8P{background:#43b581;border: none !important;}
+.title-3qD0b- .idle-3DEnRT,.titleCall-_b9o8P .idle-3DEnRT{background:#faa61a;border: none !important;}
+.title-3qD0b- .offline-3qoTek,.titleCall-_b9o8P .offline-3qoTek{background:#747f8;border: none !important;}
+.title-3qD0b- .streaming-2_dnHeT,.titleCall-_b9o8P .streaming-2_dnHeT{background:#593695;border: none !important;}
 
 .statusProfile-3ynqtt.online-2S838R,.statusProfile-3ynqtt.idle-3DEnRT,.statusProfile-3ynqtt.dnd-1_xrcq{box-shadow: none;}
 
@@ -5733,4 +5733,12 @@ span.spinner {margin-top: 0px;}
 
 .theme-dark .search:not(.focused):not(.open) .search-bar{width:32px;}
 
+.callAvatar-v-u4BM.voice-2D-tt{border-radius: var(--BR);}
 
+.theme-dark .elevationHigh-3A9Xbf {transform: none !important;top: 25%;left: 50%;}
+
+.wrapper-29NfPK .iconsWrapper-1RelE3 {border: none !important;}
+
+.wrapper-29NfPK.fullScreen-3DKbL8 .actions-2vadYq .center-1Vp33r, .wrapper-29NfPK.fullScreen-3DKbL8 .actions-2vadYq .side-kO0bwV, .wrapper-29NfPK.noChat-2qlG4B .center-1Vp33r, .wrapper-29NfPK.noChat-2qlG4B .side-kO0bwV, .wrapper-29NfPK.normal-2GSW0u .center-1Vp33r, .wrapper-29NfPK.normal-2GSW0u .side-kO0bwV {background-color: rgba(0, 0, 0, 0.5);}
+
+.wrapper-29NfPK.fullScreen-3DKbL8 .iconsWrapper-1RelE3 {margin-bottom: 60px;}
