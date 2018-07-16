@@ -5617,12 +5617,12 @@ span.spinner {margin-top: 0px;}
 
 .title-3qD0b- .status-streaming{background:#593695;border: none !important;}
 
-.title-3qD0b- .dnd-1_xrcq,.titleCall-_b9o8P .dnd-1_xrcq{background:#f04747;border: none !important;}
-.title-3qD0b- .status-oxiHuE,.titleCall-_b9o8P .status-oxiHuE{ bottom: 0px;right: 0px;}
-.title-3qD0b- .online-2S838R,.titleCall-_b9o8P{background:#43b581;border: none !important;}
-.title-3qD0b- .idle-3DEnRT,.titleCall-_b9o8P .idle-3DEnRT{background:#faa61a;border: none !important;}
-.title-3qD0b- .offline-3qoTek,.titleCall-_b9o8P .offline-3qoTek{background:#747f8;border: none !important;}
-.title-3qD0b- .streaming-2_dnHeT,.titleCall-_b9o8P .streaming-2_dnHeT{background:#593695;border: none !important;}
+.titleWrapper-1l0xT9 .dnd-1_xrcq{background:#f04747;border: none !important;}
+.itleWrapper-1l0xT9 .status-oxiHuE{ bottom: 0px;right: 0px;}
+.titleWrapper-1l0xT9 .online-2S838R{background:#43b581;border: none !important;}
+.titleWrapper-1l0xT9 .idle-3DEnRT{background:#faa61a;border: none !important;}
+.titleWrapper-1l0xT9 .offline-3qoTek{background:#747f8;border: none !important;}
+titleWrapper-1l0xT9 .streaming-2_dnHeT{background:#593695;border: none !important;}
 
 .statusProfile-3ynqtt.online-2S838R,.statusProfile-3ynqtt.idle-3DEnRT,.statusProfile-3ynqtt.dnd-1_xrcq{box-shadow: none;}
 
