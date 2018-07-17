@@ -5734,7 +5734,7 @@ titleWrapper-1l0xT9 .streaming-2_dnHeT{background:#593695;border: none !importan
 
 .callAvatar-v-u4BM.voice-2D-tt{border-radius: var(--BR);}
 
-.theme-dark .elevationHigh-3A9Xbf {transform: none !important;top: 25%;left: 50%;}
+.theme-dark .elevationHigh-3A9Xbf {transform: none;top: 25%;left: 50%;}
 
 .wrapper-29NfPK .iconsWrapper-1RelE3 {border: none !important;}
 
@@ -5756,3 +5756,8 @@ titleWrapper-1l0xT9 .streaming-2_dnHeT{background:#593695;border: none !importan
 
 .role-2irmRk:hover .roleCircleButton-377y0l {transition: transform 0.2s;transform: translateX(0);}
 
+.videoWrapper-2wbLD- .elevationHigh-3A9Xbf {top: unset;left: unset;}
+
+.backgroundBlurOverlay-1JS5RF {filter:none;}
+
+.wrapper-3eE7AX ,.videoBackgroundWrapper-2dCt49 {background-color: transparent;}
