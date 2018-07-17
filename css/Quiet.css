@@ -5748,10 +5748,11 @@ titleWrapper-1l0xT9 .streaming-2_dnHeT{background:#593695;border: none !importan
 
 .roleName-32vpEy {margin: 0 4px;}
 
-.roleCircle-3xAZ1j {display: none;}
+.roleCircleButton-377y0l { padding: 0;position: absolute;z-index: 2; height: 22px; top: -1px; left: -1px; border-radius: 2px 0 0 2px;width: 22px;display: flex !important; transition: transform 0.2s;transform: translateX(-30px);}
 
 .addButton-pcyyf6 {line-height: 9px;width: 20px;box-sizing: border-box;}
 
 .roleRemoveIcon-2-TeGW { display: block;}
 
 .role-2irmRk:hover .roleCircleButton-377y0l {transition: transform 0.2s;transform: translateX(0);}
+
