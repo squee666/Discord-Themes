@@ -1295,3 +1295,9 @@ background-color: var(--RB) !important;
 .container-3nXdBP {background-color: rgba(0, 0, 0, 0.75) !important;}
 
 .justifyBetween-2tTqYu .lookOutlined-3sRXeN.colorWhite-rEQuAQ {border-color: var(--mc) !important;}
+
+.theme-dark .friends-table .messages .message-group-blocked, .theme-dark .messages-wrapper .messages .message-group-blocked {background: var(--RB) !important;border-color: var(--hc);}
+
+.theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn, .theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn {background: var(--RB);}
+
+.theme-dark .friends-table .messages .message-group-blocked.revealed, .theme-dark .messages-wrapper .messages .message-group-blocked.revealed {border: 2px solid var(--hc);}
