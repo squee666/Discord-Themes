@@ -2443,7 +2443,7 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 *[style*="81388395867156480"] {background-image:url(https://i.imgur.com/5dMIWlw.png)!important;}
 
-.app .guilds>div.guild:first-child .badge{margin: 0px 2px 0px 0px !important;padding: 21px 38px 16px 35px;border-radius: 0px !important;background-color: var(--QT);border-bottom: 2px solid var(--mc);transition: .2s background-color linear;}
+.app .guilds>div.guild:first-child .badge{margin-right: 10px;margin-bottom: 30px;}
 
 .app .guilds>div.guild:first-child:hover .badge{background-color: var(--QTD);}
 
@@ -4438,7 +4438,7 @@ display: none !important;}
 
 input,textarea {color: white;}
 
-.badge { line-height: 10px;padding: 3px 5px;background-color: var(--mc);}
+.badge { line-height: 10px;padding: 2px 5px;background-color: var(--mc);}
 
 .height24-2pMcnc {line-height: 25px !important;;}
 
