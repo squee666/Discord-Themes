@@ -5244,7 +5244,7 @@ background-image: none;
 
 .channels-Ie2l6A {    background-color: var(--QT);}
 
-.chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-'], #friends [class*='flex-'] [class*='flex-']:last-of-type, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type {
+.chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-'], #friends [class*='flex-'] [class*='flex-']:last-of-type{
     margin-right: 90px !important;}
 
 .theme-dark .title-3qD0b- {height: 46px;  background: var(--QT); border-bottom: 2px Solid var(--mc);}
