@@ -5244,8 +5244,7 @@ background-image: none;
 
 .channels-Ie2l6A {    background-color: var(--QT);}
 
-.chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-'], #friends [class*='flex-'] [class*='flex-']:last-of-type{
-    margin-right: 90px !important;}
+.chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-'], #friends [class*='flex-'] [class*='flex-']:last-of-type {margin-right: 90px !important;}
 
 .theme-dark .title-3qD0b- {height: 46px;  background: var(--QT); border-bottom: 2px Solid var(--mc);}
 
@@ -5766,17 +5765,18 @@ span.spinner {margin-top: 0px;}
 
 .wumpusShown-2xKVn_ ,.wumpusWrapper-yrvoR3 {display:none}
 
-,typeMacOS-3EmCyP  .titleBar-AC4pGV {-webkit-box-align: stretch; align-items: stretch; margin-left: 91.8%;width: 105px;}
+.app-19_DXt{position: static}
 
-.titleBar-AC4pGV .macButton-c_Adir{height: 25px;width: 25px;}
+.typeMacOS-3EmCyP,.titleBar-AC4pGV {-webkit-box-align: stretch !important;align-items: stretch !important;margin-left: 93.5% !important;width: 87px !important;margin-top: 3px !important;}
 
-.titleBar-AC4pGV .macButton-c_Adir svg{height: 25px;width: 25px;}
+.typeMacOS-3EmCyP .guilds-wrapper{margin-top: 0 !important;padding: 0 !important;}
 
-.platform-osx .guilds-wrapper{margin-top: 0;padding: 0;}
+.titleBar-AC4pGV .macButton-c_Adir{height: 20px !important;width: 20px !important;}
+
+.titleBar-AC4pGV .macButton-c_Adir svg{height: 20px !important;width: 20px !important;}
 
 .macButton-c_Adir.da-macButtonMinimize.da-macButton,.macButton-c_Adir.da-macButtonMinimize.da-macButton:hover{background-image: none !important;}
 
 .macButtonMaximize-2FMHAO.macButton-c_Adir.da-macButtonMaximize.da-macButton,.macButtonMaximize-2FMHAO.macButton-c_Adir.da-macButtonMaximize.da-macButton:hover{background-image: none !important;}
 
 .popouttop #autocomplete-popout .autocomplete-arrow-wrapper{display:none;}
-
