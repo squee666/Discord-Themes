@@ -1302,4 +1302,4 @@ background-color: var(--RB) !important;
 
 .theme-dark .friends-table .messages .containerCozy-jafyvG-blocked.revealed, .theme-dark .messages-wrapper .messages .containerCozy-jafyvG-blocked.revealed {border: 2px solid var(--hc);}
 
-.containerCozy-jafyvG .isMentionedCozy-3isp7y {background-color: var(--RB);}
+.containerCozy-jafyvG .isMentionedCozy-3isp7y {background-color: var(--RB) !important;}
