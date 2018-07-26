@@ -1,0 +1,27 @@
+.containerCozy-jafyvG::before {
+    content: ''!important;
+    background: var(--RB);
+    border-radius: 4px;
+    display: block;
+    position: absolute;
+    border-radius: 11px;
+    width: calc(100% - 62px);
+    height: 100%;
+    min-height:10px;
+    z-index: -1;
+    top: 0px;
+    left: 62px;
+}
+.containerCozy-jafyvG::after {
+    content: ''!important;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent !important;
+    border-bottom: 10px solid transparent !important;
+    border-right: 10px solid var(--RB)!important ;
+    position: absolute;
+    top: 18px;
+    left: 52px;
+}
+
+.containerCozy-jafyvG { position: relative;}
