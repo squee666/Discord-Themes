@@ -15,7 +15,7 @@
     --main-color: var(--mc) !important;
     --hover-color: var(--hc) !important;
     --br: 50%;
-    --quaternary-color:var(--QTD) !important;
+    --quaternary-color:var(--QTD)!important;
 }
 }
 
@@ -386,8 +386,6 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 /* Server list area */
 .guilds-wrapper{background:var(--QT);}
-
-div.containerCozy-jafyvG{background-color:var(--QT);}
 
 
 .scroller-wrap .scroller::-webkit-scrollbar-thumb{border:3px solid transparent !important;background-color:var(--mc) !important;}
@@ -5787,12 +5785,13 @@ span.spinner {margin-top: 0px;}
 
 .message-1PNnaP { margin-bottom: 0px;}
 
+
 .messagesPopout-24nkyi .containerCozy-jafyvG {padding: 12px 0px !important;}
+
 
 .delete-msg-btn {margin-right: 20px;}
 
 .slider-3BOep7 {top: -12px;}
 
-.bubble-3we2di {left: -21px !important;top: -32px !important;
-	
-	
+.bubble-3we2di {left: -21px !important;top: -32px !important;}
+
