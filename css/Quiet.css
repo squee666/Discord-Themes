@@ -5785,9 +5785,7 @@ span.spinner {margin-top: 0px;}
 
 .message-1PNnaP { margin-bottom: 0px;}
 
-
 .messagesPopout-24nkyi .containerCozy-jafyvG {padding: 12px 0px !important;}
-
 
 .delete-msg-btn {margin-right: 20px;}
 
@@ -5795,3 +5793,18 @@ span.spinner {margin-top: 0px;}
 
 .bubble-3we2di {left: -21px !important;top: -32px !important;}
 
+.container-1UB9sr {border-bottom: 0px solid transparent;}
+
+.notice-3I4-y_, .notice-2FJMB4 {font-size: 0px !important;height: 4px;line-height: 18px;position: fixed;top: 46px;width: 100%;transition: all .2s linear;}
+
+.notice-3I4-y_:hover, .notice-2FJMB4:hover {font-size: 14px !important;height: 38px;line-height: 38px;position: fixed;top: 46px;width: 100%;}
+
+.notice-3I4-y_:hover dismiss-1QjyJW, .notice-2FJMB4:hover .dismiss-SCAH9H {height: 36px;}
+
+dismiss-1QjyJW, .dismiss-SCAH9H {height: 0px;right: 100px;transition: all .2s linear;}
+
+.divider-3573oO,.button-1MICoQ {display: none !important;}
+
+.notice-3I4-y_ .button-1MICoQ, .notice-2FJMB4 .button-1MICoQ {transform: scale(0);opacity: 0;display: inline-block !important;transition: transform .1s linear, opacity .2s linear;}
+
+.notice-3I4-y_:hover .button-1MICoQ, .notice-2FJMB4:hover .button-1MICoQ {transform: none;opacity: 1;}
