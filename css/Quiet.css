@@ -2439,9 +2439,9 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 *[style*="81388395867156480"] {background-image:url(https://i.imgur.com/5dMIWlw.png)!important;}
 
-.app .guilds>div.guild-1EfMGQ:first-child .badge-1GsMF2{margin-right: 10px;margin-bottom: 30px;}
+.app .guilds-1q_RqH>div.guild-1EfMGQ:first-child .badge-1GsMF2{margin-right: 10px;margin-bottom: 30px;}
 
-.app .guilds>div.guild-1EfMGQ:first-child:hover .badge-1GsMF2{background-color: var(--QTD);}
+.app .guilds-1q_RqH>div.guild-1EfMGQ:first-child:hover .badge-1GsMF2{background-color: var(--QTD);}
 
 
 .members-1998pB,.membersGroup-v9BXpm[style*="81388395867156480"] ~ .member-inner .member-username .member-username-inner::after{line-height: 26px!important;}
@@ -5816,3 +5816,5 @@ dismiss-1QjyJW, .dismiss-SCAH9H {height: 0px;right: 100px;transition: all .2s li
 .theme-dark .search .public-DraftEditorPlaceholder-root{color:transparent;}
 
 .search .search-bar:hover .public-DraftEditorPlaceholder-root,.search.focused .search-bar .public-DraftEditorPlaceholder-root,.search.open .search-bar .public-DraftEditorPlaceholder-root {color:var(--mc);}
+
+
