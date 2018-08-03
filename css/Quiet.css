@@ -6036,3 +6036,5 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .wrapper-3WhCwL {background-color: rgba(0,0,0,0.5);border-radius: 3px;}
 
 .base-3dtUhz {border-radius: 0px !important}
+
+.avatarDefault-35WC3R, .avatarSpeaking-1wJCNq{border-radius:var(--br);}
