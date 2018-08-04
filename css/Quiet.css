@@ -4977,7 +4977,7 @@ color: transparent;}
 #user-profile-modal .guilds-1q_RqH .guild-1EfMGQ .large-3ChYtB:empty { border-radius: var(--br)!important;}
 ui-call-avatar.video,.ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radius:var(--br) important;}  
 .status-oxiHuE {border-radius: var(--br) !important;}
-.badge-1GsMF2 {border-radius:  var(--br) !important;}
+.badge-1GsMF2, .iconInactive-98JN5i {border-radius:  var(--br) !important;}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,.guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq  { border-radius:var(--br)!important;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-of-type .guildInner-3DSoA4 {border-radius:0px !important;}
@@ -5548,7 +5548,7 @@ span.spinner {margin-top: 0px;}
 
 .theme-dark .noChannel-Z1DQK7 {background: var(--QT);}
 
-.theme-dark .messagesPopoutWrap-1MQ1bW { margin-top: 11px !important;}
+.theme-dark .messagesPopoutWrap-1MQ1bW { margin-top: 10px !important;}
 
 .friends-column.friends-column-status > .status-streaming {background-color: #593695;border:0px solid transparent !important;}
 
@@ -6038,3 +6038,4 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .base-3dtUhz {border-radius: 0px !important}
 
 .avatarDefault-35WC3R, .avatarSpeaking-1wJCNq{border-radius:var(--br);}
+
