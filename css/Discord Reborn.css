@@ -1296,11 +1296,11 @@ background-color: var(--RB) !important;
 
 .justifyBetween-2tTqYu .lookOutlined-3sRXeN.colorWhite-rEQuAQ {border-color: var(--mc) !important;}
 
-.theme-dark .friends-table .messages-3amgkR .containerCozy-jafyvG-blocked, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .containerCozy-jafyvG-blocked {background: var(--RB) !important;border-color: var(--hc);}
+.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX {background: var(--RB) !important;border-color: var(--hc);}
 
-.theme-dark .friends-table .messages-3amgkR .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn {background: var(--RB);}
+.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlocked-3wrQQX-btn, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlocked-3wrQQX-btn {background: var(--RB);}
 
-.theme-dark .friends-table .messages-3amgkR .containerCozy-jafyvG-blocked.revealed, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .containerCozy-jafyvG-blocked.revealed {border: 2px solid var(--hc);}
+.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX.revealed, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX.revealed {border: 2px solid var(--hc);}
 
 .containerCozy-jafyvG .isMentionedCozy-3isp7y {background-color: var(--RB) !important;}
 
