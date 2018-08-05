@@ -964,9 +964,9 @@ div.control-group .shortcut-recorder input[type=text]{border:2px solid var(--mc)
 
 .gitbutton:hover,.docsbutton:hover,.serverbutton:hover,.donatebutton:hover{background-color:var(--hc);}
 
-.chat-3bRxxu .jumpToPresentBar-9P20A button:first-child {display:none}
+.chat-3bRxxu .jumpToPresentBar-9P20AM button:first-child {display:none}
 
-.jumpToPresentBar-9P20A{left:auto!important;}
+.jumpToPresentBar-9P20AM{left:auto!important;}
 
 .chat-3bRxxu .divider-3gKybi:before{display:none;}
 
@@ -1096,11 +1096,11 @@ code{background:var(--QTD) !important;}
 
 .theme-dark .channel-textarea-inner{border-color:#1D1C1B;}
 
-.chat-3bRxxu .jumpToPresentBar-9P20A button:last-child{color:#fff;}
+.chat-3bRxxu .jumpToPresentBar-9P20AM button:last-child{color:#fff;}
 
-.theme-dark .chat-3bRxxu .jumpToPresentBar-9P20A{background-color:var(--mc);}
+.theme-dark .chat-3bRxxu .jumpToPresentBar-9P20AM{background-color:var(--mc);}
 
-.theme-dark .chat-3bRxxu .jumpToPresentBar-9P20A:hover{background-color:var(--hc);}
+.theme-dark .chat-3bRxxu .jumpToPresentBar-9P20AM:hover{background-color:var(--hc);}
 
 .context-menu,.small-popout-box{-webkit-animation:animation-folding .3s cubic-bezier(.2,.6,.5,1.1);animation:animation-folding .3s cubic-bezier(.2,.6,.5,1.1);-webkit-transform-origin:50% 0;transform-origin:50% 0;}
 
@@ -1311,7 +1311,7 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .streaming>.creation-date-wrapper{display:none;}
 
-.chat-3bRxxu .jumpToPresentBar-9P20A .spinner{padding-right:7px;padding:8px;padding-left:50px;}
+.chat-3bRxxu .jumpToPresentBar-9P20AM .spinner{padding-right:7px;padding:8px;padding-left:50px;}
 
 .account .btn-settings:after{background-image:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_settings_white_24px.svg) !important;zoom:1.2;}
 
@@ -3680,7 +3680,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .theme-light .scroller-wrap:hover .scroller::-webkit-scrollbar-track-piece{border: 3px solid #fff !important;background-color: #ececec !important;}
 
-.theme-light .chat-3bRxxu .jumpToPresentBar-9P20A{background-color: var(--mc);}
+.theme-light .chat-3bRxxu .jumpToPresentBar-9P20AM{background-color: var(--mc);}
 
 .theme-light .create-guild-container.deprecated,.theme-light .create-guild-container.deprecated .create-or-join .form-inner,.theme-light .form.deprecated .form-inner,.theme-light .form.deprecated .form-actions{background-color: #fff;}
 
