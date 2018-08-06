@@ -9,8 +9,8 @@ IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
 ===== CUSTOMIZABLE COLORS / IMAGES =====
 */
 :root { 
---mc: #cc1444 !important;                                   /*Main Colour*/     
---hc: #770425 !important;                                   /*Hover Colour*/       
+--mc: #007dbd !important;                                   /*Main Colour*/     
+--hc: #03679b !important;                                   /*Hover Colour*/          
 --BG: url("https://i.imgur.com/d3lnerI.jpg") !important;    /*Wallpaper*/   
 --RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/  
 --RBT: rgba(0,0,0,0.70) !important;                         /*Reborn Transparency For Popouts*/ 
