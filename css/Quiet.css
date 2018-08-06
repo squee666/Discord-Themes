@@ -2411,6 +2411,12 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .app .guilds-1q_RqH .guild-1EfMGQ:first-child{border-bottom: 2px solid var(--mc);background: var(--QT);top: 0px;height: 46px;position: fixed;width: 79px;left: -3px;margin-top: 0px !important;z-index: 2;}
 
+.guildsWrapper-5TJh6A.folderopen .guilds-1q_RqH  .guild-1EfMGQ:first-child{position:relative !important;}
+
+.foldercontainer{  padding: 0px 0px 10px 15px;}
+
+.guildsWrapper-5TJh6A.folderopen .guilds-1q_RqH  {padding: 10px 0 10px 15px !important;}
+
 .app .guilds-1q_RqH .guild-1EfMGQ:first-of-type .guildInner-3DSoA4{background: var(--QT) !important;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-of-type .guildInner-3DSoA4{background: transparent !important;}
