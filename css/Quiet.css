@@ -704,7 +704,7 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .uploadModal-2ifh8j .inner-3nWsbo .file-XhJJS_ .icon-kyxXVr.image-2yrs5j {border: 2px solid var(--mc) !important;}
 
-.uploadModal-2ifh8j .inner-3nWsbo {border: 2px dashed var(--mc) !important;}
+.uploadModal-2ifh8j .inner-3nWsbo {border: none !important;margin-bottom: 0px;}
 
 .uploadModal-2ifh8j .footer-3mqk7D .button:hover {background-color: var(--hc)!important;}
 
@@ -721,6 +721,8 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 .containerCozy-jafyvG h2 .timestampCozy-2hLAPV{color:#b5b5b5;}
 
 .radio-theme.light{display:none;}
+
+.uploadModal-2ifh8j {border: 2px dashed var(--mc) !important;}
 
 .radio-theme input[type=radio]:checked~label{width:500px;background-image:none;background:#27ae60;border-color:var(--mc);}
 
@@ -4519,6 +4521,8 @@ input,textarea {color: white;}
 
 .theme-brand .emojiButton-38mF6t{top: 10px;}
 
+.uploadModal-2ifh8j .footer-3mqk7D {border-top: 2px dashed var(--mc) !important;}
+
 .uploadModal-2ifh8j,.uploadModal-2ifh8j .footer-3mqk7D{background-color: var(--QT) !important;}
 	
 .theme-dark .wrapper-VSYYTS,.theme-dark .form-deprecated .form-header,.theme-dark .form.deprecated .form-header,.theme-dark .form-deprecated .form-inner,.theme-dark .form.deprecated .form-inner,.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions{background: transparent !important;}
@@ -5382,9 +5386,11 @@ background-image: none;
 
 .member-3W1lQa {  margin: 1px 0 1px 24px;}
 
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j:hover {height: 208px;transition: all .3s ease-in-out;width: calc(100% - 28px);transform: translateY(calc(-50% - 10px));}
+
 .popoutBottom-1YbShG{ margin-top: -3px;}
 
-.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j { background-color: var(--QT); border: 2px solid var(--mc);}
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j { background-color: var(--QT); border: 2px solid var(--mc);transition: all .3s ease-in-out;margin-top: -5px;}
 
 
 .item-PXvHYJ { font-size: 15px;line-height: 15px;}
