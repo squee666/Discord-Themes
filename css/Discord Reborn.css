@@ -42,8 +42,7 @@ text-shadow: 1px 1px 0px black;
 
 .theme-dark .container-RYiLUQ,
 .theme-dark .layer,
-.theme-dark .title-3qD0b- ,
-.private-channels,
+.theme-dark .title-3qD0b-,.private-channels,
 .theme-dark .layers,
 .theme-dark .ui-video,
 #app-mount .titleWrapper-3Vi_wz > div,
@@ -1305,3 +1304,5 @@ background-color: var(--RB) !important;
 .containerCozy-jafyvG .isMentionedCozy-3isp7y {background-color: var(--RB) !important;}
 
 #bd-pub-button {background-color: var(--RB) !important;}
+
+.guildsWrapper-5TJh6A.folderopen{margin-top:0px !important;}
