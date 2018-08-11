@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
-@import "https://intrnl.github.io/derealised/dist/tags.css"; 
+@import "https://intrnl.github.io/derealised/dist/tags.css";
 @import "https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css";
 
 
@@ -5678,4 +5678,9 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 { background-color: var(--hc);}
 
+.theme-dark .premium-33BYwD, .theme-light .premium-33BYwD {background-image: -webkit-gradient(linear,left top,right top,from(var(--hc)),to(var(--mc)));}
+
+.theme-dark .premium-33BYwD:before {-webkit-mask: url(/assets/04a2e1509ad72be575b1529b51ea3977.svg); background-color: var(--hc);background-image: none;-webkit-mask-size: 120%; -webkit-mask-repeat: no-repeat;-webkit-mask-position: center;}
+
+.betaTag-1tngRx { background-color: var(--hc);color: white;}
 
