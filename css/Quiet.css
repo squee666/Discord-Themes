@@ -1708,7 +1708,7 @@ form.modal-content.form.need-help-modal::after{content:"";background:#fff;positi
 
 .need-help-modal.form.deprecated .form-inner.loading{background:transparent;padding-bottom:0px;padding-top:0px;}
 
-.need-help-modal.form.deprecated .form-inner.loading::after{content:"C\0332 r\0332 e\0332 a\0332 t\0332 o\0332 r\0332 :\A Izy#6549 \A\A P\0332 e\0332 r\0332 s\0332 o\0332 n\0332 a\0332 l\0332 S\0332 e\0332 r\0332 v\0332 e\0332 r\0332:\A https://discord.gg/TeRQEPb \A\A D\0332 o\0332 n\0332 a\0332 t\0332 i\0332 o\0332 n\0332:\A paypal.me/Piercex \A\A C\0332 r\0332 e\0332 d\0332 i\0332 t\0332 s\0332:\A ? Dingus#6977 (Helper)";padding:38px;min-height:200px;background-color:var(--QT);width:100%;white-space:pre;color:#fff;}
+.need-help-modal.form.deprecated .form-inner.loading::after{text-align: center;content:"C\0332 r\0332 e\0332 a\0332 t\0332 o\0332 r\0332 :\A Izy#6549 \A\A P\0332 e\0332 r\0332 s\0332 o\0332 n\0332 a\0332 l\0332 S\0332 e\0332 r\0332 v\0332 e\0332 r\0332:\A https://discord.gg/TeRQEPb \A\A D\0332 o\0332 n\0332 a\0332 t\0332 i\0332 o\0332 n\0332:\A paypal.me/Piercex \A\A C\0332 r\0332 e\0332 d\0332 i\0332 t\0332 s\0332:\A ? Dingus#6977 (Helper)";padding:38px;min-height:200px;background-color:var(--QT);width:100%;white-space:pre;color:#fff;}
 
 .need-help-modal.form.deprecated .form-inner > ul{display:none;}
 
@@ -4596,7 +4596,7 @@ ui-call-avatar.video,.ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radi
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild.audio .guildInner-3DSoA4:after,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild.video .guildInner-3DSoA4:after {background-position: 40%; background-size: 17px; border-radius: var(--br); height: 18px; right: 2px; top: 2px; width: 18px;}
 
-.ui-standard-sidebar-view .btn-close {border-radius: var(--br);margin-top: 60px !important;}
+.ui-standard-sidebar-view .btn-close {border-radius: var(--br);margin-top: 30px !important; margin-left: -5px;}
 
 .sizeDefault-2YlOZr { border-radius: var(--br)/20px;}
 
