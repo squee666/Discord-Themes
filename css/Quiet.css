@@ -3864,7 +3864,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .reaction-1ELvT8 {width: 26px;height: 26px;padding: 0;margin-right: 4px;transform: none!important;}
 
-.reaction-1ELvT8 .reactionCount-2ddRoS {position: absolute !important;;opacity: 0.5;left: 0;right: 0;font-size: 11px;letter-spacing: 0;margin: 0 auto;z-index: 5;text-align: center;display: block;min-width: 32px!important;}
+.reaction-1ELvT8 .reactionCount-2ddRoS {position: absolute !important;;opacity: 0.8;left: 0;right: 0;font-size: 11px;letter-spacing: 0;margin: 20px auto;z-index: 5;text-align: center;display: block;min-width: 32px!important;}
 
 .reactions-1xb2Ex .reactionBtn-2na4rd {visibility: visible;opacity: 0.8!important;margin-top: -16px;}
 
@@ -5689,5 +5689,10 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .to-2819fF .image-EVRGPw {box-shadow:none !important;}
 
 .to-2819fF {box-shadow: 0 0 0 4px var(--hc);background-color: var(--hc);}
+
+#RANbutton-frame {margin-bottom: 0px !important;}
+#RANbutton { line-height: 20px !important;} 
+#RANbutton-frame .guildInner-3DSoA4:hover {    border-radius: 3px !important;} 
+#RANbutton-frame .guildInner-3DSoA4 {width: 46px !important;height: 20px !important;border-radius: 3px !important; margin-top: 0px !important;}
 
 
