@@ -5700,4 +5700,6 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .themedPagination-3v0Dnu .dot-2Q_mMZ {background-color: var(--mc) !important;}
 .playerOverflow-3X56UI {background-color: var(--hc);}
 
-
+.theme-dark .isLocalBot-38G0P0 {box-shadow:none !important;background-image: none !important;}
+.theme-dark .isLocalBot-38G0P0.containerCozy-jafyvG {padding:0px !important;}
+.icon-2Po-VO {margin-top: 0;position: relative;}
