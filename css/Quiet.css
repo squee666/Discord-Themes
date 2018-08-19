@@ -5703,3 +5703,11 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .isLocalBot-38G0P0 {box-shadow:none !important;background-image: none !important;}
 .theme-dark .isLocalBot-38G0P0.containerCozy-jafyvG {padding:0px !important;}
 .icon-2Po-VO {margin-top: 0;position: relative;}
+
+.regionSelectModal-12e-57 {background: var(--QT);}
+
+.regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 { background-color: transparent;border: 2px solid var(--hc) !important;}
+
+.regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3:hover {border-color:var(--mc)!important;}
+
+.regionSelectModal-12e-57 .regionSelectModalHeader-21khC1 {color: var(--mc);}
