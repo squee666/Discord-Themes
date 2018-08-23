@@ -3860,7 +3860,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .reaction-1ELvT8 .emoji {height: 25px;width: 25px;margin: 0px 0px 0px -5px !important;background: none;}
 
-.reaction-1ELvT8.reactionMe-23mbRf {background: var(--mc);}
+.reaction-1ELvT8.reactionMe-23mbRf {background: rgba(0,0,0,0.7) !important;border: 2px solid var(--mc);}
 
 .reaction-1ELvT8 {width: 26px;height: 26px;padding: 0;margin-right: 4px;transform: none!important;}
 
@@ -5658,7 +5658,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .option-n0icdO:hover {background-color: var(--hc);}
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)::before {display:none !important;}
+.large-3ChYtB:not(.wrapper-2F3Zv8)::before {color: transparent;}
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="402272736665272320"]::after {display:none;}
 
 .theme-dark .input-autosize:hover .input-autosize-input, .theme-dark .input-autosize-input:focus {border: 2px solid var(--mc);box-shadow: none;background-color: var(--QTD);}
@@ -5707,3 +5707,5 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3:hover {border-color:var(--mc)!important;}
 
 .regionSelectModal-12e-57 .regionSelectModalHeader-21khC1 {color: var(--mc);}
+
+
