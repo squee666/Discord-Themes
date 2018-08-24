@@ -3858,17 +3858,17 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .contentCozy-3XX413 .reaction,.contentCozy-3XX413p .reaction-1ELvT8 .emoji {border-radius: 30%;border: none;padding: 8px;width: 30px;height: 30px;margin-bottom: 15px!important;}
 
-.reaction-1ELvT8 .emoji {height: 25px;width: 25px;margin: 0px 0px 0px -5px !important;background: none;}
+.reaction-1ELvT8 .emoji {height: 25px !important;width: 25px !important;margin:-1px 0px 1px -6px !important;background: none;}
 
 .reaction-1ELvT8.reactionMe-23mbRf {background: rgba(0,0,0,0.7) !important;border: 2px solid var(--mc);}
 
-.reaction-1ELvT8 {width: 26px;height: 26px;padding: 0;margin-right: 4px;transform: none!important;}
+.reaction-1ELvT8 {width: 28px;height: 28px;padding: 0;margin-right: 4px;transform: none!important;}
 
 .reaction-1ELvT8 .reactionCount-2ddRoS {position: absolute !important;;opacity: 0.8;left: 0;right: 0;font-size: 11px;letter-spacing: 0;margin: 20px auto;z-index: 5;text-align: center;display: block;min-width: 32px!important;}
 
 .reactions-1xb2Ex .reactionBtn-2na4rd {visibility: visible;opacity: 0.8!important;margin-top: -16px;}
 
-reaction-1ELvT8::before,.contentCozy-3XX413p reaction-1ELvT8n::after {content: "";display: block;position: absolute;border-radius: 30%;opacity: 0;}
+.reaction-1ELvT8::before,.contentCozy-3XX413p reaction-1ELvT8n::after {content: "";display: block;position: absolute;border-radius: 30%;opacity: 0;}
 
 .reactionMe-23mbRf::after {opacity: 1;}
 
@@ -3879,8 +3879,6 @@ reaction-1ELvT8::before,.contentCozy-3XX413p reaction-1ELvT8n::after {content: "
 .reaction.reaction-1ELvT8 .reactionCount-2ddRoS {margin-top: 22px;color: white !important;margin-left: -1px; !important}
 
 .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {margin-top: 22px;color: white !important;margin-left: -3px !important;}
-
-.reaction-1ELvT8.reactionMe-23mbRf{background: var(--mc)!important;}
 
 .ui-standard-sidebar-view .sidebar-region .sidebar {padding: 25px 10px 10px 25px !important;width: 200px !important;}
 
