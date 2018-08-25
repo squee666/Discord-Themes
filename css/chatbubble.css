@@ -29,9 +29,9 @@ position: absolute;
 margin-top: -100% !important;
 margin-left: 10-% !important;
 }
-.messagesPopoutWrap-1MQ1bW .container-1YxwTf .headerCozy-2N9HOL {margin-left: -20px !important;}
+.messagesPopoutWrap-1MQ1bW .container-1YxwTf .headerCozy-2N9HOL {margin-left: 10px !important;margin-right: -20px;}
 .messagesPopoutWrap-1MQ1bW .container-1YxwTf:last-child {margin-left: 0px !important;}
-.messagesPopoutWrap-1MQ1bW .contentCozy-3XX413 { margin-left: 40px !important;}
+.messagesPopoutWrap-1MQ1bW .contentCozy-3XX413 { margin-left: 60px !important;}
 .messagesPopoutWrap-1MQ1bW .containerCozy-jafyvG .large-3ChYtB.wrapper-2F3Zv8:after{ display:none;}
 .messagesPopoutWrap-1MQ1bW .headerCozy-2N9HOL .wrapper-2F3Zv8 {margin-left: 0px !important;margin-right: 10px !important;}
 .container-3-pyIM {margin-left: -10px; padding: 0px;}
