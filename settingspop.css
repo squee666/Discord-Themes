@@ -1,0 +1,18 @@
+.layer-3QrUeG:nth-child(1) {
+    animation: none !important;
+	transition: none !important;
+	opacity: 1 !important;
+	transform: none !important;}
+.tools .btn-close, .tools .esc-text {position: fixed;}
+.layer-3QrUeG[layer-id*="user-setting"] {
+	background-color: rgba(0,0,0,0.7) !important;z-index: 101 !important;}
+.layer-3QrUeG[layer-id*="user-setting"] .ui-standard-sidebar-view ,.theme-dark .ui-standard-sidebar-view {
+	max-height: 80%;max-width: 85%;top: 10%;left: 7.5%;background: var(--BG) ! important;
+    background-size: cover ! important;background-position: center ! important;border-radius: 15px;}
+.theme-dark .ui-standard-sidebar-view .content-region{ border-bottom-right-radius: 15px;border-top-right-radius: 15px;}
+.theme-dark .ui-standard-sidebar-view,.theme-dark .ui-standard-sidebar-view .sidebar-region {
+background: transparent;border-top-left-radius: 15px;border-bottom-left-radius: 15px;}
+.messagesPopout-24nkyi .containerCozy-jafyvG {padding: 12px 0px !important;}
+.delete-msg-btn {margin-right: 20px;}
+.containerCozy-jafyvG .isMentionedCozy-3isp7y  {margin-right: 10px;} 
+.containerCozyBounded-1rKFAn { overflow: visible; }
