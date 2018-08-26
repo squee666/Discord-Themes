@@ -4019,7 +4019,7 @@ display: none !important;}
 
 .theme-dark .menu-Sp6bN1 { box-shadow: none;}
 
-.item-1GzJrl:hover {background-color: #222427 !important;}
+.item-1GzJrl:hover {background-color: #222427;}
 
 .theme-dark .item-1GzJrl { background: var(--QT);}
 
@@ -5727,3 +5727,5 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .card-FDVird:before { border: 2px solid transparent;}
 
 .card-FDVird.active-nvdKfC:before, .card-FDVird:hover:before {opacity: 1;border: 2px solid var(--hc) !important;}
+
+
