@@ -2850,7 +2850,7 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .emoji {margin: 0 !important;}
 
-.theme-dark [class*="cardPrimaryEditable"],.theme-dark [class*="cardPrimary"],.theme-dark [class*="cardPrimaryOutline"],.theme-dark [class*="headerClickable"],.theme-dark [class*="headerDefault"],.theme-dark [class*="headerExpanded"] {background: #171719 !important;border-color: rgba(32,34,37,0) !important;box-shadow: 0px 0px 3px 1px #121212;}
+.theme-dark [class*="cardPrimaryEditable"],.theme-dark [class*="cardPrimary"],.theme-dark [class*="cardPrimaryOutline"],.theme-dark [class*="headerClickable"],.theme-dark [class*="headerDefault"],.theme-dark [class*="headerExpanded"] {background: #171719 !important;border:2px solid transparent box-shadow: none;}
 
 .theme-dark [class*="changeDetails"] {background: var(--QT) !important;border-color: rgba(32,34,37,0) !important;box-shadow: 0px 0px 3px 1px #121212;}
 
@@ -3860,10 +3860,10 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .reaction-1ELvT8 .emoji {margin: 0!important;background: none;opacity: 1 !important;}
 .reactionInner-rRPZdY {padding:0px;}
-.reaction-1ELvT8.reactionMe-23mbRf  {background: var(--mc);border-radius: 10px;opacity: 1 !important;}
+.reaction-1ELvT8.reactionMe-23mbRf  {background: var(--mc) !important;border-radius: 10px;opacity: 1 !important;}
 .reaction-1ELvT8 { border-radius: 10px;background-color: var(--hc);opacity: 0.7 !important;}
 .reaction-1ELvT8 .emoji {width: 32px;height: 32px;padding: 0;margin-right: 4px;transform: none!important;border-radius: 10px;opacity: 1 !important; }
-
+.theme-dark .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {color: white;font-weight: 500;}
 .reaction-1ELvT8 .reactionCount-2ddRoS {position: absolute !important;margin-top: 22px !important;color: #fff;opacity: 0.5;left: 0;right: 0;font-size: 11px;letter-spacing: 0;margin: 0 auto;z-index: 5;text-align: center;display: block;min-width: 32px!important;}
 
 .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {opacity: 1;}
@@ -5710,7 +5710,20 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .connectedAccountVerifiedIcon-3aZz_K path:first-of-type,.connectedAccountVerifiedIcon-3aZz_K path:nth-of-type(2) {fill: var(--hc);}
 
+.theme-dark [class*="cardPrimaryEditable"]:hover, .theme-dark [class*="cardPrimary"]:hover, .theme-dark [class*="cardPrimaryOutline"]:hover, .theme-dark [class*="headerClickable"], .theme-dark [class*="headerDefault"]:hover, .theme-dark [class*="headerExpanded"]:hover {border:2px solid var(--hc) !important;}
 
+.theme-dark .notificationsSound-27jFSh {box-shadow: inset 0 -1px 0 0 var(--hc);}
 
+.theme-dark .Select-control, .emoji-alias-input .emoji-input {border:2px solid transparent !important;}
 
+.theme-dark .Select-control:hover, .emoji-alias-input .emoji-input:hover {border: 2px solid var(--hc) !important;}
 
+#bd-settingspane-container .ui-switch-item .style-description {border-bottom: 1px solid var(--hc);}
+
+.theme-dark .item-3eFBNF {box-shadow: inset 0 -1px 0 0 var(--hc);}
+
+.theme-dark .user-settings-games .game {box-shadow: inset 0 -1px 0 0 var(--hc);}
+
+.card-FDVird:before { border: 2px solid transparent;}
+
+.card-FDVird.active-nvdKfC:before, .card-FDVird:hover:before {opacity: 1;border: 2px solid var(--hc) !important;}
