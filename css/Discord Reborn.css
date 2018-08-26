@@ -164,7 +164,7 @@ span.spinner{margin-top: 2px;}
 
 .theme-dark .description-3MVziF,.theme-dark .labelDescriptor-1BebCl{color:#9a9a9a;}
 
-.theme-dark [class*="cardPrimaryEditable"],.theme-dark [class*="cardPrimary"],.theme-dark [class*="cardPrimaryOutline"],.theme-dark [class*="headerClickable"],.theme-dark [class*="headerDefault"],.theme-dark [class*="headerExpanded"] {background: rgba(0,0,0,0.6) !important;border-color: rgba(32,34,37,0) !important;box-shadow: 0px 0px 3px 1px #121212;}
+.theme-dark [class*="cardPrimaryEditable"],.theme-dark [class*="cardPrimary"],.theme-dark [class*="cardPrimaryOutline"],.theme-dark [class*="headerClickable"],.theme-dark [class*="headerDefault"],.theme-dark [class*="headerExpanded"] {background: rgba(0,0,0,0.6) !important;border: 2px solid transparent !important;}
 
 .theme-dark .preview-inner .containerCozy-jafyvG{background-color:transparent;}
 
@@ -231,10 +231,6 @@ span.spinner{margin-top: 2px;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4{background: rgba(0,0,0,0.7) !important;}
 
-.theme-dark .reaction .reaction-count{color: #bbbbbb;}
-
-.theme-dark .reaction.reaction-me{background: var(--mc) !important;}
-
 .containerCozy-jafyvG .comment .markup-2BOw-j code.inline,.containerCozy-jafyvG .comment .markup-2BOw-j pre{background: rgba(0,0,0,0.6) !important;line-height: 22px !important;}
 
 .channel-notices .channel-notice.invite{background: url(https://discordapp.com/assets/bf625d222187f542b9d7179109422e2c.svg) center 20px no-repeat rgba(0,0,0,0.65);}
@@ -242,7 +238,6 @@ span.spinner{margin-top: 2px;}
 .theme-dark .containerCozy-jafyvG.is-local-bot-message{box-shadow: 0 0 transparent;}
 
 .header-toolbar button span[style*='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOCA5LjMyNTg0MjdjMCAuNzQxNTczMDMuNjE2NDM4MzYgMS4zNTk1NTA1NiAxLjM1NjE2NDM4IDEuMzU5NTUwNTYuNzM5NzI2MDMgMCAxLjM1NjE2NDQtLjYxNzk3NzUzIDEuMzU2MTY0NC0xLjM1OTU1MDU2IDAtMS40ODMxNDYwNyAxLjYwMjczOTctMS41NDQ5NDM4MiAxLjc4NzY3MTIyLTEuNTQ0OTQzODIuMTg0OTMxNSAwIDEuNzg3NjcxMjMuMDYxNzk3NzUgMS43ODc2NzEyMyAxLjU0NDk0Mzgydi4zMDg5ODg3NmMwIC42MTc5Nzc1My0uMzA4MjE5MTggMS4xMTIzNTk1NS0uODYzMDEzNyAxLjQyMTM0ODMybC0xLjIzMjg3NjcuNjc5Nzc1MjhjLS42NzgwODIyLjM3MDc4NjUtMS4wNDc5NDUyIDEuMDUwNTYxOC0xLjA0Nzk0NTIgMS43OTIxMzQ4M3YxLjExMjM1OTUyQzExLjE0MzgzNTYzIDE1LjM4MjAyMjUgMTEuNzYwMjczOTYgMTYgMTIuNSAxNmMuNzM5NzI2MDMgMCAxLjM1NjE2NDM4LS42MTc5Nzc1IDEuMzU2MTY0MzgtMS4zNTk1NTA1NnYtLjY3OTc3NTI4bC44NjMwMTM3LS40MzI1ODQyN0MxNi4xMzY5ODYzIDEyLjc4NjUxNjgyIDE3IDExLjMwMzM3MDggMTcgOS42OTY2Mjkydi0uMzcwNzg2NUMxNyA2LjQ4MzE0NjA3IDE0LjcxOTE3ODA4IDUgMTIuNSA1IDEwLjIxOTE3ODA4IDUgOCA2LjQ4MzE0NjA3IDggOS4zMjU4NDI3ek0xMi41IDE3Yy0yIDAtMiAzIDAgM3MyLTMgMC0zeiIvPgo8L3N2Zz4=");']::after{content: var(--theme-letter) !important;}
-
 
 .tutorial-indicators::before,.tutorial-indicators::after{display: none;}
 
@@ -803,7 +798,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH{padding: 0 0 160px 14px !important;}
 
-.theme-dark .searchPopout-1vUlP3 {  box-shadow: none !important; margin-top: 11.5px !important;}
+.theme-dark .searchPopout-1vUlP3 {  box-shadow: none !important;}
 
 .theme-dark .messagesPopoutWrap-1MQ1bW .hasMore-17LQIb button {background: var(--RB)!important;  }
 
@@ -916,7 +911,7 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .menu-Sp6bN1 { background:none !important;}
 
 .theme-dark .item-1GzJrl {background: rgba(0,0,0,0.70);}
-.theme-dark  .item-1GzJrl:hover {background-color: rgba(0,0,0,0.80);!important;}
+.theme-dark  .item-1GzJrl:hover {background-color: rgba(0,0,0,0.80) !important;}
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker {background-color: transparent !important;}
 
@@ -1009,5 +1004,6 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .video-1FfuMD.noChat-3nt48u:not(.idle-1sRXLT) .videoWrapper-2wbLD-:hover .videoBottom-2_HYXG .actions-2vadYq{padding: 16px 20px 80px;}
 
 .note-3kmerW textarea:focus {background-color: var(--RB);}
+
 
 
