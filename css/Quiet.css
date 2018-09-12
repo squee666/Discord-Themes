@@ -76,7 +76,7 @@ padding:15px 20px 15px 18px !important;}
 
 .chat-3bRxxu>.title-wrap>.topic{font-size:14px;margin-top:5px;color:#656565 !important;}
 
-.chat-3bRxxu .divider-3gKybi>span{background:var(--QT) !important;font-size:12px;text-transform:uppercase;margin:0px 0px;border-radius:0px;opacity:1;padding:5px 15px;width:100%;text-align:center;}
+.chat-3bRxxu .divider-3gKybi>span{background:var(--QT) !important;font-size:12px;text-transform:uppercase;margin:0px 0px;border-radius:0px;opacity:1;padding:5px 15px;width:100%;text-align:center !important;}
 
 .chat-3bRxxu>.content-yTz4x3 .messages-3amgkR .containerCozy-jafyvG{border-bottom:none !important;}
 
@@ -4740,8 +4740,8 @@ background-image: none;
 .dnd-1_xrcq .typingSpinnerItem-35chrT { background-color: #f04747;}
 .idle-3DEnRT .typingSpinnerItem-35chrT {background-color: #faa61a;}
 .streaming-2_dnHeT .typingSpinnerItem-35chrT {background-color: #593695;}
-
-.spinner-2enMB9 {margin-left: 1px;background:rgba(0,0,0,0.5);}
+.spinner-2enMB9 {background-color: transparent;}
+.spinner-2enMB9 {margin-left: 1px;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH {   padding: 50px 0 10px 15px;}
 
@@ -5206,7 +5206,7 @@ span.spinner {margin-top: 0px;}
 .titleWrapper-1l0xT9 .online-2S838R{background:#43b581;border: none !important;bottom: 0px;right: 0px;}
 .titleWrapper-1l0xT9 .idle-3DEnRT{background:#faa61a;border: none !important;bottom: 0px;right: 0px;}
 .titleWrapper-1l0xT9 .offline-3qoTek{background:#747f8d;border: none !important;bottom: 0px;right: 0px;}
-.titleWrapper-1l0xT9 .streaming-2_dnHe{background:#593695;border: none !important;bottom: 0px;right: 0px;}
+.titleWrapper-1l0xT9 .streaming-2_dnHe {background:#593695;border: none !important;bottom: 0px;right: 0px;}
 
 .statusProfile-3ynqtt.online-2S838R,.statusProfile-3ynqtt.idle-3DEnRT,.statusProfile-3ynqtt.dnd-1_xrcq{box-shadow: none;}
 
@@ -5728,4 +5728,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .card-FDVird.active-nvdKfC:before, .card-FDVird:hover:before {opacity: 1;border: 2px solid var(--hc) !important;}
 
+.applicationStore-1pNvnv {background-color: var(--QT);}
+
+.wanderingCubesItem-WPXqao{ background-color: var(--mc);}
 
