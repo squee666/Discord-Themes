@@ -42,7 +42,7 @@ text-shadow: 1px 1px 0px black;
 
 .theme-dark .container-RYiLUQ,
 .theme-dark .layer,
-.theme-dark .title-3qD0b-,.private-channels,
+.theme-dark .title-3qD0b-,.privateChannels-1nO12o,
 .theme-dark .layers,
 .theme-dark .ui-video,
 #app-mount .titleWrapper-3Vi_wz > div,
@@ -114,9 +114,9 @@ text-shadow: 1px 1px 0px black;
 
 .theme-dark .guildsWrapper-5TJh6A::before{content: "";background: rgba(0,0,0,0.75);width: 76px;height: 74px;bottom: 0px;position: fixed;}
 
-.theme-dark .private-channels .search-bar-inner{background: rgba(0,0,0,0.4) !important;}
+.theme-dark .privateChannels-1nO12o .searchBar-6Kv8R2-inner{background: rgba(0,0,0,0.4) !important;}
 
-.theme-dark .private-channels .search-bar input{background: transparent !important;}
+.theme-dark .privateChannels-1nO12o .searchBar-6Kv8R2 input{background: transparent !important;}
 
 .theme-dark #friends .friends-table .friends-table-body::after{display: none !important;}
 
@@ -182,7 +182,7 @@ span.spinner{margin-top: 2px;}
 
 .chat-3bRxxu .divider-3gKybi.dividerRed-MKoLlr > span{background-color: rgba(0,0,0,0.5) !important;}
 
-.private-channels .channel.selected a,.private-channels .channel:hover a{background-color: rgba(0,0,0,0.65) !important;}
+.privateChannels-1nO12o .channel-2QD9_O.selected-1HYmZZ a,.privateChannels-1nO12o .channel-2QD9_O:hover a{background-color: rgba(0,0,0,0.65) !important;}
 
 [class*="nameMutedText-"],[class*="nameMutedVoice-"]{color: #fff !important;opacity: 0.35 !important;}
 
@@ -522,7 +522,7 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 [class*="nameDefault-"] {text-shadow: 1px 1px 0px black;}
 
-.private-channels .channel .channel-name {text-shadow: 1px 1px 2px black !important;}
+.privateChannels-1nO12o .channel .channel-name {text-shadow: 1px 1px 2px black !important;}
 
 .inner-ptMwR- .rtc-connection-status-connected {text-shadow: 0.5px 0.5px 2px black !important;}
 
@@ -1007,4 +1007,4 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 
 .videoHeight-Qp_9vC.fullScreen-lH2Q2c {margin-top:0px !important;}
 
-.applicationStore-1pNvnv {background-color: var(--RB) !important;}
+.applicationStore-1pNvnv {background-color: var(--RB);}
