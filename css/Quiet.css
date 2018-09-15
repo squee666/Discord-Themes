@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
-@import "https://intrnl.github.io/derealised/dist/tags.css";
 @import "https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css";
 
 
@@ -5731,5 +5730,8 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .wanderingCubesItem-WPXqao{ background-color: var(--mc);}
 
 .header-39GIC8 {background-color: var(--QT);}
+
+.guild-1EfMGQ.audio-3vVhBi .guildInner-3DSoA4:after, .guild-1EfMGQ.video-15yGu3 .guildInner-3DSoA4:after {background-color: var(--hc);border-radius: var(--br);height: 20px;right: 0px;top: 0px;width: 20px;}
+
 
 
