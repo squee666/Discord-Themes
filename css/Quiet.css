@@ -5326,7 +5326,7 @@ span.spinner {margin-top: 0px;}
 
 .role-2irmRk { border-width: 1px !important; border-radius: 2px !important; padding: 2px !important;display: block !important; position: relative; line-height: 16px;font-size: 11px !important;font-weight: 400 !important;overflow: hidden;}
 
-.role-2irmRk::before {content: '';position: absolute;top: 0;left: 0;width: 100%; border:10px solid;border-color: inherit;opacity: 0.5;}
+.role-2irmRk::before {content: '';position: absolute;top: 0;left: 0;width: 100%; border:10px solid;border-color: inherit;opacity: 0.5;border-width: calc(0.65em + 4px) .5em;}
 
 .roleName-32vpEy {margin: 0 4px;}
 
