@@ -56,8 +56,8 @@ text-shadow: 1px 1px 0px black;
 .wrapper-VSYYTS,
 .clipboardInputInner-oj8y-S,
 .activity-3NviKQ,
-.theme-dark .friends-table,
-.theme-dark .body-_3kd4C,.header-39GIC8,
+.theme-dark .friends-table,.header-39GIC8,
+.theme-dark .body-_3kd4C,
 .newsLink-38Naqi:hover,.newsLink-38Naqi,.news-XQhS0
 .theme-dark .popout.popout-bottom:not(.no-arrow)[style*="z-index: 1000; overflow: hidden; visibility: visible;"]{
     background:transparent !important;
@@ -894,7 +894,7 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 
 .headerPlaying-j0WQBV {  background: var(--RBT);}
 
-.lookOutlined-3sRXeN.colorWhite-rEQuAQ {   border-color: transparent;border: 2px solid #593695 !important;}
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ {   border-color: transparent;border: 2px solid #593695 ;}
 
 .headerStreaming-2FjmGz {  background: var(--RBT);}
 
@@ -911,7 +911,7 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .menu-Sp6bN1 { background:none !important;}
 
 .theme-dark .item-1GzJrl {background: rgba(0,0,0,0.70);}
-.theme-dark  .item-1GzJrl:hover {background-color: rgba(0,0,0,0.80);}
+.theme-dark  .item-1GzJrl:hover {background-color: rgba(0,0,0,0.80) !important;}
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker {background-color: transparent !important;}
 
@@ -1007,4 +1007,19 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 
 .videoHeight-Qp_9vC.fullScreen-lH2Q2c {margin-top:0px !important;}
 
-.applicationStore-1pNvnv {background-color: var(--RB);}
+.applicationStore-1pNvnv {background-color: var(--RB) !important;}
+
+.gatedContent-3-B7qB {background: var(--RB);}
+
+.theme-dark .defaultIndicator-2X8Auf {background-color: var(--mc);}
+
+.theme-dark .paginator-166-09 {background: var(--RB);}
+
+.theme-dark .expandedInfo-3kfShd {background-color: var(--RB);}
+
+.theme-dark .paymentPane-3bwJ6A ,.theme-dark .payment-xT17Mq { background: var(--RB);}
+
+.theme-dark .body-1CAT0-, .theme-light .body-1CAT0- { background-color: var(--RBT);}
+.theme-dark .bubble-1gL_TN, .theme-light .bubble-1gL_TN { background-color: var(--RB);}
+.theme-dark .content-35aVm0 { background-color: var(--RBT);}
+
