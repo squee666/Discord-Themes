@@ -1023,3 +1023,8 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .theme-dark .bubble-1gL_TN, .theme-light .bubble-1gL_TN { background-color: var(--RB);}
 .theme-dark .content-35aVm0 { background-color: var(--RBT);}
 
+.theme-dark .itemBackground-1jfD8p:before { background: radial-gradient(ellipse at top,transparent,var(--RBT)),-webkit-gradient(linear,left top,right top,from(var(--RBT)),color-stop(40%,transparent),color-stop(60%,transparent),to(var(--RBT))),-webkit-gradient(linear,left bottom,left top,color-stop(10%,var(--RBT)),color-stop(70%,transparent));}
+
+.theme-dark .tile-2H4MQG {background-color: var(--RB) !important;}
+
+.theme-dark .mediaDescription-31GsyQ {background: linear-gradient(180deg,transparent,rgba(0, 0, 0, 0.70) 45%,var(--RB));}
