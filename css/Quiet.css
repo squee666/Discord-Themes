@@ -4067,7 +4067,7 @@ input,textarea {color: white;}
 
 .alt-3btY0e .item-1GzJrl .helper-3X2gjI{color: #dadada;}
 
-.item-1GzJrl:hover{background-color: #171719 !important;color: #fff;}
+.item-1GzJrl:hover{background-color: #171719 ;color: #fff;}
 
 .winButton-U7zAqI{top: -1px;}
 
@@ -4078,7 +4078,6 @@ input,textarea {color: white;}
 .headerPlaying-j0WQBV{background: var(--hc);}
 
 .theme-dark .embedInner-1-fpTo {background-color: var(--QT);border:1px Solid var(--hc);border-radius: 5px;}
-
 
 .headerSpotify-1fSJPO {border-top-left-radius: 11px !important;border-top-right-radius: 11px !important;}
 
@@ -5171,8 +5170,8 @@ span.spinner {margin-top: 0px;}
 
 .ace_scrollbar-v {bottom: 0px !important;}
 
-.ui-standard-sidebar-view .content-column.default {max-width: 800px;}
-
+.ui-standard-sidebar-view .content-column.default {max-width: 90%;}
+.premium-settings, .premium-settings.loading {max-width: 800px;}
 .dockItem-2kQDqg {    padding-top: 10px;width: 90px;height: auto;padding: 5px;}
 
 .dock-10JPBX {margin-top: 10px;border: 1px solid var(--mc);}
@@ -5823,4 +5822,10 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .popout-3sVMXz.popout-googletranslate .themedPopout-25DgLi {background-color: var(--QT);}
 
 .theme-dark .select-2TCrqx .Select-menu-outer {background: var(--QT);border-color: var(--mc);}
+
+.theme-dark .callAvatar-v-u4BM.voice-2D-tt_ .callAvatarStatus-3y6S04 {border-color: transparent;}
+
+[class*='headerBar-'] [class*='flex-'] .inputWrapper-31_8H8, [class*='gameLibrary-'] [class*='flex-'] [class*='flex-'] .inputWrapper-31_8H8 {margin-right: 0px !important;}
+
+
 
