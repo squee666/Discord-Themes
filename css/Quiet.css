@@ -5828,5 +5828,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 [class*='headerBar-'] [class*='flex-'] .inputWrapper-31_8H8, [class*='gameLibrary-'] [class*='flex-'] [class*='flex-'] .inputWrapper-31_8H8 {margin-right: 0px !important;}
 
+.theme-dark .card-NB61oR {background-color: var(--QTD);color: #ffffff;}
 
+.theme-dark .openBody-1HeDPG {background-color: rgba(0, 0, 0, 0.7);}
 
