@@ -5819,6 +5819,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .bubble-1gL_TN:after, .theme-light .bubble-1gL_TN:after {border-top-color: var(--mc)!important;}
 
+
 .theme-dark .popout-3sVMXz.popout-googletranslate .themedPopout-25DgLi {background-color: var(--QT);}
 
 .theme-dark .select-2TCrqx .Select-menu-outer {background: var(--QT);border-color: var(--mc);}
@@ -5841,9 +5842,15 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .blurb-1iBKJy,.theme-dark h2.title-3KTIjF,.gameTitle-3aKSZn ,.theme-dark .freeWithNitro-Ya7UUr, h3.title-3KTIjF, h1.title-3KTIjF , .content-3FEARf,.theme-dark .actionText-3EKWER,.theme-dark .price-4PDWNj{color: #ffffff !important;text-shadow: 1px 1px 0px black; text-align: center;}
 
- .actionText-3EKWER,{margin-left: 10%; width: 200%;}
+.actionText-3EKWER,{margin-left: 10%; width: 200%;}
 
- .freeWithNitro-Ya7UUr {margin-left: 25%;}
+.freeWithNitro-Ya7UUr {margin-left: 25%;}
 
- .mediaDescription-31GsyQ  .freeWithNitro-Ya7UUr {margin-left: 40%;}
+.mediaDescription-31GsyQ  .freeWithNitro-Ya7UUr {margin-left: 40%;}
+
+.theme-dark .searchBox-3Y2Vi7 {background-color: var(--QTD);}
+
+.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .bgScale-1otPtc {background: var(--hc);}
+
+.botTagInvert-18-95s{background: var(--mc);color: white;}
 
