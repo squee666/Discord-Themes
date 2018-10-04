@@ -130,7 +130,7 @@ background-repeat:no-repeat;padding-top: 0px;padding-bottom: 6px;margin-top: 4px
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4{background:#0a0a0a !important;}
 
-.chat-3bRxxu .divider-3gKybi.dividerRed-MKoLlr > span{color:#b12340 !important;background-color:var(--QTD) !important;border-radius:3px;text-align:center;left:0px;}
+.chat-3bRxxu .divider-3gKybi.dividerRed-MKoLlr > span{color:#b12340 !important;background-color:var(--QTD) !important;border-radius:5px;text-align:center;left:0px;}
 
 .containerCozy-jafyvG.has-divider{border-color:transparent;}
 
@@ -3712,6 +3712,8 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .chat-3bRxxu .divider-3gKybi.dividerRed-MKoLlr > span {color:var(--mc) !important;}
 
+.dividerContent-2L12VI:after , .dividerContent-2L12VI:before {border-color:var(--mc) !important;}
+
 .header-1tSljs{box-shadow: 0px 0 transparent;}
 
 #friends .tab-bar .tab-bar-item.selected {background-color: var(--mc) !important;color: #fff!important;}
@@ -4822,7 +4824,6 @@ background-image: none;
 
 .theme-dark .layer-3QrUeG,.theme-dark .layers-3iHuyZ {background: transparent;}
 
-
 .theme-dark .members-1998pB { background-color: var(--QT);}
 
 .container-PNkimc {  background-color: transparent;}
@@ -4845,7 +4846,7 @@ background-image: none;
 
 .theme-dark .chat-3bRxxu form {  background: transparent !important; border-top: 0px solid transparent !important;margin: 0px !important;}
 
-.theme-dark .typing-2GQL18 {  background-color: transparent;font-size: 12px;bottom: -8px;}
+.theme-dark .typing-2GQL18 {  background-color: transparent;font-size: 12px;bottom: -7px !important;}
 
 .theme-dark .headerBar-UHpsPw {  box-shadow: none;  border-bottom: 2px solid var(--mc); height: 48px;}
 
@@ -5854,3 +5855,4 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .botTagInvert-18-95s{background: var(--mc);color: white;}
 
+.theme-dark .item-2yFVoY {background-color: var(--QTD);}
