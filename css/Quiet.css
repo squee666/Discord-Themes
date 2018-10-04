@@ -5856,3 +5856,11 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .botTagInvert-18-95s{background: var(--mc);color: white;}
 
 .theme-dark .item-2yFVoY {background-color: var(--QTD);}
+
+.theme-dark .tileWrapper-2khh-w {background-color: transparent;}
+
+.theme-dark .tileWrapper-2khh-w:hover {background-color: var(--QTD);}
+
+.theme-dark .iconCircle-1dlYo0 {background-color: var(--hc);}
+
+.theme-dark .popout-2xBvMR {border: 2px solid var(--mc);background-color: var(--QT);}
