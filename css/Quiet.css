@@ -4859,7 +4859,7 @@ background-image: none;
 
 .feed-1o0xmF {  background-color: var(--QT);}
 
-.carousel-1Mb2Ud { background-color: transparent;}
+.carousel-2WxMes { background-color: transparent;}
 
 .article-FleDq5 {  background-color: transparent;}
 
@@ -5180,7 +5180,7 @@ span.spinner {margin-top: 0px;}
 
 .splashArt-1anaP9 {filter: none;opacity: .25;}
 
-.paginationItem-3-MBTL { background: var(--QT);}
+.paginationItem-2lUq0s { background: var(--QT);}
 
 .carousel-JbsNzL { background-color: var(--QT);}
 
@@ -5213,9 +5213,9 @@ span.spinner {margin-top: 0px;}
 
 .autocompleteRowVertical-q1K4ky .avatarStatus-3jMZl_{height: 100%; width: 100%;}
 
-.paginationItem-3-MBTL:after { background: linear-gradient(270deg,transparent 0,var(--QT));}
+.paginationItem-2lUq0s:after { background: linear-gradient(270deg,transparent 0,var(--QT));}
 
-.paginationItem-3-MBTL:before {background: var(--mc);}	
+.paginationItem-2lUq0s:before {background: var(--mc);}	
 
 .activityFeed-28jde9 .large-3ChYtB {height: 40px !important;width: 40px !important;}
 
@@ -5877,3 +5877,9 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .bodySection-jqkkIP, .theme-light .bodySection-jqkkIP {background-color: transparent;}
 
 .toggleCollapseButton-2wffKu {left: 40%;}
+
+.themeDark-3Ap_7i {background-color: var(--QT);}
+
+.theme-dark .contentRegion-3nDuYy,.theme-dark .sidebarRegion-VFTUkN  { background: var(--QT);flex:unset;}
+
+.contentColumn-2hrIYH, .customColumn-Rb6toI { max-width: unset;}
