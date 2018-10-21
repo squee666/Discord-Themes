@@ -1064,3 +1064,8 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .theme-dark .contentRegion-3nDuYy,.theme-dark .sidebarRegion-VFTUkN  { background: var(--RBT);}
 
 .theme-dark .standardSidebarView-3F1I7i {background: transparent;}
+
+.theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {background: var(--RBT);padding: 5px;border-radius: 3px;}
+
+.theme-dark .bda-slist li, .bda-slist li:nth-child(odd) {background-color: var(--RBT);color: #f6f6f7;border: none;}
+
