@@ -3832,7 +3832,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 #bd-customcss-detach-container .CodeMirror{border-left: 0px solid transparent !important;background: var(--QT) !important;}
 
-#bd-customcss-detach-container #bd-customcss-attach-controls{border-bottom: 0px solid transparent !important;margin-top:0px;height: 60px;box-shadow: 0px 0px transparent !important;border-left: 0px solid transparent !important;background: var(--QT) !important;border-top: 2px solid #212121 !important;}
+#bd-customcss-detach-container #bd-customcss-attach-controls{padding-left: 0%;border-bottom: 0px solid transparent !important;margin-top:0px;height: 60px;box-shadow: 0px 0px transparent !important;border-left: 0px solid transparent !important;background: var(--QT) !important;border-top: 2px solid #212121 !important;}
 
 #bd-customcss-detach-container span[style="font-size: 10px; margin-left: 5px;"]{position: fixed; top: 20px;}
 
@@ -5882,11 +5882,20 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .contentRegion-3nDuYy,.theme-dark .sidebarRegion-VFTUkN  { background: var(--QT);}
 
-.sidebarRegion-VFTUkN  { flex:1 0 20px;}
+.sidebarRegion-VFTUkN {flex: 0 0 0px;}
+
+.sidebarRegion-VFTUkN, .sidebarRegionScroller-3MXcoP {display: -webkit-box;}
 
 .contentColumn-2hrIYH, .customColumn-Rb6toI { max-width: unset;}
 
 .sidebar-CFHs9e {padding: 10px 6px 10px 10px;}
 
 .theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {color: #b4b4b4;}
+
+.theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after {background-color: var(--mc);}
+
+#bd-customcss-attach-controls {padding-left: 25%;}
+
+.theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after {background-color: var(--mc);background-size: 16px;border-radius: var(--BR);height: 20px;right: 2px;top: 2px;width: 20px;}
+
 
