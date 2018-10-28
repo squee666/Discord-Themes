@@ -2844,7 +2844,7 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .emoji {margin: 0 !important;}
 
-.theme-dark [class*="cardPrimaryEditable"],.theme-dark [class*="cardPrimary"],.theme-dark [class*="cardPrimaryOutline"],.theme-dark [class*="headerClickable"],.theme-dark [class*="headerDefault"],.theme-dark [class*="headerExpanded"] {background: #171719 !important;border:2px solid transparent box-shadow: none;}
+.theme-dark [class*="cardPrimaryEditable"],.theme-dark [class*="cardPrimary"],.theme-dark [class*="cardPrimaryOutline"],.theme-dark [class*="headerClickable"],.theme-dark [class*="headerDefault"],.theme-dark [class*="headerExpanded"] {background: var(--QTD) !important;border:2px solid transparent !important;box-shadow: none;}
 
 .theme-dark [class*="changeDetails"] {background: var(--QT) !important;border-color: rgba(32,34,37,0) !important;box-shadow: 0px 0px 3px 1px #121212;}
 
