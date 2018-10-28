@@ -358,9 +358,9 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .popout section {background-color: rgba(0,0,0,0.65)!important;}
 
-.ui-standard-sidebar-view .bda-slist li:nth-child(odd) {background: rgba(0,0,0,0.6)!important;border-radius:2px!important;}
+.theme-dark .bda-slist li:nth-child(odd) {background: rgba(0,0,0,0.6)!important;border-radius:2px!important;}
 
-.ui-standard-sidebar-view .bda-slist li {background: rgba(0,0,0,0.6)!important;border-radius:2px!important;}
+.theme-dark .bda-slist li {background: rgba(0,0,0,0.6)!important;border-radius:2px!important;}
 
 .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC{background-color:transparent!important;border:2px solid var(--mc)!important;}
 
@@ -1066,8 +1066,6 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .theme-dark .standardSidebarView-3F1I7i {background: transparent;}
 
 .theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {background: var(--RBT);padding: 5px;border-radius: 3px;}
-
-.theme-dark .bda-slist li, .bda-slist li:nth-child(odd) {background-color: var(--RBT);color: #f6f6f7;border: none;}
 
 .theme-dark .focused-2bY0OD {background: transparent;}
 
