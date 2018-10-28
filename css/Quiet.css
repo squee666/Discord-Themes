@@ -1,9 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
-@import "https://intrnl.github.io/derealised/dist/tags.css";
-@import "https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css";
-
-
-
 :root {
     --version-content: "8.2";
     --theme-name: "Quiet";
@@ -2593,13 +2587,13 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .bd-server-card.bd-server-card-pinned:after {display: none;}
 
-.ui-standard-sidebar-view .bda-slist li:nth-child(odd){background: #161617;border-top: 0px solid transparent;}
+.theme-dark .bda-slist li:nth-child(odd){background: #161617;border-top: 0px solid transparent;}
 
-.ui-standard-sidebar-view .bda-slist li{background: #161617;border-bottom: 0px solid transparent;margin-top: 7px;box-shadow: 0px 0px 3px 0px #161617;transition: .2s all linear;}
+.theme-dark .bda-slist li{background: #161617;border-bottom: 0px solid transparent;margin-top: 7px;box-shadow: 0px 0px 3px 0px #161617;transition: .2s all linear;}
 
-.ui-standard-sidebar-view .bda-slist li:hover{transform: scale(1.02);box-shadow: 0px 0px 6px 0px #161617;}
+.theme-dark .bda-slist li:hover{transform: scale(1.02);box-shadow: 0px 0px 6px 0px #161617;}
 
-.ui-standard-sidebar-view .bda-slist .bda-right button{background: var(--mc);border-radius: 3px;}
+.theme-dark .bda-slist .bda-right button{background: var(--mc);border-radius: 3px;}
 
 .bda-slist p,.bda-slist h3,.bda-slist {color: #fff !important;}
 
