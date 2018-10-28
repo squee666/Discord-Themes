@@ -158,7 +158,7 @@ span.spinner{margin-top: 2px;}
 
 .containerCozy-jafyvG .iswrapper-3WhCwLedCozy-3isp7y{background:rgba(0,0,0,0.45) !important;}
 
-.theme-dark .ui-standard-sidebar-view .sidebar-region,.theme-dark .ui-standard-sidebar-view .sidebar-region .scrollbar,.theme-dark .ui-standard-sidebar-view .content-region,.theme-dark .ui-standard-sidebar-view .content-region .scrollbar{background:rgba(0,0,0,0.75) !important;}
+.theme-dark .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN,.theme-dark .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .scrollbar,.theme-dark .standardSidebarView-3F1I7i .contentRegion-3nDuYy,.theme-dark .standardSidebarView-3F1I7i .contentRegion-3nDuYy .scrollbar{background:rgba(0,0,0,0.7) !important;}
 
 .theme-dark .header-1-f9X5,.theme-dark .faded-1KRDbu{color:#ffffff;}
 
@@ -947,7 +947,7 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 
 .theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r {background-color: var(--RBT);border: none;}
 
-#bd-customcss-detach-container .CodeMirror, #bd-customcss-detach-container .cm-s-material .CodeMirror-gutters, .content-region .CodeMirror, .content-region .cm-s-material .CodeMirror-gutters, #bd-customcss-detach-container #bd-customcss-attach-controls, .content-region #bd-customcss-attach-controls {background: var(--RB)!important;  }
+#bd-customcss-detach-container .CodeMirror, #bd-customcss-detach-container .cm-s-material .CodeMirror-gutters, .contentRegion-3nDuYy .CodeMirror, .contentRegion-3nDuYy .cm-s-material .CodeMirror-gutters, #bd-customcss-detach-container #bd-customcss-attach-controls, .contentRegion-3nDuYy #bd-customcss-attach-controls {background: var(--RB)!important;  }
 
 .dock-10JPBX {background: rgba(0, 0, 0, 0.5);}
 
@@ -1060,8 +1060,6 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 .theme-dark .root-1bFE0x {background-color: var(--RBT);}
 
 .themeDark-3Ap_7i {background-color: var(--RBT);}
-
-.theme-dark .contentRegion-3nDuYy,.theme-dark .sidebarRegion-VFTUkN  { background: var(--RBT);}
 
 .theme-dark .standardSidebarView-3F1I7i {background: transparent;}
 
