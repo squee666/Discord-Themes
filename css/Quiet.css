@@ -5864,3 +5864,9 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after {background-color: var(--mc);background-size: 16px;border-radius: var(--BR);height: 20px;right: 2px;top: 2px;width: 20px;}
 
 .videoWrapper-3YdgHH {background-color: transparent;}
+
+.tag-HanR-9:before {-webkit-mask: url(/assets/04a2e1509ad72be575b1529b51ea3977.svg);-webkit-mask-size: 100%;background-color: var(--hc);}
+
+.theme-dark .tag-HanR-9, .theme-light .tag-HanR-9 {background-image: linear-gradient(0deg,var(--mc),var(--hc));}
+
+.theme-dark .tag-HanR-9:before, .theme-light .tag-HanR-9:before {background-image: none;}
