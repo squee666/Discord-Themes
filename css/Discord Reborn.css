@@ -1067,3 +1067,6 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 
 .theme-dark .focused-2bY0OD {background: transparent;}
 
+.theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {background: var(--RBT);padding: 5px;border-radius: 3px;}
+
+.theme-dark .applicationTile-1Goy1W:hover {background-color: var(--RBT);}
