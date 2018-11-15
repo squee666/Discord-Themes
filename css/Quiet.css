@@ -5882,3 +5882,29 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .size-3BX7nn {height: auto;width: auto;}
 
 .avatar-uploader-indicator {background-color: var(--QTD);}
+
+.theme-dark .gameUpdates-2GPqBU {background-color: var(--QTD);}
+
+.theme-dark .popout-2sKjHu {background: var(--QT);}
+
+.small-1CUeBa,.small-4dgL9e {background-color: var(--hc) !important;}
+
+.theme-dark .installSize-1eXbBX {background-color: var(--mc);}
+
+.splashArt-3I5Qmp { opacity: .4;}
+
+.theme-dark .paginationItem-2lUq0s:after {background: -webkit-gradient(linear,right top,left top,from(transparent),to(#000000));}
+
+.create-guild-container-new.deprecated { border: 2px }
+
+.create-guild-container-new.deprecated .action {background:transparent;}
+
+.create-guild-container-new.deprecated .action.create .action-icon , .create-guild-container-new.deprecated .action.join .action-icon{-webkit-filter: invert() hue-rotate(-180deg);opacity: 0.6;}}
+
+.create-guild-container-new.deprecated .action:hover.create .btn {background-color: var(--hc);}
+
+.create-guild-container-new.deprecated .create-or-join .actions .or {background-image: none;}
+
+
+
+
