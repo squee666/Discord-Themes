@@ -2376,11 +2376,15 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .app .guilds-1q_RqH .guild-1EfMGQ:first-child{border-bottom: 2px solid var(--mc);background: var(--QT);top: 0px;height: 46px;position: fixed;width: 79px;left: -3px;margin-top: 0px !important;z-index: 2;}
 
-.guildsWrapper-5TJh6A.folderopen .guilds-1q_RqH  .guild-1EfMGQ:first-child{position:relative !important;}
+.guildsWrapper-5TJh6A.foldercontent.foldercontentopen .guilds-1q_RqH .guild-1EfMGQ:first-child {border-bottom: none;margin-top: 36px !important;position: relative !important;border-top: 2px solid var(--mc);}
 
-.foldercontainer{  padding: 0px 0px 10px 15px;}
+.foldercontainer{  padding: 0px 0px 10px 0px;}
 
-.guildsWrapper-5TJh6A.folderopen .guilds-1q_RqH  {padding: 10px 0 10px 15px !important;}
+.guildsWrapper-5TJh6A.foldercontent.foldercontentopen .guild-1EfMGQ {padding-left: 10px;}
+
+.guildsWrapper-5TJh6A.foldercontent.foldercontentopen .guilds-1q_RqH  {padding: 10px 0 10px 0px !important;}
+
+.foldercontent .guild-1EfMGQ:not(.selected-ML3OIq) .guildInner-3DSoA4:hover {border-radius: var(--br) !important};
 
 .app .guilds-1q_RqH .guild-1EfMGQ:first-of-type .guildInner-3DSoA4{background: var(--QT) !important;}
 
@@ -2399,7 +2403,6 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 .account .btn-group::after{content: "";width: 3px;height: 70px;background: var(--QT);position: absolute;bottom: 0px;left: 305px;z-index: 1;}
 
 .theme-dark .channel-textarea-inner{border-left: 2px solid #212121 !important;border-right: 2px solid #212121 !important;}
-
 
 .app .guilds-1q_RqH .guild.active:first-child{background: #131313;}
 
