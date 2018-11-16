@@ -2374,11 +2374,13 @@ polyline[stroke*="#7289da"]{stroke:var(--mc) !important;}
 
 .guildsWrapper-5TJh6A .dms-rcsEnV{display: block;margin-top: 7px;margin-bottom: -4px;}
 
-.app .guilds-1q_RqH .guild-1EfMGQ:first-child{border-bottom: 2px solid var(--mc);background: var(--QT);top: 0px;height: 46px;position: fixed;width: 79px;left: -3px;margin-top: 0px !important;z-index: 2;}
+.app .guilds-1q_RqH .guild-1EfMGQ:first-child{background: transparent !important;border-bottom: 2px solid var(--mc);background: var(--QT);top: 0px;height: 46px;position: fixed;width: 79px;left: -3px;margin-top: 0px !important;z-index: 2;}
 
 .guildsWrapper-5TJh6A.foldercontent.foldercontentopen .guilds-1q_RqH .guild-1EfMGQ:first-child {border-bottom: none;margin-top: 36px !important;position: relative !important;border-top: 2px solid var(--mc);}
 
 .foldercontainer{  padding: 0px 0px 10px 0px;}
+
+.guild-1EfMGQ.folder .badge-1GsMF2.folder.count { background: var(--mc);}
 
 .guildsWrapper-5TJh6A.foldercontent.foldercontentopen .guild-1EfMGQ {padding-left: 10px;}
 
