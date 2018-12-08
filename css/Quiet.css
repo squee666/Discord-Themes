@@ -5786,7 +5786,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .bubble-1gL_TN:after, .theme-light .bubble-1gL_TN:after {border-top-color: var(--mc)!important;}
 
 
-.theme-dark .popout-3sVMXz.popout-googletranslate .themedPopout-25DgLi {background-color: var(--QT);}
+.theme-dark .popout-3sVMXz.popout-googletranslate .themedPopout-25DgLi {background-color: var(--QT) !important;border:2px solid var(--mc) !important;}
 
 .theme-dark .select-2TCrqx .Select-menu-outer {background: var(--QT);border-color: var(--mc);}
 
