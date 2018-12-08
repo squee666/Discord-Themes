@@ -772,7 +772,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .premiumPaymentModal-3SpIbo .lookOutlined-1c5nhl.colorWhite-1IbOTe {border-color: var(--mc) !important;border-radius: 3px !important;}
 
-.theme-dark .member-3W1lQa.popout-open .content-OzHfo4,.theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {background-color: rgba(0,0,0,0.3);}
+.theme-dark .member-3W1lQa.popout-open .content-OzHfo4,.theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {background-color: rgba(0,0,0,0.3) !important;}
 
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {background-color: rgba(0,0,0,0.4) !important;}
 
