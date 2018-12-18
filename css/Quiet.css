@@ -5922,6 +5922,11 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .uploadModal-2ifh8j .footer-3mqk7D .button {height: 38px;}
 
+/* spoiler tweaks*/
 .theme-dark .spoilerWarning-2aAZq1 {background-color: transparent;}
-
-.spoiler-1PPAUc.hiddenSpoilers-1ksnR6 { filter: blur(11px);}
+.theme-dark .spoilerContainer-331r0R:hover .spoilerWarning-2aAZq1{background-color: var(--hc);border-radius: 5px;}
+.theme-dark .spoilerContainer-331r0R .spoilerWarning-2aAZq1{background-color: var(--mc);border-radius: 5px;}
+.spoiler-1PPAUc.hiddenSpoilers-1ksnR6 { filter: blur(22px);}
+.spoilerContainer-331r0R.hidden-HHr2R9 { width: 90px;height: 30px;transition: 3s all ease-in-out;}
+.spoiler-1PPAUc {transition: 1.5s all ease-in-out;}
+/* spoiler tweaks*/
