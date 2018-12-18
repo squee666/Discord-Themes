@@ -4431,10 +4431,6 @@ body:active .alt-3btY0e.menu-Sp6bN1:not(:active) {
 .alt-3btY0e .statusIconText-3b4TkH > div {
 color: transparent;}
 
-.popoutTopLeft-b5Eb3O  {left: 75px !important;
-    bottom: 75px !important;
-}
-    
     .alt-3btY0e .item-1GzJrl:first-of-type {
     padding-left: 0px !important;}
    
@@ -5921,3 +5917,11 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .modal-1Y5h9Z {width: 98%;}
 
 .header-1TOWci {border-top: 2px solid var(--mc);}
+
+.theme-dark .checkbox-1ix_J3 {border-color: var(--mc) !important;opacity: 0.6;}
+
+.uploadModal-2ifh8j .footer-3mqk7D .button {height: 38px;}
+
+.theme-dark .spoilerWarning-2aAZq1 {background-color: transparent;}
+
+.spoiler-1PPAUc.hiddenSpoilers-1ksnR6 { filter: blur(11px);}
