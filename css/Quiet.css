@@ -5930,3 +5930,9 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .spoilerContainer-331r0R.hidden-HHr2R9 { width: 90px;height: 30px;transition: 3s all ease-in-out;}
 .spoiler-1PPAUc {transition: 1.5s all ease-in-out;}
 /* spoiler tweaks*/
+
+.theme-dark .root-1BQpZw {background-color: var(--QT);}
+
+.theme-dark .topPill-30KHOu .itemSelected-1qLhcL {background-color: var(--mc);color: #fff;}
+
+.theme-dark .topPill-30KHOu .item-PXvHYJ:hover:not(.itemSelected-1qLhcL) {background-color: var(--hc);}
