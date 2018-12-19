@@ -3998,7 +3998,7 @@ display: none !important;}
 
 input,textarea {color: white;}
 
-.badge-1GsMF2 { line-height: 11px;padding: 2px 5px;background-color: var(--mc);}
+.badge-1GsMF2 { line-height: 11px;padding: 4px 4px;background-color: var(--mc);bottom: 2px;right: 2px;padding: 3px 4px;}
 
 .height24-2pMcnc {line-height: 25px !important;;}
 
@@ -5846,7 +5846,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after {background-color: var(--mc);}
 
-.theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after {background-color: var(--mc);background-size: 16px;border-radius: var(--BR);height: 20px;right: 2px;top: 2px;width: 20px;}
+.theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after {background-color: var(--mc);background-size: 16px;border-radius: var(--br);height: 20px;right: 2px;top: 2px;width: 20px;}
 
 .videoWrapper-3YdgHH {background-color: transparent;}
 
@@ -5900,8 +5900,12 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .action-1lSjCi{background:transparent;border:none;}
 
-.theme-dark .join-33Tr-7 .actionIcon-2IISM_,.theme-dark .create-3jownz .actionIcon-2IISM_{-webkit-filter: invert() hue-rotate(-180deg);opacity: 0.6;}
+.theme-dark .create-3jownz .actionIcon-2IISM_ { position: relative;background-image: none;background-color: var(--mc);-webkit-mask: url(https://ellexidecodes.github.io/Discord-Themes/assets/add-btn.svg) center/112px 78px no-repeat;}
 
+.theme-dark .create-3jownz .actionIcon-2IISM_::after {content: '';position: absolute;top: 0;left: 0;height: 100%;width: 100%;background: white; opacity: .4; -webkit-mask: url(https://ellexidecodes.github.io/Discord-Themes/assets/add-btn-two.svg) center/112px 78px no-repeat;}
+ 
+.theme-dark .join-33Tr-7 .actionIcon-2IISM_, .theme-light .join-33Tr-7 .actionIcon-2IISM_ {background-image: url(https://ellexidecodes.github.io/Discord-Themes/assets/join-btn.png);}
+ 
 .actionButton-2PeQbJ:hover {background-color: var(--hc)!important;}
 
 .actionButton-2PeQbJ {background-color: var(--mc) !important;}
@@ -5936,3 +5940,8 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .topPill-30KHOu .itemSelected-1qLhcL {background-color: var(--mc);color: #fff;}
 
 .theme-dark .topPill-30KHOu .item-PXvHYJ:hover:not(.itemSelected-1qLhcL) {background-color: var(--hc);}
+
+.circleBackground-OqqxHM {fill: var(--QT);}
+
+.downloadProgressCircle-neZab7 {top: 5px;}
+
