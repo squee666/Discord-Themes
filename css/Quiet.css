@@ -5949,5 +5949,10 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='8'%20height='20'%20fill='%2336393f'><path%20fill-rule='evenodd'%20d='M0%200h8v20H0V0zm4%202a2%202%200%200%200-2%202v12a2%202%200%201%200%204%200V4a2%202%200%200%200-2-2z'/></svg>");
 -webkit-mask-repeat: repeat-x;width: 100%;background-color: var(--QT);}
 
+.theme-dark .option-1l2vXE {background-color: var(--QTD);}
 
+.theme-light .input-1mgnkM,.theme-dark .input-1mgnkM {border-bottom-color: var(--hc); color: white;}
 
+.buttons-205you [tabindex="2"] {display: none;}
+
+.theme-dark .option-1l2vXE,.theme-dark .codeRedemptionRedirect-1wVR4b  {background-color: transparent;border: none;}
