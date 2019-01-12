@@ -511,9 +511,9 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .user-settings-modal button.preview-sound:before{-webkit-filter:grayscale(100%);}
 
-.tab-bar.TOP .tab-bar-item.selected{border-bottom:2px solid var(--mc);color:var(--mc);}
+.theme-dark .top-28JiJ- .itemSelected-1qLhcL{border-bottom:2px solid var(--mc);color:var(--mc);}
 
-.tab-bar.TOP {border-bottom: 1px solid var(--hc) !important;}
+.tabBar-2MuP6- {border-bottom: 1px solid var(--hc) !important;}
 
 .settings-connections-wrapper .user-settings-modal-connections .user-settings-modal-accounts-list .user-settings-modal-accounts-list-description .user-settings-modal-accounts-list-description-inner{color:#8a8a8a;}
 
@@ -824,6 +824,8 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 .slider-handle span{border:2px solid var(--mc);}
 
 .slider-handle span:before{border-color:var(--mc) transparent transparent;}
+
+.tabBarItem-1b8RUP {margin-right: 20px;margin-left: 20px;}
 
 .theme-dark #friends .friends-header .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected){background-color:var(--hc);color:#fff;}
 
