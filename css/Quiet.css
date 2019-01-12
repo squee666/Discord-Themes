@@ -3411,7 +3411,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .theme-dark .sidebar-32BRdp{background: #141415;}
 
-.scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-track,.theme-dark .scrollerWrap-2uBjct.scrollerTrack-3hhmU0>.scroller-2FKFPG::-webkit-scrollbar-track{background-color: var(--QTD);}
+.scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-track,.theme-dark .scrollerWrap-2uBjct.scrollerTrack-3hhmU0>.scroller-2FKFPG::-webkit-scrollbar-track{background-color: transparent;}
 
 .replyer,.quoter,body .citar-btn{background-image: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTYgMTdoM2wyLTRWN0g1djZoM3ptOCAwaDNsMi00VjdoLTZ2NmgzeiIvPiAgICA8cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PC9zdmc+)!important;color: transparent!important;background-position: 50%!important;background-repeat: no-repeat!important;background-color: transparent!important;transition: 100ms ease!important;animation: opacity 100ms ease;opacity: .8!important;border-radius: 2px!important;user-select: none;}
 
