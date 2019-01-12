@@ -411,21 +411,21 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .form .control-group input[type=text],.form .control-group input[type=email],.form .control-group input[type=password],.form .control-group input[type=number],.form .control-group textarea {color: #cecece!important;background:rgba(0,0,0,0.75)!important;}
 
-.theme-dark .search-results-wrap .search-header {background-color:transparent !important;}
+.theme-dark .searchResultsWrap-2DKFzt .searchHeader-1l-wpR {background-color:transparent !important;}
 
-.theme-dark .search-results-wrap {background-color:rgba(0,0,0,0.85)!important;}
+.theme-dark .searchResultsWrap-2DKFzt {background-color:rgba(0,0,0,0.85)!important;}
 
-.theme-dark .search-results-wrap .search-result .hit {background-color:rgba(0,0,0,0.25)!important;}
+.theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA {background-color:rgba(0,0,0,0.25)!important;}
 
 .theme-dark .messagesPopoutWrap-1MQ1bW .messageGroupWrapper-o-Zw7G{background-color: rgba(0,0,0,0.5)!important;}
 
-.theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {background-color: #1b1c1f!important;}
+.theme-dark .searchResult-3pzFAB.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {background-color: #1b1c1f!important;}
 
-.theme-dark .search-results-wrap .search-result:after {background-image: none !important;}
+.theme-dark .searchResult-3pzFAB:after {background-image: none !important;}
 
-.search-results-wrap .search-result:after,.search-results-wrap .search-result:before {display:none !important;}
+.theme-dark .searchResult-3pzFAB:after,.theme-dark .searchResult-3pzFAB:before {display:none !important;}
 
-.theme-dark .search-results-wrap .search-result .hit {box-shadow: none;!important}
+.theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA {box-shadow: none;!important}
 
 .searchPopout-1vUlP3,.theme-dark .container-3ayLPN  {background-color: rgba(0,0,0,0.7)!important;}
 
