@@ -2,14 +2,14 @@
 
 :root { 
   --theme-name: "Reborn";
-	--theme-letter: "R";
-	/*--version-content: "1.0";*/
+    --theme-letter: "R";
+    /*--version-content: "1.0";*/
  }
 
 .callout-backdrop, .appMount-3VJmYg
  { background-image: var(--BG) ; 
-	background-size: cover !important;
-	background-position:center!important;}
+    background-size: cover !important;
+    background-position:center!important;}
 
 
  
@@ -26,17 +26,17 @@ div[class*="topSection"]::before {
     background-image: var(--BG) ;
     background-size: cover !important;
     background-position: center!important;
-	box-shadow: inset 180px -90px 130px 10px var(--RBT) !important;
+    box-shadow: inset 180px -90px 130px 10px var(--RBT) !important;
 text-shadow: 1px 1px 0px black;
 }
 
 :root { 
-	--mc: #007dbd;
-	--hc: #03679b;
-	--RB: rgba(0,0,0,0.7); 
-	--RBT: rgba(0,0,0,0.7); 
-	--BG: url("https://i.imgur.com/d3lnerI.jpg");
-	--BR: 50%;
+    --mc: #007dbd;
+    --hc: #03679b;
+    --RB: rgba(0,0,0,0.7); 
+    --RBT: rgba(0,0,0,0.7); 
+    --BG: url("https://i.imgur.com/d3lnerI.jpg");
+    --BR: 50%;
         --quaternary-color:var(--RB)!important;
 }
 
@@ -89,7 +89,8 @@ text-shadow: 1px 1px 0px black;
 .theme-dark .channel-members,
 .theme-dark .private-channel-call,
 .theme-dark .content-yTz4x3 .flex-spacer,
-.theme-dark .friends-header,.theme-dark .container-3gCOGc
+.theme-dark .friends-header,
+.theme-dark .container-3gCOGc,
 .channels-3g2vYe,#app-mount 
 .titleWrapper-3Vi_wz,
 .theme-dark .activityFeed--1mYMS,
@@ -646,11 +647,11 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .theme-dark .item-1XYaYf:hover {background: rgba(0,0,0,0.7) !important;}
 
-.theme-dark .searchBar-1MOL6S {background-color: rgba(0,0,0,0.2) !important;}
+.searchBar-2_Yu-C .searchBarInner-1_Tg2R,.searchBar-2_Yu-C {background-color: rgba(0,0,0,0.2) !important;}
 
 .video-1FfuMD  {background-color: transparent !important;}
 
-.theme-dark .searchAnswer-3Dz2-q,.theme-dark .searchFilter-2ESiM3 {background-color: transparent !important;}
+.theme-dark .searchAnswer-3Dz2-q,.theme-dark .searchFilter-2ESiM3,.theme-dark .browseSearchInput-Jt8kg0,.theme-dark .libraryFilterInput-3JzqZD {background-color: transparent !important;}
 
 .calendarPicker-2yf6Ci .react-datepicker{background-color: rgba(0,0,0,0) !important;}
 
@@ -663,7 +664,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after,.calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {background-color: (--mc) !important;background-color: var(--mc) !important;}
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {background-color: var(--mc) !important;}
-	
+    
 .react-datepicker .react-datepicker__day-name {color: hsla(240,6%,97%,.6)!important;}
 
 .react-datepicker__week .react-datepicker__day {border: 0.5px solid rgba(255,255,255,0.2) !important;}
