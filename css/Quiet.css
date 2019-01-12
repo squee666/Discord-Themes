@@ -5189,7 +5189,9 @@ span.spinner {margin-top: 0px;}
 
 .theme-dark .contentWrapper-3WC1ID {background: var(--QT);border: 2px solid var(--mc);}
 
-.content-OzHfo4 .spinner-2enMB9 { margin-left: 0px !important;background-color: rgba(0, 0, 0, 0.5);}
+.content-OzHfo4 .spinner-2enMB9{ margin-left: 0px !important;background-color: rgba(0, 0, 0, 0.5);}
+
+.small-5Os1Bb .typing-1KJk_j .spinner-2enMB9{background-color: rgba(0, 0, 0, 0.5);}
 
 .theme-dark .everyonePopout-nEbJY3 {-webkit-box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);background-color: var(--QT);box-shadow: none;border: 2px solid var(--hc);}
 
