@@ -697,7 +697,6 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .clipboardInputInner-oj8y-S {border: 1px solid rgba(225,227,229,0.25)!important;}
 
-
 .theme-dark .itemGroup-oViAgA{border-color: transparent;border: 0px solid transparent;}
 
 .theme-dark .message-2qRu38 {background-color: rgba(0,0,0,0.3);box-shadow: 0px 1px 7px 2px #020202;}
@@ -706,7 +705,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected){background-color: rgba(0,0,0,0.6);}
 
-.theme-dark .friendsTable-133bsv .friendsRow-2yicud:hover{background: rgba(0,0,0,0.5);}
+.theme-dark .friendsTable-133bsv .friendsRow-2yicud:hover, [class*="itemDefault"]:hover {background: rgba(0,0,0,0.5);}
 
 .wrapper-VSYYTS .instantInviteModal-5L33Qh .clipboardInputInner-dxVheg input {color: var(--mc) !important;}
 
