@@ -4000,7 +4000,7 @@ display: none !important;}
 
 input,textarea {color: white;}
 
-.badge-1GsMF2 { line-height: 11px;padding: 4px 4px;background-color: var(--mc);bottom: 2px;right: 2px;}
+.badge-1GsMF2 { line-height: 11px;text-align: center;min-width: 11px;padding: 4px 4px;background-color: var(--mc);bottom: 2px;right: 2px;}
 
 .height24-2pMcnc {line-height: 25px !important;;}
 
