@@ -5172,13 +5172,13 @@ span.spinner {margin-top: 0px;}
 
 .activityFeed-28jde9 .large-3ChYtB {height: 40px !important;width: 40px !important;}
 
-#friends .friends-table .friends-row .friends-column-status .status {bottom: 0px !important; right: 0px !important; border: none !important;}
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq {bottom: 0px !important; right: 0px !important; border: none !important;}
 
-#friends .friends-table .friends-row .friends-column-status .online-2S838R{background:#43b581;border: none !important;}
-#friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq{background:#f04747;border: none !important;}
-#friends .friends-table .friends-row .friends-column-status .idle-3DEnRT{background:#faa61a;border: none !important;}
-#friends .friends-table .friends-row .friends-column-status .offline-3qoTek{background:#747f8d;border: none !important;}
-#friends .friends-table .friends-row .friends-column-status .streaming-2_dnHeT{background:#593695;border: none !important;}
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .online-2S838R{background:#43b581;border: none !important;}
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .dnd-1_xrcq{background:#f04747;border: none !important;}
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .idle-3DEnRT{background:#faa61a;border: none !important;}
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .offline-3qoTek{background:#747f8d;border: none !important;}
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .streaming-2_dnHeT{background:#593695;border: none !important;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .homeIcon-1FoKUJ { margin-left: 40%;color: var(--hc);padding: 0px;}
 
