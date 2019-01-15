@@ -3642,14 +3642,16 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 #bd-customcss-detach-controls-button .btn{text-shadow:rgba(0,0,0,0.4) 1px 1px 1px;}
 
-#bd-customcss-detach-controls-button span{text-shadow:rgba(0,0,0,0.4) 1px 1px 1px;display:block;padding-top:4px;margin-bottom:10px;font-family;font-style:italic;font-size:18px!important;}
-    
+#bd-customcss-detach-controls-button span{text-shadow:rgba(0,0,0,0.4) 1px 1px 1px;display:flex;padding-top:4px;margin-bottom:10px;font-family;font-style:italic;font-size:16px!important;}
+ 
+#bd-customcss-attach-controls {display: flex;flex-flow: column;align-items: center;}
+
 #bd-customcss-attach-controls:after {margin-left: -7px;margin-top: 25px !important;width:640px !important;text-shadow:rgba(0,0,0,0.4) 1px 1px 1px;}
 
 /* detached editor styles */
 #editor-detached button.btn{text-shadow:rgba(0,0,0,0.4) 1px 1px 1px;background-color:#4286f4;}
 
-#editor-detached {margin-top:0px!important;}
+#editor-detached {margin-top: 0px !important;}
    
 #editor-detached h3 {color: #f1f1f1 !important; margin-top: 10px;}
 
