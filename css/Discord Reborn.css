@@ -6,7 +6,7 @@
     /*--version-content: "1.0";*/
  }
 
-.callout-backdrop, .appMount-3VJmYg
+.callout-backdrop, .appMount-3lHmkl
  { background-image: var(--BG) ; 
     background-size: cover !important;
     background-position:center!important;}
@@ -100,7 +100,7 @@ text-shadow: 1px 1px 0px black;
 
 .headerSpotify-zpWxgT {background: var(--RBT) !important;}
 
-.theme-dark .guildsWrapper-5TJh6A{margin-top: 48px !important;height: calc(100% - 119px) !important;}
+.theme-dark .guildsWrapper-5TJh6A{height: calc(100% - 119px) !important;}
 
 .guilds-1q_RqH .guild-1EfMGQ:hover:first-child{background-color: rgba(0,0,0,0.65) !important;}
 
@@ -795,8 +795,6 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .scroller.guilds-1q_RqH,.theme-dark .guildsWrapper-5TJh6A{height: auto !important;}
 
-.guildsWrapper-5TJh6A .guilds-1q_RqH{padding: 0 0 160px 14px !important;}
-
 .theme-dark .searchPopout-1vUlP3, .theme-dark .container-3ayLPN  {  box-shadow: none !important;}
 
 .theme-dark .messagesPopoutWrap-1MQ1bW .hasMore-17LQIb button {background: var(--RB)!important;  }
@@ -805,7 +803,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .theme-dark .messagesPopoutWrap-1MQ1bW .messageGroupWrapper-o-Zw7G:hover { border-color: transparent;}
 
-div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
+.theme-dark .messagesWrapper-3lZDfY  { background-color: var(--RB)!important;  }
 
 .theme-dark .popoutList-2NT_IY {  background: rgba(0,0,0,0.7) !important;}
 
@@ -827,7 +825,7 @@ div.containerCozy-jafyvG { background-color: var(--RB)!important;  }
 
 .container-2Thooq { background: transparent;}
 
-.theme-dark .chat-3bRxxu form {   background: transparent !important;   border-top: 0px solid transparent !important; margin: 0px !important;}
+.theme-dark .chat-3bRxxu form {   background: var(--RB) !important;   border-top: 0px solid transparent !important; margin: 0px !important;}
 
 .theme-dark .headerBar-UHpsPw {  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.2),0 2px 0 rgba(0,0,0,.06);  background: transparent!important;  }
 
