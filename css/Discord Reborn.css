@@ -100,8 +100,6 @@ text-shadow: 1px 1px 0px black;
 
 .headerSpotify-zpWxgT {background: var(--RBT) !important;}
 
-.theme-dark .guildsWrapper-5TJh6A{height: calc(100% - 119px) !important;}
-
 .guilds-1q_RqH .guild-1EfMGQ:hover:first-child{background-color: rgba(0,0,0,0.65) !important;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.active:first-of-type .guildInner-3DSoA4,
@@ -330,8 +328,6 @@ span.spinner{margin-top: 2px;}
 code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradient(rgba(0,0,0,0.5) 50%,transparent 50%)!important;}
 
 .theme-dark .markup-2BOw-j .hljs[class~="css" i]::before {background: var(--mc);}
-
-.theme-dark .guildsWrapper-5TJh6A{height: auto !important;}
 
 .theme-dark .guildsWrapper-5TJh6A::before{display:none;}
 
@@ -793,8 +789,6 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .emojiPicker-3g68GS .category-3rCtoh {    background-color: transparent!important;}
 
-.scroller.guilds-1q_RqH,.theme-dark .guildsWrapper-5TJh6A{height: auto !important;}
-
 .theme-dark .searchPopout-1vUlP3, .theme-dark .container-3ayLPN  {  box-shadow: none !important;}
 
 .theme-dark .messagesPopoutWrap-1MQ1bW .hasMore-17LQIb button {background: var(--RB)!important;  }
@@ -1078,7 +1072,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .notches-1sAcEM::before {content: '';position: absolute;top: 0;left: 0;height: 100%;width: 100%;
 -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='8'%20height='20'%20fill='%2336393f'><path%20fill-rule='evenodd'%20d='M0%200h8v20H0V0zm4%202a2%202%200%200%200-2%202v12a2%202%200%201%200%204%200V4a2%202%200%200%200-2-2z'/></svg>");
--webkit-mask-repeat: repeat-x;background-color: rgba(0, 0, 0, 0.7;}
+-webkit-mask-repeat: repeat-x;background-color: rgba (0,0,0,0.7);}
 
 .theme-dark .container-2Zlzt0 { background-color: var(--RB);}
 
@@ -1086,6 +1080,6 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='8'%20height='20'%20fill='%2336393f'><path%20fill-rule='evenodd'%20d='M0%200h8v20H0V0zm4%202a2%202%200%200%200-2%202v12a2%202%200%201%200%204%200V4a2%202%200%200%200-2-2z'/></svg>");
 -webkit-mask-repeat: repeat-x;width: 100%;}
 
-.scrollerWrap-2lJEkd {height: auto;}
+.guildsWrapper-5TJh6A .guilds-1q_RqH { padding: 0px 0px 160px 15px !important;}
 
 
