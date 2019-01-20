@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
-@import "https://intrnl.github.io/derealised/dist/tags.css";
 @import "https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css";
 
 
@@ -5325,7 +5324,7 @@ span.spinner {margin-top: 0px;}
 
 .popouttop #autocomplete-popout .autocomplete-arrow-wrapper{display:none;}
 
-.theme-dark .markup-2BOw-j pre {background:none;}
+.theme-dark .markup-2BOw-j pre {background:none;border: none;}
 
 .dividerEnabled-2TTlcf {display: none;}
 
@@ -5645,8 +5644,10 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 #RANbutton-frame {margin-bottom: 0px !important;}
 #RANbutton { line-height: 20px !important;} 
-#RANbutton-frame .guildInner-3DSoA4:hover {    border-radius: 3px !important;} 
+#RANbutton-frame .guildInner-3DSoA4:hover { border-radius: 3px !important;} 
 #RANbutton-frame .guildInner-3DSoA4 {width: 46px !important;height: 20px !important;border-radius: 3px !important;}
+.guildsWrapper-5TJh6A [class*="RANbutton"] { width:45px !important;}
+
 
 .themedPagination-3v0Dnu .arrow-vOpU7R:hover {color: var(--hc!)!important;opacity:1}
 .themedPagination-3v0Dnu .arrow-vOpU7R {color: var(--mc)!important;opacity:1}
