@@ -1085,3 +1085,15 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 .theme-dark .pageWrapper-1PgVDX {background-color: var(--RB);}
 
 .theme-dark .wrapper-39oAo3 {background-color: var(--RBT);}
+
+.theme-dark .activityFeed-1C0EmJ,.theme-dark .outer-2IVh5n {background-color: var(--RB);}
+
+.theme-dark .outer-2IVh5n {background-color: var(--RBT);}
+
+.theme-dark .popoutContainer-13VV3Z:hover {background-color: var(--RBT);}
+
+.theme-dark .wrapper-3UweLa {background: var(--RBT);}
+
+.theme-dark .outer-2IVh5n.interactive-1BeKSi:hover {background-color: var(--RBT);}
+
+.card-GqTca8 {border-radius: 5px;background: var(--RBT);}
