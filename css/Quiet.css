@@ -5994,3 +5994,51 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .tooltips-FhwIyl .tooltip-1OS-Ti.left-1wV7VO {animation: fadeFromLeft-tooltip 200ms}
 
 .tooltips-FhwIyl .tooltip-1OS-Ti.top-1pTh1F {animation: fadeFromTop-tooltip 200ms;}
+
+.autocompleteScroller-iInVqR {background: var(--QTD);}
+
+.theme-dark .tile-2OwFgW {background-color: transparent;}
+
+.theme-dark .activityFeed-1C0EmJ,.theme-dark .outer-2IVh5n {background-color: var(--QT);}
+
+.theme-dark .outer-2IVh5n {background-color: var(--QTD);}
+
+.theme-dark .wrapper-9ppXpy {box-shadow: none;}
+
+.theme-dark .inset-GQDQYw,.theme-dark .multipleIconWrapper-2TXVB4, .theme-dark .section-3TvauS { background-color: transparent;}
+
+.twitchSectionPreviewWrapper-v20J16 {border: 2px solid var(--hc);}
+
+.theme-dark .cap-3W6Fh-,.card-3EIh8J .shareButton-3w0M74 {background: var(--mc);}
+
+.theme-dark .popoutContainer-13VV3Z:hover {background-color: var(--QTD);}
+
+.theme-dark .popoutContainer-13VV3Z:hover .popout-nyHzcV {box-shadow: none;background: var(--QTD);border: 2px solid var(--hc);}
+
+.theme-dark .wrapper-3UweLa {background: var(--QTD);color: #b9bbbe;border: 2px solid var(--mc);}
+
+.icon-2hm0JA {border-radius: 5px;height: 100%;width: 100%;}
+
+.theme-dark .wrapped-15rg6t,.theme-dark .unwrapped-37iUtM {background-color: transparent;}
+
+.theme-dark .wrapped-15rg6t.clickable-nnkAZy:hover,.theme-dark .unwrapped-37iUtM.clickable-nnkAZy:hover {background-color: transparent;border: 2px solid var(--mc);border-radius: 7px;}
+
+.running-ol_ES1 {border-color: var(--mc);background: transparent;}
+
+.theme-dark .h5-18_1nd,.theme-dark .colorStandard-2KCXvj,.theme-dark .base-1x0h_U,.theme-dark .colorMuted-HdFt4q {color: #dadada;text-align: center;}
+
+.theme-dark .outer-2IVh5n.interactive-1BeKSi:hover {background-color: var(--QTD);border: 2px solid var(--hc);}
+
+.card-3EIh8J:hover .shareButton-3w0M74 {background: var(--hc);}
+
+.grid-1rkoVH {margin-bottom: 8px;margin-left: 8px;column-gap: 0px;}
+
+.card-GqTca8 {border-radius: 5px;background: var(--QTD);margin-bottom: 16px;}
+
+.activityFeed-1C0EmJ .status-oxiHuE{ bottom:0px; right 0px; height 32px; width 32px;}
+    
+.activityFeed-1C0EmJ .status-oxiHuE{ bottom:0px!important; right: 0px !important; height:32px; width:32px;}
+
+.activityFeed-1C0EmJ .avatar-2qDv_t .avatarStatus-2qGCPV {height:24px; width:24px;}
+
+.theme-dark .separator-1N1EBC {background-color: var(--hc);}
