@@ -4675,7 +4675,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 /* OLD TITLE BAR */
 
-.theme-dark .wrapper-1Rf91z .circleIconButton-jET_ig{
+.theme-dark .circleIconButton-jET_ig{
     background-color: var(--mc) !important;
     left: 0px!important;
     margin-bottom:0px;
@@ -4684,20 +4684,20 @@ div[class*="titleBar-"] div:nth-of-type(4) {
     height: 50px !important;font-size: 0px !important;
     transition: .2s all linear;margin-left: 76px !important;
     z-index: 15 !important;}
-.theme-dark .wrapper-1Rf91z .circleIconButton-jET_ig:hover{
+.theme-dark .circleIconButton-jET_ig:hover{
     width: 220px !important;
     height: 50px !important;
     font-size: 22px !important;
 margin-left: 76px !important;}	
-.theme-dark .wrapper-1Rf91z .circleIconButton-jET_ig{
+.theme-dark .circleIconButton-jET_ig{
     border-top-right-radius: 11px;}
-.theme-dark .wrapper-1Rf91z .plus-3UqSQu{
+.theme-dark  .plus-3UqSQu{
 background-image: none;
     font-size: 0px;top: 0px !important;
     position: relative;}
-.theme-dark .wrapper-1Rf91z .plus-3UqSQu::after{
+.theme-dark .plus-3UqSQu::after{
     content:"Add/Create Server";font-size: 16px;display: none;}
-.theme-dark .wrapper-1Rf91z .circleIconButton-jET_ig:hover .plus-3UqSQu::after{
+.theme-dark  .circleIconButton-jET_ig:hover .plus-3UqSQu::after{
     content:"Add/Create Server";font-size: 16px;
     display: initial !important;}
 
@@ -6152,7 +6152,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 }
 
 
-#app-mount .pinnedBanner-31szAF .header-2o-2hj:hover,.pinnedBanner-31szAF .header-2o-2hj{ background:var(--QT) }
+#app-mount .pinnedBanner-31szAF .header-2o-2hj:hover,.pinnedBanner-31szAF .header-2o-2hj{ background:var(--QT) ;}
 
 
 .banner-1TiK82 .header-2o-2hj {
@@ -6167,3 +6167,5 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 }
 
 .pinnedBanner-31szAF .header-2o-2hj {border:none;}
+
+.pinnedBanner-31szAF {top: 2px;}
