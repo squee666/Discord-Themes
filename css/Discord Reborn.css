@@ -1108,7 +1108,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .theme-dark .outer-2IVh5n.interactive-1BeKSi:hover {background-color: var(--RBT);}
 
-.card-GqTca8 {border-radius: 5px;background: var(--RBT);}
+.card-GqTca8 {border-radius: 5px;background: var(--RBT) !important;}
 
 
 #app-mount .pinnedBanner-31szAF .header-2o-2hj  {
@@ -1124,7 +1124,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
   bottom: 0;
   left: 0;
   height: 200%;
-  width: 100%;
+  width: 238px;
   background: var(--RB);
 
 }
@@ -1132,3 +1132,4 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 #app-mount .header-2o-2hj * {
   z-index: 1;
 }
+
