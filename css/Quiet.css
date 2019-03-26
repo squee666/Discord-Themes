@@ -4505,7 +4505,7 @@ color: transparent;}
 
 .streaming-2_dnHe { background-color: transparent; border: 2px solid #593695 !important;}
 
-.containerCozy-jafyvG { margin-left: 0px; margin-right: 0px;margin-bottom: 20px;} 
+.containerCozy-jafyvG { margin-left: 0px; margin-right: 0px;margin-bottom: 10px;} 
 
 .emojiPicker-3m1S-j .categories-1feg4n .item-16cXuq.selected-39BZ4S { border-bottom-color: var(--mc);}
 
@@ -4592,7 +4592,7 @@ ui-call-avatar.video,.ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radi
 
 
 
-.chat-3bRxxu [class*='titleWrapper-'] [class*='flex-'] [class*='flex-'], [class*='headerBar-'] [class*='flex-'],[class*='gameLibrary-'] [class*='flex-'] [class*='flex-'] ,#friends [class*='flex-'] [class*='flex-']:last-of-type {margin-right: 90px !important;}
+.toolbar-94eLIm {  margin-right: 90px;} {margin-right: 90px !important;}
 
 
 div[class*="titleBar-"] {
@@ -6012,7 +6012,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .activityFeed-1C0EmJ,.theme-dark .outer-2IVh5n {background-color: var(--QT);}
 
-.theme-dark .outer-2IVh5n {background-color: var(--QTD);}
+.theme-dark .outer-2IVh5n {background-color: var(--QTD);margin: 8px;}
 
 .theme-dark .wrapper-9ppXpy {box-shadow: none;}
 
@@ -6044,7 +6044,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .grid-1rkoVH {margin-bottom: 8px;margin-left: 8px;column-gap: 0px;}
 
-.card-GqTca8 {border-radius: 5px;background: var(--QTD);margin-bottom: 16px;}
+.card-GqTca8 ,.wrappedCard-30FR_0{border-radius: 5px;border: 2px solid var(--main-color) !important;}
 
 .activityFeed-1C0EmJ .status-oxiHuE{ bottom:0px; right 0px; height 32px; width 32px;}
     
