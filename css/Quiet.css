@@ -6177,16 +6177,17 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .recentlyPlayedContainer-2F3MqS { background-color: var(--QT);}
 
 .container-2td-dC::after {
-content:"1";
-background-color: var(--mc);
+    content: "1";
+    background-color: var(--mc);
     border-radius: 25px;
     line-height: 11px;
     padding: 4px 4px;
     min-width: 11px;
     text-align: center;
-    color:white;
-    display:inline-block;
-    min-height:11px;
-    position:relative;
-    bottom: 2px;
-}
+    color: white;
+    display: inline-block;
+    min-height: 11px;
+    position: relative;
+    top: 36px;
+    left: 32px;
+    z-index: 8;}
