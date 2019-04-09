@@ -6,7 +6,6 @@
     /*--version-content: "1.0";*/
  }
 
-
 .appMount-3lHmkl::before{
   content: "";
   position: fixed;
@@ -765,9 +764,9 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .welcomeMessage-1U7Ntv p {color: #efefef;}
 
-.channel-members {--bulk: 300px;height: calc(100% + var(--bulk));padding-bottom: calc(20px + var(--bulk));}
+.members-1998pB {--bulk: 300px;height: calc(100% + var(--bulk));padding-bottom: calc(20px + var(--bulk));}
 
-.channel-members::-webkit-scrollbar-track-piece {margin-bottom: var(--bulk);}
+.members-1998pB::-webkit-scrollbar-track-piece {margin-bottom: var(--bulk);}
 
 .news-2GDtLJ  {background-color: transparent;}
 
@@ -1109,25 +1108,29 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 .card-GqTca8 {border-radius: 5px;background: var(--RBT) !important;}
 
 
-#app-mount .pinnedBanner-31szAF .header-2o-2hj  {
-  background: var(--BG) center/cover no-repeat !important;
-  background-attachment: fixed !important;
-}
+#app-mount .hasDropdown-2invhV.container-2Rl01u .header-2o-2hj:hover, .hasDropdown-2invhV.container-2Rl01u .header-2o-2hj {background:transparent;}
 
+#app-mount .header-2o-2hj * { z-index: 1;}
 
+.theme-dark .emptyPlayers-dx3qig, .theme-dark .players-1zg2l8,.theme-dark .footer-3J5oP4  {background-color: var(--RBT);}
 
-#app-mount .pinnedBanner-31szAF .header-2o-2hj::before{
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  height: 200%;
-  width: 238px;
-  background: var(--RB);
+.news-2KwXHF .background-VmeaHL { -webkit-mask: linear-gradient(#000000,var(--RBT));}
+  
+.theme-dark .player-3zB-0D:hover {background-color: #9d9d9d20;}
 
-}
+.theme-dark .itemBackground-2vEldQ:before {
+    background: radial-gradient(ellipse at top,rgba(54,57,63,0),var(--RBT)),linear-gradient(90deg,var(--RBT)),rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,var(--RBT)),linear-gradient(0deg,var(--RBT))0,rgba(54,57,63,0) 25%);}
 
-#app-mount .header-2o-2hj * {
-  z-index: 1;
-}
+.theme-dark .tile-QA_yMc {;background-color: var(--RBT);}
 
+    .theme-dark .gradientOverlayRight-3vMuS8 {
+background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;}
+
+.theme-dark .gradientOverlayLeft-3w159C{
+  background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;}
+
+.tileMedia-1q3guD{border-radius:0px;}
