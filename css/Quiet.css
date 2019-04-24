@@ -3549,7 +3549,9 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .scroller.messages-3amgkR:hover::-webkit-scrollbar{width: 12px !important;visibility: visible;}
 
-.theme-dark .wrapper-1Rf91z .scrollerWrap-1IAIlv{width: 75px;}
+.name-3_Dsmg {font-size: 15px;}
+
+.theme-dark .wrapper-1Rf91z .scrollerWrap-1IAIlv{width: 70px;}
 
 .guildsWrapper-5TJh6A .guildsAdd-21_IdK {
     bottom: 0px !important;
@@ -4678,7 +4680,8 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 .theme-dark .tooltipBlack-PPG47z .tooltipPointer-3ZfirK, .theme-light .tooltipBlack-PPG47z .tooltipPointer-3ZfirK { border-top-color: var(--hc);}
 .users-i_3-kL, .total-3tKGEB  {background:transparent;}
 .userLimit-64AFxe {border: 2px solid var(--hc);border-radius: 50px;}
-.total-3tKGEB:after{display:none;}
+
+.total-3tKGEB:after {border-right-color: var(--hc)!important;border-bottom: none;border-top: none;border: 2px solid transparent;content: "";height: 21px;left: -7px;position: absolute;top: -2px;width: 0;}
 
 /* OLD TITLE BAR */
 .circleIconButton-jET_ig{background-color: var(--mc);}
@@ -6314,3 +6317,4 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .wrapper-25eVIn , .svg-1X37T1{width: 45px !important;height: 45px !important;}
 
 .listItem-2P_4kh{margin: 4px 0 6px;}
+
