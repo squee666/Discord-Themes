@@ -6318,3 +6318,4 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .listItem-2P_4kh{margin: 4px 0 6px;}
 
+#app-mount foreignObject { mask: none !important; -webkit-mask: none !important;overflow: hidden;border-radius: var(--BR);}
