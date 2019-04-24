@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url("https://ellexidecodes.github.io/Discord-Themes/css/user-tags.css");
+
+
+
 :root {
     --version-content: "8.2";
     --theme-name: "Quiet";
@@ -5146,15 +5151,15 @@ span.spinner {margin-top: 0px;}
 .title-3qD0b- .status-streaming{background:#593695;border: none !important;}
 
 .title-3qD0b- .dnd-1_xrcq,.title-3qD0b- .status-oxiHuE,.title-3qD0b- .online-2S838R,.title-3qD0b- .idle-3DEnRT,.title-3qD0b- .offline-3qoTek,.title-3qD0b- .streaming-2_dnHe {
-    position: fixed;
-    width: 24px;
-    height: 24px;
-    top: 11px;
-    left: 326px;}
+position: fixed;width: 24px;height: 24px;top: 11px;left: 326px;border-radius:50px !important;}
+
+.title-29uC1r,.akaBadge-1M-1Gw{margin:0px !important;}
 
 .statusProfile-3ynqtt.online-2S838R,.statusProfile-3ynqtt.idle-3DEnRT,.statusProfile-3ynqtt.dnd-1_xrcq{box-shadow: none;}
 
-.container-2Thooq .status-2kJpnA { pointer-events: none; }
+.container-2Thooq .status-2kJpnA { pointer-events: none;}
+
+.theme-dark .akaBadge-1M-1Gw {background-color: var(--hc);}
 
 .autocompleteRowVertical-q1K4ky .avatarStatus-3jMZl_{height: 100%; width: 100%;}
 
