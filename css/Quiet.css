@@ -6327,3 +6327,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .base-gE7OpD {bottom: 6px;}
 
 .spotifyButtonLogo-u4uSmg {color: #1db954;height: 24px;width: 24px;}
+
+.channels-Ie2l6A .bannerImage-1jOskm {background-size: 0, cover}
+.bannerImage-1jOskm { -webkit-mask: linear-gradient(black, transparent 100%);transition: .3s width ease;}
