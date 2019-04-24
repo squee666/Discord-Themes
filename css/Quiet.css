@@ -4211,8 +4211,6 @@ input,textarea {color: white;}
 
 .theme-dark .focused-2bY0OD {background:var(--QT);}
 
-.search-2oPWTC .DraftEditor-root .public-DraftEditor-content, .search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root {padding: 1px 6px 20px;}
-
 /* fixed friends and mentions glow and typing indicator */
 
 .containerCozy-jafyvG .isMentioned-N-h9aa .message-text {
@@ -5883,7 +5881,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .popoutBottomLeft-JehOp2.noArrow-3BYQ0Z{margin-top:-1px}
 
-.popoutBottom-1YbShG.noArrow-3BYQ0Z, .popoutBottomLeft-JehOp2.noArrow-3BYQ0Z,.popoutBottomRight-2JrySt.noArrow-3BYQ0Z {margin-top: -2.5px;}
+.popoutBottom-1YbShG.noArrow-3BYQ0Z, .popoutBottomLeft-JehOp2.noArrow-3BYQ0Z,.popoutBottomRight-2JrySt.noArrow-3BYQ0Z {margin-top: -1.5px;}
 
 .theme-dark .focused-1Yu0L3{background-color: var(--QTD);}
 
@@ -6311,7 +6309,7 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .avatarSpeaking-3MqCHL{border: 2px solid #43b581;height:21px;width:21px;}
 
-.numberBadge-2s8kKX,.iconBadge-2wi9r4 {background-color: var(--hc);}
+.numberBadge-2s8kKX,.iconBadge-2wi9r4 {background-color: var(--hc) !important;}
 
 
 .wrapper-25eVIn , .svg-1X37T1{width: 45px !important;height: 45px !important;}
