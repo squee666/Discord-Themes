@@ -6330,3 +6330,7 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .channels-Ie2l6A .bannerImage-1jOskm {background-size: 0, cover}
 .bannerImage-1jOskm { -webkit-mask: linear-gradient(black, transparent 100%);transition: .3s width ease;}
+
+.theme-dark .acronym-2mOFsV:hover{background-color:var(--hc);}
+.theme-dark .acronym-2mOFsV{background-color:transparent;}
+.RANbutton {margin-top: 4px;}
