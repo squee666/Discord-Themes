@@ -1148,3 +1148,5 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .darkTheme-3uETC4.container-2XeR5Z ,.theme-dark .container-1r6BKw {background-color: transparent;}
 
 .theme-dark .activityFeed-1C0EmJ, .theme-dark .outer-2IVh5n {background-color: var(--RB);}
+
+.listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {background: var(--RBT);}
