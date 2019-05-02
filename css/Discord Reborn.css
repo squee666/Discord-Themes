@@ -1145,4 +1145,4 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {background: var(--RBT);}
 
-[class*="avatar-"]::not(.avatarSpeaking),.image-EVRGPw {box-shadow: 0.5px 0.5px 2px black;}
+[class*="avatar-"]::not([class*="avatarSpeaking-"]),.image-EVRGPw {box-shadow: 0.5px 0.5px 2px black;}
