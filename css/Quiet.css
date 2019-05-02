@@ -6336,3 +6336,7 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root { padding-left: 8px;top:0px;}
 
 .listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {background: var(--QTD);}
+
+.reaction-1ELvT8 { margin: 0px 1px 11px;}
+
+.nicknames-1XK4Zt,.title-29uC1r {user-select: text;}
