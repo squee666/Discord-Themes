@@ -538,8 +538,6 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .containerCozy-jafyvG .large-3ChYtB {box-shadow:none !important;}
 
-[class*="avatar-"],.image-EVRGPw {box-shadow: 0.5px 0.5px 2px black !important;}
-
 .headerTagNoNickname-26rERL {text-shadow: 0.5px 0.5px 2px black !important;}
 
 .userPopout-11hFKo .footer-2wFs91 .tip {text-shadow: 1px 1px 1px black !important;}
@@ -1114,10 +1112,6 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 #app-mount .header-2o-2hj * { z-index: 1;}
 
-.theme-dark .emptyPlayers-dx3qig, .theme-dark .players-1zg2l8,.theme-dark .footer-3J5oP4  {background-color: var(--RBT);}
-
-.news-2KwXHF .background-VmeaHL { -webkit-mask: linear-gradient(#000000,var(--RBT));}
-  
 .theme-dark .player-3zB-0D:hover {background-color: #9d9d9d20;}
 
 .theme-dark .itemBackground-2vEldQ:before {
@@ -1150,3 +1144,5 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .theme-dark .activityFeed-1C0EmJ, .theme-dark .outer-2IVh5n {background-color: var(--RB);}
 
 .listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {background: var(--RBT);}
+
+[class*="avatar-"]::not(.avatarSpeaking),.image-EVRGPw {box-shadow: 0.5px 0.5px 2px black;}
