@@ -5926,7 +5926,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .spoilerContainer-331r0R:hover .spoilerWarning-2aAZq1{background-color: var(--hc);border-radius: 5px;}
 .theme-dark .spoilerContainer-331r0R .spoilerWarning-2aAZq1{background-color: var(--mc);border-radius: 5px;}
 .spoiler-1PPAUc.hiddenSpoilers-1ksnR6 { filter: blur(22px);}
-.spoilerContainer-331r0R.hidden-HHr2R9 { width: 90px;height: 30px;transition: 3s all ease-in-out;}
+.spoilerContainer-331r0R.hidden-HHr2R9 { width: auto;height:auto;transition: 3s all ease-in-out;}
 .spoiler-1PPAUc {transition: 1.5s all ease-in-out;}
 /* spoiler tweaks*/
 
@@ -6340,3 +6340,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .reaction-1ELvT8 { margin: 0px 1px 11px;}
 
 .nicknames-1XK4Zt,.title-29uC1r {user-select: text;}
+
+.containerCompact-3V0ioj {padding: 1px 0;}
+
