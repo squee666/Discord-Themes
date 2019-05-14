@@ -6342,8 +6342,7 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .nicknames-1XK4Zt,.title-29uC1r {user-select: text;}
 
 .containerCompact-3V0ioj {padding: 1px 0;}
-
-*/ titlebar mac os */
+/* titlebar mac os with fixes also linux fix */
 .titleBar-AC4pGV .winButtonClose-1HsbF- {
     background-image: url(https://monstrousdev.github.io/themes/assets/svgs/cancel.svg) !important;
     background-repeat: no-repeat;background-position: center;background-size: 24px;}
@@ -6360,4 +6359,10 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .typeMacOS-3EmCyP.titleBar-AC4pGV .macButton-c_Adir { background-image: none !important;margin: 0px 3px; }
 
-*/ yoink */
+.platform-osx .wrapper-1Rf91z { margin-top: 0px;  }
+
+.macButtons-2MuSAC {position: fixed;right: 5px; top: 4px;width: 100px;}
+
+
+.platform-linux .toolbar-1t6TWx {margin-right:0px;}
+/* yoink */
