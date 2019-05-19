@@ -4864,8 +4864,6 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 .textAreaDisabled-2_o-kZ,.textAreaEdit-bNLDk3,.textAreaEnabledNoAttach-1WxUwj,.textAreaForm-18s4EO {background: var(--QT) !important;}
 
-.container-1UB9sr { background: none; border-bottom: none;text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.6) !important;}
-
 .unread-1xRYoj { background-color: var(--mc);}
 
 .unread-1xRYoj:hover { background-color: var(--hc);}
@@ -5310,13 +5308,7 @@ position: fixed;width: 24px;height: 24px;top: 11px;left: 328px;border-radius:50p
 
 .app-19_DXt{position: static}
 
-.typeMacOS-3EmCyP .titleBar-AC4pGV {-webkit-box-align: stretch !important;align-items: stretch !important;margin-left: 93.5% !important;width: 87px !important;margin-top: 3px !important;}
-
 .typeMacOS-3EmCyP .guildsWrapper-5TJh6A{margin-top: 0 !important;padding: 0 !important;}
-
-.titleBar-AC4pGV .macButton-c_Adir{height: 20px !important;width: 20px !important;}
-
-.titleBar-AC4pGV .macButton-c_Adir svg{height: 20px !important;width: 20px !important;}
 
 .macButton-c_Adir.da-macButtonMinimize.da-macButton,.macButton-c_Adir.da-macButtonMinimize.da-macButton:hover{background-image: none !important;}
 
@@ -5340,7 +5332,7 @@ position: fixed;width: 24px;height: 24px;top: 11px;left: 328px;border-radius:50p
 
 .bubble-3we2di {left: -21px !important;top: -32px !important;}
 
-.container-1UB9sr {border-bottom: 0px solid transparent;}
+.container-1UB9sr {border-bottom: 0px solid transparent;background: none; border-bottom: none;text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.6) !important;padding: 0px 10px;}
 
 .notice-2FJMB4,#pluginNotice,.noticeInfo-3_iTE1 {     border-bottom-left-radius: 7px;border-bottom-right-radius: 7px;background: var(--hc);position: fixed;top: 46px;left: 30%;background-position: center;width: 500px;padding: 0px; transition: all .2s linear;;}
 
@@ -5964,7 +5956,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .message-2qRu38 {background-color: var(--QT);box-shadow: none;}
 
-.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {margin-top: -48px !important; width: 90px;margin-left: -10px !important;position: absolute;z-index: 2;height: 46px;border-bottom: 2px solid var(--mc);}
+.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {margin-top: -48px !important; width: 90px;margin-left: -8px !important;position: absolute;z-index: 2;height: 46px;border-bottom: 2px solid var(--mc);}
 
 .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child .button-OhfaWu {margin-top:0px !important;}
 
@@ -6342,27 +6334,17 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .nicknames-1XK4Zt,.title-29uC1r {user-select: text;}
 
 .containerCompact-3V0ioj {padding: 1px 0;}
+
+
 /* titlebar mac os with fixes also linux fix */
-.titleBar-AC4pGV .winButtonClose-1HsbF- {
-    background-image: url(https://monstrousdev.github.io/themes/assets/svgs/cancel.svg) !important;
-    background-repeat: no-repeat;background-position: center;background-size: 24px;}
-
-.titleBar-AC4pGV .winButton-iRh8-Z:nth-child(3) {
-    background-image: url(https://monstrousdev.github.io/themes/assets/svgs/fullscreen.svg) !important;
-    background-repeat: no-repeat;background-position: center;background-size: 24px;}
-
-.titleBar-AC4pGV .winButton-iRh8-Z:nth-child(4) {
-    background-image: url(https://monstrousdev.github.io/themes/assets/svgs/minimize.svg) !important;
-    background-repeat: no-repeat;background-position: center 7px;background-size: 24px;}
 
 .typeMacOS-3EmCyP.titleBar-AC4pGV { width: 100%;justify-content: flex-start;}
 
-.typeMacOS-3EmCyP.titleBar-AC4pGV .macButton-c_Adir { background-image: none !important;margin: 0px 3px; }
+.typeMacOS-3EmCyP.titleBar-AC4pGV .macButton-c_Adir { background-image: none !important;margin: 2px 3px; }
 
 .platform-osx .wrapper-1Rf91z { margin-top: 0px;  }
 
-.macButtons-2MuSAC {position: fixed;right: 5px; top: 4px;width: 100px;}
+.macButtons-2MuSAC {display:inline;margin-left: -10px;margin-top:-10px;width: 12px;position:fixed;  }
 
-
-.platform-linux .toolbar-1t6TWx {margin-right:0px;}
+.platform-linux .toolbar-1t6TWx,.platform-osx .toolbar-1t6TWx{margin-right:0px !important;}
 /* yoink */
