@@ -5688,6 +5688,12 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 #charcounter { font-size: 13px !important;bottom: -1em !important;}
 
+#charcounter { color: rgba(255, 255, 255, 0);} 
+    
+.inner-zqa7da:hover #charcounter,.inner-zqa7da:focus-within #charcounter{color: rgba(255, 255, 255, 0.5);}
+
+#charcounter {right: 50%;bottom: unset;}
+
 /* theres a store now*/
 
 .theme-dark .premium-39U29H, .theme-light .premium-39U29H {
