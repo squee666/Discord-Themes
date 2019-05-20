@@ -1403,7 +1403,7 @@ button.bd-customicon-settings{display:none;}
 
 .attachment-image .image,.containerCozy-jafyvG .comment .attachment-image img,.embed .image,.embed .embed-thumbnail img{border-radius:3px;box-shadow:0 3px 7px rgba(0,0,0,0.4);}
 
-.embed-IeVjo6{-webkit-transition:200ms cubic-bezier(.2,.11,0,1);transition:200ms cubic-bezier(.2,.11,0,1);}
+.embed-IeVjo6 {transition: 0.7s all ease-in-out;}
 
 .embed-IeVjo6:hover .embedInner-1-fpTo{animation: mentionpulse 2s infinite !important;}
 
