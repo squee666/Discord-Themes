@@ -4990,7 +4990,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 /* Make Channel Categories Match Role Categories */
 
-.channels-Ie2l6A .scroller-2FKFPG [class*=clickable] div[class*=name],.channels-Ie2l6A .scroller-2FKFPG>[class*=container]>[class*=wrapper]>[class*=name] {
+.channels-Ie2l6A .scroller-2FKFPG [class*=clickable-][class*=wrapper]:not(voiceUser-) div[class*=name],.channels-Ie2l6A .scroller-2FKFPG>[class*=container]>[class*=wrapper]>[class*=name] {
     color: var(--mc) !important;   background-image: linear-gradient(90deg,transparent,transparent),linear-gradient(90deg,transparent,var(--mc),transparent);
     background-size: 100% 3px;  text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3) !important;
     background-position: 0 0,0 100%;  background-repeat: no-repeat;  padding-top: 19px;
