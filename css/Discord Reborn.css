@@ -864,9 +864,7 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .theme-dark .item-1Yvehc:hover { background: rgba(41,41,41,0.2) !important;}
 
-.textAreaDisabled-2_o-kZ,.textAreaEdit-bNLDk3,.textAreaForm-18s4EO { background: var(--RB)!important;  }
-
-.container-1UB9sr { background: none;border-bottom: none;}
+.textAreaDisabled-2_o-kZ,.textAreaEdit-bNLDk3,.textAreaForm-18s4EO { background: var(--RB)!important; }
 
 .unread-1xRYoj { background-color: var(--mc);}
 
@@ -1146,3 +1144,13 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {background: var(--RBT) !important;}
 
 [class*="avatar-"]::not([class*="avatarSpeaking-"]),.image-EVRGPw {box-shadow: 0.5px 0.5px 2px black;}
+
+.containerCompact-3bB5aN {background: transparent;}
+
+.headerCompact-3wRt2W .username-_4ZSMR {background: var(--RB);border-radius: 5px;padding: 0 3px;}
+
+.channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 { background: var(--RB);}
+
+.guildCard-2arfcG {background: var(--RB);}
+
+.theme-dark .cardHovered-15wbb-, .theme-dark .loading-17PYl_ .cardHovered-15wbb- {background-color: var(--RBT);}
