@@ -5988,9 +5988,9 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .wrapper-39oAo3 {background-color: var(--QTD);}
 
-#app-mount .app-19_DXt .wrapper-25eVIn .circleIconButton-jET_ig {position:static !important;width:45px !important;height:45px !important;border-radius:var(--br);font-size:40px;left:15px;position:static;bottom:auto;margin-left:0px !important;transition:all 200ms ease;color: #000000;}
+#app-mount .app-19_DXt .wrapper-25eVIn .circleIconButton-jET_ig {border-radius:var(--br);color: #000000;}
 
-#app-mount .app-19_DXt .wrapper-25eVIn .circleIconButton-jET_ig:hover {background:var(--hc) !important;transform:scale(1.1);}
+#app-mount .app-19_DXt .wrapper-25eVIn .circleIconButton-jET_ig:hover {background:var(--hc) !important;}
 
 .guildsDiscoverInner-wC7iEN {display:block;left:10px;top:10px;color:#fff;}
 
@@ -6405,3 +6405,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .guildCard-2arfcG {border: 2px solid var(--hc);border-radius: 10px;background: var(--QT);}
 
 .theme-dark .cardHovered-15wbb-, .theme-dark .loading-17PYl_ .cardHovered-15wbb- {background-color: var(--QTD);}
+
+.theme-dark .container-1r6BKw {box-shadow:none;}
+
