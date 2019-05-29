@@ -18,7 +18,7 @@
   background-position: center;
   width: 100%;
   height: 100%;
-  filter: blur(0px);
+  filter: var(--blur);
 }
 
  
@@ -36,7 +36,7 @@ div[class*="topSection"]::before {
     background-size: cover !important;
     background-position: center!important;
     box-shadow: inset 180px -90px 130px 10px var(--RBT) !important;
-text-shadow: 1px 1px 0px black;
+    text-shadow: 1px 1px 0px black;
 }
 
 :root { 
@@ -47,6 +47,7 @@ text-shadow: 1px 1px 0px black;
     --BG: url("https://i.imgur.com/d3lnerI.jpg");
     --BR: 50%;
     --quaternary-color:var(--RB)!important;
+    --blur: blur(0px);
 }
 
 .theme-dark .container-RYiLUQ,
@@ -1133,9 +1134,11 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .theme-dark .title-3qD0b- {background: var(--RB) !important;}
 
+.theme-dark .wrapper-1ucjTd:hover .content-3at_AU, .theme-light .wrapper-1ucjTd:hover .content-3at_AU {background: var(--RBT) !important;}
+
 .theme-dark .listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh{background-color: var(--RB);}
 
-.wrapper-1ucjTd.modeSelected-1zApJ_ {background-color: var(--RBT);}
+.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU  {background-color: var(--RBT) !important;}
 
 .darkTheme-3uETC4.container-2XeR5Z ,.theme-dark .container-1r6BKw {background-color: transparent;}
 
@@ -1156,3 +1159,5 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .theme-dark .cardHovered-15wbb-, .theme-dark .loading-17PYl_ .cardHovered-15wbb- {background-color: var(--RBT);}
 
 .theme-dark .card-3DjzTQ {background:transparent;}
+
+.body-3NySJS {padding: 8px;background: var(--RB);border-radius: 6px;}
