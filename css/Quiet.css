@@ -5100,7 +5100,9 @@ span.spinner {margin-top: 0px;}
 
 .containerCozy-jafyvG .comment { margin-right: 0px;margin-top: 0px;}
 
-.nameTag-3p0yK- {text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3);}
+.nameTag-3p0yK- {text-shadow: 0.5px 0.5px 0.5px black;}
+
+.username-1cB_5E {background: var(--RB);border-radius: 3px; padding: 2px;}
 
 .containerCozy-jafyvG .comment { text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3);}
 
@@ -5568,9 +5570,9 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 /*/settings icons*/
 
-.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU{background:none;}
+.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU{background:none;}
 
-.wrapper-1ucjTd.modeSelected-1zApJ_ {background-color: var(--QTD);margin: 1px 12px 1px 12px;border-radius: 3px;transition: .6s all ease-in-out;}
+.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU {background-color: var(--QTD);border-radius: 3px;transition: .6s all ease-in-out;}
 
 .content-3at_AU{transition: 1s all ease-in-out;}
 
