@@ -17,6 +17,9 @@
     --quaternary-color:var(--QTD)!important;
 }
 }
+/* personal tag */
+.large-3ChYtB:not(.wrapper-2F3Zv8):hover[style*="107511169366888448"]::before
+{ content: '' !important;background-image: url(https://i.imgur.com/sxvFvSq.gif) !important;transform: scale(1.03) !important;position: absolute !important;height: calc(100% + 2px)!important;width: calc(100% + 2px)!important;top: 1px !important;left: 4px !important;border:none !important; background-size: cover!important; border-radius:var(--br);z-index: -1;}
 
 /* Version Displayed */
 
