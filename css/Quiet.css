@@ -5116,8 +5116,6 @@ span.spinner {margin-top: 0px;}
 
 .nameTag-3p0yK- {text-shadow: 0.5px 0.5px 0.5px black;}
 
-.username-1cB_5E {background: var(--RB);border-radius: 3px; padding: 2px;}
-
 .containerCozy-jafyvG .comment { text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3);}
 
 .name-3YKhmS{text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3);}
@@ -6433,3 +6431,5 @@ width: 102% !important;}
 border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;background-color: var(--QTD) !important;}
 
 #app-mount .wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168" i]::after {margin-left: -15px !important;}
+
+.avatarUploaderInner-3UNxY{background-color: transparent;}
