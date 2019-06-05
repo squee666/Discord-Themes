@@ -6485,7 +6485,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .theme-dark .nowPlaying-284llR, .theme-light .nowPlaying-284llR {background-color: var(--hc);}
 
-.theme-dark .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-dark .nowPlaying-284llR .overlayStatusText-L2IACa, {color: white;}
+.theme-dark .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-dark .nowPlaying-284llR .overlayStatusText-L2IACa {color: white;}
 
 .theme-dark .nowPlaying-284llR .gameNameInput-385LoS:focus, .theme-dark .nowPlaying-284llR .gameNameInput-385LoS:hover {border-color: var(--mc);background-color: var(--hc);}
 
@@ -6506,3 +6506,5 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 .checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {background-color: var(--mc);}
 
 .theme-dark .item-1GzJrl:hover {background-color: var(--QTD);}
+
+.theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover {background-color: var(--QTD);}
