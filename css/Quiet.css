@@ -6508,3 +6508,9 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 .theme-dark .item-1GzJrl:hover {background-color: var(--QTD);}
 
 .theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover {background-color: var(--QTD);}
+
+.theme-dark .focused-1En8bG:after, .theme-dark .result-3w1ZcL:hover:after {box-shadow: inset 0 0 0 2px var(--mc), inset 0 0 0 3px #2f3136;}
+
+.theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6 {border-color: var(--mc);}
+
+.theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6:hover {border-color: var(--mc);background-color: var(--hc);}
