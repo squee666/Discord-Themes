@@ -6503,7 +6503,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .theme-dark .emptyHintCard-2mUdMe {background-color: var(--QTD);}
 
-.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {background-color: var(--mc);}
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {background-color: var(--mc);border-color: var(--hc);}
 
 .theme-dark .item-1GzJrl:hover {background-color: var(--QTD);}
 
