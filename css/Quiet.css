@@ -4992,8 +4992,6 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 .theme-dark .bubble-3we2di:before { border-top-color: var(--hc);}
 
-.accountDetails-3k9g4n .discriminator { font-size: 10px;}
-
 .news-2GDtLJ {  background-color: var(--QT);}
 
 .theme-dark .header-1RC2Wb:hover { background-color: var(--QTD);}
@@ -6520,3 +6518,13 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 .premiumIcon-2IFPOX {color: #ffffff80;top: 2px;width: 11px;left: 11px;margin-left: -8px;}
 
 .membersWrap-2h-GB4 {z-index: 999;}
+
+.css-1wqqa50-container,.css-1rckt42-menu  {background: var(--QTD) !important;}
+
+.css-1ye7vu0::-webkit-scrollbar-thumb {background:var(--mc);}
+
+.sectionHeader-1Hee-5 {text-align: center;font-size: 18px;}
+
+.theme-dark .activeButton-1BJAiN { background-color: var(--mc);}
+
+.theme-dark .activeButton-1BJAiN:hover { background-color: var(--hc);}
