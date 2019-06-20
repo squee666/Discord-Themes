@@ -992,7 +992,7 @@ div.control-group .shortcut-recorder input[type=text]{border:2px solid var(--mc)
 
 .dividerContent-2L12VI:before, .dividerContent-2L12VI:after{border-color:transparent !important;}
 
-.guildsWrapper-5TJh6A{width:76px;}
+.guildsWrapper-5TJh6A{width:70px;}
 
 .iconSizeLarge-161qtT{width:45px;height:45px;}
 
@@ -5987,7 +5987,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .message-2qRu38 {background-color: var(--QT);box-shadow: none;}
 
-.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {margin-top: -48px !important; width: 90px;margin-left: -8px !important;position: absolute;z-index: 2;height: 46px;border-bottom: 2px solid var(--mc);}
+.scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {margin-top: -48px !important; width: 90px;margin-left: -8px !important;position: absolute;z-index: 2;height: 46px;border-bottom: 2px solid var(--mc);}
 
 .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child .button-OhfaWu {margin-top:0px !important;}
 
@@ -6127,7 +6127,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .wrapper-1Rf91z,
 .wrapper-1Rf91z.foldercontent {
     background:var(--qt);
-    width:76px;
+    width:70px;
     background-size:cover !important;
     background-position: center;
     background-attachment: fixed;
@@ -6517,3 +6517,4 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .premiumIcon-2IFPOX {color: #ffffff80;top: 2px;width: 11px;left: 11px;margin-left: -8px;}
 
+.membersWrap-2h-GB4 {z-index: 999;}
