@@ -4354,12 +4354,13 @@ body:active .alt-3btY0e.menu-Sp6bN1:not(:active) {
     height: 70px;
     padding: 0 !important;
     left: 5px;
-    bottom: -70px;
+    bottom:0px;
+  /*  bottom: -70px;*/
     transform: none;
     position: relative;
     -webkit-backface-visibility:hidden;
     background: transparent!important;
-    animation: anim-status 500ms cubic-bezier(.4,0,0,1) backwards;
+    animation: anim-status 400ms cubic-bezier(.4,0,0,1) backwards;
 }
 .alt-3btY0e .item-1GzJrl:first-of-type{
   padding-left:10px!important;
@@ -5198,7 +5199,7 @@ span.spinner {margin-top: 0px;}
 .title-3qD0b- .status-streaming{background:#593695;border: none !important;}
 
 .title-3qD0b- .dnd-1_xrcq,.title-3qD0b- .status-oxiHuE,.title-3qD0b- .online-2S838R,.title-3qD0b- .idle-3DEnRT,.title-3qD0b- .offline-3qoTek,.title-3qD0b- .streaming-2_dnHe {
-position: fixed;width: 24px;height: 24px;top: 11px;left: 328px;border-radius:50px !important;}
+position: fixed;width: 24px;height: 24px;top: 11px;left: 322.4px;;border-radius:50px !important;}
 
 .title-29uC1r,.akaBadge-1M-1Gw{margin:0px !important;}
 
