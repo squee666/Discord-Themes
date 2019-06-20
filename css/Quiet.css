@@ -992,7 +992,7 @@ div.control-group .shortcut-recorder input[type=text]{border:2px solid var(--mc)
 
 .dividerContent-2L12VI:before, .dividerContent-2L12VI:after{border-color:transparent !important;}
 
-.guildsWrapper-5TJh6A{width:70px;}
+.guildsWrapper-5TJh6A{width:70spx;}
 
 .iconSizeLarge-161qtT{width:45px;height:45px;}
 
@@ -3799,9 +3799,11 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .side-8zPYf6  .itemSelected-1qLhcL{background-color: var(--hc)}
 
-.accountDetails-3k9g4n .username{font-size: 120%; font-family: "Satisfy";font-weight: 700;line-height: 25px;color: var(--mc) !important;}
+.usernameContainer-1GWXka {font-size: 120%; font-family: "Satisfy";font-weight: 700;line-height: 25px;}
 
-.accountDetails-3k9g4n .discriminator { opacity: 1;font-weight: 700; color: var(--mc);}
+.discriminator-3W31ZY{ opacity: 1;font-weight: 900; color: var(--mc) !important;font-size: 11px;line-height: 12px;}
+
+.username-u0EL4I {width: 80px;color: var(--mc) !important;}
 
 #friends .tab-bar .tab-bar-item.selected .badge-1GsMF2{background-color: #f04747 !important;}
 
@@ -5987,7 +5989,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-dark .message-2qRu38 {background-color: var(--QT);box-shadow: none;}
 
-.scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {margin-top: -48px !important; width: 90px;margin-left: -8px !important;position: absolute;z-index: 2;height: 46px;border-bottom: 2px solid var(--mc);}
+.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {margin-top: -48px !important; width: 90px;margin-left: -8px !important;position: absolute;z-index: 2;height: 46px;border-bottom: 2px solid var(--mc);}
 
 .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child .button-OhfaWu {margin-top:0px !important;}
 
