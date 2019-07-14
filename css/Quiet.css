@@ -4346,6 +4346,7 @@ body:active .alt-3btY0e.menu-Sp6bN1:not(:active) {
     display: none;}
 
 .alt-3btY0e .item-1GzJrl {
+    border: none !important;
     transition: all 200ms ease;
     color: transparent;
     pointer-events: auto;
@@ -6583,4 +6584,4 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .theme-dark .item-1GzJrl {border-right: 2px solid var(--mc);border-left: 2px solid var(--mc);}
 
-.item-1GzJrl.leave-1DRJfn {border-bottom: 2px solid var(--mc);padding: 8px 14px;}*
+.item-1GzJrl.leave-1DRJfn {border-bottom: 2px solid var(--mc);padding: 8px 14px;}
