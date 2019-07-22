@@ -6593,7 +6593,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 }
 
 .wrapper-3t9DeA[class*="avatar" i],
-.wrapper-3t9DeA[style*="width: 80px;"],
+.wrapper-3t9DeA[style*="width: 80px;"],.wrapper-3t9DeA[style*="width: 24px;"]
 .wrapper-3t9DeA.listAvatar-1NlAhb,.children-19S4PO .status-1XNdyw ,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq
  {
   border: 2px solid #747f8d;
