@@ -6577,7 +6577,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .item-1GzJrl.leave-1DRJfn {border-bottom: 2px solid var(--mc);padding: 8px 14px;}
 
-.theme-dark .footer-3rDWd {background: transparent;}
+.footer-3rDWdC {background: none !important;}
 
 .pointerEvents-2zdfdO {mask:none;border-radius:var(--BR);}
 
@@ -6645,3 +6645,12 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .avatar-17mtNa { margin: 0px 25px 0px 5px;}
 
+.theme-dark .expandedFolderBackground-2sPsd-, .theme-dark .folder-21wGz3, .theme-light .expandedFolderBackground-2sPsd-, .theme-light .folder-21wGz3 {background-color: var(--mc);}
+
+.folderIconWrapper-226oVY {background-color: transparent !important;}
+
+.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji_A7, .theme-dark .folder-21wGz3.hover-2ji_A7, .theme-light .expandedFolderBackground-2sPsd-.hover-2ji_A7, .theme-light .folder-21wGz3.hover-2ji_A7 {background-color: var(--hc);}
+
+.expandedFolderBackground-2sPsd- {margin-bottom: -6px;}
+
+.expandedFolderIconWrapper-1xLaU- svg {color:black !important;opacity: 0.3;}
