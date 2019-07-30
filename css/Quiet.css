@@ -4644,7 +4644,7 @@ ui-call-avatar.video,.ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radi
 
 .iconWrapper-2OrFZ1 { margin: 0 4px;}
 
-.expandedFolderBackground-2sPsd- {border-radius: calc(var(--br) - 26px);}
+.expandedFolderBackground-2sPsd- {border-radius: var(--br) ;}
 
 /* OLD TITLE BAR -*/
 
@@ -6605,23 +6605,108 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .status-1XNdyw{position: fixed;width: 24px;height: 24px;top: 11px;left: 322.4px;border-radius:50px !important;}
 
-.wrapper-3t9DeA[aria-label*="Online"],[aria-label*="Online"].status-1XNdyw,
-[aria-label*="Online"].status-mz5rqq {
+[aria-label*="Online"],
+[aria-label*="Conectado"],
+[aria-label*="En ligne"],
+[aria-label*="Na mreži"],
+[aria-label*="Prisijungęs"],
+[aria-label*="Elérhető"],
+[aria-label*="Pålogget"],
+[aria-label*="Dostępny"],
+[aria-label*="Disponível"],
+[aria-label*="Paikalla"],
+[aria-label*="Trực tuyến"],
+[aria-label*="Çevrimiçi"],
+[aria-label*="Συνδεδεμένος"],
+[aria-label*="На линия"],
+[aria-label*="В сети"],
+[aria-label*="В мережі"],
+[aria-label*="ออนไลน์"],
+[aria-label*="在线"],
+[aria-label*="オンライン"],
+[aria-label*="線上"],
+[aria-label*="온라인"] {
   border-color: #43b581 !important;
 }
 
-.wrapper-3t9DeA[aria-label*="Idle"],[aria-label*="Idle"].status-1XNdyw,
-[aria-label*="Idle"].status-mz5rqq  {
+[aria-label*="Idle"],
+[aria-label*="Inaktiv"],
+[aria-label*="Abwesend"],
+[aria-label*="Ausente"],
+[aria-label*="Inactif"],
+[aria-label*="U mirovanju"],
+[aria-label*="Inattivo"],
+[aria-label*="Pasitraukęs"],
+[aria-label*="Tétlen"],
+[aria-label*="Inactief"],
+[aria-label*="Zaraz wracam"],
+[aria-label*="Inactiv"],
+[aria-label*="Toimeton"],
+[aria-label*="Chờ"],
+[aria-label*="Boşta"],
+[aria-label*="Nečinný"],
+[aria-label*="Αδρανής"],
+[aria-label*="Не се използва"],
+[aria-label*="Не активен"],
+[aria-label*="Відійшов"],
+[aria-label*="ไม่อยู่"],
+[aria-label*="闲置"],
+[aria-label*="退席中"],
+[aria-label*="閒置"],
+[aria-label*="자리비움"]   {
   border-color:  #faa61a !important;
 }
 
-.wrapper-3t9DeA[aria-label*="Do Not Disturb"] ,[aria-label*="Do Not Disturb"]
-[aria-label*="Do Not Disturb"].status-mz5rqq  {
+[aria-label*="Do Not Disturb"],
+[aria-label*="Vil ikke forstyrres"],
+[aria-label*="Bitte nicht stören"],
+[aria-label*="No molestar"],
+[aria-label*="Ne pas déranger"],
+[aria-label*="Ne uznemiravaj"],
+[aria-label*="Non disturbare"],
+[aria-label*="Netrukdyti"],
+[aria-label*="Niet storen"],
+[aria-label*="Ikke forstyrr"],
+[aria-label*="Nie przeszkadzać"],
+[aria-label*="Elfoglalt"],
+[aria-label*="Não perturbar"],
+[aria-label*="Nu deranja"],
+[aria-label*="Älä häiritse"],
+[aria-label*="Stör ej"],
+[aria-label*="Vui Lòng Không Làm Phiền"],
+[aria-label*="Rahatsız Etmeyin"],
+[aria-label*="Nerušit"],
+[aria-label*="Μην ενοχλείτε"],
+[aria-label*="Не ме безпокой"],
+[aria-label*="Не беспокоить"],
+[aria-label*="Не турбувати"],
+[aria-label*="ห้ามรบกวน"],
+[aria-label*="请勿打扰"],
+[aria-label*="取り込み中"],
+[aria-label*="請勿打擾"],
+[aria-label*="다른 용무 중"]  {
   border-color: #f04747 !important;
 }
 
-.wrapper-3t9DeA[aria-label*="Streaming"],[aria-label*="Streaming"].status-1XNdyw,
-[aria-label*="Streaming"].status-mz5rqq  {
+[aria-label*="Streaming"],
+[aria-label*="Streamer"],
+[aria-label*="Transmitiendo"],
+[aria-label*="En direct"],
+[aria-label*="In diretta"],
+[aria-label*="Transliuojama"],
+[aria-label*="Közvetítés"],
+[aria-label*="Streamt"],
+[aria-label*="Strømmer"],
+[aria-label*="Streamowanie"],
+[aria-label*="Transmitindo"],
+[aria-label*="Transmite live"],
+[aria-label*="Striimaa"],
+[aria-label*="Streamar"],
+[aria-label*="Đang stream"],
+[aria-label*="Yayın Yapıyor"],
+[aria-label*="Streamuje"],
+[aria-label*="Ζωντανά"],
+[aria-label*="Стрийминг"]  {
   border-color: #643da7 !important;
 }
 
