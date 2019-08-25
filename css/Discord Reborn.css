@@ -1138,7 +1138,7 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU  {background-color: var(--RBT) !important;}
 
-.darkTheme-3uETC4.container-2XeR5Z, .theme-dark .container-1r6BKw {background-color: var(--RB);}
+.darkTheme-3uETC4.container-2XeR5Z, .theme-dark .container-1r6BKw {background-color: transparent;}
 
 .theme-dark .activityFeed-1C0EmJ, .theme-dark .outer-2IVh5n {background-color: transparent !important;}
 
@@ -1166,6 +1166,8 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .theme-dark .wrapper-2TxpI8 {background-color: var(--RB);}
 
-.container-2kwSDr {background-color: var(--RB);}
+.container-2kwSDr {background-color: transparent;}
 
 .theme-dark .popoutContainer-3WC9HR.homepage-nMy8gk:hover {background-color: var(--RBT);}
+
+.outerContainer-2NJ439 { background: var(--RB);}
