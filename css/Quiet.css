@@ -4614,7 +4614,7 @@ ui-call-avatar.video,.ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radi
 
 .standardSidebarView-3F1I7i .btn-close {border-radius: var(--br);margin-top: 30px !important; margin-left: -5px;}
 
-.sizeDefault-2YlOZr { border-radius: var(--br)/20px;}
+.sizeDefault-2YlOZr {border-radius: calc(var(--br));}
 
 .sizeDefault-2YlOZr:after,.sizeMini-1Xu3Pz { border-radius: var(--br); height: 18px;}
 
@@ -6584,144 +6584,47 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 .pointerEvents-2zdfdO {mask:none;border-radius:var(--BR);}
 
 
-.mask-1l8v16{
-  contain: none;
-}
+.mask-1l8v16{contain: none;}
 
 .wrapper-3t9DeA[class*="avatar"] rect[x="22"][y="22"],.wrapper-3t9DeA rect[width="25"][height="15"],
-.wrapper-3t9DeA svg[width="10"],
-.wrapper-3t9DeA rect[mask*="svg-mask-status"],.status-1XNdyw rect,.container-3gCOGc .mask-1qbNWk {
-  opacity: 0;
-}
+.wrapper-3t9DeA svg[width="10"],.wrapper-3t9DeA rect[mask*="svg-mask-status"],.status-1XNdyw rect,.container-3gCOGc .mask-1qbNWk {
+  opacity: 0;}
 
-.wrapper-3t9DeA[class*="avatar" i],
-.wrapper-3t9DeA[style*="width: 80px;"],.wrapper-3t9DeA[style*="width: 24px;"],
-.wrapper-3t9DeA.listAvatar-1NlAhb,.children-19S4PO .status-1XNdyw ,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq
- {
-  border: 2px solid #747f8d;
-  border-radius: var(--br);
-  transition: border-color 200ms ease-in-out;
-}
+.wrapper-3t9DeA[class*="avatar" i],.wrapper-3t9DeA[style*="width: 80px;"],.wrapper-3t9DeA[style*="width: 24px;"],
+.wrapper-3t9DeA.listAvatar-1NlAhb,.children-19S4PO .status-1XNdyw ,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq{
+ border: 2px solid #747f8d;  border-radius: var(--br);  transition: border-color 200ms ease-in-out;}
 
 .status-1XNdyw{position: fixed;width: 24px;height: 24px;top: 11px;left: 322.4px;border-radius:50px !important;}
 
-[aria-label*="Online"],
-[aria-label*="Conectado"],
-[aria-label*="En ligne"],
-[aria-label*="Na mreži"],
-[aria-label*="Prisijungęs"],
-[aria-label*="Elérhető"],
-[aria-label*="Pålogget"],
-[aria-label*="Dostępny"],
-[aria-label*="Disponível"],
-[aria-label*="Paikalla"],
-[aria-label*="Trực tuyến"],
-[aria-label*="Çevrimiçi"],
-[aria-label*="Συνδεδεμένος"],
-[aria-label*="На линия"],
-[aria-label*="В сети"],
-[aria-label*="В мережі"],
-[aria-label*="ออนไลน์"],
-[aria-label*="在线"],
-[aria-label*="オンライン"],
-[aria-label*="線上"],
-[aria-label*="온라인"] {
-  border-color: #43b581 !important;
-}
+[aria-label*="Online"],[aria-label*="Conectado"],[aria-label*="En ligne"],[aria-label*="Na mreži"],[aria-label*="Prisijungęs"],[aria-label*="Elérhető"],[aria-label*="Pålogget"],
+[aria-label*="Dostępny"],[aria-label*="Disponível"],[aria-label*="Paikalla"],[aria-label*="Trực tuyến"],[aria-label*="Çevrimiçi"],[aria-label*="Συνδεδεμένος"],[aria-label*="На линия"],
+[aria-label*="В сети"],[aria-label*="В мережі"],[aria-label*="ออนไลน์"],[aria-label*="在线"],[aria-label*="オンライン"],[aria-label*="線上"],[aria-label*="온라인"] {
+  border-color: #43b581 !important;}
 
-[aria-label*="Idle"],
-[aria-label*="Inaktiv"],
-[aria-label*="Abwesend"],
-[aria-label*="Ausente"],
-[aria-label*="Inactif"],
-[aria-label*="U mirovanju"],
-[aria-label*="Inattivo"],
-[aria-label*="Pasitraukęs"],
-[aria-label*="Tétlen"],
-[aria-label*="Inactief"],
-[aria-label*="Zaraz wracam"],
-[aria-label*="Inactiv"],
-[aria-label*="Toimeton"],
-[aria-label*="Chờ"],
-[aria-label*="Boşta"],
-[aria-label*="Nečinný"],
-[aria-label*="Αδρανής"],
-[aria-label*="Не се използва"],
-[aria-label*="Не активен"],
-[aria-label*="Відійшов"],
-[aria-label*="ไม่อยู่"],
-[aria-label*="闲置"],
-[aria-label*="退席中"],
-[aria-label*="閒置"],
-[aria-label*="자리비움"]   {
-  border-color:  #faa61a !important;
-}
+[aria-label*="Idle"],[aria-label*="Inaktiv"],[aria-label*="Abwesend"],[aria-label*="Ausente"],[aria-label*="Inactif"],[aria-label*="U mirovanju"],
+[aria-label*="Inattivo"],[aria-label*="Pasitraukęs"],[aria-label*="Tétlen"],[aria-label*="Inactief"],[aria-label*="Zaraz wracam"],[aria-label*="Inactiv"],
+[aria-label*="Toimeton"],[aria-label*="Chờ"],[aria-label*="Boşta"],[aria-label*="Nečinný"],[aria-label*="Αδρανής"],[aria-label*="Не се използва"],
+[aria-label*="Не активен"],[aria-label*="Відійшов"],[aria-label*="ไม่อยู่"],[aria-label*="闲置"],[aria-label*="退席中"],[aria-label*="閒置"],[aria-label*="자리비움"]   {
+  border-color:  #faa61a !important;}
 
-[aria-label*="Do Not Disturb"],
-[aria-label*="Vil ikke forstyrres"],
-[aria-label*="Bitte nicht stören"],
-[aria-label*="No molestar"],
-[aria-label*="Ne pas déranger"],
-[aria-label*="Ne uznemiravaj"],
-[aria-label*="Non disturbare"],
-[aria-label*="Netrukdyti"],
-[aria-label*="Niet storen"],
-[aria-label*="Ikke forstyrr"],
-[aria-label*="Nie przeszkadzać"],
-[aria-label*="Elfoglalt"],
-[aria-label*="Não perturbar"],
-[aria-label*="Nu deranja"],
-[aria-label*="Älä häiritse"],
-[aria-label*="Stör ej"],
-[aria-label*="Vui Lòng Không Làm Phiền"],
-[aria-label*="Rahatsız Etmeyin"],
-[aria-label*="Nerušit"],
-[aria-label*="Μην ενοχλείτε"],
-[aria-label*="Не ме безпокой"],
-[aria-label*="Не беспокоить"],
-[aria-label*="Не турбувати"],
-[aria-label*="ห้ามรบกวน"],
-[aria-label*="请勿打扰"],
-[aria-label*="取り込み中"],
-[aria-label*="請勿打擾"],
-[aria-label*="다른 용무 중"]  {
-  border-color: #f04747 !important;
-}
+[aria-label*="Do Not Disturb"],[aria-label*="Vil ikke forstyrres"],[aria-label*="Bitte nicht stören"],[aria-label*="No molestar"],[aria-label*="Ne pas déranger"],
+[aria-label*="Ne uznemiravaj"],[aria-label*="Non disturbare"],[aria-label*="Netrukdyti"],[aria-label*="Niet storen"],[aria-label*="Ikke forstyrr"],
+[aria-label*="Nie przeszkadzać"],[aria-label*="Elfoglalt"],[aria-label*="Não perturbar"],[aria-label*="Nu deranja"],[aria-label*="Älä häiritse"],[aria-label*="Stör ej"],
+[aria-label*="Vui Lòng Không Làm Phiền"],[aria-label*="Rahatsız Etmeyin"],[aria-label*="Nerušit"],[aria-label*="Μην ενοχλείτε"],[aria-label*="Не ме безпокой"],[aria-label*="Не беспокоить"],
+[aria-label*="Не турбувати"],[aria-label*="ห้ามรบกวน"],[aria-label*="请勿打扰"],[aria-label*="取り込み中"],[aria-label*="請勿打擾"],[aria-label*="다른 용무 중"]  {
+  border-color: #f04747 !important;}
 
-[aria-label*="Streaming"],
-[aria-label*="Streamer"],
-[aria-label*="Transmitiendo"],
-[aria-label*="En direct"],
-[aria-label*="In diretta"],
-[aria-label*="Transliuojama"],
-[aria-label*="Közvetítés"],
-[aria-label*="Streamt"],
-[aria-label*="Strømmer"],
-[aria-label*="Streamowanie"],
-[aria-label*="Transmitindo"],
-[aria-label*="Transmite live"],
-[aria-label*="Striimaa"],
-[aria-label*="Streamar"],
-[aria-label*="Đang stream"],
-[aria-label*="Yayın Yapıyor"],
-[aria-label*="Streamuje"],
-[aria-label*="Ζωντανά"],
-[aria-label*="Стрийминг"]  {
-  border-color: #643da7 !important;
-}
+[aria-label*="Streaming"],[aria-label*="Streamer"],[aria-label*="Transmitiendo"],[aria-label*="En direct"],[aria-label*="In diretta"],[aria-label*="Transliuojama"],
+[aria-label*="Közvetítés"],[aria-label*="Streamt"],[aria-label*="Strømmer"],[aria-label*="Streamowanie"],[aria-label*="Transmitindo"],[aria-label*="Transmite live"],
+[aria-label*="Striimaa"],[aria-label*="Streamar"],[aria-label*="Đang stream"],[aria-label*="Yayın Yapıyor"],[aria-label*="Streamuje"],[aria-label*="Ζωντανά"],[aria-label*="Стрийминг"]  {
+  border-color: #643da7 !important;}
 
-.wrapper-3t9DeA[aria-label*="Invisible"],[aria-label*="Invisible"].status-1XNdyw,
-[aria-label*="Invisible"].status-mz5rqq  {
-  stroke: #747f8d !important;
-}
+.wrapper-3t9DeA[aria-label*="Invisible"],[aria-label*="Invisible"].status-1XNdyw,[aria-label*="Invisible"].status-mz5rqq  { stroke: #747f8d !important;}
 
-.status-mz5rqq{width:32px;height:32px;margin-left: -241px;;border-radius:var(--br) !important;z-index: 1;}
+.status-mz5rqq{width:32px;height:32px;margin-left: -241px;border-radius:var(--br) !important;z-index: 1;}
 
-.avatarWrapperNormal-3wFMbf:hover .avatarHint-1qgaV3 {
-  width: 84px;
-  height: 84px;
-  transition: opacity 200ms ease-in-out;
-}
+.avatarWrapperNormal-3wFMbf:hover .avatarHint-1qgaV3 {width: 84px;  height: 84px;  transition: opacity 200ms ease-in-out;}
+
 .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .statusText-2F9zIF{margin-left: 200px;}
 
 .theme-dark .container-3baos1, .theme-light .container-3baos1 {background: transparent;}
@@ -6781,3 +6684,15 @@ rect[width="25"][height="10"] {
 
 
 [style*="color: rgb(255, 255, 255);"].item-PXvHYJ {color: var(--mc) !important;border-color: var(--mc) !important;font-weight:700;}
+
+.theme-dark .closeButton-1tv5uR {border-radius: var(--br);}
+
+.theme-dark .dragInner-_SHftW{ background-color: transparent;}
+
+.theme-dark .themedPopout-1TrfdI:not(.messagesPopoutWrap-1MQ1bW) {background-color: var(--QT);border: 2px solid var(--mc) !important;}
+
+.content-N9xlZF { background: var(--QTD);}
+.content-N9xlZF .button-1ZJXzu {color: white;}
+.activityPanel-28dQGo {border: none;}
+
+.container-2kwSDr {background-color: var(--qt);}
