@@ -6591,7 +6591,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
   opacity: 0;}
 
 .wrapper-3t9DeA[class*="avatar" i],.wrapper-3t9DeA[style*="width: 80px;"],.wrapper-3t9DeA[style*="width: 24px;"],
-.wrapper-3t9DeA.listAvatar-1NlAhb,.children-19S4PO .status-1XNdyw ,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq{
+.wrapper-3t9DeA.listAvatar-1NlAhb,.children-19S4PO .status-1XNdyw ,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq,[class*="avatar-"]  [aria-label]{
  border: 2px solid #747f8d;  border-radius: var(--br);  transition: border-color 200ms ease-in-out;}
 
 .status-1XNdyw{position: fixed;width: 24px;height: 24px;top: 11px;left: 12.4px;border-radius:50px !important;}
@@ -6619,7 +6619,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 [aria-label*="Striimaa"],[aria-label*="Streamar"],[aria-label*="Đang stream"],[aria-label*="Yayın Yapıyor"],[aria-label*="Streamuje"],[aria-label*="Ζωντανά"],[aria-label*="Стрийминг"]  {
   border-color: #643da7 !important;}
 
-.wrapper-3t9DeA[aria-label*="Invisible"],[aria-label*="Invisible"].status-1XNdyw,[aria-label*="Invisible"].status-mz5rqq  { stroke: #747f8d !important;}
+.wrapper-3t9DeA[aria-label*="Invisible"],[aria-label*="Invisible"].status-1XNdyw,[aria-label*="Invisible"].status-mz5rqq  { border-color: #747f8d !important;}
 
 .status-mz5rqq{width:32px;height:32px;margin-left: -241px;border-radius:var(--br) !important;z-index: 1;}
 
