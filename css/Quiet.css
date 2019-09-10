@@ -1,8 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
-@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
-
-
-
 :root {
     --version-content: "8.2";
     --theme-name: "Quiet";
@@ -6381,7 +6376,7 @@ foreignObject { mask: none; -webkit-mask: none;overflow: hidden;border-radius: v
 
 .theme-dark .acronym-2mOFsV:hover{background-color:var(--hc);}
 .theme-dark .acronym-2mOFsV{background-color:transparent;}
-.RANbutton {margin-top: 4px;}
+.RANbutton {margin-top: 4px;color: white;}
 
 
 #app-mount .wrapper-1Rf91z.foldercontent .scroller-2TZvBN:first-child {border-bottom: none;margin-top: 46px !important;position: relative !important;border-top: 2px solid var(--mc);}
