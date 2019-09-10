@@ -110,6 +110,11 @@ div[class*="topSection"]::before {
 
 .headerSpotify-zpWxgT {background: var(--RBT) !important;}
 
+.sidebar-2K8pFh {background: var(--RB);border-radius: 0px !important;}
+
+.itemBase-1Qj4z6{background: var(--RBT);}
+
+
 .guilds-1q_RqH .guild-1EfMGQ:hover:first-child{background-color: rgba(0,0,0,0.65) !important;}
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.active:first-of-type .guildInner-3DSoA4,
@@ -1140,7 +1145,9 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .darkTheme-3uETC4.container-2XeR5Z, .theme-dark .container-1r6BKw {background-color: transparent;}
 
-.theme-dark .activityFeed-1C0EmJ, .theme-dark .outer-2IVh5n {background-color: transparent !important;}
+.theme-dark .outer-2IVh5n {background-color: transparent !important;}
+
+.theme-dark .activityFeed-1C0EmJ {background-color: var(--RB) !important;}
 
 .listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {background: var(--RBT) !important;}
 
@@ -1171,3 +1178,10 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .theme-dark .popoutContainer-3WC9HR.homepage-nMy8gk:hover {background-color: var(--RBT);}
 
 .outerContainer-2NJ439 { background: var(--RB);}
+
+.theme-dark .container-2oTpPc {var(--RB);}
+
+.liveRed-lUmv1v {background-color: var(--mc);}
+
+.theme-dark .streamPreview-2-WUWT {background-color: var(--RBT);}
+
