@@ -4909,7 +4909,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 .statusDndProfile-33i43o { box-shadow: none;}
 
-.theme-dark.contextMenu-HLZMGh { background: var(--QT); !important; box-shadow: none !important;border: 2px solid var(--hc);}
+.contextMenu-HLZMGh { background: var(--QT); !important; box-shadow: none !important;border: 2px solid var(--hc);min-width: 110px;padding: 0px;}
 
 .theme-dark .itemSubMenu-1vN_Yn { background: transparent !important;}
 
@@ -6462,6 +6462,270 @@ width: 102% !important;}
 
 
 #app-mount .theme-dark .wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168" i]:after, #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="www.discordsource." i]:before, #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="://discordsource." i]:before, #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdocs." i]:before, #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="://betterdocs." i]:before {
+border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;background-color: var(--QTD) !important;}
+
+#app-mount .wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168" i]::after {margin-left: -15px !important;}
+
+.avatarUploaderInner-3UNxY{background-color: transparent;}
+
+.emojiPicker-3m1S-j .inner-3ErfOT {background: none !important;margin: unset !important;opacity: 1 !important;}
+
+.channelNotices-41mJbj .channelNotice-1-XFjC.premiumGuildSubscription-3oKecP {background: var(--QTD) url(/assets/c88e15a….svg) no-repeat center 23px;}
+
+.theme-dark .tierBody-16Chc9,.theme-dark .tierNoneContainer-3hhK3h {background-color: var(--QT);}
+
+.theme-dark .tierHeaderLocked-1s2JJz {background-color: var(--QTD);color: var(--mc);}
+
+.theme-dark .barBackground-2EEiLw {background-color: var(--mc);}
+
+.theme-dark .tierMarkerBackground-3q29am{color: var(--hc);background-color: var(--hc);}
+
+.theme-dark .tierLock-3CSxSX {color: var(--hc);}
+
+.tierMarkerAccomplished-2MiXeg, .tierMarkerInProgress-24LMzJ{background-image: linear-gradient(to right, var(--mc),var(--mc)) !important;}
+
+.theme-dark .barForeground-3KglC8, .theme-light .barForeground-3KglC8 {background-color: var(--mc);}
+
+.circleIconButton-jET_ig.selected-ugP_am { background-color: var(--mc);}
+
+.theme-dark .header-3ZP1MY, .theme-dark .create-3jownz .actionHeader-2CT5c7 {color: var(--mc);}
+
+.regionSelect-3lf4eE button, .regionSelect-3lf4eE .regionSelectInner-24f4Ce {color: white;border: 1px solid var(--hc);}
+
+.theme-dark .regionSelect-3lf4eE:hover button, .theme-light .regionSelect-3lf4eE:hover button {background-color: var(--mc);}
+
+.theme-dark .regionSelect-3lf4eE:hover .regionSelectInner-24f4Ce, .theme-dark .regionSelect-3lf4eE:hover button {border-color: var(--mc);}
+
+.avatar-21196O {border: 5px solid var(--hc);}
+
+.avatarUploaderInner-3UNxY3 {background-color: var(--mc);}
+
+.theme-dark .title-2Dc-Cb {color: var(--mc) !important;}
+
+.slideFooter-2dXJ9s {padding: 8px 30px;}
+
+.theme-dark .addGamePopout-2RY8Ju {background-color: var(--QTD);box-shadow: none;}
+
+.css-181m2lf-menu {background-color: var(--QTD) !important;}
+
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {background-color: var(--QTD);border-color: var(--hc);}
+
+.css-1gnr91b-option {background-color: rgba(100, 100, 100, 0.1);}
+
+.theme-dark .nowPlaying-284llR, .theme-light .nowPlaying-284llR {background-color: var(--hc);}
+
+.theme-dark .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-dark .nowPlaying-284llR .overlayStatusText-L2IACa {color: white;}
+
+.theme-dark .nowPlaying-284llR .gameNameInput-385LoS:focus, .theme-dark .nowPlaying-284llR .gameNameInput-385LoS:hover {border-color: var(--mc);background-color: var(--hc);}
+
+.theme-dark .nowPlaying-284llR .overlayToggleIconOff-1kT42w .fill-1ugeBG, .theme-dark .nowPlaying-284llR .overlayToggleIconOn-3UNmty .fill-1ugeBG {fill: #ffffffd6;}
+
+.popoutTopLeft-b5Eb3O.noArrow-3BYQ0Z {margin-bottom: 10px;left: 80px !important;}
+
+.theme-dark .boostCount-UFqabz ,.theme-dark .tierUnlocked-25K6Kv{background-color: var(--hc);color: white;}
+
+.theme-dark .forceLightTheme-1nVhlT .sadImage-2ph8SI, .theme-light .sadImage-2ph8SI {filter: grayscale(100%)invert(1);}
+
+.theme-dark .categoryFadeBlurple-1j72_A {background-color: var(--mc);opacity: 0.6;}
+
+.theme-dark .categoryFadeBlurple-1j72_A:hover, .theme-light .categoryFadeBlurple-1j72_A:hover {background-color: var(--mc); opacity: 0.9;}
+
+.theme-dark .emptyHintCard-2mUdMe {background-color: var(--QTD);}
+
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {background-color: var(--mc);border-color: var(--hc);}
+
+.theme-dark .item-1GzJrl:hover {background-color: var(--QTD);}
+
+.theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover {background-color: var(--QTD);}
+
+.theme-dark .focused-1En8bG:after, .theme-dark .result-3w1ZcL:hover:after {box-shadow: inset 0 0 0 2px var(--mc), inset 0 0 0 3px #2f3136;}
+
+.theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6 {border-color: var(--mc);}
+
+.theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6:hover {border-color: var(--mc);background-color: var(--hc);}
+
+.premiumIcon-2IFPOX {color: #ffffff80;top: 2px;width: 11px;left: 11px;margin-left: -8px;}
+
+.membersWrap-2h-GB4 {z-index: 999;}
+
+.css-1wqqa50-container,.css-1rckt42-menu  {background: var(--QTD) !important;}
+
+.css-1ye7vu0::-webkit-scrollbar-thumb {background:var(--mc);}
+
+.sectionHeader-1Hee-5 {text-align: center;font-size: 18px;}
+
+.theme-dark .activeButton-1BJAiN { background-color: var(--mc);}
+
+.theme-dark .activeButton-1BJAiN:hover { background-color: var(--hc);}
+
+.userSettingsAccount-2eMFVR .viewBody-2Qz-jg { text-align: center;}
+
+.scale-3iLZhb.didRender-33z1u8 , .scale-3iLZhb { transform: unset !important;}   
+
+.theme-dark .container-2x5lvQ .header-2C89wJ,.theme-dark .container-2x5lvQ section {background-color: transparent;padding: 8px 14px;}
+
+.theme-dark .progress-1IcQ3A {background-color: var(--mc);}
+
+.theme-dark .footer-1kmXd4 {background-color: transparent;}
+
+
+.popout-2iWAc- { margin-top: -2px !important;box-shadow: none;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;}
+
+.menu-Sp6bN1 {border-radius: 0px;}
+
+.theme-dark .item-1GzJrl {border-right: 2px solid var(--mc);border-left: 2px solid var(--mc);}
+
+.item-1GzJrl.leave-1DRJfn {border-bottom: 2px solid var(--mc);padding: 8px 14px;}
+
+.footer-3rDWdC {background: none !important;}
+
+.pointerEvents-2zdfdO {mask:none;border-radius:var(--BR);}
+
+
+.mask-1l8v16{contain: none;}
+
+.wrapper-3t9DeA[class*="avatar"] rect[x="22"][y="22"],.wrapper-3t9DeA rect[width="25"][height="15"],
+.wrapper-3t9DeA svg[width="10"],.wrapper-3t9DeA rect[mask*="svg-mask-status"],.status-1XNdyw rect,.container-3gCOGc .mask-1qbNWk {
+  opacity: 0;}
+
+.wrapper-3t9DeA[class*="avatar" i],.wrapper-3t9DeA[style*="width: 80px;"],.wrapper-3t9DeA[style*="width: 24px;"],
+.wrapper-3t9DeA.listAvatar-1NlAhb,.children-19S4PO .status-1XNdyw ,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq,[class*="avatar-"]  [aria-label]{
+ border: 2px solid #747f8d;  border-radius: var(--br);  transition: border-color 200ms ease-in-out;}
+
+.status-1XNdyw{position: fixed;width: 24px;height: 24px;top: 11px;left: 12.4px;border-radius:50px !important;}
+
+[aria-label*="Online"],[aria-label*="Conectado"],[aria-label*="En ligne"],[aria-label*="Na mreži"],[aria-label*="Prisijungęs"],[aria-label*="Elérhető"],[aria-label*="Pålogget"],
+[aria-label*="Dostępny"],[aria-label*="Disponível"],[aria-label*="Paikalla"],[aria-label*="Trực tuyến"],[aria-label*="Çevrimiçi"],[aria-label*="Συνδεδεμένος"],[aria-label*="На линия"],
+[aria-label*="В сети"],[aria-label*="В мережі"],[aria-label*="ออนไลน์"],[aria-label*="在线"],[aria-label*="オンライン"],[aria-label*="線上"],[aria-label*="온라인"] {
+  border-color: #43b581 !important;}
+
+[aria-label*="Idle"],[aria-label*="Inaktiv"],[aria-label*="Abwesend"],[aria-label*="Ausente"],[aria-label*="Inactif"],[aria-label*="U mirovanju"],
+[aria-label*="Inattivo"],[aria-label*="Pasitraukęs"],[aria-label*="Tétlen"],[aria-label*="Inactief"],[aria-label*="Zaraz wracam"],[aria-label*="Inactiv"],
+[aria-label*="Toimeton"],[aria-label*="Chờ"],[aria-label*="Boşta"],[aria-label*="Nečinný"],[aria-label*="Αδρανής"],[aria-label*="Не се използва"],
+[aria-label*="Не активен"],[aria-label*="Відійшов"],[aria-label*="ไม่อยู่"],[aria-label*="闲置"],[aria-label*="退席中"],[aria-label*="閒置"],[aria-label*="자리비움"]   {
+  border-color:  #faa61a !important;}
+
+[aria-label*="Do Not Disturb"],[aria-label*="Vil ikke forstyrres"],[aria-label*="Bitte nicht stören"],[aria-label*="No molestar"],[aria-label*="Ne pas déranger"],
+[aria-label*="Ne uznemiravaj"],[aria-label*="Non disturbare"],[aria-label*="Netrukdyti"],[aria-label*="Niet storen"],[aria-label*="Ikke forstyrr"],
+[aria-label*="Nie przeszkadzać"],[aria-label*="Elfoglalt"],[aria-label*="Não perturbar"],[aria-label*="Nu deranja"],[aria-label*="Älä häiritse"],[aria-label*="Stör ej"],
+[aria-label*="Vui Lòng Không Làm Phiền"],[aria-label*="Rahatsız Etmeyin"],[aria-label*="Nerušit"],[aria-label*="Μην ενοχλείτε"],[aria-label*="Не ме безпокой"],[aria-label*="Не беспокоить"],
+[aria-label*="Не турбувати"],[aria-label*="ห้ามรบกวน"],[aria-label*="请勿打扰"],[aria-label*="取り込み中"],[aria-label*="請勿打擾"],[aria-label*="다른 용무 중"]  {
+  border-color: #f04747 !important;}
+
+[aria-label*="Streaming"],[aria-label*="Streamer"],[aria-label*="Transmitiendo"],[aria-label*="En direct"],[aria-label*="In diretta"],[aria-label*="Transliuojama"],
+[aria-label*="Közvetítés"],[aria-label*="Streamt"],[aria-label*="Strømmer"],[aria-label*="Streamowanie"],[aria-label*="Transmitindo"],[aria-label*="Transmite live"],
+[aria-label*="Striimaa"],[aria-label*="Streamar"],[aria-label*="Đang stream"],[aria-label*="Yayın Yapıyor"],[aria-label*="Streamuje"],[aria-label*="Ζωντανά"],[aria-label*="Стрийминг"]  {
+  border-color: #643da7 !important;}
+
+.wrapper-3t9DeA[aria-label*="Invisible"],[aria-label*="Invisible"].status-1XNdyw,[aria-label*="Invisible"].status-mz5rqq  { border-color: #747f8d !important;}
+
+.status-mz5rqq{width:32px;height:32px;margin-left: -213px;border-radius:var(--br) !important;z-index: 1;}
+
+.avatarWrapperNormal-3wFMbf:hover .avatarHint-1qgaV3 {width: 84px;  height: 84px;  transition: opacity 200ms ease-in-out;}
+
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .statusText-2F9zIF{margin-left: 200px;}
+
+.theme-dark .container-3baos1, .theme-light .container-3baos1 {background: transparent;}
+
+.theme-dark .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm {  width: 200px;}
+
+.container-3baos1 {height: 64px;}
+
+.avatar-17mtNa { margin: 0px 25px 0px 5px;}
+
+.theme-dark .expandedFolderBackground-2sPsd-, .theme-dark .folder-21wGz3, .theme-light .expandedFolderBackground-2sPsd-, .theme-light .folder-21wGz3 {background-color: var(--mc);}
+
+.folderIconWrapper-226oVY {background-color: transparent !important;}
+
+.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji_A7, .theme-dark .folder-21wGz3.hover-2ji_A7, .theme-light .expandedFolderBackground-2sPsd-.hover-2ji_A7, .theme-light .folder-21wGz3.hover-2ji_A7 {background-color: var(--hc);}
+
+.expandedFolderBackground-2sPsd- {margin-bottom: -6px;}
+
+.expandedFolderIconWrapper-1xLaU- svg {color:black !important;opacity: 0.3;}
+
+.cursorDefault-dsQJ1n,
+.dots-3Bkt3k {
+    overflow:visible;
+}
+.dots-3Bkt3k{z-index:2;}
+.dots-3Bkt3k [cx="2.5"] {
+    cy:-8 !important;
+    cx: -8.5 !important;
+}
+
+.dots-3Bkt3k [cx="8.75"] {
+    cy:-8 !important;
+    cx: -2.25 !important;
+}
+
+.dots-3Bkt3k [cx="15"] {
+    cy:-8 !important;
+    cx: 4 !important;
+}
+.cursorDefault-dsQJ1n rect[width="25"], rect[width="25"][height="10"], rect[width="10"][height="10"]{
+    x: -10 !important;
+    y: -8!important;
+mask: none !important;}
+/*
+rect[width="25"][height="10"] {
+    fill: #c71f1f82;
+    overflow: hidden;
+    y: 0 !important;
+    display: flex;
+    x: 0 !important;
+
+    height: 32px;
+    width: 32px;
+    z-index:1;  }
+.mask-1l8v16{
+    border-radius: var(--br);} */
+
+
+[style*="color: rgb(255, 255, 255);"].item-PXvHYJ {color: var(--mc) !important;border-color: var(--mc) !important;font-weight:700;}
+
+.theme-dark .closeButton-1tv5uR {border-radius: var(--br);}
+
+.theme-dark .dragInner-_SHftW{ background-color: transparent;}
+
+.theme-dark .themedPopout-1TrfdI:not(.messagesPopoutWrap-1MQ1bW) {background-color: var(--QT);border: 2px solid var(--mc) !important;}
+
+.content-N9xlZF { background: var(--QTD);}
+.content-N9xlZF .button-1ZJXzu {color: white;}
+.activityPanel-28dQGo {border: none;}
+
+.container-2kwSDr {background-color: var(--qt);}
+
+.root-25RxKh {background:transparent;}
+
+.theme-dark .streamPreview-2-WUWT {background-color: var(--QT);}
+
+.panels-j1Uci_, .app-2rEoOp {background: transparent;}
+
+.subtext-3CDbHg {color: var(--mc);font-weight: 700;line-height: 13px;text-align:center;}
+
+.nameTag-3uD-yy .title-eS5yk3 {color: var(--mc) !important;width: 72px;}
+
+.header-2o-2hj {border-bottom: 2px solid var(--mc);box-shadow: none !important;}
+
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9, .childWrapper-anI2G9 { background:transparent; }
+.itemBase-1Qj4z6 {background: var(--QTD);}
+
+
+@media screen and (max-width: 970px){[class*="scroller-"].members-1998pB .content-3QAtGj{ opacity:0;}}
+
+@media screen and (max-width: 970px){[class*="scroller-"].members-1998pB:hover .content-3QAtGj{opacity: 1 !important;}}
+
+
+.container-2XeR5Z {background:none;}
+.separator-2zcjq8 {display:none;}
+
+.clickable-2ap7je .header-2o-2hj:hover, .selected-WP3kCM .header-2o-2hj {background:transparent;}
+
+.itemBase-1Qj4z6 { margin: -1px 4px;}
+
+.menu-Sp6bN1 { margin-top: -15px;}
+
+.divider-1rPkiH {margin: 6px 3px;}1D[href*="www.betterdocs." i]:before, #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="://betterdocs." i]:before {
 border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;background-color: var(--QTD) !important;}
 
 #app-mount .wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168" i]::after {margin-left: -15px !important;}
