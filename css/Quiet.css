@@ -248,6 +248,8 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .user-popout .body{background:var(--QTD);}
 
+.theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 { background-color: var(--QTD);}
+
 .user-popout .footer{background:#0e0e0e;border-top:2px solid var(--hc);}
 
 .member-roles .member-role{color:var(--hc);}
