@@ -1181,14 +1181,12 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .theme-dark .container-2oTpPc {var(--RB);}
 
-.liveRed-lUmv1v {background-color: var(--mc);}
-
 .theme-dark .streamPreview-2-WUWT {background-color: var(--RBT);}
 
 .selected-aXhQR6 .layout-2DM8Md {background-color: var(--RBT);}
 
 .scroller-2TZvBN,  {background-color: var(--RB);}
 
-.scroller-2TZvBN , .scroller-1IIF0A ,.scroller-9moviB ,.friendsTable-133bsv .friendsTableBody-1ZhKif, .messages-3amgkR {background-color: transparent;}
+ .scroller-1IIF0A, .scroller-1JbKMe,.scroller-9moviB ,.friendsTable-133bsv .friendsTableBody-1ZhKif,.messages-3amgkR {background-color: transparent;}
 
 .theme-dark .bodyInner-245q0L {background-color: transparent;}
