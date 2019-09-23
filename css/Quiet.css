@@ -6734,9 +6734,6 @@ rect[width="25"][height="10"] {
 
 .messages-3amgkR,.scroller-2TZvBN  {background-color: var(--QT);}
 
-
-.scroller-2TZvBN , .scroller-1IIF0A ,.sidebar-2K8pFh,.scroller-9moviB ,.friendsTable-133bsv .friendsTableBody-1ZhKif,.contentRegionScroller-26nc1e , .sidebarRegionScroller-3MXcoP{background-color: transparent;}
-
-.panels-j1Uci_, .app-2rEoOp { background: var(--QT);}
+.scroller-2TZvBN,.scroller-1JbKMe  , .scroller-1IIF0A ,.sidebar-2K8pFh,.scroller-9moviB ,.friendsTable-133bsv .friendsTableBody-1ZhKif,.contentRegionScroller-26nc1e , .sidebarRegionScroller-3MXcoP{background-color: transparent;}
 
 .liveRed-lUmv1v {background-color: var(--mc) !important;}
