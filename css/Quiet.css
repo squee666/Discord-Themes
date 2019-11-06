@@ -97,6 +97,8 @@ padding:15px 20px 15px 18px !important;}
 
 .chat-3bRxxu>.title-wrap>.topic{font-size:14px;margin-top:5px;color:#656565 !important;}
 
+.theme-dark .chat-3bRxxu>.content-yTz4x3 .messages-3amgkR .containerCozy-jafyvG .markup-2BOw-j, .theme-dark .chat-3bRxxu>.title-wrap>.topic {margin: 1px 0px;}
+
 .chat-3bRxxu .divider-3gKybi>span{background:var(--QT) !important;font-size:12px;text-transform:uppercase;margin:0px 0px;border-radius:0px;opacity:1;padding:5px 15px;width:99%;text-align:center !important;}
 
 .chat-3bRxxu>.content-yTz4x3 .messages-3amgkR .containerCozy-jafyvG{border-bottom:none !important;}
@@ -6626,7 +6628,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .statusText-2F9zIF {margin-left: 200px;}
 
-.app-19_DXt .customStatusEmoji-hg2dL1 {margin-left: -100px !important;margin-right: -200px;}
+.app-19_DXt .customStatusEmoji-hg2dL1 {margin-left: -100px !important;margin-right: -190px !important;}
 
 .activity-3vLEI_ { margin-left: 100px;}
 
@@ -6760,5 +6762,3 @@ rect[width="25"][height="10"] {
 .hoverRoll-YK53gQ {text-align: center;}
 
 .scroller-5bBood,.theme-dark .messagesPopout-24nkyi {background:none;}
-
-
