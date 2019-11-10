@@ -6006,7 +6006,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .theme-light .input-1mgnkM,.theme-dark .input-1mgnkM {border-bottom-color: var(--hc); color: white;}
 
-.buttons-205you [tabindex="3"] {display: none;}
+.channelTextArea-1LDbYG button[tabindex="2"] {display: none;}
 
 .theme-dark .option-1l2vXE,.theme-dark .codeRedemptionRedirect-1wVR4b  {background-color: transparent;border: none;}
 
@@ -6762,3 +6762,5 @@ rect[width="25"][height="10"] {
 .hoverRoll-YK53gQ {text-align: center;}
 
 .scroller-5bBood,.theme-dark .messagesPopout-24nkyi {background:none;}
+
+
