@@ -4011,7 +4011,11 @@ display: none !important;}
 
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S { background-color: var(--mc) !important;}
 
-.emojiPicker-3m1S-j {background-color: #2f3136;border: none !important;}
+.emojiPicker-3m1S-j .scroller-3vODG7 {height: 360px !important;}
+
+.emojiPicker-3m1S-j .category-2U57w6 {background: none !important;}
+
+.infoBar-U6oBFk, .infoBarWrapper-283ttO.infoBarExpanded-2Of7UZ {display:none;}
 
 .emojiPicker-3m1S-j .stickyHeader-3LjM5X {background: none !important;}
 
@@ -5260,7 +5264,7 @@ span.spinner {margin-top: 0px;}
 
 #bda-qem-twitch-container .scroller-wrap, #bda-qem-favourite-container .scroller-wrap {height: 100%;border: 2px solid var(--mc) !important;border-bottom: none !important;border-top: none !important;}
 
-.emojiPicker-3m1S-j {border: 2px solid var(--mc) !important;border-bottom: none !important;border-top:none !important;margin-bottom: -2px !important;}
+.emojiPicker-3m1S-j {border: 2px solid var(--mc) !important;border-radius: 5px 5px 0 0 !important;border-bottom: none !important;margin-bottom: -8px !important;}
 
 .assetsLargeMaskUserPopout-12EBBc {-webkit-mask: none !important;}
 
