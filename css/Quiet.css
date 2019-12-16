@@ -6640,11 +6640,9 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .avatarWrapperNormal-3wFMbf:hover .avatarHint-1qgaV3 {width: 84px;  height: 84px;  transition: opacity 200ms ease-in-out;}
 
-.friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .statusText-2F9zIF {margin-left: 200px;}
-
 .app-19_DXt .customStatusEmoji-hg2dL1 {margin-left: -100px !important;margin-right: -190px !important;}
 
-.activity-3vLEI_ { margin-left: 100px;}
+.activity-3vLEI_ { margin-left: 200px;}
 
 .friendsTable-133bsv .icon-3o6xvg { margin-left: 100px;    margin-right: -100px;}
 
@@ -6696,7 +6694,7 @@ rect[width="25"][height="10"] {
     z-index:1;  }
 .mask-1l8v16{
     border-radius: var(--br);} */
-
+.markup-2BOw-j code {border:none;}
 
 [style*="color: rgb(255, 255, 255);"].item-PXvHYJ {color: var(--mc) !important;border-color: var(--mc) !important;font-weight:700;}
 
@@ -6797,3 +6795,5 @@ rect[width="25"][height="10"] {
 .guildNameTextLimitedSize-1BHdMK {width: 157px;}
 
 .wrapper-3t9DeA[user_by_bdfdb]::after {color: transparent;}
+
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumn-eVHFqJ+.friendsColumn-eVHFqJ { width: auto;max-width: 440px;}
