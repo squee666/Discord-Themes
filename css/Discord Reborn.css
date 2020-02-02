@@ -1191,8 +1191,8 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .embedFull-2tM8-- {background: var(--RBT);}
 
-.embedFull-2tM8-- {background: var(--RBT);}
-
 .theme-dark .container-1D34oG,.wrapper-3D2qGf { background-color: var(--RB);}
 
-.peopleList-3c4jOR,.actionButton-uPB8Fs,.nowPlayingColumn-2sl4cE  {background: transparent;}
+.peopleList-3c4jOR,.actionButton-uPB8Fs,.nowPlayingColumn-2sl4cE, .inset-3sAvek  {background: transparent;}
+
+.size14-e6ZScH {text-align: center;}
