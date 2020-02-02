@@ -6805,3 +6805,12 @@ rect[width="25"][height="10"] {
 
 .scrollableContainer-2NUZem { overflow-y: unset;}
 
+.scrollableContainer-2NUZem { overflow-y: unset;}
+
+textarea {background: var(--QT);}
+
+.wrapper-3D2qGf{ background-color: var(--QTD);}
+
+.peopleList-3c4jOR,.nowPlayingColumn-2sl4cE ,.container-1D34oG ,.inset-3sAvek{background: var(--QT);}
+
+.actionButton-uPB8Fs {background: transparent;}
