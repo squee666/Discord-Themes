@@ -5175,7 +5175,7 @@ span.spinner {margin-top: 0px;}
 
 .chat-3bRxxu .large-3ChYtB:after {margin-top: 35% !important;margin-left: 90% !important;}
 
-.emoji.jumboable { height: auto; width: 40px;max-height: 60px;}
+.emoji.jumboable { height: auto; width: 40px; max-height: 60px;}
 
 .containerCozy-jafyvG .comment { margin-right: 0px;margin-top: 0px;}
 
@@ -6832,3 +6832,9 @@ textarea {background: var(--QT);}
 .buttonContainer-DHceWr {left: 100px;right: 0;}
 
 .container-3npvBV {border:1px solid var(--mc);right: unset;padding:0px;border-radius: 4px;}
+
+.jumpToPresentBar-9P20AM {padding-bottom:0px;}
+
+.theme-dark .tooltipBrand-g03Nz8,.tooltipPointer-3ZfirK {background-color: var(--hc);border-top-color: var(--hc);}
+
+.avatar-3uk_u9 {width: unset;}
