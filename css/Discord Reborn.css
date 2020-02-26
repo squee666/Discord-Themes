@@ -1198,3 +1198,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .size14-e6ZScH {text-align: center;}
 
 .theme-dark .perksModal-fSYqOq , .ctaBar-2UsjF2,.perk-2WeBWW{background-color: var(--RB);}
+
+.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-child {
+    background: linear-gradient(var(--RB), var(--RB)), var(--BG) center/cover no-repeat fixed!important;}
