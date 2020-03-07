@@ -4871,7 +4871,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 .theme-dark .chat-3bRxxu form {  background: transparent !important; border-top: 0px solid transparent !important;margin: 0px !important;}
 
-.theme-dark .typing-2GQL18 {  background-color: transparent;font-size: 12px;bottom: -7px !important;}
+.theme-dark .typing-2GQL18 {  background-color: transparent;font-size: 12px;bottom: -5px !important;}
 
 .theme-dark .headerBar-UHpsPw {  box-shadow: none;  border-bottom: 2px solid var(--mc); height: 48px;}
 
@@ -5348,7 +5348,7 @@ span.spinner {margin-top: 0px;}
 
 .role-2irmRk { border-width: 1px !important; border-radius: 2px !important; padding: 2px !important;display: block !important; position: relative; line-height: 16px;font-size: 11px !important;font-weight: 400 !important;overflow: hidden;}
 
-.role-2irmRk::before {content: '';position: absolute;top: 0;left: 0;width: 100%; border:10px solid;border-color: inherit;opacity: 0.5;border-width: calc(0.65em + 4px) .5em;}
+.role-2irmRk::before {content: '';position: absolute;top: 0;left: 0;width: 100%; border:10px solid;border-color: inherit;opacity: 0.5;border-width: calc(0.60em + 4px) .5em;}
 
 .roleName-32vpEy {margin: 0 4px;}
 
