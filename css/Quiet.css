@@ -5175,7 +5175,7 @@ span.spinner {margin-top: 0px;}
 
 .chat-3bRxxu .large-3ChYtB:after {margin-top: 35% !important;margin-left: 90% !important;}
 
-.emoji.jumboable { max-height: 60px;max-width: 60px;}
+.emoji.jumboable { max-height: 48px;max-width: 60px;height: auto;}
 
 .emoji { object-fit: fill;}
 
