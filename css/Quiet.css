@@ -6840,3 +6840,15 @@ textarea {background: var(--QT);}
 .guildNameTextLimitedSize-1BHdMK { text-align: center;  font-size: 15px}
 
 .tooltip-2QfLtc {padding: 6px 8px;}
+
+.contentWrapper-2txmjs,.categoryWrapper-UZ5YNj  {background-color: var(--QTD);}
+
+.inspector-sdLnLS, .categoryWrapper-UZ5YNj, .wrapper-2N7X54 {  background-color: transparent;}
+
+.unicodeShortcut-15J8Ck {  background: var(--QTD) !important;}
+
+.navButtonActive-3RPAJy {background-color: var(--mc);}
+
+.categoryItemDefaultCategorySelected-_HCKoz {  background-color: var(--mc);}
+
+.categoryItemDefaultCategorySelected-_HCKoz:hover {  background-color: var(--hc);}
