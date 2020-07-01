@@ -6862,3 +6862,23 @@ textarea {background: var(--QT);}
 .wrapper-2qzCYF {;background-color: var(--QT);}
 
 .icon-22AiRD {width: 23px;height: 23px;}
+
+.searchResultsWrap-3-pOjs{background-color: var(--QTD);}
+
+.searchResultMessage-30QnSN.hit-1CXhXT{background-color: var(--QTD);}
+
+.searchResult-2N9RV4:before {background-image: linear-gradient(0deg,transparent,var(--QTD));}
+
+.channelName-wvgELL{background: transparent;}
+
+.searchResult-2N9RV4.expanded-ovgtuV {border: none;background-color: var(--QT);}
+
+.expanded-ovgtuV .searchResultMessage-30QnSN.hit-1CXhXT {background-color: var(--QT);border: none;}
+
+.searchResultMessage-30QnSN.hit-1CXhXT{ -webkit-box-shadow: none;}
+
+.contentWrapper-SvZHNd {background-color: var(--QT);}
+
+.wrapper-1-Fsb8 {background: transparent:}
+
+.navButtonActive-1MkytQ {background-color: var(--mc);
