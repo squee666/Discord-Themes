@@ -1,3 +1,7 @@
+/*//META{"name":"Discord_Reborn","description":"A nice sleek transparent theme.","author":"Izy","version":"0.0"}*//**/
+
+
+/* IMPORT CSS FROM GITHUB */
 @import url("https://raw.githack.com/squee666/Discord-Themes/master/css/Quiet.css");
 
 :root { 
@@ -1204,3 +1208,19 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .gradientContainer-10lXLB.disabled-3wULvG {background: var(--RB) !important;}
 
 .wrapper-2qzCYF {;background-color: var(--RB) !important;}
+
+.searchResultsWrap-3-pOjs{background-color: var(--RBT);}
+
+.searchResultMessage-30QnSN.hit-1CXhXT{background-color: var(--RBT);}
+
+.searchResult-2N9RV4:before {background-image: linear-gradient(0deg,transparent,var(--RBT));}
+
+.channelName-wvgELL{background: transparent;}
+
+.searchResult-2N9RV4.expanded-ovgtuV {border: none;background-color: var(--RB);}
+
+.expanded-ovgtuV .searchResultMessage-30QnSN.hit-1CXhXT {background-color: var(--RB);border: none;}
+
+.searchResultMessage-30QnSN.hit-1CXhXT{ -webkit-box-shadow: none;}
+
+.navButtonActive-1MkytQ {background-color: var(--mc);
