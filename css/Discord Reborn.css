@@ -59,7 +59,6 @@ div[class*="topSection"]::before {
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,
 #user-profile-modal .scroller,
 .clipboardInputInner-oj8y-S input, 
-.theme-dark .content-yTz4x3,
 .theme-dark .layer-kosS71,
 .theme-dark .layers-20RVFW,
 .messagesWrapper-3lZDfY .containerCozy-jafyvG,
@@ -102,7 +101,7 @@ div[class*="topSection"]::before {
 .theme-dark .friends-header,
 .theme-dark .container-3gCOGc,
 .channels-3g2vYe,#app-mount 
-.titleWrapper-3Vi_wz,
+.titleWrapper-3Vi_wz,.content-yTz4x3,
 .theme-dark .activityFeed--1mYMS,
 .app .guilds-1q_RqH 
 .guild-1EfMGQ:first-child,
