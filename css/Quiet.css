@@ -6889,18 +6889,14 @@ textarea {background: var(--QT);}
 
 .theme-dark .footer-2gL1pp {background-color: var(--qt);}
 
-.theme-dark{
---scrollbar-thin-thumb: transparent;
-    --scrollbar-thin-track: transparent;
-    --scrollbar-auto-thumb: #00000030;
-    --scrollbar-auto-track: transparent;
-    --scrollbar-auto-scrollbar-color-thumb: transparent;
-    --scrollbar-auto-scrollbar-color-track: transparent;}
+.theme-dark{ --scrollbar-thin-thumb: transparent;--scrollbar-thin-track: transparent;--scrollbar-auto-thumb: #00000030;--scrollbar-auto-track: transparent;--scrollbar-auto-scrollbar-color-thumb: transparent;--scrollbar-auto-scrollbar-color-track: transparent;}
 
-.group-spacing-16 .divider-3_HH5L.hasContent-1_DUdQ { margin-top: 6px;}
+.group-spacing-16 .divider-3_HH5L.hasContent-1_DUdQ {margin-top: 6px;}
 
 .scrollerSpacer-avRLaA {height: 10px;}
 
 .newMessagesBar-265mhP {background-color: var(--hc);}
 
 .content-yTz4x3:before {display:none !important;}
+
+.jumpToPresentBar-G1R9s6 {bottom: -10px;left: 23px;right: 22px;border-radius: 8px 8px 0 0;background-color: var(--mc);padding-bottom: 0px;opacity: 100;
