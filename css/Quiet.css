@@ -5354,13 +5354,13 @@ span.spinner {margin-top: 0px;}
 
 .roleName-32vpEy {margin: 0 4px;}
 
-.roleCircleButton-377y0l { padding: 0;position: absolute;z-index: 2; height: 22px; top: -1px; left: -1px; border-radius: 2px 0 0 2px;width: 22px;display: flex !important; transition: transform 0.2s;transform: translateX(-30px);}
+.roleCircle-3xAZ1j { padding: 0;position: absolute;z-index: 2; height: 22px; top: -1px; left: -1px; border-radius: 2px 0 0 2px;width: 22px;display: flex !important; transition: transform 0.2s;transform: translateX(-30px);}
 
 .addButton-pcyyf6 {line-height: 9px;width: 20px;box-sizing: border-box;}
 
 .roleRemoveIcon-2-TeGW { display: block;}
 
-.role-2irmRk:hover .roleCircleButton-377y0l {transition: transform 0.2s;transform: translateX(0);}
+.role-2irmRk:hover .roleCircle-3xAZ1j {transition: transform 0.2s;transform: translateX(0);}
 
 .videoWrapper-2wbLD- .elevationHigh-3A9Xbf {top: unset;left: unset;}
 
@@ -5368,7 +5368,7 @@ span.spinner {margin-top: 0px;}
 
 .wrapper-3eE7AX ,.videoBackgroundWrapper-2dCt49 {background-color: transparent;}
 
-.roleCircle-3xAZ1j {display:none;}
+
 
 .searchBarIcon-1J6sKG .icon-3cZ1F_ {margin-left: -2px;margin-top: -2px;}
 
