@@ -6601,7 +6601,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 .pointerEvents-2zdfdO {mask:none;border-radius:var(--BR);}
 
 
-.mask-1l8v16{contain: none;}
+.mask-1l8v16{contain: none !important;}
 
 .wrapper-3t9DeA[class*="avatar"] rect[x="22"][y="22"],.wrapper-3t9DeA rect[width="25"][height="15"],
 .wrapper-3t9DeA svg[width="10"],.wrapper-3t9DeA rect[mask*="svg-mask-status"],.status-1XNdyw rect,.container-3gCOGc .mask-1qbNWk {
@@ -6901,4 +6901,4 @@ textarea {background: var(--QT);}
 
 .jumpToPresentBar-G1R9s6 {bottom: -10px;left: 23px;right: 22px;border-radius: 8px 8px 0 0;background-color: var(--mc);padding-bottom: 0px;opacity: 100;}
 
-.supporter-Z3FfwL.hasBadge-4rT8_u:not(.customSupporter-thxL4U) .mask-1l8v16 { display: none !important; }
+.supporter-Z3FfwL.hasBadge-4rT8_u:not(.customSupporter-thxL4U) .badge-7R_W3s {display:none;}
