@@ -5762,13 +5762,9 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .guild-1EfMGQ.audio-3vVhBi .guildInner-3DSoA4:after, .guild-1EfMGQ.video-15yGu3 .guildInner-3DSoA4:after {background-color: var(--hc);border-radius: var(--br);height: 20px;right: 0px;top: 0px;width: 20px;}
 
-#charcounter { font-size: 13px !important;bottom: -1em !important;}
+.chatCounter-XOMPsh { font-size: 13px !important;bottom: -1em !important;}
 
-#charcounter { color: rgba(255, 255, 255, 0);} 
-
- .inner-zqa7da:hover #charcounter,.inner-zqa7da:focus-within #charcounter{color: rgba(255, 255, 255, 0.5);}
-
- #charcounter {right: 50%;bottom: unset;}
+ .chatCounter-XOMPsh {right: 50%;bottom: unset;}
 
 /* theres a store now*/
 
