@@ -3518,6 +3518,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 @media screen and (max-width:970px){.flex-vertical.channels-wrap{z-index:0;width:0px;transition:width linear .3s;height:100%;background:transparent;border-right:solid transparent 0px;}
 
+
 .guildsWrapper-5TJh6A:hover ~ .flex-vertical.channels-wrap,.flex-vertical.channels-wrap:hover{width:25%;border-right:0px solid transparent;z-index: 3 !important;}
     
 .theme-dark .guildsWrapper-5TJh6A:hover ~ .chat-3bRxxu form, .theme-dark .flex-vertical.channels-wrap:hover ~ .chat-3bRxxu form{border-left: 2px solid #212121 !important;}
@@ -3543,8 +3544,10 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 @media screen and (max-width: 970px){ .memberInner-2CPc3V {opacity:0;transition:opacity 300ms ease,margin 100ms ease;}
     }
     }
-@media screen and (max-width: 970px){.members-1998pB:hover .memberInner-2CPc3V {opacity:1 !important;transition:opacity 300ms ease;}
+@media screen and (max-width: 970px){.members-1998pB:hover .memberInner-2CPc3V, {opacity:1 !important;transition:opacity 300ms ease;}
 
+@media screen and (max-width: 970px){.members-1998pB:hover .content-3QAtGj {opacity:1 !important}
+@media screen and (max-width:970px) {.content-3QAtGj {opacity:0 !important;}}
 
 .members-1998pB:hover .membersGroup-v9BXpm{transform:scale(1);width: 190px !important;}
 
