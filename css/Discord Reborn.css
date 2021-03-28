@@ -64,7 +64,7 @@ div[class*="topSection"]::before {
 .messagesWrapper-3lZDfY .containerCozy-jafyvG,
 .wrapper-VSYYTS,.members-1998pB,
 .clipboardInputInner-oj8y-S,
-.activity-3NviKQ,
+.activity-3NviKQ,.scroller-1Bvpku,
 .theme-dark .friends-table,.header-39GIC8,
 .theme-dark .body-_3kd4C,
 .newsLink-38Naqi:hover,.newsLink-38Naqi,.news-XQhS0,.bg-h5JY_x,
@@ -1194,11 +1194,11 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .theme-dark .perksModal-fSYqOq , .ctaBar-2UsjF2,.perk-2WeBWW{background-color: var(--RB);}
 
-.tutorialContainer-1v44GL {background: linear-gradient(var(--RB), var(--RB)), var(--BG) center/cover no-repeat fixed !important;}
+.tutorialContainer-2sGCg9 {background: linear-gradient(var(--RB), var(--RB)), var(--BG) center/cover no-repeat fixed !important;}
 
 .gradientContainer-10lXLB.disabled-3wULvG {background: var(--RB) !important;}
 
-.wrapper-2qzCYF {;background-color: var(--RB) !important;}
+.wrapper-3NnKdC {;background-color: var(--RB) !important;}
 
 .searchResultsWrap-3-pOjs{background-color: var(--RBT);}
 
@@ -1219,3 +1219,4 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .card-3RzMcx {background-color: var(--RB);}
 
 .background-1QDuV2,.fieldList-21DyL8,.accountList-33MS45,.accountBtn-2Nozo3 .accountBtnInner-sj5jLs,.connectionHeader-2MDqhu ,.connection-1fbD7X,.integration-3kMeY4{ background-color: var(--RB);}
+
