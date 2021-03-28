@@ -6909,3 +6909,5 @@ textarea {background: var(--QT);}
 .bannerVisible-2ZE_qG .header-2V-4Sw {border-bottom:none !important;border-right:2px solid var(--mc);border-left:2px solid var(--mc);}
 
 .repliedMessage-VokQwo:before {border-color: var(--mc) !important;}
+
+.theme-dark .tooltipPrimary-1d1ph4, .theme-light .tooltipPrimary-1d1ph4 {background-color: var(--hc);}
