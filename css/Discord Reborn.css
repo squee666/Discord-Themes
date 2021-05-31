@@ -1220,3 +1220,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .background-1QDuV2,.fieldList-21DyL8,.accountList-33MS45,.accountBtn-2Nozo3 .accountBtnInner-sj5jLs,.connectionHeader-2MDqhu ,.connection-1fbD7X,.integration-3kMeY4{ background-color: var(--RB);}
 
+.headerNormal-1l1Znk,.input-2_SIlA {background-color: var(--RB);}
+
+.profileBanner-33-uE1,.headerTop-2y3V6H {background: transparent !important;border:none;}
