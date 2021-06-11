@@ -1,3 +1,6 @@
+/*//META{"name":"Quiet","description":"Dark and Quiet. Easy on the eyes.","author":"squee666","version":"0.0"}*//**/
+
+
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
 
@@ -6913,3 +6916,11 @@ textarea {background: var(--QT);}
 .theme-dark .tooltipPrimary-1d1ph4, .theme-light .tooltipPrimary-1d1ph4 {background-color: var(--hc);}
 
 .scroller-1Bvpku,.container-lRFx4q , .section-2gLsgF {background:transparent !important;}
+
+.background-1QDuV2,.fieldList-21DyL8,.accountList-33MS45,.accountBtn-2Nozo3 .accountBtnInner-sj5jLs,.connectionHeader-2MDqhu ,.connection-1fbD7X,.integration-3kMeY4{ background-color: var(--QT);}
+
+.headerNormal-1l1Znk,.headerNormal-1mX3KY,.input-2_SIlA,.body-3HBlXn,.footer-1N3bR3{background-color: var(--QT);}
+
+.profileBanner-33-uE1,.headerTop-2y3V6H,.popoutBanner-19WKGg,.headerTop-2cWpdB  {background: transparent !important;border:none;}
+
+.userPopout-xaxa6l{border:2px var(--hc) solid !important}
