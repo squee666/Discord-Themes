@@ -17,10 +17,10 @@
 * ***All **Themes** go into %AppData%\BetterDiscord\themes***
 * ***All **Plugins** go into %AppData%\BetterDiscord\plugins***
 
-Note This theme is similar to Monsters Reborn/Quiet
+Note This theme is similar to Monsters Tranquil/Reborn
 There is a reason for this I was one of the main maintainers/editers of the V2 version of these themes.
 Monster became a maintainer/editer of the V3 version.
-This results in similar themes but also different.
+This results in similar themes but with noticeably different changes as they are maintained seperately.
 
 
 ## [Quiet](https://github.com/squee666/Discord-Themes/blob/master/Themes/Quiet.theme.css)
