@@ -19,8 +19,10 @@
 
 Note This theme is similar to Monsters Tranquil/Reborn
 There is a reason for this I was one of the main maintainers/editers of the V2 version of these themes.
+
 Monster became a maintainer/editer of the V3 version.
-This results in similar themes but with noticeably different changes as they are maintained seperately.
+
+This results in similar themes but with noticeably different changes as they are maintained seperately and have entirely different code bases.
 
 
 ## [Quiet](https://github.com/squee666/Discord-Themes/blob/master/Themes/Quiet.theme.css)
