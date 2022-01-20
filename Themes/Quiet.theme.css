@@ -1,5 +1,12 @@
-/*//META{"name":"Quiet-Fork","description":"Dark and Quiet. Easy on the eyes.","author":"Izy","version":"0.0","website":"https://discord.gg/TeRQEPb"}*//**/
-
+/**
+ * @name         Quiet
+ * @description  Transparent, fully customizable theme.
+ * @author       Izy
+ * @version      2.0
+ * @source       https://github.com/monstrousdev/themes/theme-files/Quiet.theme.css
+ * @invite       TeRQEPb
+ * @authorId     107511169366888448
+ */
 
 /* IMPORT CSS FROM GITHUB */
 @import url("https://rawgit.com/squee666/Discord-Themes/master/css/Quiet.css");
