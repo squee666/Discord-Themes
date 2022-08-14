@@ -32,7 +32,7 @@ This results in similar themes but with noticeably different changes as they are
 ![](https://i.imgur.com/nI4eofE.png)
 
 
-## [Discord Reborn](https://github.com/squee666/Discord-Themes-and-Plugins/blob/master/Themes/Discord%20Reborn.theme.css)
+## [Discord Reborn](https://github.com/squee666/Discord-Themes/blob/master/Themes/Discord%20Reborn.theme.css)
 
 **Description:** ***A cold, dark & winter like theme. Darkened Discord's UI a bit and implemented a nice dark background image.***
 
