@@ -17,7 +17,7 @@ IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS T
 ===== CUSTOMIZABLE COLORS =====
 */
 :root{
---mc: #cc1444 !important;                                   /*Main Colour*/     
+--mc: #2d36e3 !important;                                   /*Main Colour*/     
 --hc: #770425 !important;                                   /*Hover Colour*/       
 --br: 50px !important;                                       /*RoundNess of Icons*/    
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
