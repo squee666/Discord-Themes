@@ -9,7 +9,7 @@
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
 --QTD: #121213;                                             /*Quiet Off Parts Colour*/  
 --blur: 0px;                                                /*Set to 1-10px to adjust reborn wallpaper blur*/   
---white: var(--mc)important;                               /*Quiet Channel Text Colour replace ('replace var(--mc)' with wanted colour)*/    
+--white: var(--mc)important;                               /*Channel Text Colour ('replace var(--mc)' with wanted colour)*/    
 }
 
 ```
