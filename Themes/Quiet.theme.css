@@ -22,7 +22,7 @@ IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS T
 --br: 50px !important;                                      /*Roundness of Icons*/    
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
 --QTD: #121213;                                             /*Quiet Off Parts Colour*/  
---white: var(--mc)important;                                /*Channel Text Colour ('replace var(--mc)' with wanted colour)*/   
+--white: var(--mc)important;                                /*Channel Text Colour (replace 'var(--mc)' with wanted colour)*/   
 }
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
