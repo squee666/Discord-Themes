@@ -1,8 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 @import url(https://cdn.jsdelivr.net/gh/squee666/Discord-Themes@refs/heads/master/css/Tags.css);
 
-
-
 :root {
     --version-content: "8.9";
     --theme-name: "Quiet";
@@ -4682,7 +4680,7 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
     display: none !important;
 }
 .container__9293f {
-    padding-right: 180px !important;
+    padding-right: 210px !important;
     overflow: hidden !important;
 }
 
