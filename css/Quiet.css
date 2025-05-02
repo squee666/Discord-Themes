@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
-@import url("https://cdn.jsdelivr.net/gh/squee666/Discord-Themes@refs/heads/master/css/Tags.css");
+@import url(https://cdn.jsdelivr.net/gh/squee666/Discord-Themes@refs/heads/master/css/Tags.css);
+
+
 
 :root {
     --version-content: "8.9";
@@ -4680,7 +4682,7 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
     display: none !important;
 }
 .container__9293f {
-    padding-right: 210px !important;
+    padding-right: 180px !important;
     overflow: hidden !important;
 }
 
@@ -4768,7 +4770,6 @@ div[class*="winButton_"]:hover{
     opacity: 1;
 }
 
-[rel="noreferrer noopener"]{display:none;}
 .winButtons_c38106 div:nth-of-type(3) {
     background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;  
     background-repeat: no-repeat;
@@ -7645,3 +7646,5 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 .visual-refresh .toolbar__9293f {gap: 0px;}
 
 .visual-refresh .tabBody__133bf {background-color: var(--QT);}
+
+.cozy_c19a55 .messageContent_c19a55 .anchorUnderlineOnHover_edefb8{display:none;}
