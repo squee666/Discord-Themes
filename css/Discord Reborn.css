@@ -763,8 +763,6 @@ form.deprecated.auth-form {background: rgba(0,0,0,0.4) !important;}
 
 .welcomeMessage-1U7Ntv p {color: #efefef;}
 
-.members_c8ffbb {--bulk: 300px;height: calc(100% + var(--bulk));padding-bottom: calc(20px + var(--bulk));}
-
 .members_c8ffbb::-webkit-scrollbar-track-piece {margin-bottom: var(--bulk);}
 
 .news-2GDtLJ  {background-color: transparent;}
@@ -1302,4 +1300,4 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .visual-refresh .sidebarListRounded_c48ade { background: var(--RB);border-radius: 0px !important;}
 
-    
+  .visual-refresh .theme-dark, .visual-refresh.theme-dark {background-color: unset;}
