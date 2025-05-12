@@ -1,4 +1,4 @@
-@import url("https://cdn.jsdelivr.net/gh/squee666/Discord-Themes@refs/heads/master/css/Quiet.css");
+@import url("https://raw.githack.com/squee666/Discord-Themes/refs/heads/master/css/Quiet.css");
 
 :root { 
   --theme-name: "Reborn";
@@ -14,7 +14,7 @@
     --blur: blur(0px);
     --QT: var(--RB) !important;
     --QTD: var(--RBT) !important;
-   
+    --background-surface-highest: var(--RB)!important;
  }
 
 .appMount__51fd7::before{
@@ -33,7 +33,7 @@
 }
 .theme-dark .layer, .theme-dark .layers, body {background: transparent !important;}
  
-div[class*="userPopout"]:not(.userPopoutOverlayBackground_c69a7b),.menu_c1e9c4,
+div[class*="userPopout"]:not(.userPopoutOverlayBackground_c69a7b),.menu_c1e9c4,[class*="user-profile-popout"],
 div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root__49fc1:not(.modal_b0827a),
 [class*="userProfileModalInner"],[class*="userProfileInnerThemedNonPremium"],[class*="userProfileInner"]{
     background-image: var(--BG) !important ;
@@ -57,7 +57,7 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 .messagesWrapper-3lZDfY .containerCozy-jafyvG,
 .wrapper-VSYYTS,.members_c8ffbb,
 .clipboardInputInner-oj8y-S,
-.activity-3NviKQ,.scroller_ef3116,.channelTextArea_f75fb0,.theme-dark .members_c8ffbb,
+.activity-3NviKQ,.scroller_ef3116,.channelTextArea_f75fb0,.theme-dark .members_c8ffbb,:where(.overlay_c0bea0),
 .theme-dark .friends-table,.header_adb41f,.theme-dark .container__37e49,.container_c8ffbb,.panels_c48ade,.visual-refresh .tabBody__133bf,
 .theme-dark .body-_3kd4C,.container_c8ffbb,.chatContent_f75fb0,.member_c8ffbb
 .newsLink-38Naqi:hover,.newsLink-38Naqi,.news-XQhS0,.bg__960e4,.container_c8ffbb,.body-1Ukv50, .topSection-13QKHs,.theme-dark .panel__5dec7,
@@ -96,8 +96,8 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 .theme-dark .container-3gCOGc,
 .channels-3g2vYe,#app-mount 
 .titleWrapper-3Vi_wz,.content_f75fb0,
-.theme-dark .activityFeed--1mYMS,
-.app .guilds-1q_RqH, .userProfileInner-3F03PX,textarea,.content__49fc1,.searchBar__5ec2f,
+.theme-dark .activityFeed--1mYMS,.inner_c0bea0, 
+.app .guilds-1q_RqH, .userProfileInner-3F03PX,textarea,.content__49fc1,.searchBar__5ec2f,.user-profile-popout .inner_c0bea0,
 .guild-1EfMGQ:first-child,.scroller_c1e9c4,.overlayBackground_c69a7b,.theme-dark .messagesPopoutWrap__45690,
 .replyBar__841c8, .threadSuggestionBar__841c8,.theme-dark .member_c8ffbb:hover, .member_c8ffbb.popout-open, .member_c8ffbb.popout-open,
 .theme-dark .channel-members::after {background: var(--RB)!important;}
@@ -107,7 +107,6 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 
 .sidebar_c48ade {background: var(--RB);border-radius: 0px !important;}
 
-.itemBase-1Qj4z6{background: var(--RBT);}
 .userProfileOuterThemed-3EfHmv.userPopoutOuter-3AVBmJ, .userProfileOuterThemed-3EfHmv.userProfileOuter-1K_BYU{ padding:0px; }
 .userPopoutInner-1hXSeY:before {width: unset;}
 
@@ -1300,4 +1299,20 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .visual-refresh .sidebarListRounded_c48ade { background: var(--RB);border-radius: 0px !important;}
 
-  .visual-refresh .theme-dark, .visual-refresh.theme-dark {background-color: unset;}
+.visual-refresh .theme-dark, .visual-refresh.theme-dark {background-color: unset;}
+
+.visual-refresh .container__7641b {background-color: transparent;border-left: none;}
+
+.container_ab8609 {--custom-status-bubble-background: var(--custom-status-bubble-background-color); opacity: 0.7;}
+
+.actions__39ec2 .button__201d5 .contents__201d5 {color: var(--hc);}
+
+.custom-user-profile-theme .themeColor_fb7f94.primary_fb7f94 {background: var(--RBT);opacity:1;}
+
+.root_fccfdf {color: white;}
+
+.body__5be3e .text-sm\/normal_cf4812 ,.body__5be3e .text-xs\/medium_cf4812 , .heading-lg\/bold_cf4812, .userTagDiscriminator__63ed3, .userTagUsername__63ed3{color: white !important;}
+
+.visual-refresh .upload_aa605f {background-color: var(--RB);}
+
+.selected__91a9d .childContainer__91a9d {background-color:transparent;}
