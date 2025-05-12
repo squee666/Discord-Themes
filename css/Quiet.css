@@ -6873,7 +6873,7 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 .wrapper_f7ecac {background-color: var(--QTD);}
 
-.content__908e2 {font-weight:500;color: white;background: var(--mc);}
+.content__908e2 {font-weight:500;color: white;background: var(--mc) !important;}
 
 .divider__5126c {border-top: thin solid var(--mc) !important;}
 
@@ -7644,3 +7644,11 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 .visual-refresh .toolbar__9293f {gap: 0px;}
 
 .visual-refresh .tabBody__133bf {background-color: var(--QT);}
+
+.custom-theme-background .theme-dark, .theme-dark.custom-theme-background {border: 2px solid var(--mc);}
+
+.visual-refresh .theme-dark.custom-user-profile-theme, .visual-refresh.theme-dark.custom-user-profile-theme {padding:0px;}
+
+.container__8061a {width: 268px !important;align-items: center;align-content: center;margin: 1px 25%;}
+
+.visual-refresh .channelAttachmentArea_b77158 {background-color: transparent;}
