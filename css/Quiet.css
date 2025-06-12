@@ -1146,7 +1146,7 @@ code{background:var(--QTD) !important;}
 
 .visual-refresh .jumpToPresentBar__0f481 button:last-child{color:#fff;}
 
-.visual-refresh .jumpToPresentBar__0f481{background-color:transparent !important;margin: 0 -80px -25px 0 !important;border:none;}
+.visual-refresh .jumpToPresentBar__0f481{background-color:transparent !important;margin: 0 -80px -15px 0 !important;border:none;}
 
 .visual-refresh .jumpToPresentBar__0f481:hover{background-color:transparent!important;}
 
@@ -4679,17 +4679,21 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
     display: none !important;
 }
 .container__9293f {
-    padding-right: 210px !important;
+    padding-right: 170px !important;
     overflow: hidden !important;
 }
 
 /* Top bar (hidden) */
-.bar_c38106 {
+/* Remove top row*/
+.visual-refresh .base_c48ade {
+    grid-template-rows: [top] 0 [titleBarEnd] min-content [noticeEnd] 1fr [end];
+}
+
+
+/* Top bar and dragging functionality */
+.trailing_c38106 {
     gap: 2px;
-
-    /* margin-left: calc(var(--custom-guild-list-width) + var(--space-8)); */
     width: max-content;
-
     z-index: 2000 !important;
     position: absolute;
     top: 6px;
@@ -4698,27 +4702,6 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
     padding: 0;
     overflow: hidden;
 }
-.bar_c38106::before {
-    content: "";
-    mask-image: url(https://1y5jxd9sss.ufs.sh/f/8JQcvMcXxzFvCOxxpEmmsZtLc5uIiWBDAV12TqGCdMjz3EbS);
-
-    mask-size: 1.4rem;
-    mask-repeat: no-repeat;
-    mask-position: center;
-    background-color: var(--mc);
-
-    /* color: var(--icon-tertiary); */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: var(--custom-app-top-bar-height);
-    height: var(--custom-app-top-bar-height);
-    cursor: pointer;
-    pointer-events: none;
-}
-
-.tabs__65d41,.measurements__65d41 {gap: 10px;}
-
 
 div[class*="titleBar_"] {
     height: 0px;
@@ -7662,3 +7645,4 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 .banner__68edb { background-color: transparent !important;}
 
+.visual-refresh .container__0be77 {background-color: var(--QT);border: 1px solid var(--mc);}
