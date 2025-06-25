@@ -4679,7 +4679,7 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
     display: none !important;
 }
 .container__9293f {
-    padding-right: 170px !important;
+    padding-right: 180px !important;
     overflow: hidden !important;
 }
 
@@ -7485,7 +7485,7 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 .button_e6e74f {border: 1px solid var(--mc);    background: transparent;}
 
-.channelAppLauncher_e6e74f {margin-left: var(--spacing-8);margin-bottom: 14px;}
+.app__160d8 button {border: none;}
 
 .footer__214dc {background:transparent;}
 
