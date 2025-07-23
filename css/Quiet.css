@@ -17,6 +17,7 @@
     --white:var(--mc)!important;
     --text-brand :var(--mc)!important;
     --icon-tertiary:var(--mc)!important;
+    --custom-channel-textarea-text-area-height: 52px;
 }
 
 
@@ -4899,7 +4900,7 @@ div[class*="winButton_"]:hover{
 
 .container-2Thooq { background: transparent !important;}
 
-.theme-dark .inner__74017 {padding-right: 0px !important; background-color: transparent;  border: 1px solid var(--mc) !important;}
+.theme-dark .inner__74017 {padding-right: 0px !important; background-color: transparent;  border: 1px solid var(--mc) !important;height:52px;}
 
 .theme-dark .inner__74017 {border-radius: 9px;}
 
@@ -6941,7 +6942,7 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 .group-spacing-16 .divider__5126c.hasContent__5126c {margin-top: 6px;}
 
-.scrollerSpacer__36d07 {height: 10px;}
+.scrollerSpacer__36d07 {height: 10px !important;}
 
 .newMessagesBar__0f481 {background-color: var(--hc);}
 
@@ -7650,3 +7651,7 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 .closeButton__6e2b9 {padding-right: 400px;}
 
 .primary__6af3a {background-color: var(--hc);}
+
+.messagesWrapper__36d07 {mask: none !important;}
+
+.align-chat-input .attachButtonInner__0923f {padding: 4px;}
