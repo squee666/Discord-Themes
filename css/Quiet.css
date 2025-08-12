@@ -4950,7 +4950,7 @@ div[class*="winButton_"]:hover{
 
 .theme-dark .activityFeed-28jde9 { background-color: var(--QT) !important;;}
 
-.channelTextArea_f75fb0 {margin: 10px 0 12px;padding:0px !important;}
+.channelTextArea_f75fb0 {margin: 0px 0 12px;padding:0px !important;}
 
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU {  display: none;}
 
@@ -6942,7 +6942,13 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 .group-spacing-16 .divider__5126c.hasContent__5126c {margin-top: 6px;}
 
-.scrollerSpacer__36d07 {height: 10px !important;}
+.scrollerSpacer__36d07 {height: 5px !important;}
+
+.auto_d125d2::-webkit-scrollbar {width: 4px !important;}
+
+.scroller__36d07 {mask:none !important;}
+
+.scroller__36d07::-webkit-scrollbar-track {margin-bottom: 8px !important;}
 
 .newMessagesBar__0f481 {background-color: var(--hc);}
 
