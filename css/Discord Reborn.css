@@ -45,7 +45,7 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 
 .theme-dark .container-RYiLUQ,.appMount__51fd7,
 .theme-dark .layer,
-.theme-dark .title_f75fb0,.privateChannels__35e86,
+.theme-dark .title_f75fb0,
 .theme-dark .layers,
 .theme-dark .ui-video,
 #app-mount .titleWrapper-3Vi_wz > div,
@@ -105,7 +105,7 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 .modeSelected__2ea32 .link__2ea32, .modeSelected__2ea32:hover .link__2ea32 ,.wrapper__2ea32:hover .link__2ea32 ,.headerSpotify-zpWxgT, .menu_c1e9c4  .scroller-1bVxF5 {background: var(--RBT) !important;}
 
 
-.sidebar_c48ade {background: var(--RB);border-radius: 0px !important;}
+.sidebar_c48ade, .privateChannels__35e86 {background: var(--RB);border-radius: 0px !important;}
 
 .userProfileOuterThemed-3EfHmv.userPopoutOuter-3AVBmJ, .userProfileOuterThemed-3EfHmv.userProfileOuter-1K_BYU{ padding:0px; }
 .userPopoutInner-1hXSeY:before {width: unset;}
@@ -1279,8 +1279,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .sectionDivider__629e4 {display: none;}
 
-.theme-dark .container__2637a {background:transparent !important;}
-
 .containerDefault__29444, .containerDragAfter__29444, .containerDragBefore__29444, .containerUserOver__91b97 {padding-top:0px;}
 
 .status_bf52c0, .svg__44b0c {position: relative;}
@@ -1295,9 +1293,9 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .visual-refresh .container_e131a9 {background: transparent;}
 
-.visual-refresh .panels_c48ade {background:linear-gradient(var(--RB), var(--RB)), var(--BG) center/cover no-repeat fixed !important;}
+.visual-refresh .panels_c48ade {background:linear-gradient(var(--RBT), var(--RBT)), var(--BG) center/cover no-repeat fixed !important;}
 
-.visual-refresh .sidebarListRounded_c48ade { background: var(--RB);border-radius: 0px !important;}
+.visual-refresh .sidebarListRounded_c48ade { border-radius: 0px !important;}
 
 .visual-refresh .theme-dark, .visual-refresh.theme-dark {background-color: unset;}
 
