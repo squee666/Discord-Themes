@@ -7678,3 +7678,6 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 .align-chat-input .wrapper_e131a9 { margin-left: 0px;}
 
+.chat_f75fb0[data-has-border=true] {border:none !important;}
+
+.header_f37cb1,.searchBar__35e86{height:47px;}
