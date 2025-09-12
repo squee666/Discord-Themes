@@ -7681,3 +7681,7 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 .chat_f75fb0[data-has-border=true] {border:none !important;}
 
 .header_f37cb1,.searchBar__35e86{height:47px;}
+
+foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {display: none !important;content: none !important;}
+
+[fill="white"] {display: none;}
