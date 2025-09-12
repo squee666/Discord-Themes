@@ -7685,3 +7685,13 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {display: none !important;content: none !important;}
 
 [fill="white"] {display: none;}
+
+.body_ce8328 {padding: 4px 16px 2px;}
+
+.menus_ce8328,.body_ce8328 {    gap: 0px !important;}
+
+.menuOverlay_ce8328 {padding: 0px;}
+
+.divider__23eb0 {display:none;}
+
+.menuItemInner_ce8328 {padding: 6px;}
