@@ -7688,10 +7688,12 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 
 .body_ce8328 {padding: 4px 16px 2px;}
 
-.menus_ce8328,.body_ce8328 {    gap: 0px !important;}
+.menus_ce8328,.body_ce8328 {gap: 0px !important;}
 
 .menuOverlay_ce8328 {padding: 0px;}
 
 .divider__23eb0 {display:none;}
 
 .menuItemInner_ce8328 {padding: 6px;}
+
+.custom-user-profile-theme.user-profile-popout {padding: 0px !important; border: 3px solid var(--hc) !important;}
