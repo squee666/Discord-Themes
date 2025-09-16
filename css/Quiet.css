@@ -7699,3 +7699,11 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 .custom-user-profile-theme.user-profile-popout {padding: 0px !important; border: 3px solid var(--hc) !important;}
 
 .profile__9c3be {background: var(--QT);}
+
+.align-chat-input .rtcConnectionStatus__06d62 {width: 150%;}
+
+.voiceButtonsContainer_e131a9 {gap: 0px;margin-top: -15px;}
+
+.primary_a22cb0 {background-color: var(--mc);}
+
+.primary_a22cb0:hover {background-color: var(--hc);}
