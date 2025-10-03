@@ -3783,7 +3783,7 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
 
 .emojiButton-38mF6t{top:26px;}
 
-.typing_b88801 {bottom: -5px !important;top: unset;font-size: 12px !important;}
+.typing_b88801 {bottom: -5px !important;top: unset !important;font-size: 12px !important;}
 
 .channelTextArea-os01xC{margin:20px 0 32px;bottom:21px;}
 
