@@ -3779,12 +3779,11 @@ code{background-color: var(--QT)!important;background-image: linear-gradient(var
  form{background-color:var(--QT);box-shadow:0 0px 0 transparent;}
 
 
-
 .theme-dark .inner-3if5cm{background-color:transparent;border-radius:0px !important;margin-bottom:-18px;padding-top:14px;}
 
 .emojiButton-38mF6t{top:26px;}
 
-.typing_b88801 {bottom: -5px !important;font-size: 12px !important;}
+.typing_b88801 {bottom: -5px !important;top: unset;font-size: 12px !important;}
 
 .channelTextArea-os01xC{margin:20px 0 32px;bottom:21px;}
 
