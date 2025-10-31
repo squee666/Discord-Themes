@@ -4651,7 +4651,7 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
 
 .children__9293f:after {display:none;}
 
-.iconWrapper__9293f { margin: 0 4px;}
+.iconWrapper__9293f ,.clickable_c99c29 {--custom-horizontal-padding: 0px; margin: 0px!important;padding:0px !important;}
 
 .expandedFolderBackground-2sPsd- {border-radius: var(--br) ;}
 
@@ -4679,7 +4679,7 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
     display: none !important;
 }
 .container__9293f {
-    padding-right: 180px !important;
+    padding-right: 190px !important;
     overflow: hidden !important;
 }
 
