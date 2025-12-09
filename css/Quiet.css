@@ -7709,3 +7709,8 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 
 .barBase__0f481, .barBase__0f481:hover {border:none !important;}
 
+.container__0f2e8 {background: var(--QT);padding: 2px 8px;border:none;}
+
+.spamBanner_a2eac3 {background: var(--QTD);}
+
+[aria-label="Checkpoint"] {display:none;}
