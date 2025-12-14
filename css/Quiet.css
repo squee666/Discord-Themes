@@ -236,9 +236,9 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .chat_f75fb0 .divider-3gKybi{height:28px;margin-bottom: 4px;background-color:transparent;}
 
-.theme-dark .markup__75297a, .theme-dark .wrapper__6c798{opacity:1 !important;color:var(--mc) !important;font-weight: 500;}
+.theme-dark .markup__75297a, .theme-dark .wrapper__4106a{opacity:1 !important;color:var(--mc) !important;font-weight: 500;}
 
-.markup__75297 a:hover , .theme-dark .wrapper__6c798:hover{background-color:var(--hc);color:#fff !important;opacity:0.9;border-radius: 3px}
+.markup__75297 a:hover , .theme-dark .wrapper__4106a:hover{background-color:var(--hc);color:#fff !important;opacity:0.9;border-radius: 3px}
 
 .theme-dark .containerCozy-jafyvG .comment .markup__75297 .highlight, .title-wrap .topic .highlight{transition:.3s ease-in-out all;background:rgba(10,9,9,0.35);}
 
@@ -5143,7 +5143,7 @@ div[class*="winButton_"]:hover{
 
 .mentioned__5126c:hover {animation: mentionpulse 2s infinite;}
 
-.backgroundFlash__5126c .cozy_c19a55 .wrapper__6c798{ background-color: var(--mc);color: white !important;}
+.backgroundFlash__5126c .cozy_c19a55 .wrapper__4106a{ background-color: var(--mc);color: white !important;}
 
 .isMentioned-N-h9aa:hover { background-color: var(--hc);}
 
@@ -5473,7 +5473,7 @@ span.spinner {margin-top: 0px;}
 
 .wrapper_a7c28c:hover{background-color: var(--hc);opacity: 1;}
 
-.wrapper__0d1ef {background-color: var(--mc);border-radius: var(--br);line-height: 12px;padding: 4px 4px;min-width: 11px;text-align: center;}
+.wrapper_cdf8a9 {background-color: var(--mc);border-radius: var(--br);line-height: 12px;padding: 4px 4px;min-width: 11px;text-align: center;}
 
 .colorUnreadText-2t7XRb, .colorUnreadVoice-137o4S,.wrapperHoveredText-2geN_M .colorHoveredText-OZnAgu,.colorConnectedVoice-3kyvUN {color: var(--mc)!important;opacity:1 !important;}
 
@@ -5691,7 +5691,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .markup__75297pre {max-width:100% !important;} 
 
-.theme-dark .wrapper__6c798 {background-color: rgba(0,0,0,0.5);border-radius: 3px;}
+.theme-dark .wrapper__4106a {background-color: rgba(0,0,0,0.5);border-radius: 3px;}
 
 .base__5e434 {border-radius: 0px !important}
 
@@ -5907,7 +5907,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 
 .row_c85137 {border-bottom:none;}
 
-.theme-dark .blurb_d77896,.theme-dark h2.title__051e9,.gameTitle-3aKSZn ,.theme-dark .freeWithNitro-Ya7UUr, h3.title__051e9, h1.title__051e9 , .content_e9b214,.theme-dark .actionText__1ae94,.theme-dark .price_f6c36e{color: #ffffff !important;text-shadow: 1px 1px 0px black; text-align: center;}
+.theme-dark .blurb_d77896,.theme-dark h2.title__051e9,.gameTitle-3aKSZn ,.theme-dark .freeWithNitro-Ya7UUr, h3.title__051e9, h1.title__051e9 , .content__6e5a0,.theme-dark .actionText__1ae94,.theme-dark .price_f6c36e{color: #ffffff !important;text-shadow: 1px 1px 0px black; text-align: center;}
 
 .actionText__1ae94,{margin-left: 10%; width: 200%;}
 
@@ -6265,7 +6265,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 }
 
 /*5.d. Canary HomeIcon*/
-.wrapper__0d1ef {background:var(--mc) !important;}
+.wrapper_cdf8a9 {background:var(--mc) !important;}
 
 
 #app-mount .hasDropdown-2invhV.container-2Rl01u .header_f37cb1:hover,.hasDropdown-2invhV.container-2Rl01u .header_f37cb1{ background:var(--QT) ;}
