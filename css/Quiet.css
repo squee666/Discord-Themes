@@ -4679,7 +4679,7 @@ ui-call-avatar__.video,.ui-call-avatar__.video .wrapper-2G6bx_ > canvas {border-
     display: none !important;
 }
 ._9293f6b2fc12398a-container {
-    padding-right: 190px !important;
+    padding-right: 195px !important;
     overflow: hidden !important;
 }
 
@@ -6075,7 +6075,7 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15
 .theme-dark .fd14e024a43b9049-message {background-color: var(--QT);box-shadow: none;}
 ._5e434347c823b592-guilds ._581051df43c5ebb6-item {background-color:var(--hc);}
 ._1f388bcaa446c0c8-tutorialContainer {margin-top: 1px;top: -4px;background: var(--QT);width: 72px;position: fixed !important;z-index: 2;height: 48px !important;border-bottom: 2px solid var(--mc);}
-.f75fb00fb7356cbe-subtitleContainer {margin-top: 4.5px;}
+.f75fb00fb7356cbe-subtitleContainer {margin-top: -1px;}
 
 .ef3116c2da186559-scroller>._650eb104245d257b-listItem:first-child .button-OhfaWu {margin-top:0px !important;}
 
@@ -7594,7 +7594,7 @@ textarea, .theme-dark ._2637a2609f343032-container,.ef3116c2da186559-wrapper,.th
 .visual-refresh ._650eb104245d257b-listItem {margin: 0px !important}
 
 
-.visual-refresh ._5e434347c823b592-panels { background: var(--QT) !important;border: 1px solid var(--mc);margin-bottom:10px;}
+.visual-refresh ._5e434347c823b592-panels { background: var(--QT) !important;border: 1px solid var(--mc);margin-bottom:4px;}
 
 .theme-dark .f75fb00fb7356cbe-channelTextArea,.visual-refresh .e131a99484292a19-container  {background: var(--QT);}
 
