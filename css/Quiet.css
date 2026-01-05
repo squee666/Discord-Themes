@@ -7718,3 +7718,9 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 ._0ccaee68b77c7469-file {background-color: var(--QT);}
 
 .c38106a3f0c3ca76-winButtons {gap: 0px;}
+
+.cf09d85aafe7e124-wrapperAudio {background-color: var(--QTD);border-color: var(--hc);}
+
+.cf09d85aafe7e124-audioControls {background-color: transparent;}
+
+.abd9a8b9030934e3-container{background: var(--QT) !important;}
