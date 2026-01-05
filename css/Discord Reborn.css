@@ -35,7 +35,7 @@
  
 div[class*="userPopout"]:not(.userPopoutOverlayBackground_c69a7b),.c1e9c47c23f12ca3-menu,[class*="user-profile-popout"],
 div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark ._49fc18ba07c5025f-root:not(.modal_b0827a),
-[class*="userProfileModalInner"],[class*="userProfileInnerThemedNonPremium"],[class*="userProfileInner"]{
+[class*="userProfileModalInner"],[class*="userProfileInnerThemedNonPremium"],[class*="userProfileInner"],.e4491282b6a5364a-modalContent{
     background-image: var(--BG) !important ;
     background-size: cover !important;
     background-position: center!important;
