@@ -7546,7 +7546,7 @@ textarea, .theme-dark ._2637a2609f343032-container,.ef3116c2da186559-wrapper,.th
 
 .dfa8b6b94cddb191-role .dfa8b6b94cddb191-roleCircle:not(:empty) {    margin-left: 6px;}
 
-.dfa8b6b94cddb191-role .dfa8b6b94cddb191-roleCircle:before {    content: "";    border-radius: 3px;    position: absolute;    top: -1px;    right: -1px;    bottom: -1px;    left: -1px;    background: inherit;    opacity: .2;    transition: all .1s ease-in-out;    pointer-events: none;}
+.dfa8b6b94cddb191-role .dfa8b6b94cddb191-roleCircle:before {    content: "";    border-radius: 3px;    position: absolute;    top: -1px;    right: -1px;    bottom: -1px;    left: -1px;    background: inherit;    opacity: .7;    transition: all .1s ease-in-out;    pointer-events: none;}
 /* end*/
 
 ._2b1f52e43a8f1c02-numberBadge {background-color: var(--hc) !important;color: black !important;font-weight: 1000;font-size: 14px; border: 1px solid var(--QTD);}
@@ -7730,3 +7730,5 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 .abd9a8b9030934e3-container{background: var(--QT) !important;}
 
 .emoji {max-height:25px max-width: 40px;}
+
+._0d0f9ddd12a3ace3-progressContainer {background: var(--QT);}
