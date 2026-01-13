@@ -145,7 +145,7 @@ background-repeat:no-repeat;padding-top: 6px !important;}
 .e6b7699ce8339e1c-searchBar{border-bottom:2px var(--mc) solid !important;box-shadow:none;}
 .searchBar-2_Yu-C.searchBarLight-1NxoDG {background-color: transparent;}
 .full-motion ._0c4c409e1915aba4-icon{width:24px;}
-.c322aadb96ff59c9-search .DraftEditor-root {padding: 2px;margin: 2px 0px 0px 8px;}
+.c322aadb96ff59c9-search .DraftEditor-root {padding: 2px;margin: -10px 0px 0px 20px;}
 ._974928fe84ca9647-searchBar._974928fe84ca9647-icon {top:4px;}
 .c322aadb96ff59c9-search {width:26px ;height:26px !important;border:2px var(--mc) solid !important;background:transparent;border-radius: var(--br);}
 .c322aadb96ff59c9-focused, .c322aadb96ff59c9-open {width: 244px !important;border-radius: var(--br)/120px ;}
@@ -7724,6 +7724,8 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 .cf09d85aafe7e124-wrapperAudio {background-color: var(--QTD);border-color: var(--hc);}
 
 .cf09d85aafe7e124-audioControls {background-color: transparent;}
+
+.e9e3ed8b8badfe05-content{background :none;}
 
 .abd9a8b9030934e3-container{background: var(--QT) !important;}
 
