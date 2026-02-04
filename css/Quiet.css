@@ -5945,4 +5945,10 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .unreadIcon__7aaec,.barText__7aaec { color:white; }
 
-.membersGroupHeader_c8ffbb { justify-content: center; }
+.membersGroup_c8ffbb,.headerContainer__095fe{ justify-content: center; }
+
+.membersGroupName_c8ffbb span,.headerContainer__095fe [role="button"]{display:none;}
+
+.headerContainer__095fe{margin-left: 8px}
+
+.typing_b88801 {bottom: -5px !important;top: unset !important;font-size: 12px !important;}
