@@ -3759,7 +3759,7 @@ span.spinner { margin-top: 0px; }
 
 #app-mount .role__48c1c { border-color: transparent; border-radius: 5px; padding: 0 5px; position: relative; }
 
-#app-mount .role__48c1c .roleRemoveButton_dfa8b6 { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
+#app-mount .role__48c1c .roleRemoveButton_4f569 { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
 
 .messageInputContainer-2rGDH8 { border: none; }
 
@@ -5278,7 +5278,7 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 .userProfileOuterUnthemed-2b2rsv { background-color: transparent; }
 
-#app-mount .userPopoutOuter-3AVBmJ .roleRemoveButton_dfa8b6 + .roleName__48c1c { position: relative; z-index: 1; }
+#app-mount .userPopoutOuter-3AVBmJ .roleRemoveButton_4f569 + .roleName__48c1c { position: relative; z-index: 1; }
 
 #app-mount .userPopoutOuter-3AVBmJ .roleName__48c1c { margin: 0; color: white; }
 
@@ -5362,7 +5362,7 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
 
 /* roles button */
 
-.role_dfa8b6 {
+.role_af3987 {
     position: relative;
     display: flex;
     flex-direction: row-reverse;
@@ -5373,23 +5373,23 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
     cursor: default;
 }
 
-.role_dfa8b6>.roleName_dfa8b6 { margin-right: 0; margin-left: 4px; color: hsla(0, 0%, 100%, .9); transition: all .1s ease-in-out; }
+.role_af3987>.roleName_af3987 { margin-right: 0; margin-left: 4px; color: hsla(0, 0%, 100%, .9); transition: all .1s ease-in-out; }
 
-.role_dfa8b6:hover .roleCircle_dfa8b6:before { opacity: .3; }
+.role_af3987:hover .roleCircle_4f569:before { opacity: .3; }
 
-.role_dfa8b6:hover>.roleName_dfa8b6 { color: #fff; }
+.role_af3987:hover>.roleName_af3987 { color: #fff; }
 
-.roleRemoveButton_dfa8b6 { position: static; }
+.roleRemoveButton_4f569 { position: static; }
 
-.roleRemoveIcon_dfa8b6>path { margin-left: 2px; fill: #fff; }
+.roleRemoveIcon_4f569>path { margin-left: 2px; fill: #fff; }
 
-.roleRemoveIcon_dfa8b6 { left: calc(100% - 7px); }
+.roleRemoveIcon_4f569 { left: calc(100% - 7px); }
 
-.role_dfa8b6 .roleCircle_dfa8b6 { width: 0 !important; height: 0 !important; }
+.role_af3987 .roleCircle_4f569 { width: 0 !important; height: 0 !important; }
 
-.role_dfa8b6 .roleCircle_dfa8b6:not(:empty) { margin-left: 6px; }
+.role_af3987 .roleCircle_4f569:not(:empty) { margin-left: 6px; }
 
-.role_dfa8b6 .roleCircle_dfa8b6:before {
+.role_af3987 .roleCircle_4f569:before {
     content: "";
     border-radius: 3px;
     position: absolute;
@@ -5562,3 +5562,25 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .jumpToPresentBar__0f481 {bottom: -8px;background: none !important;}
 
 .member_c8ffbb span.clanTag__5d473 {display:none;}
+
+/* roles button */
+.role_af3987 {position: relative;display: flex;flex-direction: row-reverse;border-radius: 5px;transition: all .1s ease-in-out;background-color: rgba(0, 0, 0, 0);border-color: rgba(0, 0, 0, 0);cursor: default;-webkit-padding-end:none !important;}
+
+.role_af3987>.roleName_af3987 {    margin-right: 0;    margin-left: 4px;    color: hsla(0, 0%, 100%, .9);    transition: all .1s ease-in-out;}
+
+.role_af3987:hover .roleCircle__4f569:before {opacity: .3;}
+
+.roleName_af3987 {color: #fff !important;}
+
+.roleRemoveButton_4f569 { position: static;}
+
+.roleRemoveIcon_4f569>path { margin-left: 2px;    fill: #fff;}
+
+.roleRemoveIcon_4f569 { left: calc(100% - 7px);}
+
+.role_af3987 .roleCircle__4f569 { width: 0 !important; height: 0 !important;}
+
+.role_af3987 .roleCircle__4f569:not(:empty) { margin-left: 6px;}
+
+.role_af3987 .roleCircle__4f569:before { content: "";    border-radius: 3px;    position: absolute;    top: -1px;    right: -1px;    bottom: -1px;    left: -1px;    background: inherit;    opacity: .2;    transition: all .1s ease-in-out;    pointer-events: none;}
+/* end*/
