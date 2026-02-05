@@ -1,12 +1,3 @@
-/**
- * @name         Quiet
- * @description  Dark and Quiet. Easy on the eyes.
- * @author       Izy
- * @version      8.9
- * @source       https://github.com/squee666/Discord-Themes/blob/master/Themes/Quiet.theme.css
- * @invite       r59DjpaDHD 
- * @authorId     107511169366888448
- */
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
 :root {
@@ -5567,3 +5558,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .headerContainer__095fe {margin-left: 40px;justify-content: center;}
 
 .fitInAccount__4bbc6 {opacity: 1 !important;}
+
+.jumpToPresentBar__0f481 {bottom: -8px;background: none !important;}
+
+.member_c8ffbb span.clanTag__5d473 {display:none;}
