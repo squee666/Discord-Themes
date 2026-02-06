@@ -5172,26 +5172,6 @@ textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__929
     transition: all 200ms ease-in-out;
 }
 
-#status-picker .item-1OdjEX:hover:not(:nth-child(7)) .status_e0f739 { opacity: 1; }
-
-#status-picker .item-1OdjEX:nth-child(1) .status_e0f739 { background-image: url(https://monstrousdev.github.io/themes/assets/status/online.svg); }
-
-#status-picker .item-1OdjEX:nth-child(3) .status_e0f739 { background-image: url(https://monstrousdev.github.io/themes/assets/status/idle.svg); }
-
-#status-picker .item-1OdjEX:nth-child(4) .status_e0f739 { background-image: url(https://monstrousdev.github.io/themes/assets/status/dnd.svg); }
-
-#status-picker .item-1OdjEX:nth-child(5) .status_e0f739 { background-image: url(https://monstrousdev.github.io/themes/assets/status/invisi.svg); }
-
-#status-picker .item-1OdjEX .icon_e0f739 .status-oxiHuE {
-    position: absolute !important;
-    top: 0;
-    left: 0;
-    height: 100% !important;
-    width: 100% !important;
-    margin-right: 0px !important;
-    transition: all 200ms ease-in-out;
-}
-
 #app-mount #bda-qem { background: var(--primary-color) !important; border-bottom: 1px solid var(--quaternary-color) !important; }
 
 #bda-qem-twitch-container, #bda-qem-favourite-container { background-color: var(--primary-color) !important; }
@@ -5589,7 +5569,14 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 :where(.banner__68edb):before {display:none;}
 
-
 [aria-label="DevTools"] {display:none;}
 
 .avatars__9ac28 [role="img"]{border:none !important;}
+
+.inner_c0bea0 {padding-block: 0px;padding-inline: 0px;}
+
+.root__49fc1.root__49fc1 {border-radius: 15px;}
+
+.innerContainer_c2a763 {backdrop-filter: none;}
+
+.mask__44b0c.svg__44b0c > circle[fill="white"] {display:none;}
