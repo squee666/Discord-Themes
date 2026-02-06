@@ -3,7 +3,7 @@
 :root { 
 --mc: #cc1444 !important;                                   /*Main Colour*/     
 --hc: #770425 !important;                                   /*Hover Colour*/       
---BG: url("https://i.imgur.com/d3lnerI.jpg") !important;    /*Wallpaper*/  
+--BG: url("[https://i.imgur.com/d3lnerI.jpg](https://rawcdn.githack.com/squee666/Discord-Themes/2035b9f127e6c79c95459b24e299ef3156ed552c/d3lnerI.jpeg?raw=true)") !important;    /*Wallpaper*/  
 --RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/   
 --br: 50px !important;                                      /*Roundness of Icons*/    
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
@@ -21,10 +21,12 @@
 Note This theme is similar to Monsters Tranquil/Reborn
 There is a reason for this I was one of the main maintainers/editers of the V2 version of these themes.
 
-Monster became a maintainer/editer of the V3 version.
+Monster became a maintainer/editer of the V3 version.(which is discontinued officially) 
 
 This results in similar themes but with noticeably different changes as they are maintained seperately and have entirely different code bases.
 
+
+if you need anything fixed or notice any bugs you can just message me here https://discord.gg/r59DjpaDHD
 
 ## [Quiet](https://github.com/squee666/Discord-Themes/blob/master/Themes/Quiet.theme.css)
 
