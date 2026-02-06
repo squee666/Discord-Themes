@@ -456,7 +456,7 @@ button.bd-customicon-settings,
 .note_fcb628 textarea { text-align: center; }
 
 /* ===== ORIGINAL STYLES (OPTIMIZED) ===== */
-
+.user-profile-popout,.user-profile-modal-v2 {border: 1.5px solid var(--hc);}
 
 .shopCard_c3d04b { background-color: var(--mc) !important; border: 2px solid var(--hc) !important; }
 
@@ -5584,3 +5584,12 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .role_af3987 .roleCircle__4f569:before { content: "";    border-radius: 3px;    position: absolute;    top: -1px;    right: -1px;    bottom: -1px;    left: -1px;    background: inherit;    opacity: .2;    transition: all .1s ease-in-out;    pointer-events: none;}
 /* end*/
+
+.focusTarget__54e4b {border: none !important;}
+
+:where(.banner__68edb):before {display:none;}
+
+
+[aria-label="DevTools"] {display:none;}
+
+.avatars__9ac28 [role="img"]{border:none !important;}
