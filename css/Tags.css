@@ -1,4 +1,4 @@
-.message__5126c:has(.avatar_c19a55[src*="ID"] ) [class*="headerText"]::after{content:"TAG";background:color;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:middle;line-height:18px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+[class*="headerText"]::after{content:"";background:color;color:#fff;border-radius:3px;border: 1px solid transparent;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:middle;line-height:18px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
 
 .message__5126c:has(.avatar_c19a55[src*="183359032126472195"]) [class*="headerText"]::after{content:"Legend";background:#00BFFF;}
 
