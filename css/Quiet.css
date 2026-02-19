@@ -121,7 +121,6 @@ a,
 .theme-dark .bd-addon-store-card,
 .embedCard__44c9a,
 .theme-dark .channelTextArea_f75fb0,.visual-refresh .container_e131a9,
-.visual-refresh .theme-dark, .visual-refresh.theme-dark,
 .visual-refresh .tabBody__133bf,
 .profile__9c3be,
 .file__0ccae,
@@ -538,7 +537,7 @@ background-repeat:no-repeat; padding-top: 6px !important; }
 
 .search_c322aa { width:28px; height:28px; border:2px var(--mc) solid !important; background:transparent; border-radius: var(--br); }
 
-.focused_c322aa, .open_c322aa { width: 244px !important; border-radius: var(--br)/120px;transition: all ease 0.3s;}
+.focused_c322aa, .open_c322aa { width: 244px !important; border-radius: var(--br)/120px;}
 
 .searchBar__97492.searchBarInner-1_Tg2R { background: var(--QT) !important; border: 2px solid var(--mc) !important; }
 
@@ -5589,13 +5588,13 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .theme-dark .card__84e3e{background-color: var(--QTD);}
 
-.container_d9c882,.container_fc561d , .messagesPopoutWrap_e8b59c,.container_fed6d3,.header_fed6d3,.guildIcon__0fa6d,.picker__09f65,.soundboardHeader__08434,.sectionContainer__61424,.wrapper__4e6ce,.header_e8b59c,.container__0f711,.popoutContentWrapper_af3b89,.header_d9c882,.theme-dark.layer__59d0d,.interactionsContainer_af3b89 ,.container__16eb0,.container__6764b{background-color: var(--QT) !important;}
+.container_d9c882,.container_fc561d , .messagesPopoutWrap_e8b59c,.container_fed6d3,.header_fed6d3,.guildIcon__0fa6d,.picker__09f65,.soundboardHeader__08434,.sectionContainer__61424,.wrapper__4e6ce,.header_e8b59c,.container__0f711,.popoutContentWrapper_af3b89,.header_d9c882,.interactionsContainer_af3b89 ,.container__16eb0,.container__6764b{background-color: var(--QT) !important;}
 
 .messageGroupWrapper_e8b59c {background-color: var(--QTD);border: 1px solid var(--hc);}
 
 [aria-label="Pinned Messages"],[aria-label="Inbox"],.container__16eb0,[role="dialog"]:not(.positionContainer__08434){ border-radius: 0px 0px 8px 8px;border: 2px solid var(--hc);margin-top: -1px; }
 
-.container_d9c882,{ border-radius: 0px 0px 8px 8px;}
+.container_d9c882{ border-radius: 0px 0px 8px 8px;}
 
 .channelHeader__35a7e {background: var(--QTD);opacity: 0.7;}
 
