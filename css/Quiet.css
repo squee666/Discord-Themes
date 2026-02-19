@@ -4807,11 +4807,11 @@ foreignObject { mask: none; -webkit-mask: none; border-radius: calc(var(--br) - 
 
 .cursorDefault__44b0c rect[width="25"], rect[width="25"][height="10"], rect[width="10"][height="10"] { fill:none !important; }
 
-.dots__5ad89 [cx="2.5"] { cy:-8 !important; cx: -8.5 !important; }
+.dots__5ad89 [cx="2.5"] { cy:-8 !important; cx: -8.5 !important;fill:white!important ;}
 
-.dots__5ad89 [cx="8.75"] { cy:-8 !important; cx: -2.25 !important; }
+.dots__5ad89 [cx="8.75"] { cy:-8 !important; cx: -2.25 !important;fill:white !important ; }
 
-.dots__5ad89 [cx="15"] { cy:-8 !important; cx: 4 !important; }
+.dots__5ad89 [cx="15"] { cy:-8 !important; cx: 4 !important;fill:white !important ;}
 
 .dots__5ad89 { transform: translateY(-24)!important; transform: translateX(-20)!important; }
 
@@ -5588,7 +5588,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .theme-dark .card__84e3e{background-color: var(--QTD);}
 
-.container_d9c882,.container_fc561d ,.badgeList__1fed1, .accountProfileCard__1fed1 .avatar__1fed1,.contentHeader_e9e3ed,.messagesPopoutWrap_e8b59c,.container_fed6d3,.header_fed6d3,.guildIcon__0fa6d,.picker__09f65,.soundboardHeader__08434,.sectionContainer__61424,.wrapper__4e6ce,.header_e8b59c,.container__0f711,.popoutContentWrapper_af3b89,.header_d9c882,.interactionsContainer_af3b89 ,.container__16eb0,.container__6764b{background-color: var(--QT) !important;}
+.container_d9c882,.container_fc561d ,.badgeList__1fed1,.container_f369db, .accountProfileCard__1fed1 .avatar__1fed1,.contentHeader_e9e3ed,.messagesPopoutWrap_e8b59c,.container_fed6d3,.header_fed6d3,.guildIcon__0fa6d,.picker__09f65,.soundboardHeader__08434,.sectionContainer__61424,.wrapper__4e6ce,.header_e8b59c,.container__0f711,.popoutContentWrapper_af3b89,.header_d9c882,.interactionsContainer_af3b89 ,.container__16eb0,.container__6764b{background-color: var(--QT) !important;}
 
 .messageGroupWrapper_e8b59c {background-color: var(--QTD);border: 1px solid var(--hc);}
 
@@ -5653,3 +5653,13 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .user-profile-popout, .user-profile-modal-v2 {background: var(--QT);}
 
 .fixedContent__409aa:after{display:none;}
+
+.accountPopout__37e49 {border: none !important;}
+
+[fill="var(--primary-500)"] {fill:white !important;}
+
+.childContainer__3e3b0 {transform: translate(-55%}
+
+.guildDropdown_f37cb1{padding-inline:0px;}
+
+.contentWrapper__9c62c {background-color: var(--QTD);border-radius: 8px;}
