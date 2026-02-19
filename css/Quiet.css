@@ -5583,3 +5583,6 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .markup__75297 .codeActions__75297 {top: 20px;}
 
+.caret--left__5bc6a{display:none;}
+
+   .tooltip__4e35b {align-items: center;text-align: center; background: var(--qtd);border-radius: 7px;border: 2px solid var(--hc);}
