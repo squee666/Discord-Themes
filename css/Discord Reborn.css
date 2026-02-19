@@ -1,5 +1,6 @@
 @import url("https://raw.githack.com/squee666/Discord-Themes/refs/heads/master/css/Quiet.css");
 
+
 :root { 
   --theme-name: "Reborn";
     --theme-letter: "R";
@@ -62,7 +63,7 @@
 .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM,
 .resultsGroup-1BPR25,
 .emojiPicker-3g68GS .stickyHeader-3LjM5X,
-.theme-dark .itemSubMenu-1vN_Yn,
+.theme-dark .itemSubMenu-1vN_Yn,.theme-dark .container__2637a,
 .search-bar,
 .title_f75fb0,.titleCall-_b9o8P,
 .textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO,
@@ -157,7 +158,7 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 .messagesWrapper-3lZDfY .containerCozy-jafyvG,
 .wrapper-VSYYTS,.members_c8ffbb,
 .clipboardInputInner-oj8y-S,
-.activity-3NviKQ,.scroller_ef3116,.channelTextArea_f75fb0,.theme-dark .members_c8ffbb,
+.activity-3NviKQ,.scroller_ef3116,.channelTextArea_f75fb0,.theme-dark .members_c8ffbb,.privateChannels_e6b769,
 .theme-dark .friends-table,.header_adb41f,.theme-dark .container__37e49,.container_c8ffbb,.panels__5e434,.visual-refresh .tabBody__133bf,
 .theme-dark .body-_3kd4C,.container_c8ffbb,.chatContent_f75fb0,.member_c8ffbb
 .newsLink-38Naqi:hover,.newsLink-38Naqi,.news-XQhS0,.bg__960e4,.container_c8ffbb,.body-1Ukv50, .topSection-13QKHs,.theme-dark .panel__5dec7,
@@ -196,7 +197,7 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 .theme-dark .container-3gCOGc,
 .channels-3g2vYe,#app-mount 
 .titleWrapper-3Vi_wz,.content_f75fb0,
-.theme-dark .activityFeed--1mYMS,.inner_c0bea0,.privateChannels_e6b769,
+.theme-dark .activityFeed--1mYMS,.inner_c0bea0,
 .app .guilds-1q_RqH, .userProfileInner-3F03PX,textarea,.content__49fc1,.searchBar__5ec2f,.user-profile-popout .inner_c0bea0,
 .guild-1EfMGQ:first-child,.scroller_c1e9c4,.overlayBackground_c69a7b,.theme-dark .messagesPopoutWrap_e8b59c,
 .replyBar__841c8, .threadSuggestionBar__841c8,.theme-dark .member_c8ffbb:hover, .member_c8ffbb.popout-open, .member_c8ffbb.popout-open,
@@ -1354,4 +1355,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 /* end*/
 .tooltip__4e35b {background-color: black;opacity: 0.9 !important}
 
- 
+ .sidebarListRounded__5e434 {background: var(--RB);}
+
+.backdrop__8a7fc {background: var(--RBT);}
