@@ -5640,3 +5640,5 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .emojiPicker_c0e32c {background-color: var(--QTD);}
 
 [id="emoji-picker-tab-panel"]{border-radius:8px !important;}
+
+.bd-store-card {background-color: var(--QT);border: 1px solid var(--mc);}
