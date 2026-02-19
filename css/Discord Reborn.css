@@ -133,9 +133,9 @@
 /* ===== ORIGINAL STYLES BELOW (DEDUPED) ===== */
 
  
-div[class*="userPopout"]:not(.userPopoutOverlayBackground_c69a7b),.menu_c1e9c4,[class*="user-profile-popout"],
+div[class*="userPopout"]:not(.userPopoutOverlayBackground_c69a7b),.menu_c1e9c4,[class*="user-profile-popout"],.theme-dark.custom-theme-background ,
 div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root__49fc1:not(.modal_b0827a),
-[class*="userProfileModalInner"],[class*="userProfileInnerThemedNonPremium"],[class*="userProfileInner"],.modalContent_e44912{
+[class*="userProfileModalInner"],[class*="userProfileInnerThemedNonPremium"],[class*="userProfileInner"],.modalContent_e44912,{
     background-image: var(--BG) !important ;
     background-size: cover !important;
     background-position: center!important;
@@ -161,7 +161,7 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,.theme-dark .root
 .theme-dark .friends-table,.header_adb41f,.theme-dark .container__37e49,.container_c8ffbb,.panels__5e434,.visual-refresh .tabBody__133bf,
 .theme-dark .body-_3kd4C,.container_c8ffbb,.chatContent_f75fb0,.member_c8ffbb
 .newsLink-38Naqi:hover,.newsLink-38Naqi,.news-XQhS0,.bg__960e4,.container_c8ffbb,.body-1Ukv50, .topSection-13QKHs,.theme-dark .panel__5dec7,
-.theme-dark .container__9293f,.clickable__91a9d:hover .layout__91a9d,.container__551b0,
+.theme-dark .container__9293f,.clickable__91a9d:hover .layout__91a9d,.container__551b0,.custom-user-profile-theme .profile__9c3be ,
 .theme-dark .popout.popout-bottom:not(.no-arrow)[style*="z-index: 1000; overflow: hidden; visibility: visible;"]{
     background:transparent !important;
 }
@@ -1331,3 +1331,27 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 .visual-refresh .upload_aa605f {background-color: var(--RB);}
 
 
+/* roles button */
+.role_af3987 {position: relative;display: flex;flex-direction: row-reverse;border-radius: 3px;transition: all .1s ease-in-out;background-color: rgba(0, 0, 0, 0);border-color: rgba(0, 0, 0, 0);cursor: default;-webkit-padding-end:none !important;}
+
+.role_af3987>.roleName_af3987 {    margin-right: 0;    margin-left: 4px;    color: hsla(0, 0%, 100%, .9);    transition: all .1s ease-in-out;}
+
+.role_af3987:hover .roleCircle__4f569:before {opacity: .3;}
+
+.roleName_af3987 {color: #fff !important;}
+
+.roleRemoveButton_4f569 { position: static;}
+
+.roleRemoveIcon_4f569>path { margin-left: 2px;    fill: #fff;}
+
+.roleRemoveIcon_4f569 { left: calc(100% - 7px);}
+
+.role_af3987 .roleCircle__4f569 { width: 0 !important; height: 0 !important;}
+
+.role_af3987 .roleCircle__4f569:not(:empty) { margin-left: 6px;}
+
+.role_af3987 .roleCircle__4f569:before { content: "";    border-radius: 3px;    position: absolute;    top: -1px;    right: -1px;    bottom: -1px;    left: -1px;    background: inherit;    opacity: .2;    transition: all .1s ease-in-out;    pointer-events: none;}
+/* end*/
+.tooltip__4e35b {background-color: black;opacity: 0.9 !important}
+
+ 
