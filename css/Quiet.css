@@ -5592,9 +5592,9 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .messageGroupWrapper_e8b59c {background-color: var(--QTD);border: 1px solid var(--hc);}
 
-[aria-label="Pinned Messages"],[aria-label="Inbox"],.container__16eb0,[role="dialog"]:not(.positionContainer__08434):not([aria-labelledby*="uid_43376"]){ border-radius:18px;margin-top: -1px;border:2px solid var(--hc);}
+[aria-label="Pinned Messages"],[aria-label="Inbox"],.container__16eb0,[role="dialog"]:not(.positionContainer__08434):not([aria-labelledby*="uid_"]){ border-radius:18px;margin-top: -1px;border:2px solid var(--hc);}
 
-[aria-label="Pinned Messages"],[aria-label="Inbox"],.container__16eb0, .container_d9c882,.container_fc561d{ border-radius: 0px 0px 8px 8px;}
+[aria-label="Pinned Messages"],[aria-label="Inbox"],.container__16eb0, .container_d9c882,.container_fc561d,[class*="dark layer__"] [role="dialog"] { border-radius: 0px 0px 6px 6px !important;}
 
 .channelHeader__35a7e {background: var(--QTD);opacity: 0.7;}
 
@@ -5648,3 +5648,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .accountProfileCard__1fed1 .avatar__1fed1 {box-sizing: inherit;}
 
 .bar__70b7b{backround-color:var(--hc)!important;}
+
+.refresh-active-now .itemCard__7e549 {background: none !important;}
+
+.user-profile-popout, .user-profile-modal-v2 {background: var(--QT);}
