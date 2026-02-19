@@ -5603,7 +5603,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .header_e8b59c,.container__6764b,.header_d9c882{border-color:var(--mc);}
 
-[aria-label="Inbox"]{margin-top:4px;}
+[aria-label="Inbox"]{margin-top:4px !important;}
 
 .container__16eb0{margin-top:1px;}
 
