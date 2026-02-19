@@ -5634,7 +5634,6 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .bannerVisible_f37cb1 .header_f37cb1 {border-start-start-radius: 0px;}
 
-
 .header_c0e32c {align-items: center;background-color: var(--QTD);border-bottom: 1px solid var(--hc);}
 
 .emojiPicker_c0e32c {background-color: var(--QTD);}
@@ -5652,3 +5651,5 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .refresh-active-now .itemCard__7e549 {background: none !important;}
 
 .user-profile-popout, .user-profile-modal-v2 {background: var(--QT);}
+
+.fixedContent__409aa:after{display:none;}
