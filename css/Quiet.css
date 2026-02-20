@@ -5681,3 +5681,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .shopViewWrapper__6db1d {background: var(--QT);}
 
 .wideBannerBackgroundImg__08415 {background-color: var(--QT);}
+
+.detailsWrapper_ac0584,.author__6088c {background: var(--QTD);}
+
+.actionButtons_cc1819,.button_aec7ab {background-color: var(--QTD);border: 2px solid var(--hc);}
