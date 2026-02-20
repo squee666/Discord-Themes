@@ -5598,7 +5598,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .channelHeader__35a7e {background: var(--QTD);opacity: 0.7;}
 
-.messagesPopoutWrap_e8b59c{border:none;border-radius:0px}
+.messagesPopoutWrap_e8b59c{border:none;border-radius:0px;}
 
 .header_e8b59c,.container__6764b,.header_d9c882{border-color:var(--mc);}
 
@@ -5658,13 +5658,13 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 [fill="var(--primary-500)"] {fill:white !important;}
 
-.childContainer__3e3b0 {transform: translate(-55%}
+.childContainer__3e3b0 {transform: translate(-55%);}
 
 .guildDropdown_f37cb1{padding-inline:0px;}
 
 .contentWrapper__9c62c {background-color: var(--QTD);border-radius: 8px;}
 
-[class*="container"] .themed__9293f {background: var(--QT) !important;height:44px}
+[class*="container"] .themed__9293f {background: var(--QT) !important;height:44px;}
 
 .postEnrollmentBackground__24e2c {background-image: none;background-color: var(--QT);}
 
