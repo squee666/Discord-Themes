@@ -1361,9 +1361,12 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .backdrop__8a7fc {background: var(--RBT);}
 
-.body__8a031 ,.actionBar__8a031, .section__8a031{
-    background: var(--RB);}
-.padding-size-lg__8a031, .padding-size-sm__8a031 {padding:none !important;}
-    .bodySpacerBottomBorder__8a031, .sectionHidden__8a031, .bodySpacerTop__8a031{display:none;}
+.body__8a031 ,.actionBar__8a031, .section__8a031{background: var(--RB);}
 
-    .container__8a031{border-radius:8px;}
+.padding-size-lg__8a031, .padding-size-sm__8a031 {padding:0px !important;}
+
+.bodySpacerBottomBorder__8a031, .sectionHidden__8a031, .bodySpacerTop__8a031{display:none;}
+
+.container__8a031{border-radius:8px;}
+
+[class*="container"] .themed__9293f {background: var(--RB) !important;height:44px;}
