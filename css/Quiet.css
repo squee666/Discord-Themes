@@ -4912,7 +4912,7 @@ button.button__67645, span.button__67645 { color:var(--mc); }
 
 .wrapper__44b0c[user_by_bdfdb]::after { color: transparent; }
 
-textarea, .theme-dark .container__2637a,.wrapper_ef3116,.theme-dark .themed__9293f:not(.headerBar__1a9ce),.chatContent_f75fb0,.container_c8ffbb,.container__37e49 { background: var(--QT) !important; mask: none !important; }
+textarea, .theme-dark .container__2637a,.wrapper_ef3116,.chatContent_f75fb0,.container_c8ffbb,.container__37e49 { background: var(--QT) !important; mask: none !important; }
 
 .actionButton_f8fa06,.channelTextArea_f75fb0,.theme-dark .inset_bf1984 { background: transparent; }
 
@@ -5658,13 +5658,13 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 [fill="var(--primary-500)"] {fill:white !important;}
 
-.childContainer__3e3b0 {transform: translate(-55%);}
+.childContainer__3e3b0 {transform: translate(-55%, -55%);}
 
 .guildDropdown_f37cb1{padding-inline:0px;}
 
 .contentWrapper__9c62c {background-color: var(--QTD);border-radius: 8px;}
 
-[class*="container"] .themed__9293f {background: var(--QT) !important;height:44px;}
+[class*="container"].themed__9293f {background: var(--QT) !important;height:44px;}
 
 .postEnrollmentBackground__24e2c {background-image: none;background-color: var(--QT);}
 
