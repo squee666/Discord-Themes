@@ -5688,4 +5688,4 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 
 .scroller__23746{background:transparent;}
 
-.reactionTooltip_b49891 {background: var(--QT);border-radius: var(--radius-xs);box-shadow: none;border: 2px solid var(--hc);}
+.reactionTooltip_b49891,.searchResult__80bf8 {background: var(--QT);box-shadow: none;border: 2px solid var(--hc);}
