@@ -5687,3 +5687,5 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after { dis
 .actionButtons_cc1819,.button_aec7ab,.productCardContainer_fcbddd {background-color: var(--QTD);border: 2px solid var(--hc);}
 
 .scroller__23746{background:transparent;}
+
+.reactionTooltip_b49891 {background: var(--QT);border-radius: var(--radius-xs);box-shadow: none;border: 2px solid var(--hc);}
