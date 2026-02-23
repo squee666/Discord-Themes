@@ -1,4 +1,4 @@
-    @import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
 
     :root {
         --version-content: "8.9";
@@ -5659,7 +5659,7 @@
 
     .mainContent__08415 {background-color: var(--QT);}
 
-    .productCardContainer_fcbddd {background: var(--QT);border: 2px solid var(--hc);}
+    .productCardContainer_fcbddd,.innerContainer_c2a763 {background: var(--QT);border: 2px solid var(--hc);}
 
     .shopViewWrapper__6db1d {background: var(--QT);}
 
@@ -5671,7 +5671,7 @@
 
     .scroller__23746{background:transparent;}
 
-    .reactionTooltip_b49891,.searchResult__80bf8,.guildInviteContainer__083ae {background: var(--QTD);box-shadow: none;border: 2px solid var(--hc);}
+    .reactionTooltip_b49891,.searchResult__80bf8,.guildInviteContainer__083ae,.container__62dd3,  {background: var(--QTD);box-shadow: none;border: 2px solid var(--hc);}
 
     [aria-labelledby*="user-profile-sidebar-heading-"] [class*="inner_"]{background: var(--QT);}
 
@@ -5682,3 +5682,5 @@
     .active_a22cb0 {background-color: var(--mc);}
 
     .active_a22cb0:hover {background-color: var(--hc);}
+
+    .innerContainer_c2a763:hover {background: var(--QTD);}
