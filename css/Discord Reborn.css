@@ -18,7 +18,7 @@
     --background-surface-highest: var(--RB)!important;
  }
 
-.appMount__51fd7::before{
+.appMount__51fd7::before ,.modalContent_e44912::before {
   content: "";
   position: fixed;
   left: 0;
@@ -134,7 +134,7 @@
 
  
 div[class*="userPopout"]:not(.userPopoutOverlayBackground_c69a7b),.menu_c1e9c4,[class*="user-profile-popout"],.theme-dark.custom-theme-background ,
-div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,[class="app_a3002d"],.calendarPicker_d27f17,
+div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,[class="app_a3002d"],.calendarPicker_d27f17,.user-profile-modal-v2,
 [class*="userProfileModalInner"],[class*="userProfileInnerThemedNonPremium"],[class*="userProfileInner"],.modalContent_e44912,.container__8a031{
     background-image: var(--BG) !important ;
     background-size: cover !important;
