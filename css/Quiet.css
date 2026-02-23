@@ -5671,9 +5671,8 @@
 
     .scroller__23746{background:transparent;}
 
-    .reactionTooltip_b49891,.searchResult__80bf8 {background: var(--QT);box-shadow: none;border: 2px solid var(--hc);}
+    .reactionTooltip_b49891,.searchResult__80bf8,.guildInviteContainer__083ae {background: var(--QTD);box-shadow: none;border: 2px solid var(--hc);}
 
     [aria-labelledby*="user-profile-sidebar-heading-"] [class*="inner_"]{background: var(--QT);}
 
     .focusLock__49fc1 {border-radius: 11px;}
-
