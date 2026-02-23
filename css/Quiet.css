@@ -5665,7 +5665,7 @@
 
     .wideBannerBackgroundImg__08415 {background-color: var(--QT);}
 
-    .detailsWrapper_ac0584,.author__6088c {background: var(--QTD);}
+    .detailsWrapper_ac0584,.author__6088c,.footerContent__083ae {background: var(--QTD);}
 
     .actionButtons_cc1819,.button_aec7ab,.productCardContainer_fcbddd {background-color: var(--QTD);border: 2px solid var(--hc);}
 
@@ -5676,3 +5676,9 @@
     [aria-labelledby*="user-profile-sidebar-heading-"] [class*="inner_"]{background: var(--QT);}
 
     .focusLock__49fc1 {border-radius: 11px;}
+
+    .gradient__083ae {background: linear-gradient(180deg, transparent 0, var(--QTD) 100%);}
+
+    .active_a22cb0 {background-color: var(--mc);}
+
+    .active_a22cb0:hover {background-color: var(--hc);}
