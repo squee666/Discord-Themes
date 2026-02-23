@@ -5690,3 +5690,5 @@
     .top_aa8da2 .item_aa8da2.selected_aa8da2 {color: var(--mc);}
 
     .top_aa8da2 .item_aa8da2.selected_aa8da2:after, .top_aa8da2 .item_aa8da2:hover:after {background: var(--mc);}
+
+.role_af3987 {padding: 0px;padding-inline-end: 8px;padding-inline-start: 2px;}
