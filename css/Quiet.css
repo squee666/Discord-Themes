@@ -5513,7 +5513,7 @@
 
     .headerContainer__095fe{margin-left: 8px}
 
-    .typing_b88801 {bottom: -5px !important;top: unset !important;font-size: 12px !important;}
+    .typing_b88801 {bottom: -6px !important;top: unset !important;font-size: 12px !important;}
 
     .headerContainer__095fe {margin-left: 40px;justify-content: center;}
 
@@ -5671,7 +5671,7 @@
 
     .scroller__23746{background:transparent;}
 
-    .reactionTooltip_b49891,.searchResult__80bf8,.guildInviteContainer__083ae,.container__62dd3,  {background: var(--QTD);box-shadow: none;border: 2px solid var(--hc);}
+    .reactionTooltip_b49891,.searchResult__80bf8,.guildInviteContainer__083ae,.container__62dd3  {background: var(--QTD);box-shadow: none;border: 2px solid var(--hc);}
 
     [aria-labelledby*="user-profile-sidebar-heading-"] [class*="inner_"]{background: var(--QT);}
 
