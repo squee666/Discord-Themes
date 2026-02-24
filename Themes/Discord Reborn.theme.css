@@ -22,7 +22,7 @@ IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
 --BG: url("https://rawcdn.githack.com/squee666/Discord-Themes/2035b9f127e6c79c95459b24e299ef3156ed552c/d3lnerI.jpeg?raw=true") !important;    /*Wallpaper*/   
 --RB: rgba(0,0,0,0.65) !important;                          /*Reborn Transparency Higher is Darker*/  
 --RBT: rgba(0,0,0,0.75) !important;                         /*Reborn Transparency For Popouts*/ 
---br: 50px !important;                                       /*RoundNess of Icons*/    
+--br: 50% !important;                                       /*RoundNess of Icons*/    
  }
  /*
 ===== CREDITS =====
