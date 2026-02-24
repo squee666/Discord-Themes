@@ -1,4 +1,4 @@
-       @import url(https://fonts.googleapis.com/css?family=Satisfy);
+        @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -5671,7 +5671,7 @@
 
         .active_a22cb0:hover {background-color: var(--hc);}
 
-        .innerContainer_c2a763:hover {background: var(--QTD);}
+        .innerContainer_c2a763:hover,.bd-modal-root {background: var(--QTD);}
 
     .defaultColor__4bd52,.details__0a95c, .name__0a95c, .top_aa8da2 .item_aa8da2 {color: white !important;}
 
@@ -5702,4 +5702,3 @@
 .sectionDivider__629e4 {background-color: var(--mc);margin-top: 0px;}
 
 .full-motion .container__9a337 {padding-bottom: 24px;}
-
