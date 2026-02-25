@@ -5657,7 +5657,7 @@
 
         .actionButtons_cc1819,.button_aec7ab,.productCardContainer_fcbddd {background-color: var(--QTD);border: 2px solid var(--hc);}
 
-        .scroller__23746{background:transparent;}
+        .scroller__23746, .page__1feb0,.collectibleInfoContainer_c50f62{background:transparent;}
 
         .reactionTooltip_b49891,.searchResult__80bf8,.guildInviteContainer__083ae,.container__62dd3,.card__39ec2  {background: var(--QTD);box-shadow: none;border: 2px solid var(--hc);}
 
@@ -5702,3 +5702,7 @@
 .sectionDivider__629e4 {background-color: var(--mc);margin-top: 0px;}
 
 .full-motion .container__9a337 {padding-bottom: 24px;}
+
+.content__49fc1 { border-radius: 11px;}
+
+.modalRoot_c50f62 {border-radius: 14px !important;border: none !important;}
