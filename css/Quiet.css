@@ -1,4 +1,4 @@
-        @import url(https://fonts.googleapis.com/css?family=Satisfy);
+       @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -5706,3 +5706,5 @@
 .content__49fc1 { border-radius: 11px;}
 
 .modalRoot_c50f62 {border-radius: 14px !important;border: none !important;}
+
+.contentRegion__23e6b,.standardSidebarView__23e6b .sidebarRegion__23e6b  {background: var(--QT) !important;}
