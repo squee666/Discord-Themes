@@ -3,7 +3,7 @@
 :root { 
 --mc: #cc1444 !important;                                   /*Main Colour*/     
 --hc: #770425 !important;                                   /*Hover Colour*/       
---BG: url("[https://i.imgur.com/d3lnerI.jpg](https://rawcdn.githack.com/squee666/Discord-Themes/2035b9f127e6c79c95459b24e299ef3156ed552c/d3lnerI.jpeg?raw=true)") !important;    /*Wallpaper*/  
+--BG: url("(https://rawcdn.githack.com/squee666/Discord-Themes/2035b9f127e6c79c95459b24e299ef3156ed552c/d3lnerI.jpeg?raw=true") !important;    /*Wallpaper*/  
 --RB: rgba(0,0,0,0.70) !important;                          /*Reborn Transparency Higher is Darker*/   
 --br: 50px !important;                                      /*Roundness of Icons*/    
 --QT: #19191b ;                                             /*Quiet Theme Colour*/    
