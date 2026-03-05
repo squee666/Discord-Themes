@@ -1,4 +1,4 @@
-        @import url(https://fonts.googleapis.com/css?family=Satisfy);
+       @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -537,13 +537,13 @@
 
         .search_c322aa { width:28px; height:28px; border:2px var(--mc) solid !important; background:transparent; border-radius: var(--br); }
 
-        .focused_c322aa, .open_c322aa { width: 244px !important; border-radius: var(--br)/120px;}
+        .focused_c322aa, .open_c322aa { width: 244px !important; border-radius: var(--br)/120px;transition: all ease 0.3s;}
 
         .searchBar__97492.searchBarInner-1_Tg2R { background: var(--QT) !important; border: 2px solid var(--mc) !important; }
 
         .searchBar_c322aa { background: none; border: none; }
 
-        .search_c322aa .DraftEditor-root .public-DraftEditorPlaceholder-inner { color: transparent; }
+        .search_c322aa .DraftEditor-root .public-DraftEditorPlaceholder-inner { margin-top:-4px;}
 
         .search_c322aa .DraftEditor-root .DraftEditor-editorContainer { margin-top: -6px; }
 
@@ -5708,5 +5708,6 @@
 .modalRoot_c50f62 {border-radius: 14px !important;border: none !important;}
 
 .contentRegion__23e6b,.standardSidebarView__23e6b .sidebarRegion__23e6b  {background: var(--QT) !important;}
+
 
 .acronym__6e9f8 {color: white !important;}
