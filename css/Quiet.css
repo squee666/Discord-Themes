@@ -5687,7 +5687,7 @@
 
 .bodyList__8a031,.bodyControls__8a031 {background: var(--QT);}
 
-.channelChatWrapper_cb9592, .wrapper_cb9592 { background: transparent;}
+.channelChatWrapper_cb9592, .wrapper_cb9592, .container_fb64c9{ background: transparent;}
 
 .textBadge__2b1f5 {background-color: var(--mc) !important;color: white;}
 
@@ -5718,3 +5718,5 @@
 .audioButtonParent__5e764 .buttonChevron__5e764 {display:none !important;}
 
 .plateMuted__67645 {border-radius: 6px !important;}
+
+div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-right: -120px;}
