@@ -1,4 +1,4 @@
-       @import url(https://fonts.googleapis.com/css?family=Satisfy);
+        @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -1725,7 +1725,7 @@
 
         .layers>.layer.animating,.layers>.layer.animating * { pointer-events:none!important; }
 
-        .platform-osx .layer.animating .chat_f75fb0>.title-wrap,.sm_a22cb0.hasText_a22cb0 .buttonChildrenWrapper_a22cb0 { -webkit-app-region:no-drag; }
+        .platform-osx .layer.animating .chat_f75fb0>.title-wrap,.sm_a22cb0.hasText_a22cb0 .buttonChildrenWrapper_a22cb0,[data-list-item-id*="guildsnav___home"] { -webkit-app-region:no-drag; }
 
         .ui-card[style*="padding: 10px; border-color: rgb(250,166,26); background-color: rgb(250,166,26);"] { border-color: #faa61a !important; background-color: #faa61a !important; border: 2px solid #faa61a !important; }
 
