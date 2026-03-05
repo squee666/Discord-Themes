@@ -1,4 +1,4 @@
-        @import url(https://fonts.googleapis.com/css?family=Satisfy);
+       @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -1725,7 +1725,7 @@
 
         .layers>.layer.animating,.layers>.layer.animating * { pointer-events:none!important; }
 
-        .platform-osx .layer.animating .chat_f75fb0>.title-wrap,.sm_a22cb0.hasText_a22cb0 .buttonChildrenWrapper_a22cb0,[data-list-item-id*="guildsnav___home"] { -webkit-app-region:no-drag; }
+        .platform-osx .layer.animating .chat_f75fb0>.title-wrap,.sm_a22cb0.hasText_a22cb0 .buttonChildrenWrapper_a22cb0{ -webkit-app-region:no-drag; }
 
         .ui-card[style*="padding: 10px; border-color: rgb(250,166,26); background-color: rgb(250,166,26);"] { border-color: #faa61a !important; background-color: #faa61a !important; border: 2px solid #faa61a !important; }
 
@@ -5693,7 +5693,9 @@
 
 .channelInfo_c69b6d .fontCode__230d2 {color: var(--hc) !important;font-size: 16px;font-weight: 800;}
 
-.headerContent_f37cb1,.titleWrapper__9293f {-webkit-app-region: no-drag;}
+.headerContent_f37cb1,.titleWrapper__9293f,.topic__6ec1a ,[data-list-item-id*="guildsnav___home"] {-webkit-app-region: no-drag;}
+
+.topic__6ec1a {flex: none;}
 
 .layer__59d0d .didRender_faf9c0 [role="dialog"] {border-radius: 18px !important;}
 
