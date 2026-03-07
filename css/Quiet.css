@@ -1,4 +1,4 @@
-       @import url(https://fonts.googleapis.com/css?family=Satisfy);
+        @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -5722,3 +5722,5 @@
 .plateMuted__67645 {border-radius: 6px !important;}
 
 div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-right: -120px;}
+
+.popover_d6f39b, .popoverGradientWrapper_d6f39b {background: var(--QTD);border: 2px Solid var(--hc);}
