@@ -5724,3 +5724,5 @@
 div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-right: -120px;}
 
 .popover_d6f39b, .popoverGradientWrapper_d6f39b {background: var(--QTD);border: 2px Solid var(--hc);}
+
+.labelWrapper__06d62 .lineClamp1__4bd52 {max-width: 80%;}
