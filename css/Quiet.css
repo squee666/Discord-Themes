@@ -5725,4 +5725,10 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 
 .popover_d6f39b, .popoverGradientWrapper_d6f39b {background: var(--QTD);border: 2px Solid var(--hc);}
 
+.pn-hist-button {margin-right: 160px;}
+
+.pn-hist-button svg text {fill: var(--hc);}
+
+.chatCounter_c47c43 {bottom:0px !important;}
+
 .labelWrapper__06d62 .lineClamp1__4bd52 {max-width: 80%;}
