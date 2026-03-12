@@ -5734,3 +5734,5 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .labelWrapper__06d62 .lineClamp1__4bd52 {max-width: 85%;}
 
 .pttIndicator_a18ea4 {border-radius: 8px;bottom: 0px;opacity: 0.5;height: 32px;right: 0px;width: 32px;}
+
+.footer__4d95d ,.textContainer__4d95d{background-color: var(--QT);border: none;}
