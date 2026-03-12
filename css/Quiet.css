@@ -1,4 +1,4 @@
-        @import url(https://fonts.googleapis.com/css?family=Satisfy);
+       @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -5401,7 +5401,7 @@
 
         .visual-refresh .sidebarList__5e434,.visual-refresh .container_c8ffbb ,.visual-refresh.theme-midnight .content_f75fb0, .visual-refresh.theme-midnight .subtitleContainer_f75fb0 { border:none; }
 
-        .rtcConnectionStatus__06d62 { margin-left: auto; }
+        .rtcConnectionStatus__06d62 { margin-left: auto;max-width: 156%;}
 
         .actionButtons_e131a9 .button__201d5 { padding:6px; }
 
@@ -5731,4 +5731,6 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 
 .chatCounter_c47c43 {bottom:0px !important;}
 
-.labelWrapper__06d62 .lineClamp1__4bd52 {max-width: 80%;}
+.labelWrapper__06d62 .lineClamp1__4bd52 {max-width: 85%;}
+
+.pttIndicator_a18ea4 {border-radius: 8px;bottom: 0px;opacity: 0.5;height: 32px;right: 0px;width: 32px;}
