@@ -5690,7 +5690,7 @@
 
 .textBadge__2b1f5 {background-color: var(--mc) !important;color: white;}
 
-.channelInfo_c69b6d .fontCode__230d2 {color: var(--hc) !important;font-size: 16px;font-weight: 800;}
+.channelInfo_c69b6d .fontCode__230d2 {color: var(--hc) !important;}
 
 .headerContent_f37cb1,.titleWrapper__9293f,.topic__6ec1a ,[data-list-item-id*="guildsnav___home"] {-webkit-app-region: no-drag;}
 
@@ -5737,3 +5737,7 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .footer__4d95d ,.textContainer__4d95d{background-color: var(--QT);border: none;}
 
 .clickable__81391 {color: var(--mc);}
+
+.channelInfo_c69b6d {margin-inline-start: 0px;}
+
+.tabularNumbers__4bd52 {font-size: 12px !important;font-weight: 800;}
