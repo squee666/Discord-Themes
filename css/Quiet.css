@@ -5571,8 +5571,10 @@
         [aria-label="Pinned Messages"],[aria-label="Inbox"],.container__16eb0, .container_d9c882,.container_fc561d,[class*="dark layer__"] [role="dialog"] { border-radius: 0px 0px 6px 6px !important;}
 
         .channelHeader__35a7e {background: var(--QTD);opacity: 0.7;}
+  
+        .recentMentionsPopout__95796  .messagesPopoutWrap_e8b59c {border:none; !important;}
 
-        .messagesPopoutWrap_e8b59c{border:none;border-radius:0px;}
+  .messagesPopoutWrap_e8b59c, .recentMentionsPopout__95796 , .browser_d98031,.container__16eb0 {border: 2px solid var(--mc);border-radius: 0px 0px 4px 4px;margin-top:-1px;}
 
         .header_e8b59c,.container__6764b,.header_d9c882{border-color:var(--mc);}
 
@@ -5741,3 +5743,5 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .channelInfo_c69b6d {margin-inline-start: 0px;}
 
 .tabularNumbers__4bd52 {font-size: 12px !important;font-weight: 800;}
+
+.filterPill__971b5 {padding: 4px 6px;background-color: var(--hc);}
