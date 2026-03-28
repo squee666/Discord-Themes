@@ -1,4 +1,4 @@
-        @import url(https://fonts.googleapis.com/css?family=Satisfy);
+       @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -5391,8 +5391,6 @@
 
         .visual-refresh .panels__5e434 { background: var(--QT) !important; border: 1px solid var(--mc); margin-bottom:6px; }
 
-        .visual-refresh .container__37e49 { height: 55px; }
-
         .childContainer__91a9d { padding:0px; }
 
         .visual-refresh .barButtonBase__0f481 { color: white; }
@@ -5745,3 +5743,17 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .tabularNumbers__4bd52 {font-size: 12px !important;font-weight: 800;}
 
 .filterPill__971b5 {padding: 4px 6px;background-color: var(--hc);}
+
+.container__8a031{border-radius:8px;}
+
+.attachWrapper__0923f {padding:6px !important}
+
+.buttons__74017 {height: 46px !important;}
+
+.slateTextArea_ec4baf {    padding: 12px 0px}
+
+.textArea__74017,.slateTextArea_ec4baf{ min-height: 46px;}
+
+.inner__74017{height:auto;}
+
+.visual-refresh .container__37e49 {height: 46px;}
