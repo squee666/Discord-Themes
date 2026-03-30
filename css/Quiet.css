@@ -1,4 +1,4 @@
-       @import url(https://fonts.googleapis.com/css?family=Satisfy);
+        @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -116,7 +116,7 @@
         .background__1fed1,.fieldList__1fed1,.accountList-305sx3,.accountBtn-1YkMgV .accountBtnInner-3XK70s,.connectionHeader-2rV1ze ,.connection-107AGH,.integration-1f5IUi, .headerNormal-1l1Znk,.headerNormal-1mX3KY,.input_df4dd0,.body-2wLx-E,.footer-1N3bR3,
         .container-1a3EgQ,.container-36u7Lw,
         .container__01ae2,.container-x8Y1ix,
-        .accountProfileCard__1fed1,
+        .accountProfileCard_a27e58,
         .mainCard_f369db,.wrapper_ef3116,.theme-dark .container__2637a,
         .theme-dark .bd-addon-store-card,
         .embedCard__44c9a,
@@ -5427,11 +5427,11 @@
 
         .wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8 { color: transparent; background-color: var(--mc); }
 
-        .visual-refresh .barButtonAlt__0f481 { background:transarent; }
+        .visual-refresh .barButtonAlt__0f481 ,.fieldList_a27e58,.background_a27e58{ background:transarent; }
 
         .banner__68edb { background-color: transparent !important; }
 
-        .visual-refresh .container__0be77 { background-color: var(--QT); border: 1px solid var(--mc); }
+        .visual-refresh .container__0be77,.bd-container { background-color: var(--QT); border: 1px solid var(--mc); }
 
         .closeButton__6e2b9 { padding-right: 400px; }
 
@@ -5561,7 +5561,7 @@
 
         .theme-dark .card__84e3e{background-color: var(--QTD);}
 
-        .container_d9c882,.container_fc561d ,.footer__49fc1,.shopScroll__08415,.shop__08415,.badgeList__1fed1,.keyboardShortcutsModal_f061f6,.container_f369db, .accountProfileCard__1fed1 .avatar__1fed1,.contentHeader_e9e3ed,.messagesPopoutWrap_e8b59c,.container_fed6d3,.header_fed6d3,.guildIcon__0fa6d,.picker__09f65,.soundboardHeader__08434,.sectionContainer__61424,.wrapper__4e6ce,.header_e8b59c,.container__0f711,.popoutContentWrapper_af3b89,.header_d9c882,.interactionsContainer_af3b89 ,.container__6764b{background-color: var(--QT) !important;}
+        .container_d9c882,.container_fc561d ,.footer__49fc1,.shopScroll__08415,.shop__08415,.badgeList__1fed1,.keyboardShortcutsModal_f061f6,.container_f369db, .accountProfileCard_a27e58 .avatar__1fed1,.contentHeader_e9e3ed,.messagesPopoutWrap_e8b59c,.container_fed6d3,.header_fed6d3,.guildIcon__0fa6d,.picker__09f65,.soundboardHeader__08434,.sectionContainer__61424,.wrapper__4e6ce,.header_e8b59c,.container__0f711,.popoutContentWrapper_af3b89,.header_d9c882,.interactionsContainer_af3b89 ,.container__6764b{background-color: var(--QT) !important;}
 
         .messageGroupWrapper_e8b59c {background-color: var(--QTD);border: 1px solid var(--hc);}
 
@@ -5618,7 +5618,7 @@
 
         #app-mount .button_aa90f4 {background: var(--mc) ;margin-top: 60px;height: 14px;color:white;}
 
-        .accountProfileCard__1fed1 .avatar__1fed1 {box-sizing: inherit;}
+        .accountProfileCard_a27e58 .avatar__1fed1 {box-sizing: inherit;}
 
         .bar__70b7b {background-color:var(--hc)!important;}
 
