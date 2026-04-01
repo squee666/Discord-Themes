@@ -1358,12 +1358,3 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .container__8a031{border-radius:8px;}
 
-.attachWrapper__0923f {padding:2px !important}
-
-.buttons__74017 {height: 34px !important;}
-
-.slateTextArea_ec4baf {padding: calc((var(--custom-channel-textarea-text-area-height) - var(--chat-markup-line-height)) / 5) 0;}
-
-.inner__74017{height:auto;}
-
-.textArea__74017,.slateTextArea_ec4baf{ min-height: 34px;}
