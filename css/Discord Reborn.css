@@ -60,7 +60,7 @@
 .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM,
 .resultsGroup-1BPR25,
 .emojiPicker-3g68GS .stickyHeader-3LjM5X,
-.theme-dark .itemSubMenu-1vN_Yn,.theme-dark .container__2637a,
+.theme-dark .itemSubMenu-1vN_Yn,
 .search-bar,
 .title_f75fb0,.titleCall-_b9o8P,
 .textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO,
@@ -192,14 +192,14 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,[class="app_a3002
 .theme-dark .private-channel-call,.container__955a3,
 .theme-dark .content_f75fb0 .flex-spacer,.theme-dark .wrapper-1Rf91z, .wrapper-1Rf91z.foldercontent,
 .theme-dark .friends-header,
-.theme-dark .container-3gCOGc,.chat_f75fb0,.sidebarListRounded__5e434,
+.theme-dark .container-3gCOGc,.chat_f75fb0,
 .channels-3g2vYe,#app-mount 
 div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,[class="app_a3002d"].characterBackground_eb4069,
-.titleWrapper-3Vi_wz,.characterBackground_eb4069,
+.titleWrapper-3Vi_wz,.characterBackground_eb4069,.privateChannels_e6b769,
 .theme-dark .activityFeed--1mYMS,.inner_c0bea0,.shop__6db1d,
-.app .guilds-1q_RqH, .userProfileInner-3F03PX,textarea,.content__49fc1,.searchBar__5ec2f,.user-profile-popout .inner_c0bea0,
+.app .guilds-1q_RqH, .userProfileInner-3F03PX,textarea,.content__49fc1,.searchBar__5ec2f,.user-profile-popout .inner_c0bea0,.notice__36c3e,
 .guild-1EfMGQ:first-child,.scroller_c1e9c4,.overlayBackground_c69a7b,.theme-dark .messagesPopoutWrap_e8b59c,
-.replyBar__841c8, .threadSuggestionBar__841c8,.theme-dark .member_c8ffbb:hover, .member_c8ffbb.popout-open, .member_c8ffbb.popout-open,
+.replyBar__841c8, .threadSuggestionBar__841c8,.theme-dark .member_c8ffbb:hover, .member_c8ffbb.popout-open, .member_c8ffbb.popout-open,.container__2637a,
 .theme-dark .channel-members::after {background: var(--RB)!important;}
 
 .modeSelected__2ea32 .link__2ea32, .modeSelected__2ea32:hover .link__2ea32 ,.wrapper__2ea32:hover .link__2ea32 ,.headerSpotify-zpWxgT, .menu_c1e9c4  .scroller-1bVxF5 {background: var(--RBT) !important;}
@@ -1358,3 +1358,4 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .container__8a031{border-radius:8px;}
 
+[aria-label="The Last Meadow Online"]{display:none;}
