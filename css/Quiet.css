@@ -5757,3 +5757,13 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .inner__74017{height:auto;}
 
 .visual-refresh .container__37e49 {height: 46px;}
+
+.notice__36c3e {border-radius:0px;}
+
+.container_f48e1f {display:none;}
+
+.overlay_b5b7aa {background: linear-gradient(to top, black 0,color-mix(in oklab, black 70%, transparent) 20.31%, transparent 100%);}
+
+.container_cec934 {background-color: var(--QTD);border: 1px solid var(--hc);}
+
+.reactionTooltip_bbcccb {background: var(--QTD);border: 2px solid var(--hc);box-shadow: none;}
