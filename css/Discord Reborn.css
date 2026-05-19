@@ -1325,27 +1325,6 @@ background-image: linear-gradient(90deg,rgba(0, 0, 0, 0),var(--hc));
 
 .visual-refresh .upload_aa605f {background-color: var(--RB);}
 
-/* roles button */
-.role_af3987 {position: relative;display: flex;flex-direction: row-reverse;border-radius: 3px;transition: all .1s ease-in-out;background-color: rgba(0, 0, 0, 0);border-color: rgba(0, 0, 0, 0);cursor: default;-webkit-padding-end:none !important;}
-
-.role_af3987>.roleName_af3987 {    margin-right: 0;    margin-left: 4px;    color: hsla(0, 0%, 100%, .9);    transition: all .1s ease-in-out;}
-
-.role_af3987:hover .roleCircle__4f569:before {opacity: .3;}
-
-.roleName_af3987 {color: #fff !important;}
-
-.roleRemoveButton_4f569 { position: static;}
-
-.roleRemoveIcon_4f569>path { margin-left: 2px;    fill: #fff;}
-
-.roleRemoveIcon_4f569 { left: calc(100% - 7px);}
-
-.role_af3987 .roleCircle__4f569 { width: 0 !important; height: 0 !important;}
-
-.role_af3987 .roleCircle__4f569:not(:empty) { margin-left: 6px;}
-
-.role_af3987 .roleCircle__4f569:before { content: "";    border-radius: 3px;    position: absolute;    top: -1px;    right: -1px;    bottom: -1px;    left: -1px;    background: inherit;    opacity: .2;    transition: all .1s ease-in-out;    pointer-events: none;}
-/* end*/
 .tooltip__4e35b {background-color: black;opacity: 0.9 !important}
 
 .backdrop__8a7fc {background: var(--RBT);}
