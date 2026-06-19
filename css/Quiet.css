@@ -4909,7 +4909,7 @@
 
         .buttonContainer_c19a55 { padding:0px; border-radius: 4px; }
 
-        .buttonContainer_c19a55 { right:40%; }
+        .buttonContainer_c19a55 { right:30%; }
 
         .avatar__6qzftW { width: unset; }
 
@@ -5781,3 +5781,7 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .container__60fa3,.select_a16aea{background: var(--QTD);border: 1px solid var(--hc);}
 
 .expressive_c2b88c {background-color: var(--hc);}
+
+.headerText_c19a55 .badgesChat_a12ad2,.repliedMessage_c19a55 .username_c19a55 ~ .badges_a12ad2 {width: unset !important;margin-left: unset !important;}
+
+.ownerIcon__5d473.icon__5d473.management_975d7e {color: #f39613;}
