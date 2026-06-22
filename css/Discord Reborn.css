@@ -19,13 +19,14 @@ IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
 :root { 
 --mc: #ba9bba !important;                                   /*Main Colour*/     
 --hc: #8c748c !important;                                   /*Hover Colour*/          
---BG: url("https://webusstatic.yo-star.com/ark_us_web/assets/160092752475215969/d4335118b5889f2a5e8613b199525613.png?raw=true") !important;    /*Wallpaper*/   
+--BG: url("htts://webusstatic.yo-star.com/ark_us_web/assets/160092752475215969/d4335118b5889f2a5e8613b199525613.png?raw=true") !important;    /*Wallpaper*/   
 --RB: rgba(0,0,0,0.65) !important;                          /*Reborn Transparency Higher is Darker*/  
 --RBT: rgba(0,0,0,0.75) !important;                         /*Reborn Transparency For Popouts*/ 
 --br: 50% !important;                                       /*RoundNess of Icons*/    
 
 background-image: url("https://webusstatic.yo-star.com/ark_us_web/assets/160092752475215969/d4335118b5889f2a5e8613b199525613.png?raw=true");
 background-size: cover;
+background-position: center;
 .reaction__23977 .emoji {
     height: 1.75rem;
     margin: .125rem 0;
@@ -41,14 +42,18 @@ background-size: cover;
     opacity: 1 !important;
     border-color: transparent;
 }
-.displayName__26b1f,.username__05e81,.userTag__26b1f,.usernameAndPronounsRow__26b1f{
+.displayName__26b1f,.username__05e81,.userTag__26b1f{
     text-align: left;
     float: left;
 }
-.menu_c1e9c4 {
-    background-color: rgba(186, 155, 186, 0.4);
+.container__8061a {
+    margin-left: 0%;
+    align-content: normal;
+    align-items: normal;
 }
- }
+.menu_c1e9c4 {
+    background-color: rgba(231, 190, 231, 0.788);
+}
  /*
 ===== CREDITS =====
 POUT
