@@ -5768,7 +5768,7 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 
 .reactionTooltip_bbcccb {background: var(--QTD);border: 2px solid var(--hc);box-shadow: none;}
 
-.background_a9178b, .fieldList_a9178b {background:none;}
+.background_a9178b, .fieldList_a9178b ,.container_b5b7aa{background:none;}
 
 .clickable__26b1f,.userTagUsername__26b1f {width: 100%;text-align: center;}
 
@@ -5785,3 +5785,15 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .headerText_c19a55 .badgesChat_a12ad2,.repliedMessage_c19a55 .username_c19a55 ~ .badges_a12ad2 {width: unset !important;margin-left: unset !important;}
 
 .ownerIcon__5d473.icon__5d473.management_975d7e {color: #f39613;}
+
+.closeButton__29487{margin-left: -130px !important;margin-right: 130px !important;margin-inline: unset;margin-top:40px;}
+
+.wrapper__11054 {background-color: var(--QT);border-radius: 8px;border: 1px solid var(--hc);}
+
+.refresh-active-now .section__00943:not(:last-child) {border-bottom: none;}
+
+.wrapper_f7a803 {background-color: var(--QT);}
+
+.wrapper__72c38 {border:none;}
+
+.searchBar__5ec2f {border-radius: 8px;border:1px solid var(--hc);}
