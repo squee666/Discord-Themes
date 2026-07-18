@@ -2455,36 +2455,36 @@
 
         code { background-color: var(--QT)!important; background-image: linear-gradient(var(--QTD) 50%,transparent 50%)!important; background-origin: content-box!important; background-position: 0 1.5em!important; background-size: 100% 3em!important; line-height: 1.5 !important; }
 
-        .theme-dark .markup__75297 .hljs[class~="java" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="sql" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="ruby" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="coffee" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="xl" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="py" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="python" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="html" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="md" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="markdown" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="bash" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="js" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="javascript" i]:before,
-        .theme-dark .markup__75297 .hljs[class~="css" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="vb" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="visualbasic" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="lua" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="php" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="swift" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="makefile" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="go" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="ini" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="rust" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="prolog" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="ts" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="typescript" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="http" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="json" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="xml" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="less" i]::before {
+        .theme-dark .markup__75297 .hljs[class$="java" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="sql" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="ruby" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="coffee" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="xl" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="py" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="python" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="html" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="md" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="markdown" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="bash" i]::before,
+        .theme-dark .markup__75297 .hljs[class~="language-js" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="javascript" i]:before,
+        .theme-dark .markup__75297 .hljs[class$="css" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="vb" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="visualbasic" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="lua" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="php" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="swift" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="makefile" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="go" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="ini" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="rust" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="prolog" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="ts" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="typescript" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="http" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="json" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="xml" i]::before,
+        .theme-dark .markup__75297 .hljs[class$="less" i]::before {
             width: 100%;
             height: 16px;
             position: relative;
@@ -2497,86 +2497,86 @@
             border-bottom: 5px solid #00000000;
         }
 
-        .theme-dark .markup__75297 .hljs[class~="java" i],
-        .theme-dark .markup__75297 .hljs[class~="sql" i],
-        .theme-dark .markup__75297 .hljs[class~="ruby" i],
-        .theme-dark .markup__75297 .hljs[class~="coffee" i],
-        .theme-dark .markup__75297 .hljs[class~="xl" i],
-        .theme-dark .markup__75297 .hljs[class~="py" i],
-        .theme-dark .markup__75297 .hljs[class~="python" i],
-        .theme-dark .markup__75297 .hljs[class~="html" i],
-        .theme-dark .markup__75297 .hljs[class~="md" i],
-        .theme-dark .markup__75297 .hljs[class~="markdown" i],
-        .theme-dark .markup__75297 .hljs[class~="js" i],
-        .theme-dark .markup__75297 .hljs[class~="javascript" i],
-        .theme-dark .markup__75297 .hljs[class~="css" i],
-        .theme-dark .markup__75297 .hljs[class~="bash" i],
-        .theme-dark .markup__75297 .hljs[class~="vb" i],
-        .theme-dark .markup__75297 .hljs[class~="visualbasic" i],
-        .theme-dark .markup__75297 .hljs[class~="lua" i],
-        .theme-dark .markup__75297 .hljs[class~="php" i],
-        .theme-dark .markup__75297 .hljs[class~="swift" i],
-        .theme-dark .markup__75297 .hljs[class~="makefile" i],
-        .theme-dark .markup__75297 .hljs[class~="go" i],
-        .theme-dark .markup__75297 .hljs[class~="ini" i],
-        .theme-dark .markup__75297 .hljs[class~="rust" i],
-        .theme-dark .markup__75297 .hljs[class~="prolog" i],
-        .theme-dark .markup__75297 .hljs[class~="ts" i],
-        .theme-dark .markup__75297 .hljs[class~="typescript" i],
-        .theme-dark .markup__75297 .hljs[class~="http" i],
-        .theme-dark .markup__75297 .hljs[class~="json" i],
-        .theme-dark .markup__75297 .hljs[class~="xml" i],
-        .theme-dark .markup__75297 .hljs[class~="less" i] { padding: 0px !important; }
+        .theme-dark .markup__75297 .hljs[class$="java" i],
+        .theme-dark .markup__75297 .hljs[class$="sql" i],
+        .theme-dark .markup__75297 .hljs[class$="ruby" i],
+        .theme-dark .markup__75297 .hljs[class$="coffee" i],
+        .theme-dark .markup__75297 .hljs[class$="xl" i],
+        .theme-dark .markup__75297 .hljs[class$="py" i],
+        .theme-dark .markup__75297 .hljs[class$="python" i],
+        .theme-dark .markup__75297 .hljs[class$="html" i],
+        .theme-dark .markup__75297 .hljs[class$="md" i],
+        .theme-dark .markup__75297 .hljs[class$="markdown" i],
+        .theme-dark .markup__75297 .hljs[class~="language-js" i],
+        .theme-dark .markup__75297 .hljs[class$="javascript" i],
+        .theme-dark .markup__75297 .hljs[class$="css" i],
+        .theme-dark .markup__75297 .hljs[class$="bash" i],
+        .theme-dark .markup__75297 .hljs[class$="vb" i],
+        .theme-dark .markup__75297 .hljs[class$="visualbasic" i],
+        .theme-dark .markup__75297 .hljs[class$="lua" i],
+        .theme-dark .markup__75297 .hljs[class$="php" i],
+        .theme-dark .markup__75297 .hljs[class$="swift" i],
+        .theme-dark .markup__75297 .hljs[class$="makefile" i],
+        .theme-dark .markup__75297 .hljs[class$="go" i],
+        .theme-dark .markup__75297 .hljs[class$="ini" i],
+        .theme-dark .markup__75297 .hljs[class$="rust" i],
+        .theme-dark .markup__75297 .hljs[class$="prolog" i],
+        .theme-dark .markup__75297 .hljs[class$="ts" i],
+        .theme-dark .markup__75297 .hljs[class$="typescript" i],
+        .theme-dark .markup__75297 .hljs[class$="http" i],
+        .theme-dark .markup__75297 .hljs[class$="json" i],
+        .theme-dark .markup__75297 .hljs[class$="xml" i],
+        .theme-dark .markup__75297 .hljs[class$="less" i] { padding: 0px !important; }
 
-        .theme-dark .markup__75297 .hljs[class~="js" i]::before,.theme-dark .markup__75297 .hljs[class~="javascript" i]::before { content: " Javascript"; background: #165eab; }
+        .theme-dark .markup__75297 .hljs[class$="js" i]::before,.theme-dark .markup__75297 .hljs[class$="javascript" i]::before { content: " Javascript"; background: #165eab; }
 
-        .theme-dark .markup__75297 .hljs[class~="css" i]::before { content: " Cascading Style Sheet"; background: var(--mc); }
+        .theme-dark .markup__75297 .hljs[class$="language-css" i]::before { content: " Cascading Style Sheet"; background: var(--mc); }
 
-        .theme-dark .markup__75297 .hljs[class~="bash" i]::before { content: " Bash"; background: #ab1663; }
+        .theme-dark .markup__75297 .hljs[class$="bash" i]::before { content: " Bash"; background: #ab1663; }
 
-        .theme-dark .markup__75297 .hljs[class~="markdown" i]::before,.theme-dark .markup__75297 .hljs[class~="md" i]::before { content: " Markdown"; background: #ab2e16; }
+        .theme-dark .markup__75297 .hljs[class$="markdown" i]::before,.theme-dark .markup__75297 .hljs[class$="md" i]::before { content: " Markdown"; background: #ab2e16; }
 
-        .theme-dark .markup__75297 .hljs[class~="html" i]::before { content: " HTML"; background: #16ab6f; }
+        .theme-dark .markup__75297 .hljs[class$="html" i]::before { content: " HTML"; background: #16ab6f; }
 
-        .theme-dark .markup__75297 .hljs[class~="xl" i]::before { content: " eXtensible Language"; background: #4872a8; }
+        .theme-dark .markup__75297 .hljs[class$="xl" i]::before { content: " eXtensible Language"; background: #4872a8; }
 
-        .theme-dark .markup__75297 .hljs[class~="coffee" i]::before { content: " Coffee (Javascript)"; background: #3a1b1b; }
+        .theme-dark .markup__75297 .hljs[class$="coffee" i]::before { content: " Coffee (Javascript)"; background: #3a1b1b; }
 
-        .theme-dark .markup__75297 .hljs[class~="ruby" i]::before { content: " Ruby"; background: #e73e3e; }
+        .theme-dark .markup__75297 .hljs[class$="ruby" i]::before { content: " Ruby"; background: #e73e3e; }
 
-        .theme-dark .markup__75297 .hljs[class~="sql" i]::before { content: " SQL"; background: #4474ca; }
+        .theme-dark .markup__75297 .hljs[class$="sql" i]::before { content: " SQL"; background: #4474ca; }
 
-        .theme-dark .markup__75297 .hljs[class~="java" i]::before { content: " Java"; background: #eb2d2f; }
+        .theme-dark .markup__75297 .hljs[class$="java" i]::before { content: " Java"; background: #eb2d2f; }
 
-        .theme-dark .markup__75297 .hljs[class~="py" i]::before,.theme-dark .markup__75297 .hljs[class~="python" i]::before { content: " Python"; background: #1622ab; }
+        .theme-dark .markup__75297 .hljs[class$="py" i]::before,.theme-dark .markup__75297 .hljs[class$="python" i]::before { content: " Python"; background: #1622ab; }
 
-        .theme-dark .markup__75297 .hljs[class~="vb" i]::before,.theme-dark .markup__75297 .hljs[class~="visualbasic" i]::before { content: " Visual Basic"; background: #839700; }
+        .theme-dark .markup__75297 .hljs[class$="vb" i]::before,.theme-dark .markup__75297 .hljs[class$="visualbasic" i]::before { content: " Visual Basic"; background: #839700; }
 
-        .theme-dark .markup__75297 .hljs[class~="lua" i]::before { content: " Lua"; background: #2ecc71; }
+        .theme-dark .markup__75297 .hljs[class$="lua" i]::before { content: " Lua"; background: #2ecc71; }
 
-        .theme-dark .markup__75297 .hljs[class~="php" i]::before { content: " Php"; background: #6e81b6; }
+        .theme-dark .markup__75297 .hljs[class$="php" i]::before { content: " Php"; background: #6e81b6; }
 
-        .theme-dark .markup__75297 .hljs[class~="swift" i]::before { content: " Swift"; background: #fd7837; }
+        .theme-dark .markup__75297 .hljs[class$="swift" i]::before { content: " Swift"; background: #fd7837; }
 
-        .theme-dark .markup__75297 .hljs[class~="makefile" i]::before { content: " Makefile"; background: #8a2b0f; }
+        .theme-dark .markup__75297 .hljs[class$="makefile" i]::before { content: " Makefile"; background: #8a2b0f; }
 
-        .theme-dark .markup__75297 .hljs[class~="go" i]::before { content: " Go"; background: #75cede; }
+        .theme-dark .markup__75297 .hljs[class$="go" i]::before { content: " Go"; background: #75cede; }
 
-        .theme-dark .markup__75297 .hljs[class~="ini" i]::before { content: " ini"; background: #5a75c0; }
+        .theme-dark .markup__75297 .hljs[class$="ini" i]::before { content: " ini"; background: #5a75c0; }
 
-        .theme-dark .markup__75297 .hljs[class~="rust" i]::before { content: " Rust"; background: #000; }
+        .theme-dark .markup__75297 .hljs[class$="rust" i]::before { content: " Rust"; background: #000; }
 
-        .theme-dark .markup__75297 .hljs[class~="prolog" i]::before { content: " Prolog"; background: #ef4d25; }
+        .theme-dark .markup__75297 .hljs[class$="prolog" i]::before { content: " Prolog"; background: #ef4d25; }
 
-        .theme-dark .markup__75297 .hljs[class~="ts" i]::before,.theme-dark .markup__75297 .hljs[class~="typescript" i]::before { content: " TypeScript"; background: #03324c; }
+        .theme-dark .markup__75297 .hljs[class$="ts" i]::before,.theme-dark .markup__75297 .hljs[class$="typescript" i]::before { content: " TypeScript"; background: #03324c; }
 
-        .theme-dark .markup__75297 .hljs[class~="http" i]::before { content: " HTTP"; background: #618f10; }
+        .theme-dark .markup__75297 .hljs[class$="http" i]::before { content: " HTTP"; background: #618f10; }
 
-        .theme-dark .markup__75297 .hljs[class~="json" i]::before { content: " Json"; background: #108f66; }
+        .theme-dark .markup__75297 .hljs[class$="json" i]::before { content: " Json"; background: #108f66; }
 
-        .theme-dark .markup__75297 .hljs[class~="xml" i]::before { content: " XML"; background: #8444af; }
+        .theme-dark .markup__75297 .hljs[class$="xml" i]::before { content: " XML"; background: #8444af; }
 
-        .theme-dark .markup__75297 .hljs[class~="less" i]::before { content: " Less"; background: #1d365d; }
+        .theme-dark .markup__75297 .hljs[class$="less" i]::before { content: " Less"; background: #1d365d; }
 
         .emoji-picker .dimmer.visible { background-color:rgba(255,255,255,0.8); height:270px; bottom:0px; }
 
