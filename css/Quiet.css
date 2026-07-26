@@ -1,4 +1,4 @@
-       @import url(https://fonts.googleapis.com/css?family=Satisfy);
+        @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
         :root {
             --version-content: "8.9";
@@ -233,7 +233,7 @@
         .size-3rFEHg:active:after,
         .circleIconButton-jET_ig,
         .unread__3b95d,
-        .theme-dark [class*="messagesPopoutWrap_"] .messageGroupWrapper_e8b59c .actionButtons_e8b59c .jumpButton_e8b59c,
+        .theme-dark [class*="messagesPopoutWrap_"] [class*="messageGroupWrapper__"] [class*="actionButtons__"] .jumpButton_e8b59c,
         .bd-toast,
         .toast,
         .placeholderavatar__uzH8f6,.placeholderUsername-236yYU,
@@ -305,7 +305,7 @@
         .create-guild-container.deprecated .action:hover.create .btn,
         .noIcon_f34534,
         .unread__3b95d:hover,
-        .theme-dark [class*="messagesPopoutWrap_"] .messageGroupWrapper_e8b59c .actionButtons_e8b59c .jumpButton_e8b59c:hover,
+        .theme-dark [class*="messagesPopoutWrap_"] [class*="messageGroupWrapper__"] [class*="actionButtons__"] .jumpButton_e8b59c:hover,
         .theme-dark .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected:after,
         .lookInverted-2mDUMi.colorGreen-3y-Z79:hover,
         .theme-dark .inviteRow-2poi6Q:hover,
@@ -3399,7 +3399,7 @@
 
         .popoutBottomRight-2JrySt.noArrow-3BYQ0Z { margin-top: 0px; }
 
-        .theme-dark [class*="messagesPopoutWrap_"] .messageGroupWrapper_e8b59c:hover .actionButtons_e8b59c { background-color: transparent; box-shadow: none; }
+        .theme-dark [class*="messagesPopoutWrap_"] [class*="messageGroupWrapper__"]:hover [class*="actionButtons__"] { background-color: transparent; box-shadow: none; }
 
         .theme-dark .headerTabBarWrapper-27xBDe .tab-bar.TOP .tab-bar-item.selected { border-bottom-color: var(--mc); }
 
