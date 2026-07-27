@@ -2528,7 +2528,7 @@
         .theme-dark .markup__75297 .hljs[class$="xml" i],
         .theme-dark .markup__75297 .hljs[class$="less" i] { padding: 0px !important; }
 
-        .theme-dark .markup__75297 .hljs[class$="js" i]::before,.theme-dark .markup__75297 .hljs[class$="javascript" i]::before { content: " Javascript"; background: #165eab; }
+        .theme-dark .markup__75297 .hljs[class~="js" i]::before,.theme-dark .markup__75297 .hljs[class$="javascript" i]::before { content: " Javascript"; background: #165eab; }
 
         .theme-dark .markup__75297 .hljs[class$="language-css" i]::before { content: " Cascading Style Sheet"; background: var(--mc); }
 
