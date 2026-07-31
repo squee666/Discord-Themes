@@ -551,7 +551,7 @@
 
         .search__49676 {margin: 0px 0px 0px -2px;}
 
-        .icon__0c4c4 {color: var(--hc);height: 120%;width: 120%;}
+        .icon__0c4c4 {color: var(--hc);height: 120%;width: 120%; margin-left: -8px;}
 
         .searchBar_e6b769 .searchBarComponent__35e86 input {
             height: 24px;
@@ -5417,8 +5417,6 @@
 
         .visual-refresh .toolbar__9293f { gap: 0px; }
 
-        .custom-theme-background .theme-dark, .theme-dark.custom-theme-background { border: 2px solid var(--mc); }
-
         .visual-refresh .theme-dark.custom-user-profile-theme, .visual-refresh.theme-dark.custom-user-profile-theme { padding:0px; }
 
         .container__8061a { width: 100% !important;align-items: center;align-content: center;margin-left: 31%;}
@@ -5572,7 +5570,7 @@
   
         .recentMentionsPopout__95796  [class*="messagesPopoutWrap_"] {border:none; !important;}
 
-       .recentMentionsPopout__95796 , [role="listbox"],[role="dialog"] {border: 2px solid var(--mc);border-radius: 0px 0px 4px 4px;margin-top:-1px;}
+       .recentMentionsPopout__95796 , [role="listbox"],[role="dialog"]:not([class*="focusLock__"]) {border: 2px solid var(--mc);border-radius: 0px 0px 4px 4px;margin-top:-1px;}
 
         .header_e8b59c,.container__6764b,.header_d9c882{border-color:var(--mc);}
 
@@ -5610,7 +5608,7 @@
 
         .header_c0e32c {align-items: center;background-color: var(--QTD);border-bottom: 1px solid var(--hc);}
 
-        .emojiPicker_c0e32c,.focusLock__49fc1,[role="dialog"] [class*="container__"]  {background-color: var(--QTD);}
+        .emojiPicker_c0e32c,.focusLock__49fc1,[role="dialog"] [class*="container__"]  {background-color: var(--QT);}
 
         [id="emoji-picker-tab-panel"]{border-radius:8px !important;}
 
@@ -5797,3 +5795,9 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .wrapper__72c38 {border:none;}
 
 .searchBar__5ec2f {border-radius: 8px;border:1px solid var(--hc);}
+
+[class*="focusLock__"] {border: none !important;}
+
+.profileHeaderBannerContainer__9c3be {border-radius: 0px !important;}
+
+.container__37bfc {margin:0px;}
