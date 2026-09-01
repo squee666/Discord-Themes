@@ -2530,7 +2530,7 @@
 
         .theme-dark .markup__75297 .hljs[class~="js" i]::before,.theme-dark .markup__75297 .hljs[class$="javascript" i]::before { content: " Javascript"; background: #165eab; }
 
-        .theme-dark .markup__75297 .hljs[class$="language-css" i]::before { content: " Cascading Style Sheet"; background: var(--mc); }
+        .theme-dark .markup__75297 .hljs[class$="css" i]::before { content: " Cascading Style Sheet"; background: var(--mc); }
 
         .theme-dark .markup__75297 .hljs[class$="bash" i]::before { content: " Bash"; background: #ab1663; }
 
@@ -5801,3 +5801,9 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .profileHeaderBannerContainer__9c3be {border-radius: 0px !important;}
 
 .container__37bfc {margin:0px;}
+
+.banner__43147{display:none !important;}
+
+:where(.overlay_c0bea0) {background: var(--QT);}
+
+.container__75920 {background: unset !important;}
