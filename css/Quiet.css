@@ -2452,131 +2452,951 @@
         .xsmall-2rXiD4 { border-radius:2px; }
 
         .theme-dark [class*="switch"][class*="valueUnchecked"] { background: grey !important; }
+code {
+  background-color: var(--QT) !important;
+  background-image: linear-gradient(var(--QTD) 50%, transparent 50%) !important;
+  background-origin: content-box !important;
+  background-position: 0 1.5em !important;
+  background-size: 100% 3em !important;
+  line-height: 1.5 !important;
+}
 
-        code { background-color: var(--QT)!important; background-image: linear-gradient(var(--QTD) 50%,transparent 50%)!important; background-origin: content-box!important; background-position: 0 1.5em!important; background-size: 100% 3em!important; line-height: 1.5 !important; }
+/* Selector list grouped by language type */
+.markup__75297 .hljs[class$="1c" i]::before,
+.markup__75297 .hljs[class$="abnf" i]::before,
+.markup__75297 .hljs[class$="accesslog" i]::before,
+.markup__75297 .hljs[class$="actionscript" i]::before,
+.markup__75297 .hljs[class$="as" i]::before,
+.markup__75297 .hljs[class$="ada" i]::before,
+.markup__75297 .hljs[class$="angelscript" i]::before,
+.markup__75297 .hljs[class$="asc" i]::before,
+.markup__75297 .hljs[class$="ansi" i]::before,
+.markup__75297 .hljs[class$="apache" i]::before,
+.markup__75297 .hljs[class$="apacheconf" i]::before,
+.markup__75297 .hljs[class$="applescript" i]::before,
+.markup__75297 .hljs[class$="osascript" i]::before,
+.markup__75297 .hljs[class$="arcade" i]::before,
+.markup__75297 .hljs[class$="arduino" i]::before,
+.markup__75297 .hljs[class$="ino" i]::before,
+.markup__75297 .hljs[class$="armasm" i]::before,
+.markup__75297 .hljs[class$="arm" i]::before,
+.markup__75297 .hljs[class$="asciidoc" i]::before,
+.markup__75297 .hljs[class$="adoc" i]::before,
+.markup__75297 .hljs[class$="aspectj" i]::before,
+.markup__75297 .hljs[class$="autohotkey" i]::before,
+.markup__75297 .hljs[class$="ahk" i]::before,
+.markup__75297 .hljs[class$="autoit" i]::before,
+.markup__75297 .hljs[class$="avrasm" i]::before,
+.markup__75297 .hljs[class$="awk" i]::before,
+.markup__75297 .hljs[class$="bash" i]::before,
+.markup__75297 .hljs[class$="sh" i]::before,
+.markup__75297 .hljs[class$="zsh" i]::before,
+.markup__75297 .hljs[class$="basic" i]::before,
+.markup__75297 .hljs[class$="bnf" i]::before,
+.markup__75297 .hljs[class$="brainfuck" i]::before,
+.markup__75297 .hljs[class$="bf" i]::before,
+.markup__75297 .hljs[class$="c" i]::before,
+.markup__75297 .hljs[class$="h" i]::before,
+.markup__75297 .hljs[class$="cal" i]::before,
+.markup__75297 .hljs[class$="capnproto" i]::before,
+.markup__75297 .hljs[class$="capnp" i]::before,
+.markup__75297 .hljs[class$="ceylon" i]::before,
+.markup__75297 .hljs[class$="clean" i]::before,
+.markup__75297 .hljs[class$="icl" i]::before,
+.markup__75297 .hljs[class$="dcl" i]::before,
+.markup__75297 .hljs[class$="clojure" i]::before,
+.markup__75297 .hljs[class$="clj" i]::before,
+.markup__75297 .hljs[class$="edn" i]::before,
+.markup__75297 .hljs[class$="clojure-repl" i]::before,
+.markup__75297 .hljs[class$="cmake" i]::before,
+.markup__75297 .hljs[class$="coffeescript" i]::before,
+.markup__75297 .hljs[class$="coffee" i]::before,
+.markup__75297 .hljs[class$="cson" i]::before,
+.markup__75297 .hljs[class$="iced" i]::before,
+.markup__75297 .hljs[class$="coq" i]::before,
+.markup__75297 .hljs[class$="cos" i]::before,
+.markup__75297 .hljs[class$="cls" i]::before,
+.markup__75297 .hljs[class$="cpp" i]::before,
+.markup__75297 .hljs[class$="cc" i]::before,
+.markup__75297 .hljs[class$="hpp" i]::before,
+.markup__75297 .hljs[class$="hh" i]::before,
+.markup__75297 .hljs[class$="hxx" i]::before,
+.markup__75297 .hljs[class$="cxx" i]::before,
+.markup__75297 .hljs[class$="crmsh" i]::before,
+.markup__75297 .hljs[class$="crm" i]::before,
+.markup__75297 .hljs[class$="pcmk" i]::before,
+.markup__75297 .hljs[class$="crystal" i]::before,
+.markup__75297 .hljs[class$="cr" i]::before,
+.markup__75297 .hljs[class$="csharp" i]::before,
+.markup__75297 .hljs[class$="cs" i]::before,
+.markup__75297 .hljs[class$="csp" i]::before,
+.markup__75297 .hljs[class$="css" i]::before,
+.markup__75297 .hljs[class$="d" i]::before,
+.markup__75297 .hljs[class$="dart" i]::before,
+.markup__75297 .hljs[class$="delphi" i]::before,
+.markup__75297 .hljs[class$="dpr" i]::before,
+.markup__75297 .hljs[class$="dfm" i]::before,
+.markup__75297 .hljs[class$="pas" i]::before,
+.markup__75297 .hljs[class$="pascal" i]::before,
+.markup__75297 .hljs[class$="diff" i]::before,
+.markup__75297 .hljs[class$="patch" i]::before,
+.markup__75297 .hljs[class$="django" i]::before,
+.markup__75297 .hljs[class$="jinja" i]::before,
+.markup__75297 .hljs[class$="dns" i]::before,
+.markup__75297 .hljs[class$="bind" i]::before,
+.markup__75297 .hljs[class$="zone" i]::before,
+.markup__75297 .hljs[class$="dockerfile" i]::before,
+.markup__75297 .hljs[class$="docker" i]::before,
+.markup__75297 .hljs[class$="dos" i]::before,
+.markup__75297 .hljs[class$="bat" i]::before,
+.markup__75297 .hljs[class$="cmd" i]::before,
+.markup__75297 .hljs[class$="dsconfig" i]::before,
+.markup__75297 .hljs[class$="dts" i]::before,
+.markup__75297 .hljs[class$="dust" i]::before,
+.markup__75297 .hljs[class$="dst" i]::before,
+.markup__75297 .hljs[class$="ebnf" i]::before,
+.markup__75297 .hljs[class$="elixir" i]::before,
+.markup__75297 .hljs[class$="ex" i]::before,
+.markup__75297 .hljs[class$="exs" i]::before,
+.markup__75297 .hljs[class$="elm" i]::before,
+.markup__75297 .hljs[class$="erb" i]::before,
+.markup__75297 .hljs[class$="erlang-repl" i]::before,
+.markup__75297 .hljs[class$="erlang" i]::before,
+.markup__75297 .hljs[class$="erl" i]::before,
+.markup__75297 .hljs[class$="excel" i]::before,
+.markup__75297 .hljs[class$="xlsx" i]::before,
+.markup__75297 .hljs[class$="xls" i]::before,
+.markup__75297 .hljs[class$="fix" i]::before,
+.markup__75297 .hljs[class$="flix" i]::before,
+.markup__75297 .hljs[class$="fortran" i]::before,
+.markup__75297 .hljs[class$="f90" i]::before,
+.markup__75297 .hljs[class$="f95" i]::before,
+.markup__75297 .hljs[class$="fsharp" i]::before,
+.markup__75297 .hljs[class$="fs" i]::before,
+.markup__75297 .hljs[class$="gams" i]::before,
+.markup__75297 .hljs[class$="gms" i]::before,
+.markup__75297 .hljs[class$="gauss" i]::before,
+.markup__75297 .hljs[class$="gss" i]::before,
+.markup__75297 .hljs[class$="gcode" i]::before,
+.markup__75297 .hljs[class$="nc" i]::before,
+.markup__75297 .hljs[class$="gherkin" i]::before,
+.markup__75297 .hljs[class$="feature" i]::before,
+.markup__75297 .hljs[class$="glsl" i]::before,
+.markup__75297 .hljs[class$="gml" i]::before,
+.markup__75297 .hljs[class$="go" i]::before,
+.markup__75297 .hljs[class$="golang" i]::before,
+.markup__75297 .hljs[class$="golo" i]::before,
+.markup__75297 .hljs[class$="gradle" i]::before,
+.markup__75297 .hljs[class$="graphql" i]::before,
+.markup__75297 .hljs[class$="gql" i]::before,
+.markup__75297 .hljs[class$="groovy" i]::before,
+.markup__75297 .hljs[class$="haml" i]::before,
+.markup__75297 .hljs[class$="handlebars" i]::before,
+.markup__75297 .hljs[class$="hbs" i]::before,
+.markup__75297 .hljs[class$="htmlbars" i]::before,
+.markup__75297 .hljs[class$="haskell" i]::before,
+.markup__75297 .hljs[class$="hs" i]::before,
+.markup__75297 .hljs[class$="haxe" i]::before,
+.markup__75297 .hljs[class$="hx" i]::before,
+.markup__75297 .hljs[class$="hsp" i]::before,
+.markup__75297 .hljs[class$="http" i]::before,
+.markup__75297 .hljs[class$="https" i]::before,
+.markup__75297 .hljs[class$="hy" i]::before,
+.markup__75297 .hljs[class$="hylang" i]::before,
+.markup__75297 .hljs[class$="inform7" i]::before,
+.markup__75297 .hljs[class$="i7" i]::before,
+.markup__75297 .hljs[class$="ini" i]::before,
+.markup__75297 .hljs[class$="toml" i]::before,
+.markup__75297 .hljs[class$="irpf90" i]::before,
+.markup__75297 .hljs[class$="isbl" i]::before,
+.markup__75297 .hljs[class$="java" i]::before,
+.markup__75297 .hljs[class$="jsp" i]::before,
+.markup__75297 .hljs[class$="jboss-cli" i]::before,
+.markup__75297 .hljs[class$="wildfly-cli" i]::before,
+.markup__75297 .hljs[class$="json" i]::before,
+.markup__75297 .hljs[class$="jsonc" i]::before,
+.markup__75297 .hljs[class$="julia" i]::before,
+.markup__75297 .hljs[class$="jldoctest" i]::before,
+.markup__75297 .hljs[class$="julia-repl" i]::before,
+.markup__75297 .hljs[class$="kotlin" i]::before,
+.markup__75297 .hljs[class$="kt" i]::before,
+.markup__75297 .hljs[class$="kts" i]::before,
+.markup__75297 .hljs[class$="lasso" i]::before,
+.markup__75297 .hljs[class$="ls" i]::before,
+.markup__75297 .hljs[class$="lassoscript" i]::before,
+.markup__75297 .hljs[class$="latex" i]::before,
+.markup__75297 .hljs[class$="tex" i]::before,
+.markup__75297 .hljs[class$="ldif" i]::before,
+.markup__75297 .hljs[class$="leaf" i]::before,
+.markup__75297 .hljs[class$="less" i]::before,
+.markup__75297 .hljs[class$="lisp" i]::before,
+.markup__75297 .hljs[class$="livecodeserver" i]::before,
+.markup__75297 .hljs[class$="livescript" i]::before,
+.markup__75297 .hljs[class$="llvm" i]::before,
+.markup__75297 .hljs[class$="lsl" i]::before,
+.markup__75297 .hljs[class$="lua" i]::before,
+.markup__75297 .hljs[class$="pluto" i]::before,
+.markup__75297 .hljs[class$="makefile" i]::before,
+.markup__75297 .hljs[class$="mk" i]::before,
+.markup__75297 .hljs[class$="mak" i]::before,
+.markup__75297 .hljs[class$="make" i]::before,
+.markup__75297 .hljs[class$="markdown" i]::before,
+.markup__75297 .hljs[class$="md" i]::before,
+.markup__75297 .hljs[class$="mkdown" i]::before,
+.markup__75297 .hljs[class$="mkd" i]::before,
+.markup__75297 .hljs[class$="mathematica" i]::before,
+.markup__75297 .hljs[class$="mma" i]::before,
+.markup__75297 .hljs[class$="wl" i]::before,
+.markup__75297 .hljs[class$="matlab" i]::before,
+.markup__75297 .hljs[class$="maxima" i]::before,
+.markup__75297 .hljs[class$="mel" i]::before,
+.markup__75297 .hljs[class$="mercury" i]::before,
+.markup__75297 .hljs[class$="m" i]::before,
+.markup__75297 .hljs[class$="moo" i]::before,
+.markup__75297 .hljs[class$="mipsasm" i]::before,
+.markup__75297 .hljs[class$="mips" i]::before,
+.markup__75297 .hljs[class$="mizar" i]::before,
+.markup__75297 .hljs[class$="mojolicious" i]::before,
+.markup__75297 .hljs[class$="monkey" i]::before,
+.markup__75297 .hljs[class$="moonscript" i]::before,
+.markup__75297 .hljs[class$="moon" i]::before,
+.markup__75297 .hljs[class$="n1ql" i]::before,
+.markup__75297 .hljs[class$="nestedtext" i]::before,
+.markup__75297 .hljs[class$="nt" i]::before,
+.markup__75297 .hljs[class$="nginx" i]::before,
+.markup__75297 .hljs[class$="nginxconf" i]::before,
+.markup__75297 .hljs[class$="nim" i]::before,
+.markup__75297 .hljs[class$="nix" i]::before,
+.markup__75297 .hljs[class$="nixos" i]::before,
+.markup__75297 .hljs[class$="node-repl" i]::before,
+.markup__75297 .hljs[class$="nsis" i]::before,
+.markup__75297 .hljs[class$="objectivec" i]::before,
+.markup__75297 .hljs[class$="mm" i]::before,
+.markup__75297 .hljs[class$="objc" i]::before,
+.markup__75297 .hljs[class$="obj-c" i]::before,
+.markup__75297 .hljs[class$="ocaml" i]::before,
+.markup__75297 .hljs[class$="openscad" i]::before,
+.markup__75297 .hljs[class$="scad" i]::before,
+.markup__75297 .hljs[class$="oxygene" i]::before,
+.markup__75297 .hljs[class$="parser3" i]::before,
+.markup__75297 .hljs[class$="perl" i]::before,
+.markup__75297 .hljs[class$="pl" i]::before,
+.markup__75297 .hljs[class$="pm" i]::before,
+.markup__75297 .hljs[class$="pf" i]::before,
+.markup__75297 .hljs[class$="pgsql" i]::before,
+.markup__75297 .hljs[class$="postgres" i]::before,
+.markup__75297 .hljs[class$="postgresql" i]::before,
+.markup__75297 .hljs[class$="php" i]::before,
+.markup__75297 .hljs[class$="php-template" i]::before,
+.markup__75297 .hljs[class$="plaintext" i]::before,
+.markup__75297 .hljs[class$="text" i]::before,
+.markup__75297 .hljs[class$="txt" i]::before,
+.markup__75297 .hljs[class$=hljs]::before,
+.markup__75297 .hljs[class$="pony" i]::before,
+.markup__75297 .hljs[class$="powershell" i]::before,
+.markup__75297 .hljs[class$="pwsh" i]::before,
+.markup__75297 .hljs[class$="ps" i]::before,
+.markup__75297 .hljs[class$="ps1" i]::before,
+.markup__75297 .hljs[class$="processing" i]::before,
+.markup__75297 .hljs[class$="pde" i]::before,
+.markup__75297 .hljs[class$="prolog" i]::before,
+.markup__75297 .hljs[class$="properties" i]::before,
+.markup__75297 .hljs[class$="protobuf" i]::before,
+.markup__75297 .hljs[class$="proto" i]::before,
+.markup__75297 .hljs[class$="puppet" i]::before,
+.markup__75297 .hljs[class$="pp" i]::before,
+.markup__75297 .hljs[class$="purebasic" i]::before,
+.markup__75297 .hljs[class$="pb" i]::before,
+.markup__75297 .hljs[class$="pbi" i]::before,
+.markup__75297 .hljs[class$="pycon" i]::before,
+.markup__75297 .hljs[class$="python" i]::before,
+.markup__75297 .hljs[class$="py" i]::before,
+.markup__75297 .hljs[class$="gyp" i]::before,
+.markup__75297 .hljs[class$="ipython" i]::before,
+.markup__75297 .hljs[class$="python-repl" i]::before,
+.markup__75297 .hljs[class$="profile" i]::before,
+.markup__75297 .hljs[class$="q" i]::before,
+.markup__75297 .hljs[class$="k" i]::before,
+.markup__75297 .hljs[class$="kdb" i]::before,
+.markup__75297 .hljs[class$="qml" i]::before,
+.markup__75297 .hljs[class$="qt" i]::before,
+.markup__75297 .hljs[class$="r" i]::before,
+.markup__75297 .hljs[class$="reasonml" i]::before,
+.markup__75297 .hljs[class$="re" i]::before,
+.markup__75297 .hljs[class$="rib" i]::before,
+.markup__75297 .hljs[class$="roboconf" i]::before,
+.markup__75297 .hljs[class$="graph" i]::before,
+.markup__75297 .hljs[class$="instances" i]::before,
+.markup__75297 .hljs[class$="routeros" i]::before,
+.markup__75297 .hljs[class$="mikrotik" i]::before,
+.markup__75297 .hljs[class$="rsl" i]::before,
+.markup__75297 .hljs[class$="ruby" i]::before,
+.markup__75297 .hljs[class$="rb" i]::before,
+.markup__75297 .hljs[class$="gemspec" i]::before,
+.markup__75297 .hljs[class$="podspec" i]::before,
+.markup__75297 .hljs[class$="thor" i]::before,
+.markup__75297 .hljs[class$="irb" i]::before,
+.markup__75297 .hljs[class$="ruleslanguage" i]::before,
+.markup__75297 .hljs[class$="rust" i]::before,
+.markup__75297 .hljs[class$="rs" i]::before,
+.markup__75297 .hljs[class$="sas" i]::before,
+.markup__75297 .hljs[class$="scala" i]::before,
+.markup__75297 .hljs[class$="scheme" i]::before,
+.markup__75297 .hljs[class$="scm" i]::before,
+.markup__75297 .hljs[class$="scilab" i]::before,
+.markup__75297 .hljs[class$="sci" i]::before,
+.markup__75297 .hljs[class$="scss" i]::before,
+.markup__75297 .hljs[class$="shell" i]::before,
+.markup__75297 .hljs[class$="console" i]::before,
+.markup__75297 .hljs[class$="shellsession" i]::before,
+.markup__75297 .hljs[class$="smali" i]::before,
+.markup__75297 .hljs[class$="smalltalk" i]::before,
+.markup__75297 .hljs[class$="st" i]::before,
+.markup__75297 .hljs[class$="sml" i]::before,
+.markup__75297 .hljs[class$="sqf" i]::before,
+.markup__75297 .hljs[class$="sql" i]::before,
+.markup__75297 .hljs[class$="stan" i]::before,
+.markup__75297 .hljs[class$="stanfuncs" i]::before,
+.markup__75297 .hljs[class$="stata" i]::before,
+.markup__75297 .hljs[class$="do" i]::before,
+.markup__75297 .hljs[class$="ado" i]::before,
+.markup__75297 .hljs[class$="step21" i]::before,
+.markup__75297 .hljs[class$="p21" i]::before,
+.markup__75297 .hljs[class$="step" i]::before,
+.markup__75297 .hljs[class$="stp" i]::before,
+.markup__75297 .hljs[class$="stylus" i]::before,
+.markup__75297 .hljs[class$="styl" i]::before,
+.markup__75297 .hljs[class$="subunit" i]::before,
+.markup__75297 .hljs[class$="swift" i]::before,
+.markup__75297 .hljs[class$="taggerscript" i]::before,
+.markup__75297 .hljs[class$="tap" i]::before,
+.markup__75297 .hljs[class$="tcl" i]::before,
+.markup__75297 .hljs[class$="tk" i]::before,
+.markup__75297 .hljs[class$="thrift" i]::before,
+.markup__75297 .hljs[class$="tp" i]::before,
+.markup__75297 .hljs[class$="twig" i]::before,
+.markup__75297 .hljs[class$="craftcms" i]::before,
+.markup__75297 .hljs[class~="language-js" i]::before,
+.markup__75297 .hljs[class$="javascript" i]::before,
+.markup__75297 .hljs[class$="js" i]::before,
+.markup__75297 .hljs[class$="jsx" i]::before,
+.markup__75297 .hljs[class$="mjs" i]::before,
+.markup__75297 .hljs[class$="cjs" i]::before,
+.markup__75297 .hljs[class$="typescript" i]::before,
+.markup__75297 .hljs[class$="ts" i]::before,
+.markup__75297 .hljs[class$="tsx" i]::before,
+.markup__75297 .hljs[class$="cts" i]::before,
+.markup__75297 .hljs[class$="vala" i]::before,
+.markup__75297 .hljs[class$="vbnet" i]::before,
+.markup__75297 .hljs[class$="vb" i]::before,
+.markup__75297 .hljs[class$="vbscript" i]::before,
+.markup__75297 .hljs[class$="vbs" i]::before,
+.markup__75297 .hljs[class$="vbscript-html" i]::before,
+.markup__75297 .hljs[class$="verilog" i]::before,
+.markup__75297 .hljs[class$="v" i]::before,
+.markup__75297 .hljs[class$="sv" i]::before,
+.markup__75297 .hljs[class$="svh" i]::before,
+.markup__75297 .hljs[class$="vhdl" i]::before,
+.markup__75297 .hljs[class$="vim" i]::before,
+.markup__75297 .hljs[class$="wasm" i]::before,
+.markup__75297 .hljs[class$="wren" i]::before,
+.markup__75297 .hljs[class$="axapta" i]::before,
+.markup__75297 .hljs[class$="x86asm" i]::before,
+.markup__75297 .hljs[class$="xl" i]::before,
+.markup__75297 .hljs[class$="tao" i]::before,
+.markup__75297 .hljs[class$="xml" i]::before,
+.markup__75297 .hljs[class$="html" i]::before,
+.markup__75297 .hljs[class$="xhtml" i]::before,
+.markup__75297 .hljs[class$="rss" i]::before,
+.markup__75297 .hljs[class$="atom" i]::before,
+.markup__75297 .hljs[class$="xjb" i]::before,
+.markup__75297 .hljs[class$="xsd" i]::before,
+.markup__75297 .hljs[class$="xsl" i]::before,
+.markup__75297 .hljs[class$="plist" i]::before,
+.markup__75297 .hljs[class$="wsf" i]::before,
+.markup__75297 .hljs[class$="svg" i]::before,
+.markup__75297 .hljs[class$="xquery" i]::before,
+.markup__75297 .hljs[class$="xpath" i]::before,
+.markup__75297 .hljs[class$="xq" i]::before,
+.markup__75297 .hljs[class$="xqm" i]::before,
+.markup__75297 .hljs[class$="yaml" i]::before,
+.markup__75297 .hljs[class$="yml" i]::before,
+.markup__75297 .hljs[class$="zephir" i]::before,
+.markup__75297 .hljs[class$="zep" i]::before,
+.markup__75297 .hljs[class$="ml" i]::before {
+  width: 100%;
+  height: 16px;
+  position: relative;
+  display: grid;
+  justify-content: center;
+  margin-top: 0;
+  color: #fff;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom: 5px solid transparent;
+}
 
-        .theme-dark .markup__75297 .hljs[class$="java" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="sql" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="ruby" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="coffee" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="xl" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="py" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="python" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="html" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="md" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="markdown" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="bash" i]::before,
-        .theme-dark .markup__75297 .hljs[class~="language-js" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="javascript" i]:before,
-        .theme-dark .markup__75297 .hljs[class$="css" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="vb" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="visualbasic" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="lua" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="php" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="swift" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="makefile" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="go" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="ini" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="rust" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="prolog" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="ts" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="typescript" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="http" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="json" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="xml" i]::before,
-        .theme-dark .markup__75297 .hljs[class$="less" i]::before {
-            width: 100%;
-            height: 16px;
-            position: relative;
-            display: block grid;
-            justify-content: center;
-            margin-top: 0px;
-            color: #fff;
-            border-top-left-radius: 3px;
-            border-top-right-radius: 3px;
-            border-bottom: 5px solid #00000000;
-        }
+/* Padding override reset list */
+.markup__75297 .hljs[class$="1c" i],
+.markup__75297 .hljs[class$="abnf" i],
+.markup__75297 .hljs[class$="accesslog" i],
+.markup__75297 .hljs[class$="actionscript" i],
+.markup__75297 .hljs[class$="as" i],
+.markup__75297 .hljs[class$="ada" i],
+.markup__75297 .hljs[class$="angelscript" i],
+.markup__75297 .hljs[class$="asc" i],
+.markup__75297 .hljs[class$="ansi" i],
+.markup__75297 .hljs[class$="apache" i],
+.markup__75297 .hljs[class$="apacheconf" i],
+.markup__75297 .hljs[class$="applescript" i],
+.markup__75297 .hljs[class$="osascript" i],
+.markup__75297 .hljs[class$="arcade" i],
+.markup__75297 .hljs[class$="arduino" i],
+.markup__75297 .hljs[class$="ino" i],
+.markup__75297 .hljs[class$="armasm" i],
+.markup__75297 .hljs[class$="arm" i],
+.markup__75297 .hljs[class$="asciidoc" i],
+.markup__75297 .hljs[class$="adoc" i],
+.markup__75297 .hljs[class$="aspectj" i],
+.markup__75297 .hljs[class$="autohotkey" i],
+.markup__75297 .hljs[class$="ahk" i],
+.markup__75297 .hljs[class$="autoit" i],
+.markup__75297 .hljs[class$="avrasm" i],
+.markup__75297 .hljs[class$="awk" i],
+.markup__75297 .hljs[class$="bash" i],
+.markup__75297 .hljs[class$="sh" i],
+.markup__75297 .hljs[class$="zsh" i],
+.markup__75297 .hljs[class$="basic" i],
+.markup__75297 .hljs[class$="bnf" i],
+.markup__75297 .hljs[class$="brainfuck" i],
+.markup__75297 .hljs[class$="bf" i],
+.markup__75297 .hljs[class$="c" i],
+.markup__75297 .hljs[class$="h" i],
+.markup__75297 .hljs[class$="cal" i],
+.markup__75297 .hljs[class$="capnproto" i],
+.markup__75297 .hljs[class$="capnp" i],
+.markup__75297 .hljs[class$="ceylon" i],
+.markup__75297 .hljs[class$="clean" i],
+.markup__75297 .hljs[class$="icl" i],
+.markup__75297 .hljs[class$="dcl" i],
+.markup__75297 .hljs[class$="clojure" i],
+.markup__75297 .hljs[class$="clj" i],
+.markup__75297 .hljs[class$="edn" i],
+.markup__75297 .hljs[class$="clojure-repl" i],
+.markup__75297 .hljs[class$="cmake" i],
+.markup__75297 .hljs[class$="coffeescript" i],
+.markup__75297 .hljs[class$="coffee" i],
+.markup__75297 .hljs[class$="cson" i],
+.markup__75297 .hljs[class$="iced" i],
+.markup__75297 .hljs[class$="coq" i],
+.markup__75297 .hljs[class$="cos" i],
+.markup__75297 .hljs[class$="cls" i],
+.markup__75297 .hljs[class$="cpp" i],
+.markup__75297 .hljs[class$="cc" i],
+.markup__75297 .hljs[class$="hpp" i],
+.markup__75297 .hljs[class$="hh" i],
+.markup__75297 .hljs[class$="hxx" i],
+.markup__75297 .hljs[class$="cxx" i],
+.markup__75297 .hljs[class$="crmsh" i],
+.markup__75297 .hljs[class$="crm" i],
+.markup__75297 .hljs[class$="pcmk" i],
+.markup__75297 .hljs[class$="crystal" i],
+.markup__75297 .hljs[class$="cr" i],
+.markup__75297 .hljs[class$="csharp" i],
+.markup__75297 .hljs[class$="cs" i],
+.markup__75297 .hljs[class$="csp" i],
+.markup__75297 .hljs[class$="css" i],
+.markup__75297 .hljs[class$="d" i],
+.markup__75297 .hljs[class$="dart" i],
+.markup__75297 .hljs[class$="delphi" i],
+.markup__75297 .hljs[class$="dpr" i],
+.markup__75297 .hljs[class$="dfm" i],
+.markup__75297 .hljs[class$="pas" i],
+.markup__75297 .hljs[class$="pascal" i],
+.markup__75297 .hljs[class$="diff" i],
+.markup__75297 .hljs[class$="patch" i],
+.markup__75297 .hljs[class$="django" i],
+.markup__75297 .hljs[class$="jinja" i],
+.markup__75297 .hljs[class$="dns" i],
+.markup__75297 .hljs[class$="bind" i],
+.markup__75297 .hljs[class$="zone" i],
+.markup__75297 .hljs[class$="dockerfile" i],
+.markup__75297 .hljs[class$="docker" i],
+.markup__75297 .hljs[class$="dos" i],
+.markup__75297 .hljs[class$="bat" i],
+.markup__75297 .hljs[class$="cmd" i],
+.markup__75297 .hljs[class$="dsconfig" i],
+.markup__75297 .hljs[class$="dts" i],
+.markup__75297 .hljs[class$="dust" i],
+.markup__75297 .hljs[class$="dst" i],
+.markup__75297 .hljs[class$="ebnf" i],
+.markup__75297 .hljs[class$="elixir" i],
+.markup__75297 .hljs[class$="ex" i],
+.markup__75297 .hljs[class$="exs" i],
+.markup__75297 .hljs[class$="elm" i],
+.markup__75297 .hljs[class$="erb" i],
+.markup__75297 .hljs[class$="erlang-repl" i],
+.markup__75297 .hljs[class$="erlang" i],
+.markup__75297 .hljs[class$="erl" i],
+.markup__75297 .hljs[class$="excel" i],
+.markup__75297 .hljs[class$="xlsx" i],
+.markup__75297 .hljs[class$="xls" i],
+.markup__75297 .hljs[class$="fix" i],
+.markup__75297 .hljs[class$="flix" i],
+.markup__75297 .hljs[class$="fortran" i],
+.markup__75297 .hljs[class$="f90" i],
+.markup__75297 .hljs[class$="f95" i],
+.markup__75297 .hljs[class$="fsharp" i],
+.markup__75297 .hljs[class$="fs" i],
+.markup__75297 .hljs[class$="gams" i],
+.markup__75297 .hljs[class$="gms" i],
+.markup__75297 .hljs[class$="gauss" i],
+.markup__75297 .hljs[class$="gss" i],
+.markup__75297 .hljs[class$="gcode" i],
+.markup__75297 .hljs[class$="nc" i],
+.markup__75297 .hljs[class$="gherkin" i],
+.markup__75297 .hljs[class$="feature" i],
+.markup__75297 .hljs[class$="glsl" i],
+.markup__75297 .hljs[class$="gml" i],
+.markup__75297 .hljs[class$="go" i],
+.markup__75297 .hljs[class$="golang" i],
+.markup__75297 .hljs[class$="golo" i],
+.markup__75297 .hljs[class$="gradle" i],
+.markup__75297 .hljs[class$="graphql" i],
+.markup__75297 .hljs[class$="gql" i],
+.markup__75297 .hljs[class$="groovy" i],
+.markup__75297 .hljs[class$="haml" i],
+.markup__75297 .hljs[class$="handlebars" i],
+.markup__75297 .hljs[class$="hbs" i],
+.markup__75297 .hljs[class$="htmlbars" i],
+.markup__75297 .hljs[class$="haskell" i],
+.markup__75297 .hljs[class$="hs" i],
+.markup__75297 .hljs[class$="haxe" i],
+.markup__75297 .hljs[class$="hx" i],
+.markup__75297 .hljs[class$="hsp" i],
+.markup__75297 .hljs[class$="http" i],
+.markup__75297 .hljs[class$="https" i],
+.markup__75297 .hljs[class$="hy" i],
+.markup__75297 .hljs[class$="hylang" i],
+.markup__75297 .hljs[class$="inform7" i],
+.markup__75297 .hljs[class$="i7" i],
+.markup__75297 .hljs[class$="ini" i],
+.markup__75297 .hljs[class$="toml" i],
+.markup__75297 .hljs[class$="irpf90" i],
+.markup__75297 .hljs[class$="isbl" i],
+.markup__75297 .hljs[class$="java" i],
+.markup__75297 .hljs[class$="jsp" i],
+.markup__75297 .hljs[class$="jboss-cli" i],
+.markup__75297 .hljs[class$="wildfly-cli" i],
+.markup__75297 .hljs[class$="json" i],
+.markup__75297 .hljs[class$="jsonc" i],
+.markup__75297 .hljs[class$="julia" i],
+.markup__75297 .hljs[class$="jldoctest" i],
+.markup__75297 .hljs[class$="julia-repl" i],
+.markup__75297 .hljs[class$="kotlin" i],
+.markup__75297 .hljs[class$="kt" i],
+.markup__75297 .hljs[class$="kts" i],
+.markup__75297 .hljs[class$="lasso" i],
+.markup__75297 .hljs[class$="ls" i],
+.markup__75297 .hljs[class$="lassoscript" i],
+.markup__75297 .hljs[class$="latex" i],
+.markup__75297 .hljs[class$="tex" i],
+.markup__75297 .hljs[class$="ldif" i],
+.markup__75297 .hljs[class$="leaf" i],
+.markup__75297 .hljs[class$="less" i],
+.markup__75297 .hljs[class$="lisp" i],
+.markup__75297 .hljs[class$="livecodeserver" i],
+.markup__75297 .hljs[class$="livescript" i],
+.markup__75297 .hljs[class$="llvm" i],
+.markup__75297 .hljs[class$="lsl" i],
+.markup__75297 .hljs[class$="lua" i],
+.markup__75297 .hljs[class$="pluto" i],
+.markup__75297 .hljs[class$="makefile" i],
+.markup__75297 .hljs[class$="mk" i],
+.markup__75297 .hljs[class$="mak" i],
+.markup__75297 .hljs[class$="make" i],
+.markup__75297 .hljs[class$="markdown" i],
+.markup__75297 .hljs[class$="md" i],
+.markup__75297 .hljs[class$="mkdown" i],
+.markup__75297 .hljs[class$="mkd" i],
+.markup__75297 .hljs[class$="mathematica" i],
+.markup__75297 .hljs[class$="mma" i],
+.markup__75297 .hljs[class$="wl" i],
+.markup__75297 .hljs[class$="matlab" i],
+.markup__75297 .hljs[class$="maxima" i],
+.markup__75297 .hljs[class$="mel" i],
+.markup__75297 .hljs[class$="mercury" i],
+.markup__75297 .hljs[class$="m" i],
+.markup__75297 .hljs[class$="moo" i],
+.markup__75297 .hljs[class$="mipsasm" i],
+.markup__75297 .hljs[class$="mips" i],
+.markup__75297 .hljs[class$="mizar" i],
+.markup__75297 .hljs[class$="mojolicious" i],
+.markup__75297 .hljs[class$="monkey" i],
+.markup__75297 .hljs[class$="moonscript" i],
+.markup__75297 .hljs[class$="moon" i],
+.markup__75297 .hljs[class$="n1ql" i],
+.markup__75297 .hljs[class$="nestedtext" i],
+.markup__75297 .hljs[class$="nt" i],
+.markup__75297 .hljs[class$="nginx" i],
+.markup__75297 .hljs[class$="nginxconf" i],
+.markup__75297 .hljs[class$="nim" i],
+.markup__75297 .hljs[class$="nix" i],
+.markup__75297 .hljs[class$="nixos" i],
+.markup__75297 .hljs[class$="node-repl" i],
+.markup__75297 .hljs[class$="nsis" i],
+.markup__75297 .hljs[class$="objectivec" i],
+.markup__75297 .hljs[class$="mm" i],
+.markup__75297 .hljs[class$="objc" i],
+.markup__75297 .hljs[class$="obj-c" i],
+.markup__75297 .hljs[class$="ocaml" i],
+.markup__75297 .hljs[class$="openscad" i],
+.markup__75297 .hljs[class$="scad" i],
+.markup__75297 .hljs[class$="oxygene" i],
+.markup__75297 .hljs[class$="parser3" i],
+.markup__75297 .hljs[class$="perl" i],
+.markup__75297 .hljs[class$="pl" i],
+.markup__75297 .hljs[class$="pm" i],
+.markup__75297 .hljs[class$="pf" i],
+.markup__75297 .hljs[class$="pgsql" i],
+.markup__75297 .hljs[class$="postgres" i],
+.markup__75297 .hljs[class$="postgresql" i],
+.markup__75297 .hljs[class$="php" i],
+.markup__75297 .hljs[class$="php-template" i],
+.markup__75297 .hljs[class$="plaintext" i],
+.markup__75297 .hljs[class$="text" i],
+.markup__75297 .hljs[class$="txt" i],
+.markup__75297 .hljs[class$=hljs],
+.markup__75297 .hljs[class$="pony" i],
+.markup__75297 .hljs[class$="powershell" i],
+.markup__75297 .hljs[class$="pwsh" i],
+.markup__75297 .hljs[class$="ps" i],
+.markup__75297 .hljs[class$="ps1" i],
+.markup__75297 .hljs[class$="processing" i],
+.markup__75297 .hljs[class$="pde" i],
+.markup__75297 .hljs[class$="prolog" i],
+.markup__75297 .hljs[class$="properties" i],
+.markup__75297 .hljs[class$="protobuf" i],
+.markup__75297 .hljs[class$="proto" i],
+.markup__75297 .hljs[class$="puppet" i],
+.markup__75297 .hljs[class$="pp" i],
+.markup__75297 .hljs[class$="purebasic" i],
+.markup__75297 .hljs[class$="pb" i],
+.markup__75297 .hljs[class$="pbi" i],
+.markup__75297 .hljs[class$="pycon" i],
+.markup__75297 .hljs[class$="python" i],
+.markup__75297 .hljs[class$="py" i],
+.markup__75297 .hljs[class$="gyp" i],
+.markup__75297 .hljs[class$="ipython" i],
+.markup__75297 .hljs[class$="python-repl" i],
+.markup__75297 .hljs[class$="profile" i],
+.markup__75297 .hljs[class$="q" i],
+.markup__75297 .hljs[class$="k" i],
+.markup__75297 .hljs[class$="kdb" i],
+.markup__75297 .hljs[class$="qml" i],
+.markup__75297 .hljs[class$="qt" i],
+.markup__75297 .hljs[class$="r" i],
+.markup__75297 .hljs[class$="reasonml" i],
+.markup__75297 .hljs[class$="re" i],
+.markup__75297 .hljs[class$="rib" i],
+.markup__75297 .hljs[class$="roboconf" i],
+.markup__75297 .hljs[class$="graph" i],
+.markup__75297 .hljs[class$="instances" i],
+.markup__75297 .hljs[class$="routeros" i],
+.markup__75297 .hljs[class$="mikrotik" i],
+.markup__75297 .hljs[class$="rsl" i],
+.markup__75297 .hljs[class$="ruby" i],
+.markup__75297 .hljs[class$="rb" i],
+.markup__75297 .hljs[class$="gemspec" i],
+.markup__75297 .hljs[class$="podspec" i],
+.markup__75297 .hljs[class$="thor" i],
+.markup__75297 .hljs[class$="irb" i],
+.markup__75297 .hljs[class$="ruleslanguage" i],
+.markup__75297 .hljs[class$="rust" i],
+.markup__75297 .hljs[class$="rs" i],
+.markup__75297 .hljs[class$="sas" i],
+.markup__75297 .hljs[class$="scala" i],
+.markup__75297 .hljs[class$="scheme" i],
+.markup__75297 .hljs[class$="scm" i],
+.markup__75297 .hljs[class$="scilab" i],
+.markup__75297 .hljs[class$="sci" i],
+.markup__75297 .hljs[class$="scss" i],
+.markup__75297 .hljs[class$="shell" i],
+.markup__75297 .hljs[class$="console" i],
+.markup__75297 .hljs[class$="shellsession" i],
+.markup__75297 .hljs[class$="smali" i],
+.markup__75297 .hljs[class$="smalltalk" i],
+.markup__75297 .hljs[class$="st" i],
+.markup__75297 .hljs[class$="sml" i],
+.markup__75297 .hljs[class$="sqf" i],
+.markup__75297 .hljs[class$="sql" i],
+.markup__75297 .hljs[class$="stan" i],
+.markup__75297 .hljs[class$="stanfuncs" i],
+.markup__75297 .hljs[class$="stata" i],
+.markup__75297 .hljs[class$="do" i],
+.markup__75297 .hljs[class$="ado" i],
+.markup__75297 .hljs[class$="step21" i],
+.markup__75297 .hljs[class$="p21" i],
+.markup__75297 .hljs[class$="step" i],
+.markup__75297 .hljs[class$="stp" i],
+.markup__75297 .hljs[class$="stylus" i],
+.markup__75297 .hljs[class$="styl" i],
+.markup__75297 .hljs[class$="subunit" i],
+.markup__75297 .hljs[class$="swift" i],
+.markup__75297 .hljs[class$="taggerscript" i],
+.markup__75297 .hljs[class$="tap" i],
+.markup__75297 .hljs[class$="tcl" i],
+.markup__75297 .hljs[class$="tk" i],
+.markup__75297 .hljs[class$="thrift" i],
+.markup__75297 .hljs[class$="tp" i],
+.markup__75297 .hljs[class$="twig" i],
+.markup__75297 .hljs[class$="craftcms" i],
+.markup__75297 .hljs[class~="language-js" i],
+.markup__75297 .hljs[class$="javascript" i],
+.markup__75297 .hljs[class$="js" i],
+.markup__75297 .hljs[class$="jsx" i],
+.markup__75297 .hljs[class$="mjs" i],
+.markup__75297 .hljs[class$="cjs" i],
+.markup__75297 .hljs[class$="typescript" i],
+.markup__75297 .hljs[class$="ts" i],
+.markup__75297 .hljs[class$="tsx" i],
+.markup__75297 .hljs[class$="cts" i],
+.markup__75297 .hljs[class$="vala" i],
+.markup__75297 .hljs[class$="vbnet" i],
+.markup__75297 .hljs[class$="vb" i],
+.markup__75297 .hljs[class$="vbscript" i],
+.markup__75297 .hljs[class$="vbs" i],
+.markup__75297 .hljs[class$="vbscript-html" i],
+.markup__75297 .hljs[class$="verilog" i],
+.markup__75297 .hljs[class$="v" i],
+.markup__75297 .hljs[class$="sv" i],
+.markup__75297 .hljs[class$="svh" i],
+.markup__75297 .hljs[class$="vhdl" i],
+.markup__75297 .hljs[class$="vim" i],
+.markup__75297 .hljs[class$="wasm" i],
+.markup__75297 .hljs[class$="wren" i],
+.markup__75297 .hljs[class$="axapta" i],
+.markup__75297 .hljs[class$="x86asm" i],
+.markup__75297 .hljs[class$="xl" i],
+.markup__75297 .hljs[class$="tao" i],
+.markup__75297 .hljs[class$="xml" i],
+.markup__75297 .hljs[class$="html" i],
+.markup__75297 .hljs[class$="xhtml" i],
+.markup__75297 .hljs[class$="rss" i],
+.markup__75297 .hljs[class$="atom" i],
+.markup__75297 .hljs[class$="xjb" i],
+.markup__75297 .hljs[class$="xsd" i],
+.markup__75297 .hljs[class$="xsl" i],
+.markup__75297 .hljs[class$="plist" i],
+.markup__75297 .hljs[class$="wsf" i],
+.markup__75297 .hljs[class$="svg" i],
+.markup__75297 .hljs[class$="xquery" i],
+.markup__75297 .hljs[class$="xpath" i],
+.markup__75297 .hljs[class$="xq" i],
+.markup__75297 .hljs[class$="xqm" i],
+.markup__75297 .hljs[class$="yaml" i],
+.markup__75297 .hljs[class$="yml" i],
+.markup__75297 .hljs[class$="zephir" i],
+.markup__75297 .hljs[class$="zep" i],
+.markup__75297 .hljs[class$="ml" i] {
+  padding: 0 !important;
+}
 
-        .theme-dark .markup__75297 .hljs[class$="java" i],
-        .theme-dark .markup__75297 .hljs[class$="sql" i],
-        .theme-dark .markup__75297 .hljs[class$="ruby" i],
-        .theme-dark .markup__75297 .hljs[class$="coffee" i],
-        .theme-dark .markup__75297 .hljs[class$="xl" i],
-        .theme-dark .markup__75297 .hljs[class$="py" i],
-        .theme-dark .markup__75297 .hljs[class$="python" i],
-        .theme-dark .markup__75297 .hljs[class$="html" i],
-        .theme-dark .markup__75297 .hljs[class$="md" i],
-        .theme-dark .markup__75297 .hljs[class$="markdown" i],
-        .theme-dark .markup__75297 .hljs[class~="language-js" i],
-        .theme-dark .markup__75297 .hljs[class$="javascript" i],
-        .theme-dark .markup__75297 .hljs[class$="css" i],
-        .theme-dark .markup__75297 .hljs[class$="bash" i],
-        .theme-dark .markup__75297 .hljs[class$="vb" i],
-        .theme-dark .markup__75297 .hljs[class$="visualbasic" i],
-        .theme-dark .markup__75297 .hljs[class$="lua" i],
-        .theme-dark .markup__75297 .hljs[class$="php" i],
-        .theme-dark .markup__75297 .hljs[class$="swift" i],
-        .theme-dark .markup__75297 .hljs[class$="makefile" i],
-        .theme-dark .markup__75297 .hljs[class$="go" i],
-        .theme-dark .markup__75297 .hljs[class$="ini" i],
-        .theme-dark .markup__75297 .hljs[class$="rust" i],
-        .theme-dark .markup__75297 .hljs[class$="prolog" i],
-        .theme-dark .markup__75297 .hljs[class$="ts" i],
-        .theme-dark .markup__75297 .hljs[class$="typescript" i],
-        .theme-dark .markup__75297 .hljs[class$="http" i],
-        .theme-dark .markup__75297 .hljs[class$="json" i],
-        .theme-dark .markup__75297 .hljs[class$="xml" i],
-        .theme-dark .markup__75297 .hljs[class$="less" i] { padding: 0px !important; }
+/* Individual Language Definitions */
+.markup__75297 .hljs[class$="1c" i]::before { content: " 1C:Enterprise"; background: #b18c21; }
+.markup__75297 .hljs[class$="abnf" i]::before { content: " ABNF"; background: #5d6174; }
+.markup__75297 .hljs[class$="accesslog" i]::before { content: " Apache Access Log"; background: #4e5d6c; }
+.markup__75297 .hljs[class$="actionscript" i]::before, .markup__75297 .hljs[class$="as" i]::before { content: " ActionScript"; background: #882b0f; }
+.markup__75297 .hljs[class$="ada" i]::before { content: " Ada"; background: #02f88d; }
+.markup__75297 .hljs[class$="angelscript" i]::before, .markup__75297 .hljs[class$="asc" i]::before { content: " AngelScript"; background: #c78f13; }
+.markup__75297 .hljs[class$="ansi" i]::before { content: " ANSI"; background: #333; }
+.markup__75297 .hljs[class$="apache" i]::before, .markup__75297 .hljs[class$="apacheconf" i]::before { content: " Apache config"; background: #4e738a; }
+.markup__75297 .hljs[class$="applescript" i]::before, .markup__75297 .hljs[class$="osascript" i]::before { content: " AppleScript"; background: #101010; }
+.markup__75297 .hljs[class$="arcade" i]::before { content: " ArcGIS Arcade"; background: #2f8e91; }
+.markup__75297 .hljs[class$="arduino" i]::before, .markup__75297 .hljs[class$="ino" i]::before { content: " Arduino"; background: #bd791e; }
+.markup__75297 .hljs[class$="armasm" i]::before, .markup__75297 .hljs[class$="arm" i]::before { content: " ARM Assembly"; background: #5f3d82; }
+.markup__75297 .hljs[class$="asciidoc" i]::before, .markup__75297 .hljs[class$="adoc" i]::before { content: " AsciiDoc"; background: #187a41; }
+.markup__75297 .hljs[class$="aspectj" i]::before { content: " AspectJ"; background: #195e7a; }
+.markup__75297 .hljs[class$="autohotkey" i]::before, .markup__75297 .hljs[class$="ahk" i]::before { content: " AutoHotKey"; background: #6121b0; }
+.markup__75297 .hljs[class$="autoit" i]::before { content: " AutoIt"; background: #263385; }
+.markup__75297 .hljs[class$="avrasm" i]::before { content: " AVR Assembly"; background: #7c22a3; }
+.markup__75297 .hljs[class$="awk" i]::before { content: " Awk"; background: #1a8f60; }
+.markup__75297 .hljs[class$="bash" i]::before, .markup__75297 .hljs[class$="sh" i]::before, .markup__75297 .hljs[class$="zsh" i]::before { content: " Bash"; background: #ab1663; }
+.markup__75297 .hljs[class$="basic" i]::before { content: " BASIC"; background: #2b1f8f; }
+.markup__75297 .hljs[class$="bnf" i]::before { content: " BNF"; background: #4a5c69; }
+.markup__75297 .hljs[class$="brainfuck" i]::before, .markup__75297 .hljs[class$="bf" i]::before { content: " Brainfuck"; background: #2e7d32; }
+.markup__75297 .hljs[class$="cal" i]::before { content: " C/AL"; background: #1e5989; }
+.markup__75297 .hljs[class$="capnproto" i]::before, .markup__75297 .hljs[class$="capnp" i]::before { content: " Cap’n Proto"; background: #c2185b; }
+.markup__75297 .hljs[class$="ceylon" i]::before { content: " Ceylon"; background: #8e24aa; }
+.markup__75297 .hljs[class$="clean" i]::before, .markup__75297 .hljs[class$="icl" i]::before, .markup__75297 .hljs[class$="dcl" i]::before { content: " Clean"; background: #00acc1; }
+.markup__75297 .hljs[class$="clojure" i]::before, .markup__75297 .hljs[class$="clj" i]::before, .markup__75297 .hljs[class$="edn" i]::before { content: " Clojure"; background: #588240; }
+.markup__75297 .hljs[class$="clojure-repl" i]::before { content: " Clojure REPL"; background: #3b5c2a; }
+.markup__75297 .hljs[class$="cmake" i]::before { content: " CMake"; background: #0288d1; }
+.markup__75297 .hljs[class$="coffeescript" i]::before, .markup__75297 .hljs[class$="coffee" i]::before, .markup__75297 .hljs[class$="cson" i]::before, .markup__75297 .hljs[class$="iced" i]::before { content: " Coffee (Javascript)"; background: #3a1b1b; }
+.markup__75297 .hljs[class$="coq" i]::before { content: " Coq"; background: #7b1fa2; }
+.markup__75297 .hljs[class$="cos" i]::before, .markup__75297 .hljs[class$="cls" i]::before { content: " Caché Object Script"; background: #1565c0; }
+.markup__75297 .hljs[class$="cpp" i]::before, .markup__75297 .hljs[class$="cc" i]::before, .markup__75297 .hljs[class$="hpp" i]::before, .markup__75297 .hljs[class$="hh" i]::before, .markup__75297 .hljs[class$="hxx" i]::before, .markup__75297 .hljs[class$="cxx" i]::before { content: " C++"; background: #00599c; }
+.markup__75297 .hljs[class$="crmsh" i]::before, .markup__75297 .hljs[class$="crm" i]::before, .markup__75297 .hljs[class$="pcmk" i]::before { content: " crmsh"; background: #2b3a42; }
+.markup__75297 .hljs[class$="crystal" i]::before, .markup__75297 .hljs[class$="cr" i]::before { content: " Crystal"; background: #222; }
+.markup__75297 .hljs[class$="csharp" i]::before, .markup__75297 .hljs[class$="cs" i]::before { content: " C#"; background: #178600; }
+.markup__75297 .hljs[class$="csp" i]::before { content: " CSP"; background: #546e7a; }
+.markup__75297 .hljs[class$="css" i]::before { content: " Cascading Style Sheet"; background: var(--mc); }
+.markup__75297 .hljs[class$="d" i]::before { content: " D"; background: #ba3939; }
+.markup__75297 .hljs[class$="dart" i]::before { content: " Dart"; background: #00b4ab; }
+.markup__75297 .hljs[class$="delphi" i]::before, .markup__75297 .hljs[class$="dpr" i]::before, .markup__75297 .hljs[class$="dfm" i]::before, .markup__75297 .hljs[class$="pas" i]::before, .markup__75297 .hljs[class$="pascal" i]::before { content: " Delphi"; background: #b03a2e; }
+.markup__75297 .hljs[class$="diff" i]::before, .markup__75297 .hljs[class$="patch" i]::before { content: " Diff"; background: #888; }
+.markup__75297 .hljs[class$="django" i]::before, .markup__75297 .hljs[class$="jinja" i]::before { content: " Django"; background: #092e20; }
+.markup__75297 .hljs[class$="dns" i]::before, .markup__75297 .hljs[class$="bind" i]::before, .markup__75297 .hljs[class$="zone" i]::before { content: " DNS Zone"; background: #37474f; }
+.markup__75297 .hljs[class$="dockerfile" i]::before, .markup__75297 .hljs[class$="docker" i]::before { content: " Dockerfile"; background: #2496ed; }
+.markup__75297 .hljs[class$="dos" i]::before, .markup__75297 .hljs[class$="bat" i]::before, .markup__75297 .hljs[class$="cmd" i]::before { content: " Batch file (DOS)"; background: #4d4d4d; }
+.markup__75297 .hljs[class$="dsconfig" i]::before { content: " dsconfig"; background: #2c3e50; }
+.markup__75297 .hljs[class$="dts" i]::before { content: " Device Tree"; background: #424242; }
+.markup__75297 .hljs[class$="dust" i]::before, .markup__75297 .hljs[class$="dst" i]::before { content: " Dust"; background: #9c27b0; }
+.markup__75297 .hljs[class$="ebnf" i]::before { content: " EBNF"; background: #37474f; }
+.markup__75297 .hljs[class$="elixir" i]::before, .markup__75297 .hljs[class$="ex" i]::before, .markup__75297 .hljs[class$="exs" i]::before { content: " Elixir"; background: #6e4a7e; }
+.markup__75297 .hljs[class$="elm" i]::before { content: " Elm"; background: #60b5cc; }
+.markup__75297 .hljs[class$="erb" i]::before { content: " eRuby"; background: #701516; }
+.markup__75297 .hljs[class$="erlang-repl" i]::before { content: " Erlang REPL"; background: #501011; }
+.markup__75297 .hljs[class$="erlang" i]::before, .markup__75297 .hljs[class$="erl" i]::before { content: " Erlang"; background: #a90036; }
+.markup__75297 .hljs[class$="excel" i]::before, .markup__75297 .hljs[class$="xlsx" i]::before, .markup__75297 .hljs[class$="xls" i]::before { content: " Excel formulae"; background: #107c41; }
+.markup__75297 .hljs[class$="fix" i]::before { content: " FIX"; background: #3f51b5; }
+.markup__75297 .hljs[class$="flix" i]::before { content: " Flix"; background: #e65100; }
+.markup__75297 .hljs[class$="fortran" i]::before, .markup__75297 .hljs[class$="f90" i]::before, .markup__75297 .hljs[class$="f95" i]::before { content: " Fortran"; background: #4d41b1; }
+.markup__75297 .hljs[class$="fsharp" i]::before, .markup__75297 .hljs[class$="fs" i]::before { content: " F#"; background: #b845fc; }
+.markup__75297 .hljs[class$="gams" i]::before, .markup__75297 .hljs[class$="gms" i]::before { content: " GAMS"; background: #1976d2; }
+.markup__75297 .hljs[class$="gauss" i]::before, .markup__75297 .hljs[class$="gss" i]::before { content: " GAUSS"; background: #00796b; }
+.markup__75297 .hljs[class$="gcode" i]::before, .markup__75297 .hljs[class$="nc" i]::before { content: " G-code (ISO 6983)"; background: #d84315; }
+.markup__75297 .hljs[class$="gherkin" i]::before, .markup__75297 .hljs[class$="feature" i]::before { content: " Gherkin"; background: #208020; }
+.markup__75297 .hljs[class$="glsl" i]::before { content: " OpenGL Shading"; background: #558b2f; }
+.markup__75297 .hljs[class$="gml" i]::before { content: " GML"; background: #ff5722; }
+.markup__75297 .hljs[class$="go" i]::before, .markup__75297 .hljs[class$="golang" i]::before { content: " Go"; background: #75cede; }
+.markup__75297 .hljs[class$="golo" i]::before { content: " Golo"; background: #880e4f; }
+.markup__75297 .hljs[class$="gradle" i]::before { content: " Gradle"; background: #02303a; }
+.markup__75297 .hljs[class$="graphql" i]::before, .markup__75297 .hljs[class$="gql" i]::before { content: " GraphQL"; background: #e10098; }
+.markup__75297 .hljs[class$="groovy" i]::before { content: " Groovy"; background: #4298b8; }
+.markup__75297 .hljs[class$="haml" i]::before { content: " HAML"; background: #ece8e1; color: #000; }
+.markup__75297 .hljs[class$="handlebars" i]::before, .markup__75297 .hljs[class$="hbs" i]::before, .markup__75297 .hljs[class$="htmlbars" i]::before { content: " Handlebars"; background: #f7931e; }
+.markup__75297 .hljs[class$="haskell" i]::before, .markup__75297 .hljs[class$="hs" i]::before { content: " Haskell"; background: #5e5086; }
+.markup__75297 .hljs[class$="haxe" i]::before, .markup__75297 .hljs[class$="hx" i]::before { content: " Haxe"; background: #df7900; }
+.markup__75297 .hljs[class$="hsp" i]::before { content: " HSP"; background: #00838f; }
+.markup__75297 .hljs[class$="http" i]::before, .markup__75297 .hljs[class$="https" i]::before { content: " HTTP"; background: #618f10; }
+.markup__75297 .hljs[class$="hy" i]::before, .markup__75297 .hljs[class$="hylang" i]::before { content: " Hy"; background: #77095e; }
+.markup__75297 .hljs[class$="inform7" i]::before, .markup__75297 .hljs[class$="i7" i]::before { content: " Inform 7"; background: #3f51b5; }
+.markup__75297 .hljs[class$="ini" i]::before, .markup__75297 .hljs[class$="toml" i]::before { content: " ini"; background: #5a75c0; }
+.markup__75297 .hljs[class$="irpf90" i]::before { content: " IRPF90"; background: #ad1457; }
+.markup__75297 .hljs[class$="isbl" i]::before { content: " ISBL"; background: #283593; }
+.markup__75297 .hljs[class$="java" i]::before, .markup__75297 .hljs[class$="jsp" i]::before { content: " Java"; background: #eb2d2f; }
+.markup__75297 .hljs[class$="jboss-cli" i]::before, .markup__75297 .hljs[class$="wildfly-cli" i]::before { content: " JBoss CLI"; background: #00838f; }
+.markup__75297 .hljs[class$="json" i]::before, .markup__75297 .hljs[class$="jsonc" i]::before { content: " Json"; background: #108f66; }
+.markup__75297 .hljs[class$="julia" i]::before, .markup__75297 .hljs[class$="jldoctest" i]::before { content: " Julia"; background: #a270ba; }
+.markup__75297 .hljs[class$="julia-repl" i]::before { content: " Julia REPL"; background: #6d4282; }
+.markup__75297 .hljs[class$="kotlin" i]::before, .markup__75297 .hljs[class$="kt" i]::before, .markup__75297 .hljs[class$="kts" i]::before { content: " Kotlin"; background: #a97bff; }
+.markup__75297 .hljs[class$="lasso" i]::before, .markup__75297 .hljs[class$="ls" i]::before, .markup__75297 .hljs[class$="lassoscript" i]::before { content: " Lasso"; background: #999; }
+.markup__75297 .hljs[class$="latex" i]::before, .markup__75297 .hljs[class$="tex" i]::before { content: " LaTeX"; background: #3d6117; }
+.markup__75297 .hljs[class$="ldif" i]::before { content: " LDIF"; background: #37474f; }
+.markup__75297 .hljs[class$="leaf" i]::before { content: " Leaf"; background: #2e7d32; }
+.markup__75297 .hljs[class$="less" i]::before { content: " Less"; background: #1d365d; }
+.markup__75297 .hljs[class$="lisp" i]::before { content: " Lisp"; background: #3f51b5; }
+.markup__75297 .hljs[class$="livecodeserver" i]::before { content: " LiveCode"; background: #009688; }
+.markup__75297 .hljs[class$="livescript" i]::before { content: " LiveScript"; background: #49be25; }
+.markup__75297 .hljs[class$="llvm" i]::before { content: " LLVM IR"; background: #185619; }
+.markup__75297 .hljs[class$="lsl" i]::before { content: " LSL"; background: #00796b; }
+.markup__75297 .hljs[class$="lua" i]::before, .markup__75297 .hljs[class$="pluto" i]::before { content: " Lua"; background: #2ecc71; }
+.markup__75297 .hljs[class$="makefile" i]::before, .markup__75297 .hljs[class$="mk" i]::before, .markup__75297 .hljs[class$="mak" i]::before, .markup__75297 .hljs[class$="make" i]::before { content: " Makefile"; background: #8a2b0f; }
+.markup__75297 .hljs[class$="markdown" i]::before, .markup__75297 .hljs[class$="md" i]::before, .markup__75297 .hljs[class$="mkdown" i]::before, .markup__75297 .hljs[class$="mkd" i]::before { content: " Markdown"; background: #ab2e16; }
+.markup__75297 .hljs[class$="mathematica" i]::before, .markup__75297 .hljs[class$="mma" i]::before, .markup__75297 .hljs[class$="wl" i]::before { content: " Mathematica"; background: #d10; }
+.markup__75297 .hljs[class$="matlab" i]::before { content: " Matlab"; background: #e16737; }
+.markup__75297 .hljs[class$="maxima" i]::before { content: " Maxima"; background: #00838f; }
+.markup__75297 .hljs[class$="mel" i]::before { content: " MEL"; background: #ad1457; }
+.markup__75297 .hljs[class$="mercury" i]::before, .markup__75297 .hljs[class$="m" i]::before, .markup__75297 .hljs[class$="moo" i]::before { content: " Mercury"; background: #006064; }
+.markup__75297 .hljs[class$="mipsasm" i]::before, .markup__75297 .hljs[class$="mips" i]::before { content: " MIPS Assembly"; background: #3f51b5; }
+.markup__75297 .hljs[class$="mizar" i]::before { content: " Mizar"; background: #455a64; }
+.markup__75297 .hljs[class$="mojolicious" i]::before { content: " Mojolicious"; background: #1976d2; }
+.markup__75297 .hljs[class$="monkey" i]::before { content: " Monkey"; background: #8d6e63; }
+.markup__75297 .hljs[class$="moonscript" i]::before, .markup__75297 .hljs[class$="moon" i]::before { content: " MoonScript"; background: #fa0; }
+.markup__75297 .hljs[class$="n1ql" i]::before { content: " N1QL"; background: #e53935; }
+.markup__75297 .hljs[class$="nestedtext" i]::before, .markup__75297 .hljs[class$="nt" i]::before { content: " Nested Text"; background: #558b2f; }
+.markup__75297 .hljs[class$="nginx" i]::before, .markup__75297 .hljs[class$="nginxconf" i]::before { content: " Nginx config"; background: #009639; }
+.markup__75297 .hljs[class$="nim" i]::before { content: " Nim"; background: #37775b; }
+.markup__75297 .hljs[class$="nix" i]::before, .markup__75297 .hljs[class$="nixos" i]::before { content: " Nix"; background: #5277c3; }
+.markup__75297 .hljs[class$="node-repl" i]::before { content: " Node REPL"; background: #2e7d32; }
+.markup__75297 .hljs[class$="nsis" i]::before { content: " NSIS"; background: #4e5d6c; }
+.markup__75297 .hljs[class$="objectivec" i]::before, .markup__75297 .hljs[class$="mm" i]::before, .markup__75297 .hljs[class$="objc" i]::before, .markup__75297 .hljs[class$="obj-c" i]::before { content: " Objective-C"; background: #438eff; }
+.markup__75297 .hljs[class$="ocaml" i]::before { content: " OCaml"; background: #3be133; }
+.markup__75297 .hljs[class$="openscad" i]::before, .markup__75297 .hljs[class$="scad" i]::before { content: " OpenSCAD"; background: #f57c00; }
+.markup__75297 .hljs[class$="oxygene" i]::before { content: " Oxygene"; background: #c2185b; }
+.markup__75297 .hljs[class$="parser3" i]::before { content: " Parser3"; background: #283593; }
+.markup__75297 .hljs[class$="perl" i]::before, .markup__75297 .hljs[class$="pl" i]::before, .markup__75297 .hljs[class$="pm" i]::before { content: " Perl"; background: #0298c3; }
+.markup__75297 .hljs[class$="pf" i]::before { content: " Packet Filter config"; background: #37474f; }
+.markup__75297 .hljs[class$="pgsql" i]::before, .markup__75297 .hljs[class$="postgres" i]::before, .markup__75297 .hljs[class$="postgresql" i]::before { content: " PostgreSQL"; background: #336791; }
+.markup__75297 .hljs[class$="php" i]::before { content: " Php"; background: #6e81b6; }
+.markup__75297 .hljs[class$="php-template" i]::before { content: " PHP template"; background: #4f5d84; }
+.markup__75297 .hljs[class$="plaintext" i]::before, .markup__75297 .hljs[class$="text" i]::before, .markup__75297 .hljs[class$="txt" i]::before, .markup__75297 .hljs[class$=hljs]::before { content: " Plain Text"; background: #616161; }
+.markup__75297 .hljs[class$="pony" i]::before { content: " Pony"; background: #1976d2; }
+.markup__75297 .hljs[class$="powershell" i]::before, .markup__75297 .hljs[class$="pwsh" i]::before, .markup__75297 .hljs[class$="ps" i]::before, .markup__75297 .hljs[class$="ps1" i]::before { content: " PowerShell"; background: #012456; }
+.markup__75297 .hljs[class$="processing" i]::before, .markup__75297 .hljs[class$="pde" i]::before { content: " Processing"; background: #006699; }
+.markup__75297 .hljs[class$="prolog" i]::before { content: " Prolog"; background: #ef4d25; }
+.markup__75297 .hljs[class$="properties" i]::before { content: " .properties"; background: #4e5d6c; }
+.markup__75297 .hljs[class$="protobuf" i]::before, .markup__75297 .hljs[class$="proto" i]::before { content: " Protocol Buffers"; background: #1565c0; }
+.markup__75297 .hljs[class$="puppet" i]::before, .markup__75297 .hljs[class$="pp" i]::before { content: " Puppet"; background: #ff2a00; }
+.markup__75297 .hljs[class$="purebasic" i]::before, .markup__75297 .hljs[class$="pb" i]::before, .markup__75297 .hljs[class$="pbi" i]::before { content: " PureBASIC"; background: #263238; }
+.markup__75297 .hljs[class$="pycon" i]::before { content: " Pycon"; background: #1565c0; }
+.markup__75297 .hljs[class$="python" i]::before, .markup__75297 .hljs[class$="py" i]::before, .markup__75297 .hljs[class$="gyp" i]::before, .markup__75297 .hljs[class$="ipython" i]::before { content: " Python"; background: #1622ab; }
+.markup__75297 .hljs[class$="python-repl" i]::before { content: " Python REPL"; background: #0e1670; }
+.markup__75297 .hljs[class$="profile" i]::before { content: " Python profiler"; background: #2e7d32; }
+.markup__75297 .hljs[class$="q" i]::before, .markup__75297 .hljs[class$="k" i]::before, .markup__75297 .hljs[class$="kdb" i]::before { content: " Q"; background: #00bcd4; }
+.markup__75297 .hljs[class$="qml" i]::before, .markup__75297 .hljs[class$="qt" i]::before { content: " QML"; background: #41cd52; }
+.markup__75297 .hljs[class$="r" i]::before { content: " R"; background: #198ce7; }
+.markup__75297 .hljs[class$="reasonml" i]::before, .markup__75297 .hljs[class$="re" i]::before { content: " ReasonML"; background: #ff5847; }
+.markup__75297 .hljs[class$="rib" i]::before { content: " RenderMan RIB"; background: #37474f; }
+.markup__75297 .hljs[class$="roboconf" i]::before, .markup__75297 .hljs[class$="graph" i]::before, .markup__75297 .hljs[class$="instances" i]::before { content: " Roboconf"; background: #00838f; }
+.markup__75297 .hljs[class$="routeros" i]::before, .markup__75297 .hljs[class$="mikrotik" i]::before { content: " RouterOS"; background: #1a237e; }
+.markup__75297 .hljs[class$="rsl" i]::before { content: " RenderMan RSL"; background: #455a64; }
+.markup__75297 .hljs[class$="ruby" i]::before, .markup__75297 .hljs[class$="rb" i]::before, .markup__75297 .hljs[class$="gemspec" i]::before, .markup__75297 .hljs[class$="podspec" i]::before, .markup__75297 .hljs[class$="thor" i]::before, .markup__75297 .hljs[class$="irb" i]::before { content: " Ruby"; background: #e73e3e; }
+.markup__75297 .hljs[class$="ruleslanguage" i]::before { content: " Oracle Rules Language"; background: #ad1457; }
+.markup__75297 .hljs[class$="rust" i]::before, .markup__75297 .hljs[class$="rs" i]::before { content: " Rust"; background: #000; }
+.markup__75297 .hljs[class$="sas" i]::before { content: " SAS"; background: #1e88e5; }
+.markup__75297 .hljs[class$="scala" i]::before { content: " Scala"; background: #dc322f; }
+.markup__75297 .hljs[class$="scheme" i]::before, .markup__75297 .hljs[class$="scm" i]::before { content: " Scheme"; background: #1e88e5; }
+.markup__75297 .hljs[class$="scilab" i]::before, .markup__75297 .hljs[class$="sci" i]::before { content: " Scilab"; background: #00838f; }
+.markup__75297 .hljs[class$="scss" i]::before { content: " SCSS"; background: #c69; }
+.markup__75297 .hljs[class$="shell" i]::before, .markup__75297 .hljs[class$="console" i]::before, .markup__75297 .hljs[class$="shellsession" i]::before { content: " Shell Session"; background: #263238; }
+.markup__75297 .hljs[class$="smali" i]::before { content: " Smali"; background: #558b2f; }  
+.markup__75297 .hljs[class$="sml" i]::before { content: " SML"; background: #283593; }
+.markup__75297 .hljs[class$="sqf" i]::before { content: " SQF"; background: #283593; }
+.markup__75297 .hljs[class$="sql" i]::before { content: " SQL"; background: #4474ca; }
+.markup__75297 .hljs[class$="stan" i]::before, .markup__75297 .hljs[class$="stanfuncs" i]::before { content: " Stan"; background: #b71c1c; }
+.markup__75297 .hljs[class$="stata" i]::before, .markup__75297 .hljs[class$="do" i]::before, .markup__75297 .hljs[class$="ado" i]::before { content: " Stata"; background: #1a237e; }
+.markup__75297 .hljs[class$="step21" i]::before, .markup__75297 .hljs[class$="p21" i]::before, .markup__75297 .hljs[class$="step" i]::before, .markup__75297 .hljs[class$="stp" i]::before { content: " STEP Part 21"; background: #37474f; }
+.markup__75297 .hljs[class$="stylus" i]::before, .markup__75297 .hljs[class$="styl" i]::before { content: " Stylus"; background: #ffb300; }
+.markup__75297 .hljs[class$="subunit" i]::before { content: " SubUnit"; background: #455a64; }
+.markup__75297 .hljs[class$="swift" i]::before { content: " Swift"; background: #fd7837; }
+.markup__75297 .hljs[class$="taggerscript" i]::before { content: " Tagger Script"; background: #4a148c; }
+.markup__75297 .hljs[class$="tap" i]::before { content: " TAP"; background: #2e7d32; }
+.markup__75297 .hljs[class$="tcl" i]::before, .markup__75297 .hljs[class$="tk" i]::before { content: " Tcl"; background: #141414; }
+.markup__75297 .hljs[class$="thrift" i]::before { content: " Thrift"; background: #00838f; }
+.markup__75297 .hljs[class$="tp" i]::before { content: " TP"; background: #3f51b5; }
+.markup__75297 .hljs[class$="twig" i]::before, .markup__75297 .hljs[class$="craftcms" i]::before { content: " Twig"; background: #85ad00; }
+.markup__75297 .hljs[class~="language-js" i]::before, .markup__75297 .hljs[class$="javascript" i]::before, .markup__75297 .hljs[class$="js" i]::before, .markup__75297 .hljs[class$="jsx" i]::before, .markup__75297 .hljs[class$="mjs" i]::before, .markup__75297 .hljs[class$="cjs" i]::before { content: " JavaScript"; background: #165eab; }
+.markup__75297 .hljs[class$="typescript" i]::before, .markup__75297 .hljs[class$="ts" i]::before, .markup__75297 .hljs[class$="tsx" i]::before, .markup__75297 .hljs[class$="cts" i]::before { content: " TypeScript"; background: #03324c; }
+.markup__75297 .hljs[class$="vala" i]::before { content: " Vala"; background: #77613e; }
+.markup__75297 .hljs[class$="vbnet" i]::before, .markup__75297 .hljs[class$="vb" i]::before { content: " Visual Basic .NET"; background: #839700; }
+.markup__75297 .hljs[class$="vbscript" i]::before, .markup__75297 .hljs[class$="vbs" i]::before { content: " VBScript"; background: #1565c0; }
+.markup__75297 .hljs[class$="vbscript-html" i]::before { content: " VBScript in HTML"; background: #0d47a1; }
+.markup__75297 .hljs[class$="verilog" i]::before, .markup__75297 .hljs[class$="v" i]::before, .markup__75297 .hljs[class$="sv" i]::before, .markup__75297 .hljs[class$="svh" i]::before { content: " Verilog"; background: #008080; }
+.markup__75297 .hljs[class$="vhdl" i]::before { content: " VHDL"; background: #543978; }
+.markup__75297 .hljs[class$="vim" i]::before { content: " Vim Script"; background: #019833; }
+.markup__75297 .hljs[class$="wasm" i]::before { content: " WebAssembly"; background: #654ff0; }
+.markup__75297 .hljs[class$="wren" i]::before { content: " Wren"; background: #382d2c; }
+.markup__75297 .hljs[class$="axapta" i]::before { content: " X++"; background: #002060; }
+.markup__75297 .hljs[class$="x86asm" i]::before { content: " x86 Assembly"; background: #4a5d6e; }
+.markup__75297 .hljs[class$="xl" i]::before, .markup__75297 .hljs[class$="tao" i]::before { content: " eXtensible Language"; background: #4872a8; }
+.markup__75297 .hljs[class$="xml" i]::before, .markup__75297 .hljs[class$="html" i]::before, .markup__75297 .hljs[class$="xhtml" i]::before, .markup__75297 .hljs[class$="rss" i]::before, .markup__75297 .hljs[class$="atom" i]::before, .markup__75297 .hljs[class$="xjb" i]::before, .markup__75297 .hljs[class$="xsd" i]::before, .markup__75297 .hljs[class$="xsl" i]::before, .markup__75297 .hljs[class$="plist" i]::before, .markup__75297 .hljs[class$="wsf" i]::before, .markup__75297 .hljs[class$="svg" i]::before { content: " HTML/XML"; background: #8444af; }
+.markup__75297 .hljs[class$="xquery" i]::before, .markup__75297 .hljs[class$="xpath" i]::before, .markup__75297 .hljs[class$="xq" i]::before, .markup__75297 .hljs[class$="xqm" i]::before { content: " XQuery"; background: #1976d2; }
+.markup__75297 .hljs[class$="yaml" i]::before, .markup__75297 .hljs[class$="yml" i]::before { content: " YAML"; background: #cb171e; }
+.markup__75297 .hljs[class$="zephir" i]::before, .markup__75297 .hljs[class$="zep" i]::before { content: " Zephir"; background: #188688; }
+.markup__75297 .hljs[class$="ml" i]::before { content: " OCaml / SML"; background: #b35900; }
 
-        .theme-dark .markup__75297 .hljs[class~="js" i]::before,.theme-dark .markup__75297 .hljs[class$="javascript" i]::before { content: " Javascript"; background: #165eab; }
-
-        .theme-dark .markup__75297 .hljs[class$="css" i]::before { content: " Cascading Style Sheet"; background: var(--mc); }
-
-        .theme-dark .markup__75297 .hljs[class$="bash" i]::before { content: " Bash"; background: #ab1663; }
-
-        .theme-dark .markup__75297 .hljs[class$="markdown" i]::before,.theme-dark .markup__75297 .hljs[class$="md" i]::before { content: " Markdown"; background: #ab2e16; }
-
-        .theme-dark .markup__75297 .hljs[class$="html" i]::before { content: " HTML"; background: #16ab6f; }
-
-        .theme-dark .markup__75297 .hljs[class$="xl" i]::before { content: " eXtensible Language"; background: #4872a8; }
-
-        .theme-dark .markup__75297 .hljs[class$="coffee" i]::before { content: " Coffee (Javascript)"; background: #3a1b1b; }
-
-        .theme-dark .markup__75297 .hljs[class$="ruby" i]::before { content: " Ruby"; background: #e73e3e; }
-
-        .theme-dark .markup__75297 .hljs[class$="sql" i]::before { content: " SQL"; background: #4474ca; }
-
-        .theme-dark .markup__75297 .hljs[class$="java" i]::before { content: " Java"; background: #eb2d2f; }
-
-        .theme-dark .markup__75297 .hljs[class$="py" i]::before,.theme-dark .markup__75297 .hljs[class$="python" i]::before { content: " Python"; background: #1622ab; }
-
-        .theme-dark .markup__75297 .hljs[class$="vb" i]::before,.theme-dark .markup__75297 .hljs[class$="visualbasic" i]::before { content: " Visual Basic"; background: #839700; }
-
-        .theme-dark .markup__75297 .hljs[class$="lua" i]::before { content: " Lua"; background: #2ecc71; }
-
-        .theme-dark .markup__75297 .hljs[class$="php" i]::before { content: " Php"; background: #6e81b6; }
-
-        .theme-dark .markup__75297 .hljs[class$="swift" i]::before { content: " Swift"; background: #fd7837; }
-
-        .theme-dark .markup__75297 .hljs[class$="makefile" i]::before { content: " Makefile"; background: #8a2b0f; }
-
-        .theme-dark .markup__75297 .hljs[class$="go" i]::before { content: " Go"; background: #75cede; }
-
-        .theme-dark .markup__75297 .hljs[class$="ini" i]::before { content: " ini"; background: #5a75c0; }
-
-        .theme-dark .markup__75297 .hljs[class$="rust" i]::before { content: " Rust"; background: #000; }
-
-        .theme-dark .markup__75297 .hljs[class$="prolog" i]::before { content: " Prolog"; background: #ef4d25; }
-
-        .theme-dark .markup__75297 .hljs[class$="ts" i]::before,.theme-dark .markup__75297 .hljs[class$="typescript" i]::before { content: " TypeScript"; background: #03324c; }
-
-        .theme-dark .markup__75297 .hljs[class$="http" i]::before { content: " HTTP"; background: #618f10; }
-
-        .theme-dark .markup__75297 .hljs[class$="json" i]::before { content: " Json"; background: #108f66; }
-
-        .theme-dark .markup__75297 .hljs[class$="xml" i]::before { content: " XML"; background: #8444af; }
-
-        .theme-dark .markup__75297 .hljs[class$="less" i]::before { content: " Less"; background: #1d365d; }
 
         .emoji-picker .dimmer.visible { background-color:rgba(255,255,255,0.8); height:270px; bottom:0px; }
 
