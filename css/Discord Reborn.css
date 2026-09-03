@@ -55,7 +55,7 @@
 .footer__214dc { background: none; }
 
 .menu-Sp6bN1,
-.avatar-2Vndt_, .role___48c1c { background: none !important; }
+.avatar-2Vndt_, .role___48c1c,.theme-dark .container__2637a { background: none !important; }
 
 .theme-dark .preview-inner .containerCozy-jafyvG,
 .connect-account-btn .connect-account-btn-inner,
@@ -883,7 +883,7 @@ div[class*="userPopout"]::before,.userProfileModalInner-3fh3QA,[class="app_a3002
 .container-2Rl01u .menu-Sp6bN1,
 .titleWrapper__2155f,
 #bd-customcss-detach-container .CodeMirror, #bd-customcss-detach-container .cm-s-material .CodeMirror-gutters, .contentRegion__23e6b .CodeMirror, .contentRegion__23e6b .cm-s-material .CodeMirror-gutters, #bd-customcss-detach-container #bd-customcss-attach-controls, .contentRegion__23e6b #bd-customcss-attach-controls,
-.paginationItem-2lUq0s,
+.paginationItem-2lUq0s,.sidebarList__5e434,
 .gradientContainer_bfe55a.disabled-3wULvG {
 background: var(--RB) !important;}
 
