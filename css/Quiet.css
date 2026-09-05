@@ -5641,7 +5641,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 
  [class*="searchResultsWrap_"]" {border: 1px solid var(--hc);}
 
-[aria-label="Pinned Messages"],[aria-label="Inbox"],[role="dialog"] [class*="container__"], .container_d9c882,[role="listbox"],[class*="dark layer__"] [role="dialog"] {border-radius: 0px 0px 6px 6px !important;}
+[aria-label="Pinned Messages"],[aria-label="Inbox"],[role="dialog"][class*="container__"], .container_d9c882,[role="listbox"],[class*="dark layer__"] [role="dialog"] {border-radius: 0px 0px 6px 6px !important;}
 
 .channelHeader__35a7e {opacity: 0.7;}
 
