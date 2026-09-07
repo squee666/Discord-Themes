@@ -5513,3 +5513,6 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 [aria-label="User Settings"].plated__67645:hover {border-top-left-radius: 0px; border-bottom-left-radius: 0px;}
 
 [aria-label="Deafen"].plated__67645:hover {border-radius: 0px !important;}
+
+.mainTableContainer__09a38 {background: var(--QT);}
+
