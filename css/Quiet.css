@@ -3176,21 +3176,21 @@ color: var(--mc);
 
 #app-mount > [class*="platform-web"] .scroller-wrap .guilds.scroller .guild-1EfMGQ:first-child {margin-top: 0px !important;}
 
-@keyframes mentionpulse {0% {
-box-shadow: 0 0 0 0var(--mc);}
+@keyframes mentionpulse {
+    0% {
+        box-shadow: 0 0 0 0 var(--mc);
+    }
 
-70% {box-shadow: 0 0 5px 5px rgba(0,0,0,0);}
+    70% {
+        box-shadow: 0 0 5px 5px transparent;
+    }
 
-to {box-shadow: 0 0 0 0 rgba(0,0,0,0);} }
+    100% {
+        box-shadow: 0 0 0 0 transparent;
+    }
+}
 
-@-webkit-keyframes mentionpulse {0% {
-box-shadow: 0 0 0 0var(--mc);}
-
-70% {box-shadow: 0 0 5px 5px rgba(0,0,0,0);}
-
-to {box-shadow: 0 0 0 0 rgba(0,0,0,0);} }
-
-.theme-dark .containerCozy-jafyvG .comment .markup__75297 .isMentioned-N-h9aa {background: transparent !important;}
+.theme-dark .containerCozy-jafyvG .comment .markup__75297 .isMentioned-N-h9aa,.page__1feb0, .shopScroll__1feb0 {background: transparent !important;}
 
 #app-mount .status.status-typing {width: 100% !important;height: 100% !important;background: rgba(0,0,0,0.5) !important;margin: 0;}
 
@@ -3661,7 +3661,7 @@ pointer-events: none;
 
 #bpm-sb-flagtab {color: white !important;}
 
-.mentioned__5126c:hover {animation: mentionpulse 2s infinite;}
+.mentioned__5126c:hover {animation: mentionpulse 2s infinite !important;}
 
 .backgroundFlash__5126c .cozy_c19a55 .wrapper_cdf8a9 {background-color: var(--mc);color: white !important;}
 
@@ -5502,7 +5502,12 @@ pointer-events: none;
 
 .visual-refresh .stackedBars__74017,:where(.visual-refresh) .channelTextArea__74017 {border:none!important;}
 
-.visual-refresh .container__133bf .themed__9293f {height: 47px !important;}
+.visual-refresh .container__133bf .themed__9293f {height: 48px !important;}
+
+
+.container__0d0f9{margin: 0px !important; border: none ; padding:0 8px;}
+
+.wrapper_e131a9 { margin-inline-start: 0px }
 
 .stack_dbd263 {margin-top: 22px;}
 
@@ -5696,7 +5701,7 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 .guildDropdown_f37cb1{padding-inline:0px;}
 
 
-[class*="container"].themed__9293f {height:44px;}
+[class*="container"].themed__9293f {height:48px;}
 
 .postEnrollmentBackground__24e2c {background-image: none;}
 
