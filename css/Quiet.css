@@ -5803,3 +5803,17 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .container__37bfc {margin:0px;}
 
 .container__75920 {background: unset !important;}
+
+.fitInAccount_df39b2 {background: transparent !important;}
+
+.plated__37e49 {padding: 0px;margin-left: -8px;}
+
+.buttons__37e49 {background: var(--QTD);gap: 0px;border-radius: 8px;border: 1px solid var(--hc);}
+
+ .theme-dark .iconForeground__37e49 {color: var(--mc);}
+
+.plated__67645:hover {  background-color: var(--RB) !important;}
+
+[aria-label="User Settings"].plated__67645:hover {border-top-left-radius: 0px; border-bottom-left-radius: 0px;}
+
+[aria-label="Deafen"].plated__67645:hover {border-radius: 0px !important;}
