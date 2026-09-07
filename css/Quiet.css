@@ -463,7 +463,7 @@ button.bd-customicon-settings,
 .shopCard_c3d04b, .lookOutlined-3yKVGo.colorWhite-1H92hK, .root-SR8cQa, .container__13b2a, .card__4bb93.active_ffe375:before, .card__4bb93:hover:before {border: 2px solid var(--hc) !important;}
 
 
-.account .btn {background:transparent;box-shadow:none !important;}
+.account .btn , .sidebar__409aa{background:transparent;box-shadow:none !important;}
 
 
 .wrapper__00943, .bd-pfbtn, [class*="buttonBrandFilled"], .reaction_f8896c:hover, .reaction__23977:hover, .lookInverted-2mDUMi.colorGreen-3y-Z79, .wrapper_a7c28c, .wrapper__6c798, .divider_ee23ac, .lookFilled__201d5.colorBrand__201d5, .active_a22cb0, .sectionDivider__629e4 {background-color: var(--mc);}
