@@ -1,16 +1,7 @@
-/**
- * @name Quiet
- * @descriptionDark and Quiet. Easy on the eyes.
- * @author Izy
- * @version 8.92
- * @source https://github.com/squee666/Discord-Themes/blob/master/Themes/Quiet.theme.css
- * @invite r59DjpaDHD 
- * @authorId 107511169366888448
- */
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
 :root {
---version-content: "8.9";
+--version-content: "8.92";
 --theme-name: "Quiet";
 --theme-letter: "Q";
 --QT: #121212;
