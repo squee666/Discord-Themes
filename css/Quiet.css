@@ -1,3 +1,12 @@
+/**
+ * @name Quiet
+ * @descriptionDark and Quiet. Easy on the eyes.
+ * @author Izy
+ * @version 8.92
+ * @source https://github.com/squee666/Discord-Themes/blob/master/Themes/Quiet.theme.css
+ * @invite r59DjpaDHD 
+ * @authorId 107511169366888448
+ */
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
 :root {
@@ -743,7 +752,7 @@ form.modal-content.form.need-help-modal::after {content: "";background: #fff;pos
 
 ..need-help-modal.form.deprecated .footer {background-color: transparent;color: transparent;border-top: 0 #e9e7e7 solid;padding-top: 0;padding-left: 0;width: 100%;position: relative;}
 
-.need-help-modal.form.deprecated .footer::after {content: "         Need help? Visit the Discord Linked Above";background-color: var(--QT);width: 100%;height: 34px;position: absolute;bottom: 0;left: 0;line-height: 32px;border-radius: 0 0 5px 5px;border-top: 2px solid #161618;color: #fff;}
+.need-help-modal.form.deprecated .footer::after {content: "         Need help? Visit the Discord Linked Above";background-color: var(--QT);width: 100%;height: 34px;position: absolute;bottom: 0;left: 0;line-height: 32px;border-radius: 0 0 5px 5px;border-top: 2px solid #161618;color: #fff;}
 
 .empty-placeholder .image[style*="background-image:url(\"/assets/6793e022dc1b065b21f12d6df02f91bd.svg\");"] {background-image: url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_sentiment_very_dissatisfied_white_24px.svg) !important;opacity: 0.3;}
 
