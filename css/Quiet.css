@@ -404,31 +404,7 @@ button.btn:hover {background-color: #151517;}
 
 .popout:not(.no-shadow) #bda-qem,.popout:not(.no-shadow) #bda-qem-twitch-container,.popout:not(.no-shadow) #bda-qem-favourite-container {display: block;}
 
-.guilds-1q_RqH .friendsOnline-_wi_fM {margin-left: -5px;}
-
-.guilds-1q_RqH li.active .guildInner-3DSoA4 {background: #25ACE8;}
-
-.guilds-1q_RqH li .guildInner-3DSoA4:hover {background: #1D6586;}
-
-.guilds-1q_RqH li .guildInner-3DSoA4 a,.guilds-1q_RqH li,.guilds-1q_RqH li .avatar__small {width: 40px;height: 40px;}
-
-.guilds-1q_RqH li .avatar__small {width: 40px;height: 40px;background-size: 40px 40px;}
-
-.guilds-1q_RqH li .guildInner-3DSoA4 {line-height: 40px;}
-
-.guilds-1q_RqH .friends-icon {width: 40px;height: 40px;background-size: 25px 19px;}
-
-.guilds-1q_RqH li.audio .guildInner-3DSoA4:after {background-size: 12px;background-color: rgba(0,0,0,0.8);}
-
-.guilds-1q_RqH li.unread .guildInner-3DSoA4:before,.guild-channels ul .channel-text.unread:not(.selected):not(.channel-muted):before {background: #25ACE8;}
-
-.guilds-1q_RqH li.active .guildInner-3DSoA4:before {background: #fff !important;}
-
-.friendsOnline-2JkivW {color: #717171 !important;font-size: 9px;line-height: 20px;width: 55px;height: 20px;border-radius: 25px;overflow: hidden;}
-
 .categoryFadeBlurple_d02962 {background-color: var(--background-scrim);}
-
-.da-friendsOnline {margin-top: 10px;margin-left: 0;}
 
 .form .control-group input[type=text],.form .control-group input[type=email],.form .control-group input[type=password],.form .control-group input[type=number],.form .control-group textarea {color: #cecece;border-bottom: 2px solid var(--QTD);border: 2px solid var(--QTD) !important;background: var(--QTD);padding: 0 0 0 7px;border-radius: 3px;}
 
@@ -660,20 +636,6 @@ div.control-group .shortcut-recorder input[type=text] {border: 2px solid var(--m
 0%{-webkit-transform:scale(0);transform:scale(0);}
 
 100%{-webkit-transform:none;transform:none;}}
-
-/* Alert made by BeardDesign and heavily modified by me */
-
-.tutorial-indicators:before {content: "You need to have the dark mode enabled for this theme to work properly. To enable it,go into settings > appearance.";position: fixed;width: 400px;height: 30px;top: 50%;left: 50%;transform: translate(-50%,-50%);color: #fff;padding: 20px 20px;box-shadow: 0 2px 10px var(--mc);border: 3px solid var(--mc);z-index: 10;}
-
-.tutorial-indicators:after {content: "";position: fixed;width: 100%;height: 200%;left: 50%;top: 45%;background: rgba(0,0,0,0.7);transform: translate(-50%,-50%);padding: 20px 20px;z-index: 8;}
-
-.radio-theme input[type=radio]:checked~label {border-color: transparent;}
-
-.radio-theme.dark label {width: 506px;height: 50px;background: #7289DA;border: 0 !important;}
-
-.radio-theme.dark:after {content: "ENABLE DARK MODE";color: #fff;transform: translate(-50%,-32px);position: absolute;left: 50%;font-weight: 800;pointer-events: none;}
-
-.theme-dark+span .radio-theme.dark:after {content: "DARK MODE ENABLED";}
 
 div[data-reactroot]:not(.platform-osx):not(.platform-win) div .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(9),div.platform-win + div .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(10),div.platform-osx .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(10) {box-shadow: 0 2px 10px var(--mc);border: 3px solid var(--mc);width: 110px;border-radius: 3px;margin-left: 29px;}
 
