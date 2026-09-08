@@ -3628,3 +3628,5 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .reactions__23977 {margin-bottom: 0;}
 
 .banner__68edb {--custom-cutout-radius: 0 !important;}
+
+.repliedMessageClickableSpine_c19a55.repliedMessageContentHovered_c19a55 {border-color: var(--hc);}
