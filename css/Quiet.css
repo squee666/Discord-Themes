@@ -3018,7 +3018,7 @@ opacity: 1;transform: translateY(0) translateX(0%) translateZ(0);pointer-events:
 
 .profileBadges-31rDHI {position: relative;top: 33px;right: 31%;}
 
-.searchResult__02a39 {background-color: var(--RB);}
+.searchResult__02a39 {background-color: var(--QT);}
 
 .resizeHandle__01ae2 {width: 0;}
 
@@ -3164,7 +3164,7 @@ opacity: 1;transform: translateY(0) translateX(0%) translateZ(0);pointer-events:
 
 .visual-refresh .channelAttachmentArea_b77158 {background-color: transparent;}
 
-.wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8 {color: transparent;background-color: var(--mc);}
+.wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8,.switchIndicator_a28278,.barFill_a562c8 {color: transparent;background-color: var(--mc) !important;}
 
 .visual-refresh .barButtonAlt__0f481,.fieldList_a27e58,.background_a27e58 {background: transparent;}
 
@@ -3436,7 +3436,7 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 
 .container__75920 {background: unset !important;}
 
-.fitInAccount_df39b2 {background: transparent !important;}
+.fitInAccount_df39b,.decorationWrapper__6131a.sticky__6131a:before { background: transparent !important;}
 
 .plated__37e49 {padding: 0;margin-left: -8px;}
 
@@ -3450,10 +3450,20 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 
 [aria-label="Deafen"].plated__67645:hover {border-radius: 0 !important;}
 
-.mainTableContainer__09a38 {background: var(--QT);}
+.mainTableContainer__09a38,.preview__6b74 {background: var(--QT);}
 
 .reactions__23977 {margin-bottom: 0;}
 
 .banner__68edb {--custom-cutout-radius: 0 !important;}
 
-.repliedMessageClickableSpine_c19a55.repliedMessageContentHovered_c19a55 {border-color: var(--hc);}
+.repliedMessageClickableSpine_c19a55.repliedMessageContentHovered_c19a55, {border-color: var(--hc);}
+
+.previewRight__6b741 .avatarStack__44b0c .avatar__44b0c {width: 28px !important;height: 28px !important;margin:0px -2px 1px 0px;}
+
+.preview__6b741{ border: 1px solid var(--hc); }
+
+.radioGroupOption__64e61[data-selected] .outerRadioFill__64e61, .standaloneRadioIndicator__64e61[data-selected=true] .outerRadioFill__64e61 {fill: var(--hc);}
+
+.defaultKeybindGroup_f82450 {background-color: var(--QTD);}
+
+.bd-box.selected{background-color: var(--hc);}
