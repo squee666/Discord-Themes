@@ -3062,7 +3062,7 @@ opacity: 1;transform: translateY(0) translateX(0%) translateZ(0);pointer-events:
 
 .visual-refresh .attachButton__0923f {color: var(--mc);}
 
-.botTagRegular__82f07,.chipletContainerInner__10651,.modeSelected__2ea32 .link__2ea32,.modeSelected__2ea32:hover .link__2ea32 {border: 1px solid var(--mc);background: none;color: var(--mc);}
+.botTagRegular__82f07,.modeSelected__2ea32 .link__2ea32,.modeSelected__2ea32:hover .link__2ea32 {border: 1px solid var(--mc);background: none;color: var(--mc);}
 
 .botTagVerified__82f07 {fill: var(--mc);width: 20px;}
 
@@ -3467,3 +3467,9 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .defaultKeybindGroup_f82450 {background-color: var(--QTD);}
 
 .bd-box.selected{background-color: var(--hc);}
+
+.textBadge__463b7 {background: var(--QT) !important;border: 1px solid var(--hc);line-height: 1.3;}
+
+.text-xs\/semibold_cf4812 {color: var(--hc) !important;background: var(--QT) !important;border-radius: 8px;padding: 0 3px;border: 1px solid var(--hc);}
+
+.clanTagChiplet_c19a55{background:none;}
