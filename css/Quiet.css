@@ -3473,3 +3473,7 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .text-xs\/semibold_cf4812 {color: var(--hc) !important;background: var(--QT) !important;border-radius: 8px;padding: 0 3px;border: 1px solid var(--hc);}
 
 .clanTagChiplet_c19a55{background:none;}
+
+.iconBadgeBottom__9293f {margin-inline-end: -2px;margin-bottom: 0px;}
+
+.iconBadgeStyleUnread__9293f {background-color: transparent border: 1px solid var(--hc);}
