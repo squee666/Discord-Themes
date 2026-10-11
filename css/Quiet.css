@@ -1185,146 +1185,146 @@ code {background-image: linear-gradient(var(--QTD) 50%,transparent 50%) !importa
 /* Individual Language Definitions */
 
 .\31 c::before {content: " 1C:Enterprise";background: #b18c21;}
-.abnf::before {content: " ABNF";background: #5d6174;}
-.accesslog::before {content: " Apache Access Log";background: #4e5d6c;}:is(.actionscript::before, .as::before) {content: " ActionScript";background: #882b0f;}
-.ada::before {content: " Ada";background: #02f88d;}:is(.angelscript::before, .asc::before) {content: " AngelScript";background: #c78f13;}
-.ansi::before {content: " ANSI";background: #333333;}:is(.apache::before, .apacheconf::before) {content: " Apache config";background: #4e738a;}:is(.applescript::before, .osascript::before) {content: " AppleScript";background: #101010;}
-.arcade::before {content: " ArcGIS Arcade";background: #2f8e91;}:is(.arduino::before, .ino::before) {content: " Arduino";background: #bd791e;}:is(.armasm::before, .arm::before) {content: " ARM Assembly";background: #5f3d82;}:is(.asciidoc::before, .adoc::before) {content: " AsciiDoc";background: #187a41;}
-.aspectj::before {content: " AspectJ";background: #195e7a;}:is(.autohotkey::before, .ahk::before) {content: " AutoHotKey";background: #6121b0;}
-.autoit::before {content: " AutoIt";background: #263385;}
-.avrasm::before {content: " AVR Assembly";background: #7c22a3;}
-.awk::before {content: " Awk";background: #1a8f60;}:is(.bash::before, .sh::before, .zsh::before) {content: " Bash";background: #ab1663;}
-.basic::before {content: " BASIC";background: #2b1f8f;}
-.bnf::before {content: " BNF";background: #4a5c69;}:is(.brainfuck::before, .bf::before) {content: " Brainfuck";background: #2e7d32;}:is(.c::before, .h::before) {content: " C";background: #555555;}
-.cal::before {content: " C/AL";background: #1e5989;}:is(.capnproto::before, .capnp::before) {content: " Cap’n Proto";background: #c2185b;}
-.ceylon::before {content: " Ceylon";background: #8e24aa;}:is(.clean::before, .icl::before, .dcl::before) {content: " Clean";background: #00acc1;}:is(.clojure::before, .clj::before, .edn::before) {content: " Clojure";background: #588240;}
-.clojure-repl::before {content: " Clojure REPL";background: #3b5c2a;}
-.cmake\.in::before,.cmake::before {content: " CMake";background: #0288d1;}:is(.coffeescript::before, .coffee::before, .cson::before, .iced::before) {content: " Coffee (Javascript)";background: #3a1b1b;}
-.coq::before {content: " Coq";background: #7b1fa2;}:is(.cos::before, .cls::before) {content: " Caché Object Script";background: #1565c0;}
-.c\+\+::before,.h\+\+::before,.cpp::before,.cc::before,.hpp::before,.hh::before,.hxx::before,.cxx::before {content: " C++";background: #00599c;}:is(.crmsh::before, .crm::before, .pcmk::before) {content: " crmsh";background: #2b3a42;}:is(.crystal::before, .cr::before) {content: " Crystal";background: #222222;}
-.c\#::before,.csharp::before,.cs::before {content: " C#";background: #178600;}
-.csp::before {content: " CSP";background: #546e7a;}
-.css::before {content: " Cascading Style Sheet";background: #663399;}
-.d::before {content: " D";background: #ba3939;}
-.dart::before {content: " Dart";background: #00b4ab;}:is(.delphi::before, .dpr::before, .dfm::before, .pas::before, .pascal::before) {content: " Delphi";background: #b03a2e;}:is(.diff::before, .patch::before) {content: " Diff";background: #888888;}:is(.django::before, .jinja::before) {content: " Django";background: #092e20;}:is(.dns::before, .bind::before, .zone::before) {content: " DNS Zone";background: #37474f;}:is(.dockerfile::before, .docker::before) {content: " Dockerfile";background: #2496ed;}:is(.dos::before, .bat::before, .cmd::before) {content: " Batch file (DOS)";background: #4d4d4d;}
-.dsconfig::before {content: " dsconfig";background: #2c3e50;}
-.dts::before {content: " Device Tree";background: #424242;}:is(.dust::before, .dst::before) {content: " Dust";background: #9c27b0;}
-.ebnf::before {content: " EBNF";background: #37474f;}:is(.elixir::before, .ex::before, .exs::before) {content: " Elixir";background: #6e4a7e;}
-.elm::before {content: " Elm";background: #60b5cc;}
-.erb::before {content: " eRuby";background: #701516;}
-.erlang-repl::before {content: " Erlang REPL";background: #501011;}:is(.erlang::before, .erl::before) {content: " Erlang";background: #a90036;}:is(.excel::before, .xlsx::before, .xls::before) {content: " Excel formulae";background: #107c41;}
-.fix::before {content: " FIX";background: #3f51b5;}
-.flix::before {content: " Flix";background: #e65100;}:is(.fortran::before, .f90::before, .f95::before) {content: " Fortran";background: #4d41b1;}
-.f\#::before,.fsharp::before,.fs::before {content: " F#";background: #b845fc;}:is(.gams::before, .gms::before) {content: " GAMS";background: #1976d2;}:is(.gauss::before, .gss::before) {content: " GAUSS";background: #00796b;}:is(.gcode::before, .nc::before) {content: " G-code (ISO 6983)";background: #d84315;}:is(.gherkin::before, .feature::before) {content: " Gherkin";background: #208020;}
-.glsl::before {content: " OpenGL Shading";background: #558b2f;}
-.gml::before {content: " GML";background: #ff5722;}:is(.go::before, .golang::before) {content: " Go";background: #75cede;}
-.golo::before {content: " Golo";background: #880e4f;}
-.gradle::before {content: " Gradle";background: #02303a;}:is(.graphql::before, .gql::before) {content: " GraphQL";background: #e10098;}
-.groovy::before {content: " Groovy";background: #4298b8;}
-.haml::before {content: " HAML";background: #ece8e1;color: #000;}
-.html\.handlebars::before,.html\.hbs::before,.handlebars::before,.hbs::before,.htmlbars::before {content: " Handlebars";background: #f7931e;}:is(.haskell::before, .hs::before) {content: " Haskell";background: #5e5086;}:is(.haxe::before, .hx::before) {content: " Haxe";background: #df7900;}
-.hsp::before {content: " HSP";background: #00838f;}:is(.http::before, .https::before) {content: " HTTP";background: #618f10;}:is(.hy::before, .hylang::before) {content: " Hy";background: #77095e;}:is(.inform7::before, .i7::before) {content: " Inform 7";background: #3f51b5;}:is(.ini::before, .toml::before) {content: " ini";background: #5a75c0;}
-.irpf90::before {content: " IRPF90";background: #ad1457;}
-.isbl::before {content: " ISBL";background: #283593;}:is(.java::before, .jsp::before) {content: " Java";background: #eb2d2f;}:is(.jboss-cli::before, .wildfly-cli::before) {content: " JBoss CLI";background: #00838f;}:is(.json::before, .jsonc::before) {content: " Json";background: #108f66;}:is(.julia::before, .jldoctest::before) {content: " Julia";background: #a270ba;}
-.julia-repl::before {content: " Julia REPL";background: #6d4282;}:is(.kotlin::before, .kt::before, .kts::before) {content: " Kotlin";background: #a97bff;}:is(.lasso::before, .ls::before, .lassoscript::before) {content: " Lasso";background: #999999;}:is(.latex::before, .tex::before) {content: " LaTeX";background: #3d6117;}
-.ldif::before {content: " LDIF";background: #37474f;}
-.leaf::before {content: " Leaf";background: #2e7d32;}
-.less::before {content: " Less";background: #1d365d;}
-.lisp::before {content: " Lisp";background: #3f51b5;}
-.livecodeserver::before {content: " LiveCode";background: #009688;}
-.livescript::before {content: " LiveScript";background: #49be25;}
-.llvm::before {content: " LLVM IR";background: #185619;}
-.lsl::before {content: " LSL";background: #00796b;}:is(.lua::before, .pluto::before) {content: " Lua";background: #2ecc71;}:is(.makefile::before, .mk::before, .mak::before, .make::before) {content: " Makefile";background: #8a2b0f;}:is(.markdown::before, .md::before, .mkdown::before, .mkd::before) {content: " Markdown";background: #ab2e16;}:is(.mathematica::before, .mma::before, .wl::before) {content: " Mathematica";background: #dd1100;}
-.matlab::before {content: " Matlab";background: #e16737;}
-.maxima::before {content: " Maxima";background: #00838f;}
-.mel::before {content: " MEL";background: #ad1457;}:is(.mercury::before, .m::before, .moo::before) {content: " Mercury";background: #006064;}:is(.mipsasm::before, .mips::before) {content: " MIPS Assembly";background: #3f51b5;}
-.mizar::before {content: " Mizar";background: #455a64;}
-.mojolicious::before {content: " Mojolicious";background: #1976d2;}
-.monkey::before {content: " Monkey";background: #8d6e63;}
-:is(.moonscript::before, .moon::before) {content: " MoonScript";background: #ffaa00;}
-.n1ql::before {content: " N1QL";background: #e53935;}
-:is(.nestedtext::before, .nt::before) {content: " Nested Text";background: #558b2f;}
-:is(.nginx::before, .nginxconf::before) {content: " Nginx config";background: #009639;}
-.nim::before {content: " Nim";background: #37775b;}
-:is(.nix::before, .nixos::before) {content: " Nix";background: #5277c3;}
-.node-repl::before {content: " Node REPL";background: #2e7d32;}
-.nsis::before {content: " NSIS";background: #4e5d6c;}
-.obj-c\+\+::before,objective-c\+\+::before,.objectivec::before,.mm::before,.objc::before,.obj-c::before {content: " Objective-C";background: #438eff;}
-.ocaml::before {content: " OCaml";background: #3be133;}
-:is(.openscad::before, .scad::before) {content: " OpenSCAD";background: #f57c00;}
-.oxygene::before {content: " Oxygene";background: #c2185b;}
-.parser3::before {content: " Parser3";background: #283593;}
-:is(.perl::before, .pl::before, .pm::before) {content: " Perl";background: #0298c3;}
-.pf\.conf::before,.pf::before {content: " Packet Filter config";background: #37474f;}
-:is(.pgsql::before, .postgres::before, .postgresql::before) {content: " PostgreSQL";background: #336791;}
-.php::before {content: " Php";background: #6e81b6;}
-.php-template::before {content: " PHP template";background: #4f5d84;}
-:is(.plaintext::before, .text::before, .txt::before, [class$=hljs]::before) {content: " Plain Text";background: #616161;}
-.pony::before {content: " Pony";background: #1976d2;}
-:is(.powershell::before, .pwsh::before, .ps::before, .ps1::before) {content: " PowerShell";background: #012456;}
-:is(.processing::before, .pde::before) {content: " Processing";background: #006699;}
-.prolog::before {content: " Prolog";background: #ef4d25;}
-.properties::before {content: " .properties";background: #4e5d6c;}
-:is(.protobuf::before, .proto::before) {content: " Protocol Buffers";background: #1565c0;}
-:is(.puppet::before, .pp::before) {content: " Puppet";background: #ff2a00;}
-:is(.purebasic::before, .pb::before, .pbi::before) {content: " PureBASIC";background: #263238;}
-.pycon::before {content: " Pycon";background: #1565c0;}
-:is(.python::before, .py::before, .gyp::before, .ipython::before) {content: " Python";background: #1622ab;}
-.python-repl::before {content: " Python REPL";background: #0e1670;}
-.profile::before {content: " Python profiler";background: #2e7d32;}
-:is(.q::before, .k::before, .kdb::before) {content: " Q";background: #00bcd4;}
-:is(.qml::before, .qt::before) {content: " QML";background: #41cd52;}
-.r::before {content: " R";background: #198ce7;}
-:is(.reasonml::before, .re::before) {content: " ReasonML";background: #ff5847;}
-.rib::before {content: " RenderMan RIB";background: #37474f;}
-:is(.roboconf::before, .graph::before, .instances::before) {content: " Roboconf";background: #00838f;}
-:is(.routeros::before, .mikrotik::before) {content: " RouterOS";background: #1a237e;}
-.rsl::before {content: " RenderMan RSL";background: #455a64;}
-:is(.ruby::before, .rb::before, .gemspec::before, .podspec::before, .thor::before, .irb::before) {content: " Ruby";background: #e73e3e;}
-.ruleslanguage::before {content: " Oracle Rules Language";background: #ad1457;}
-:is(.rust::before, .rs::before) {content: " Rust";background: #000;}
-.sas::before {content: " SAS";background: #1e88e5;}
-.scala::before {content: " Scala";background: #dc322f;}
-:is(.scheme::before, .scm::before) {content: " Scheme";background: #1e88e5;}
-:is(.scilab::before, .sci::before) {content: " Scilab";background: #00838f;}
-.scss::before {content: " SCSS";background: #c69;}
-:is(.shell::before, .console::before, .shellsession::before) {content: " Shell Session";background: #263238;}
-.smali::before {content: " Smali";background: #558b2f;}
-:is(.smalltalk::before, .st::before) {content: " Smalltalk";background: #596706;}
-.sml::before {content: " SML";background: #283593;}
-.sqf::before {content: " SQF";background: #283593;}
-.sql::before {content: " SQL";background: #4474ca;}
-:is(.stan::before, .stanfuncs::before) {content: " Stan";background: #b71c1c;}
-:is(.stata::before, .do::before, .ado::before) {content: " Stata";background: #1a237e;}
-:is(.step21::before, .p21::before, .step::before, .stp::before) {content: " STEP Part 21";background: #37474f;}
-:is(.stylus::before, .styl::before) {content: " Stylus";background: #ffb300;}
-.subunit::before {content: " SubUnit";background: #455a64;}
-.swift::before {content: " Swift";background: #fd7837;}
-.taggerscript::before {content: " Tagger Script";background: #4a148c;}
-.tap::before {content: " TAP";background: #2e7d32;}
-:is(.tcl::before, .tk::before) {content: " Tcl";background: #141414;}
-.thrift::before {content: " Thrift";background: #00838f;}
-.tp::before {content: " TP";background: #3f51b5;}
-:is(.twig::before, .craftcms::before) {content: " Twig";background: #85ad00;}
-:is(.javascript::before, .js::before, .jsx::before, .mjs::before, .cjs::before) {content: " JavaScript";background: #165eab;}
-:is(.typescript::before, .ts::before, .tsx::before, .cts::before) {content: " TypeScript";background: #03324c;}
-.vala::before {content: " Vala";background: #77613e;}
-:is(.vbnet::before, .vb::before) {content: " Visual Basic .NET";background: #839700;}
-:is(.vbscript::before, .vbs::before) {content: " VBScript";background: #1565c0;}
-.vbscript-html::before {content: " VBScript in HTML";background: #0d47a1;}
-:is(.verilog::before, .v::before, .sv::before, .svh::before) {content: " Verilog";background: #008080;}
-.vhdl::before {content: " VHDL";background: #543978;}
-.vim::before {content: " Vim Script";background: #019833;}
-.wasm::before {content: " WebAssembly";background: #654ff0;}
-.wren::before {content: " Wren";background: #382d2c;}
-.x\+\+::before,.axapta::before {content: " X++";background: #002060;}
-.x86asm::before {content: " x86 Assembly";background: #4a5d6e;}
-:is(.xl::before, .tao::before) {content: " eXtensible Language";background: #4872a8;}
-:is(.xml::before, .html::before, .xhtml::before, .rss::before, .atom::before, .xjb::before, .xsd::before, .xsl::before, .plist::before, .wsf::before, .svg::before) {content: " HTML/XML";background: #8444af;}
-:is(.xquery::before, .xpath::before, .xq::before, .xqm::before) {content: " XQuery";background: #1976d2;}
-:is(.yaml::before, .yml::before) {content: " YAML";background: #cb171e;}
-:is(.zephir::before, .zep::before) {content: " Zephir";background: #188688;}
-.ml::before {content: " OCaml / SML";background: #b35900;}
+.language-abnf::before {content: " ABNF";background: #5d6174;}
+.language-accesslog::before {content: " Apache Access Log";background: #4e5d6c;}:is(.language-actionscript::before, .language-as::before) {content: " ActionScript";background: #882b0f;}
+.language-ada::before {content: " Ada";background: #02f88d;}:is(.language-angelscript::before, .language-asc::before) {content: " AngelScript";background: #c78f13;}
+.language-ansi::before {content: " ANSI";background: #333333;}:is(.language-apache::before, .language-apacheconf::before) {content: " Apache config";background: #4e738a;}:is(.language-applescript::before, .language-osascript::before) {content: " AppleScript";background: #101010;}
+.language-arcade::before {content: " ArcGIS Arcade";background: #2f8e91;}:is(.language-arduino::before, .language-ino::before) {content: " Arduino";background: #bd791e;}:is(.language-armasm::before, .language-arm::before) {content: " ARM Assembly";background: #5f3d82;}:is(.language-asciidoc::before, .language-adoc::before) {content: " AsciiDoc";background: #187a41;}
+.language-aspectj::before {content: " AspectJ";background: #195e7a;}:is(.language-autohotkey::before, .language-ahk::before) {content: " AutoHotKey";background: #6121b0;}
+.language-autoit::before {content: " AutoIt";background: #263385;}
+.language-avrasm::before {content: " AVR Assembly";background: #7c22a3;}
+.language-awk::before {content: " Awk";background: #1a8f60;}:is(.language-bash::before, .language-sh::before, .language-zsh::before) {content: " Bash";background: #ab1663;}
+.language-basic::before {content: " BASIC";background: #2b1f8f;}
+.language-bnf::before {content: " BNF";background: #4a5c69;}:is(.language-brainfuck::before, .language-bf::before) {content: " Brainfuck";background: #2e7d32;}:is(.language-c::before, .language-h::before) {content: " C";background: #555555;}
+.language-cal::before {content: " C/AL";background: #1e5989;}:is(.language-capnproto::before, .language-capnp::before) {content: " Cap’n Proto";background: #c2185b;}
+.language-ceylon::before {content: " Ceylon";background: #8e24aa;}:is(.language-clean::before, .language-icl::before, .language-dcl::before) {content: " Clean";background: #00acc1;}:is(.language-clojure::before, .language-clj::before, .language-edn::before) {content: " Clojure";background: #588240;}
+.language-clojure-repl::before {content: " Clojure REPL";background: #3b5c2a;}
+.language-cmake\.in::before,.language-cmake::before {content: " CMake";background: #0288d1;}:is(.language-coffeescript::before, .language-coffee::before, .language-cson::before, .language-iced::before) {content: " Coffee (Javascript)";background: #3a1b1b;}
+.language-coq::before {content: " Coq";background: #7b1fa2;}:is(.language-cos::before, .language-cls::before) {content: " Caché Object Script";background: #1565c0;}
+.language-c\+\+::before,.language-h\+\+::before,.language-cpp::before,.language-cc::before,.language-hpp::before,.language-hh::before,.language-hxx::before,.language-cxx::before {content: " C++";background: #00599c;}:is(.language-crmsh::before, .language-crm::before, .language-pcmk::before) {content: " crmsh";background: #2b3a42;}:is(.language-crystal::before, .language-cr::before) {content: " Crystal";background: #222222;}
+.language-c\#::before,.language-csharp::before,.language-cs::before {content: " C#";background: #178600;}
+.language-csp::before {content: " CSP";background: #546e7a;}
+.language-css::before {content: " Cascading Style Sheet";background: #663399;}
+.language-d::before {content: " D";background: #ba3939;}
+.language-dart::before {content: " Dart";background: #00b4ab;}:is(.language-delphi::before, .language-dpr::before, .language-dfm::before, .language-pas::before, .language-pascal::before) {content: " Delphi";background: #b03a2e;}:is(.language-diff::before, .language-patch::before) {content: " Diff";background: #888888;}:is(.language-django::before, .language-jinja::before) {content: " Django";background: #092e20;}:is(.language-dns::before, .language-bind::before, .language-zone::before) {content: " DNS Zone";background: #37474f;}:is(.language-dockerfile::before, .language-docker::before) {content: " Dockerfile";background: #2496ed;}:is(.language-dos::before, .language-bat::before, .language-cmd::before) {content: " Batch file (DOS)";background: #4d4d4d;}
+.language-dsconfig::before {content: " dsconfig";background: #2c3e50;}
+.language-dts::before {content: " Device Tree";background: #424242;}:is(.language-dust::before, .language-dst::before) {content: " Dust";background: #9c27b0;}
+.language-ebnf::before {content: " EBNF";background: #37474f;}:is(.language-elixir::before, .language-ex::before, .language-exs::before) {content: " Elixir";background: #6e4a7e;}
+.language-elm::before {content: " Elm";background: #60b5cc;}
+.language-erb::before {content: " eRuby";background: #701516;}
+.language-erlang-repl::before {content: " Erlang REPL";background: #501011;}:is(.language-erlang::before, .language-erl::before) {content: " Erlang";background: #a90036;}:is(.language-excel::before, .language-xlsx::before, .language-xls::before) {content: " Excel formulae";background: #107c41;}
+.language-fix::before {content: " FIX";background: #3f51b5;}
+.language-flix::before {content: " Flix";background: #e65100;}:is(.language-fortran::before, .language-f90::before, .language-f95::before) {content: " Fortran";background: #4d41b1;}
+.language-f\#::before,.language-fsharp::before,.language-fs::before {content: " F#";background: #b845fc;}:is(.language-gams::before, .language-gms::before) {content: " GAMS";background: #1976d2;}:is(.language-gauss::before, .language-gss::before) {content: " GAUSS";background: #00796b;}:is(.language-gcode::before, .language-nc::before) {content: " G-code (ISO 6983)";background: #d84315;}:is(.language-gherkin::before, .language-feature::before) {content: " Gherkin";background: #208020;}
+.language-glsl::before {content: " OpenGL Shading";background: #558b2f;}
+.language-gml::before {content: " GML";background: #ff5722;}:is(.language-go::before, .language-golang::before) {content: " Go";background: #75cede;}
+.language-golo::before {content: " Golo";background: #880e4f;}
+.language-gradle::before {content: " Gradle";background: #02303a;}:is(.language-graphql::before, .language-gql::before) {content: " GraphQL";background: #e10098;}
+.language-groovy::before {content: " Groovy";background: #4298b8;}
+.language-haml::before {content: " HAML";background: #ece8e1;color: #000;}
+.language-html\.handlebars::before,.language-html\.hbs::before,.language-handlebars::before,.language-hbs::before,.language-htmlbars::before {content: " Handlebars";background: #f7931e;}:is(.language-haskell::before, .language-hs::before) {content: " Haskell";background: #5e5086;}:is(.language-haxe::before, .language-hx::before) {content: " Haxe";background: #df7900;}
+.language-hsp::before {content: " HSP";background: #00838f;}:is(.language-http::before, .language-https::before) {content: " HTTP";background: #618f10;}:is(.language-hy::before, .language-hylang::before) {content: " Hy";background: #77095e;}:is(.language-inform7::before, .language-i7::before) {content: " Inform 7";background: #3f51b5;}:is(.language-ini::before, .language-toml::before) {content: " ini";background: #5a75c0;}
+.language-irpf90::before {content: " IRPF90";background: #ad1457;}
+.language-isbl::before {content: " ISBL";background: #283593;}:is(.language-java::before, .language-jsp::before) {content: " Java";background: #eb2d2f;}:is(.language-jboss-cli::before, .language-wildfly-cli::before) {content: " JBoss CLI";background: #00838f;}:is(.language-json::before, .language-jsonc::before) {content: " Json";background: #108f66;}:is(.language-julia::before, .language-jldoctest::before) {content: " Julia";background: #a270ba;}
+.language-julia-repl::before {content: " Julia REPL";background: #6d4282;}:is(.language-kotlin::before, .language-kt::before, .language-kts::before) {content: " Kotlin";background: #a97bff;}:is(.language-lasso::before, .language-ls::before, .language-lassoscript::before) {content: " Lasso";background: #999999;}:is(.language-latex::before, .language-tex::before) {content: " LaTeX";background: #3d6117;}
+.language-ldif::before {content: " LDIF";background: #37474f;}
+.language-leaf::before {content: " Leaf";background: #2e7d32;}
+.language-less::before {content: " Less";background: #1d365d;}
+.language-lisp::before {content: " Lisp";background: #3f51b5;}
+.language-livecodeserver::before {content: " LiveCode";background: #009688;}
+.language-livescript::before {content: " LiveScript";background: #49be25;}
+.language-llvm::before {content: " LLVM IR";background: #185619;}
+.language-lsl::before {content: " LSL";background: #00796b;}:is(.language-lua::before, .language-pluto::before) {content: " Lua";background: #2ecc71;}:is(.language-makefile::before, .language-mk::before, .language-mak::before, .language-make::before) {content: " Makefile";background: #8a2b0f;}:is(.language-markdown::before, .language-md::before, .language-mkdown::before, .language-mkd::before) {content: " Markdown";background: #ab2e16;}:is(.language-mathematica::before, .language-mma::before, .language-wl::before) {content: " Mathematica";background: #dd1100;}
+.language-matlab::before {content: " Matlab";background: #e16737;}
+.language-maxima::before {content: " Maxima";background: #00838f;}
+.language-mel::before {content: " MEL";background: #ad1457;}:is(.language-mercury::before, .language-m::before, .language-moo::before) {content: " Mercury";background: #006064;}:is(.language-mipsasm::before, .language-mips::before) {content: " MIPS Assembly";background: #3f51b5;}
+.language-mizar::before {content: " Mizar";background: #455a64;}
+.language-mojolicious::before {content: " Mojolicious";background: #1976d2;}
+.language-monkey::before {content: " Monkey";background: #8d6e63;}
+:is(.language-moonscript::before, .language-moon::before) {content: " MoonScript";background: #ffaa00;}
+.language-n1ql::before {content: " N1QL";background: #e53935;}
+:is(.language-nestedtext::before, .language-nt::before) {content: " Nested Text";background: #558b2f;}
+:is(.language-nginx::before, .language-nginxconf::before) {content: " Nginx config";background: #009639;}
+.language-nim::before {content: " Nim";background: #37775b;}
+:is(.language-nix::before, .language-nixos::before) {content: " Nix";background: #5277c3;}
+.language-node-repl::before {content: " Node REPL";background: #2e7d32;}
+.language-nsis::before {content: " NSIS";background: #4e5d6c;}
+.language-obj-c\+\+::before,.language-objective-c\+\+::before,.language-objectivec::before,.language-mm::before,.language-objc::before,.language-obj-c::before {content: " Objective-C";background: #438eff;}
+.language-ocaml::before {content: " OCaml";background: #3be133;}
+:is(.language-openscad::before, .language-scad::before) {content: " OpenSCAD";background: #f57c00;}
+.language-oxygene::before {content: " Oxygene";background: #c2185b;}
+.language-parser3::before {content: " Parser3";background: #283593;}
+:is(.language-perl::before, .language-pl::before, .language-pm::before) {content: " Perl";background: #0298c3;}
+.language-pf\.conf::before,.language-pf::before {content: " Packet Filter config";background: #37474f;}
+:is(.language-pgsql::before, .language-postgres::before, .language-postgresql::before) {content: " PostgreSQL";background: #336791;}
+.language-php::before {content: " Php";background: #6e81b6;}
+.language-php-template::before {content: " PHP template";background: #4f5d84;}
+:is(.language-plaintext::before, .language-text::before, .language-txt::before, [class$="-language-hljs"]::before, [class^="language-"]::before) {content: " Plain Text";background: #616161;}
+.language-pony::before {content: " Pony";background: #1976d2;}
+:is(.language-powershell::before, .language-pwsh::before, .language-ps::before, .language-ps1::before) {content: " PowerShell";background: #012456;}
+:is(.language-processing::before, .language-pde::before) {content: " Processing";background: #006699;}
+.language-prolog::before {content: " Prolog";background: #ef4d25;}
+.language-properties::before {content: " .properties";background: #4e5d6c;}
+:is(.language-protobuf::before, .language-proto::before) {content: " Protocol Buffers";background: #1565c0;}
+:is(.language-puppet::before, .language-pp::before) {content: " Puppet";background: #ff2a00;}
+:is(.language-purebasic::before, .language-pb::before, .language-pbi::before) {content: " PureBASIC";background: #263238;}
+.language-pycon::before {content: " Pycon";background: #1565c0;}
+:is(.language-python::before, .language-py::before, .language-gyp::before, .language-ipython::before) {content: " Python";background: #1622ab;}
+.language-python-repl::before {content: " Python REPL";background: #0e1670;}
+.language-profile::before {content: " Python profiler";background: #2e7d32;}
+:is(.language-q::before, .language-k::before, .language-kdb::before) {content: " Q";background: #00bcd4;}
+:is(.language-qml::before, .language-qt::before) {content: " QML";background: #41cd52;}
+.language-r::before {content: " R";background: #198ce7;}
+:is(.language-reasonml::before, .language-re::before) {content: " ReasonML";background: #ff5847;}
+.language-rib::before {content: " RenderMan RIB";background: #37474f;}
+:is(.language-roboconf::before, .language-graph::before, .language-instances::before) {content: " Roboconf";background: #00838f;}
+:is(.language-routeros::before, .language-mikrotik::before) {content: " RouterOS";background: #1a237e;}
+.language-rsl::before {content: " RenderMan RSL";background: #455a64;}
+:is(.language-ruby::before, .language-rb::before, .language-gemspec::before, .language-podspec::before, .language-thor::before, .language-irb::before) {content: " Ruby";background: #e73e3e;}
+.language-ruleslanguage::before {content: " Oracle Rules Language";background: #ad1457;}
+:is(.language-rust::before, .language-rs::before) {content: " Rust";background: #000;}
+.language-sas::before {content: " SAS";background: #1e88e5;}
+.language-scala::before {content: " Scala";background: #dc322f;}
+:is(.language-scheme::before, .language-scm::before) {content: " Scheme";background: #1e88e5;}
+:is(.language-scilab::before, .language-sci::before) {content: " Scilab";background: #00838f;}
+.language-scss::before {content: " SCSS";background: #c69;}
+:is(.language-shell::before, .language-console::before, .language-shellsession::before) {content: " Shell Session";background: #263238;}
+.language-smali::before {content: " Smali";background: #558b2f;}
+:is(.language-smalltalk::before, .language-st::before) {content: " Smalltalk";background: #596706;}
+.language-sml::before {content: " SML";background: #283593;}
+.language-sqf::before {content: " SQF";background: #283593;}
+.language-sql::before {content: " SQL";background: #4474ca;}
+:is(.language-stan::before, .language-stanfuncs::before) {content: " Stan";background: #b71c1c;}
+:is(.language-stata::before, .language-do::before, .language-ado::before) {content: " Stata";background: #1a237e;}
+:is(.language-step21::before, .language-p21::before, .language-step::before, .language-stp::before) {content: " STEP Part 21";background: #37474f;}
+:is(.language-stylus::before, .language-styl::before) {content: " Stylus";background: #ffb300;}
+.language-subunit::before {content: " SubUnit";background: #455a64;}
+.language-swift::before {content: " Swift";background: #fd7837;}
+.language-taggerscript::before {content: " Tagger Script";background: #4a148c;}
+.language-tap::before {content: " TAP";background: #2e7d32;}
+:is(.language-tcl::before, .language-tk::before) {content: " Tcl";background: #141414;}
+.language-thrift::before {content: " Thrift";background: #00838f;}
+.language-tp::before {content: " TP";background: #3f51b5;}
+:is(.language-twig::before, .language-craftcms::before) {content: " Twig";background: #85ad00;}
+:is(.language-javascript::before, .language-js::before, .language-jsx::before, .language-mjs::before, .language-cjs::before) {content: " JavaScript";background: #165eab;}
+:is(.language-typescript::before, .language-ts::before, .language-tsx::before, .language-cts::before) {content: " TypeScript";background: #03324c;}
+.language-vala::before {content: " Vala";background: #77613e;}
+:is(.language-vbnet::before, .language-vb::before) {content: " Visual Basic .NET";background: #839700;}
+:is(.language-vbscript::before, .language-vbs::before) {content: " VBScript";background: #1565c0;}
+.language-vbscript-html::before {content: " VBScript in HTML";background: #0d47a1;}
+:is(.language-verilog::before, .language-v::before, .language-sv::before, .language-svh::before) {content: " Verilog";background: #008080;}
+.language-vhdl::before {content: " VHDL";background: #543978;}
+.language-vim::before {content: " Vim Script";background: #019833;}
+.language-wasm::before {content: " WebAssembly";background: #654ff0;}
+.language-wren::before {content: " Wren";background: #382d2c;}
+.language-x\+\+::before,.language-axapta::before {content: " X++";background: #002060;}
+.language-x86asm::before {content: " x86 Assembly";background: #4a5d6e;}
+:is(.language-xl::before, .language-tao::before) {content: " eXtensible Language";background: #4872a8;}
+:is(.language-xml::before, .language-html::before, .language-xhtml::before, .language-rss::before, .language-atom::before, .language-xjb::before, .language-xsd::before, .language-xsl::before, .language-plist::before, .language-wsf::before, .language-svg::before) {content: " HTML/XML";background: #8444af;}
+:is(.language-xquery::before, .language-xpath::before, .language-xq::before, .language-xqm::before) {content: " XQuery";background: #1976d2;}
+:is(.language-yaml::before, .language-yml::before) {content: " YAML";background: #cb171e;}
+:is(.language-zephir::before, .language-zep::before) {content: " Zephir";background: #188688;}
+.language-ml::before {content: " OCaml / SML";background: #b35900;}
 
 .emoji-picker .dimmer.visible {background-color: rgba(255,255,255,0.8);height: 270px;bottom: 0;}
 
@@ -2830,7 +2830,7 @@ textarea,.theme-dark .container__2637a,.wrapper_ef3116,.chatContent_f75fb0,.cont
 
 .actionButton_f8fa06,.channelTextArea_f75fb0,.theme-dark .inset_bf1984 {background: transparent;}
 
-.content__908e2 {font-weight: 500;color: white;background: var(--mc) !important;}
+.content__908e2 {font-weight: 500;color: white !important;background: var(--mc) !important;}
 
 .divider__5126c {border-top: thin solid var(--mc) !important;}
 
