@@ -3479,3 +3479,7 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .iconBadgeStyleUnread__9293f {background-color: transparent border: 1px solid var(--hc);}
 
 .popoutContainer__0f481 {border: 2px solid var(--mc);backdrop-filter: none;background-color: var(--QTD);border-radius: 8px;box-shadow: none;}
+
+.rolePopout__75297 {background-color: var(--QTD);border: 2px solid var(--hc);border-radius: 8px;box-shadow: none;}
+
+.rolePopout__75297 .content__91a9d {opacity: 1 !important;}
