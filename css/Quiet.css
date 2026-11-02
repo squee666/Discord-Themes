@@ -3414,7 +3414,7 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 
 .inner__74017 {height: auto;}
 
-.visual-refresh .container__37e49 {height: 46px;}
+.visual-refresh .container__37e49 {height: 44px;}
 
 .overlay_b5b7aa {background: linear-gradient(to top, black 0,color-mix(in oklab, black 70%, transparent) 20.31%, transparent 100%);}
 :is(.container_cec934, .container__60fa3, .select_a16aea, .wrapper__11054, .searchBar__5ec2f) {border: 1px solid var(--hc);}
@@ -3477,3 +3477,5 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
 .iconBadgeBottom__9293f {margin-inline-end: -2px;margin-bottom: 0px;}
 
 .iconBadgeStyleUnread__9293f {background-color: transparent border: 1px solid var(--hc);}
+
+.popoutContainer__0f481 {border: 2px solid var(--mc);backdrop-filter: none;background-color: var(--QTD);border-radius: 8px;box-shadow: none;}
