@@ -3224,11 +3224,8 @@ foreignObject[mask*="mobile"]::before,foreignObject[mask*="mobile"]::after {disp
 :is(.unreadIcon_t1P8Sn, .barText_t1P8Sn) {color: white;}
 :is(.membersGroup_86es0b, .headerContainer_HxSvbL) {justify-content: center;}
 
-.headerContainer_HxSvbL {margin-left: 8px;}
-
 .typing_U9Tvvz {bottom: -6px !important;top: unset !important;font-size: 12px !important;}
 
-.headerContainer_HxSvbL {margin-left: 40px;justify-content: center;}
 
 .fitInAccount__4bbc6 {opacity: 1 !important;}
 
@@ -3485,3 +3482,9 @@ div:is(.sidebarOpen_hbKzX7, .threadSidebarOpen_z_gUBg) .toolbar_ybUK7Z {margin-r
 .rolePopout_ku1OHH .content_J1Adu_ {opacity: 1 !important;}
 
 .wrapper_QQRrAh {background-color: transparent;border: 2px solid var(--mc);}
+
+.headerContainer_HxSvbL > span {width:120px;}
+
+.toggleExpandIcon_HxSvbL {width:10px !important;margin-right:-10px;}
+
+.headerSpacer_HxSvbL {display:none;}
